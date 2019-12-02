@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-02T21:13:23.420Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="QKHU6dx5wuKEEpWoXAhM" version="12.3.4" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2019-12-02T21:14:08.874Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="dk6x5Jm3zpKC1D8XDn2U" version="12.3.4" type="github" pages="4">
   <diagram id="L9lqavDQZu4B61CL-ZXD" name="01 - angular">
     <mxGraphModel dx="678" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -132,7 +132,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5CB-5Yh7NHPRNumuQuIS" name="04 - setup">
-    <mxGraphModel dx="683" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="ZjlOhxwYhdIDgOooGRDA-0"/>
         <mxCell id="ZjlOhxwYhdIDgOooGRDA-1" parent="ZjlOhxwYhdIDgOooGRDA-0"/>
@@ -145,7 +145,7 @@
         <mxCell id="ZjlOhxwYhdIDgOooGRDA-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="ZjlOhxwYhdIDgOooGRDA-1" source="ZjlOhxwYhdIDgOooGRDA-3" target="ZjlOhxwYhdIDgOooGRDA-10">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="ZjlOhxwYhdIDgOooGRDA-3" value="Editor" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;fontStyle=3;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ZjlOhxwYhdIDgOooGRDA-1">
+        <mxCell id="ZjlOhxwYhdIDgOooGRDA-3" value="Editor" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;fontStyle=3;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="ZjlOhxwYhdIDgOooGRDA-1">
           <mxGeometry x="560" y="170" width="60" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="ZjlOhxwYhdIDgOooGRDA-4" value="nodejs.org/en/download" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;align=center;fontStyle=1" vertex="1" parent="ZjlOhxwYhdIDgOooGRDA-1">
@@ -157,13 +157,13 @@
         <mxCell id="ZjlOhxwYhdIDgOooGRDA-6" value="Prettier" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;align=center;fontStyle=1" vertex="1" parent="ZjlOhxwYhdIDgOooGRDA-1">
           <mxGeometry x="680" y="250" width="230" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="ZjlOhxwYhdIDgOooGRDA-7" value="Plugin" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;fontStyle=3;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ZjlOhxwYhdIDgOooGRDA-1">
+        <mxCell id="ZjlOhxwYhdIDgOooGRDA-7" value="Plugin" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;fontStyle=3;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="ZjlOhxwYhdIDgOooGRDA-1">
           <mxGeometry x="620" y="250" width="60" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="ZjlOhxwYhdIDgOooGRDA-9" value="Prettier" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;align=center;fontStyle=1" vertex="1" parent="ZjlOhxwYhdIDgOooGRDA-1">
+        <mxCell id="ZjlOhxwYhdIDgOooGRDA-9" value="Angular Language Service" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;align=center;fontStyle=1" vertex="1" parent="ZjlOhxwYhdIDgOooGRDA-1">
           <mxGeometry x="680" y="320" width="230" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="ZjlOhxwYhdIDgOooGRDA-10" value="Plugin" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;fontStyle=3;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ZjlOhxwYhdIDgOooGRDA-1">
+        <mxCell id="ZjlOhxwYhdIDgOooGRDA-10" value="Plugin" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;fontStyle=3;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="ZjlOhxwYhdIDgOooGRDA-1">
           <mxGeometry x="620" y="320" width="60" height="60" as="geometry"/>
         </mxCell>
       </root>
