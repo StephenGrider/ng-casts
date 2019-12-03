@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-03T16:38:36.817Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="CVETc11EpOSv6Wju0zr2" version="12.3.6" type="github" pages="5">
+<mxfile host="www.draw.io" modified="2019-12-03T16:50:41.349Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="QJ18rb8S8ZwkUEfAe2C9" version="12.3.6" type="github" pages="4">
   <diagram id="L9lqavDQZu4B61CL-ZXD" name="01 - angular">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -92,41 +92,6 @@
         </mxCell>
         <mxCell id="9Tt9gASQkMqOSwC1kG2E-48" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" parent="9Tt9gASQkMqOSwC1kG2E-0" vertex="1">
           <mxGeometry x="524" y="280" width="20" height="30" as="geometry"/>
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="Fh3Vk3EF4nQnqaXyr2L4" name="03 - function">
-    <mxGraphModel dx="1494" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
-      <root>
-        <mxCell id="yrygH_KevMfSsZhhqwTh-0"/>
-        <mxCell id="yrygH_KevMfSsZhhqwTh-1" parent="yrygH_KevMfSsZhhqwTh-0"/>
-        <mxCell id="yrygH_KevMfSsZhhqwTh-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;" parent="yrygH_KevMfSsZhhqwTh-1" source="yrygH_KevMfSsZhhqwTh-2" target="yrygH_KevMfSsZhhqwTh-3" edge="1">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="yrygH_KevMfSsZhhqwTh-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;" parent="yrygH_KevMfSsZhhqwTh-1" source="yrygH_KevMfSsZhhqwTh-2" target="yrygH_KevMfSsZhhqwTh-4" edge="1">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="yrygH_KevMfSsZhhqwTh-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;" parent="yrygH_KevMfSsZhhqwTh-1" source="yrygH_KevMfSsZhhqwTh-2" target="yrygH_KevMfSsZhhqwTh-5" edge="1">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="yrygH_KevMfSsZhhqwTh-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;" parent="yrygH_KevMfSsZhhqwTh-1" source="yrygH_KevMfSsZhhqwTh-2" target="yrygH_KevMfSsZhhqwTh-6" edge="1">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="yrygH_KevMfSsZhhqwTh-2" value="Airbnb App" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" parent="yrygH_KevMfSsZhhqwTh-1" vertex="1">
-          <mxGeometry x="633" y="90" width="200" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="yrygH_KevMfSsZhhqwTh-3" value="Authentication &lt;br&gt;&lt;i&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;(sign up, sign in)&lt;/font&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;" parent="yrygH_KevMfSsZhhqwTh-1" vertex="1">
-          <mxGeometry x="400" y="180" width="160" height="50" as="geometry"/>
-        </mxCell>
-        <mxCell id="yrygH_KevMfSsZhhqwTh-4" value="Experiences" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;" parent="yrygH_KevMfSsZhhqwTh-1" vertex="1">
-          <mxGeometry x="570" y="180" width="160" height="50" as="geometry"/>
-        </mxCell>
-        <mxCell id="yrygH_KevMfSsZhhqwTh-5" value="Housing" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;" parent="yrygH_KevMfSsZhhqwTh-1" vertex="1">
-          <mxGeometry x="740" y="180" width="160" height="50" as="geometry"/>
-        </mxCell>
-        <mxCell id="yrygH_KevMfSsZhhqwTh-6" value="Help" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;" parent="yrygH_KevMfSsZhhqwTh-1" vertex="1">
-          <mxGeometry x="910" y="180" width="160" height="50" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
