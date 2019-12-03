@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-03T20:49:29.887Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="LY1iJYHGZZdyLkNJjiW2" version="12.3.6" type="github" pages="5">
+<mxfile host="www.draw.io" modified="2019-12-03T20:51:27.519Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="FUxG221zMf3MtTgeFFn8" version="12.3.6" type="github" pages="6">
   <diagram id="L9lqavDQZu4B61CL-ZXD" name="01 - angular">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -206,6 +206,26 @@
         </mxCell>
         <mxCell id="SLDpANppF3_qbwMD2_IO-6" value="¿Cómo estás?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="SLDpANppF3_qbwMD2_IO-0">
           <mxGeometry x="20" y="240" width="170" height="20" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="L2lNQxgeeBE4xXGNXT-z" name="07 - notes">
+    <mxGraphModel dx="665" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="3Ho5yG5OY6Sqpq4aKWqv-0"/>
+        <mxCell id="3Ho5yG5OY6Sqpq4aKWqv-1" parent="3Ho5yG5OY6Sqpq4aKWqv-0"/>
+        <mxCell id="3Ho5yG5OY6Sqpq4aKWqv-2" value="codesandbox.io/s/ng-translator-b6033" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=center;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="3Ho5yG5OY6Sqpq4aKWqv-1">
+          <mxGeometry x="480" y="230" width="400" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="3Ho5yG5OY6Sqpq4aKWqv-3" value="stackblitz.com/edit/ng-translator" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=center;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="3Ho5yG5OY6Sqpq4aKWqv-1">
+          <mxGeometry x="480" y="340" width="400" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="3Ho5yG5OY6Sqpq4aKWqv-4" value="or" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="3Ho5yG5OY6Sqpq4aKWqv-1">
+          <mxGeometry x="660" y="305" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="3Ho5yG5OY6Sqpq4aKWqv-5" value="This is the only app that we are going to use an online IDE for - everything else in this course will be written on your own machine!" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=3" vertex="1" parent="3Ho5yG5OY6Sqpq4aKWqv-1">
+          <mxGeometry x="530" y="450" width="310" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
