@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-03T20:51:27.519Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="FUxG221zMf3MtTgeFFn8" version="12.3.6" type="github" pages="6">
+<mxfile host="www.draw.io" modified="2019-12-03T20:52:27.770Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="rWuWLbbw9b0p9fKSTQ64" version="12.3.6" type="github" pages="6">
   <diagram id="L9lqavDQZu4B61CL-ZXD" name="01 - angular">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -211,7 +211,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="L2lNQxgeeBE4xXGNXT-z" name="07 - notes">
-    <mxGraphModel dx="665" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="3Ho5yG5OY6Sqpq4aKWqv-0"/>
         <mxCell id="3Ho5yG5OY6Sqpq4aKWqv-1" parent="3Ho5yG5OY6Sqpq4aKWqv-0"/>
@@ -226,6 +226,12 @@
         </mxCell>
         <mxCell id="3Ho5yG5OY6Sqpq4aKWqv-5" value="This is the only app that we are going to use an online IDE for - everything else in this course will be written on your own machine!" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=3" vertex="1" parent="3Ho5yG5OY6Sqpq4aKWqv-1">
           <mxGeometry x="530" y="450" width="310" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="3Ho5yG5OY6Sqpq4aKWqv-6" value="&lt;i style=&quot;font-size: 12px;&quot;&gt;Recommended&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="3Ho5yG5OY6Sqpq4aKWqv-1">
+          <mxGeometry x="910" y="250" width="90" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="3Ho5yG5OY6Sqpq4aKWqv-7" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontSize=18;align=center;rotation=-180;" vertex="1" parent="3Ho5yG5OY6Sqpq4aKWqv-1">
+          <mxGeometry x="890" y="230" width="20" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
