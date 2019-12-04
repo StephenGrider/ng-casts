@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-04T18:43:04.218Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="9Ohu-_ijq6mHVOvVnTwZ" version="12.3.6" type="github" pages="6">
+<mxfile host="www.draw.io" modified="2019-12-04T18:45:00.087Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="VWwHaRBLnqwozhH8gLKA" version="12.3.6" type="github" pages="7">
   <diagram id="L9lqavDQZu4B61CL-ZXD" name="01 - angular">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -177,6 +177,26 @@
         <mxCell id="75DIos6F1dPTHLw7v8qD-1" parent="75DIos6F1dPTHLw7v8qD-0"/>
         <mxCell id="75DIos6F1dPTHLw7v8qD-2" value="If you get an error when running this command and you&#39;re on a MacOS or Linux system, check the text note in the next lecture" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="75DIos6F1dPTHLw7v8qD-1">
           <mxGeometry x="510" y="170" width="460" height="120" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="GF81Bfu39Zm7Mg-OVY6B" name="07 - write">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="ZMe83ilb5GjZ2nILOn1o-0"/>
+        <mxCell id="ZMe83ilb5GjZ2nILOn1o-1" parent="ZMe83ilb5GjZ2nILOn1o-0"/>
+        <mxCell id="ZMe83ilb5GjZ2nILOn1o-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=21;" edge="1" parent="ZMe83ilb5GjZ2nILOn1o-1" source="ZMe83ilb5GjZ2nILOn1o-2" target="ZMe83ilb5GjZ2nILOn1o-3">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZMe83ilb5GjZ2nILOn1o-2" value="Best way to learn Angular...." style="rounded=0;whiteSpace=wrap;html=1;fontSize=27;align=center;shadow=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="ZMe83ilb5GjZ2nILOn1o-1">
+          <mxGeometry x="480" y="210" width="350" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZMe83ilb5GjZ2nILOn1o-3" value="...is to use Angular!" style="rounded=0;whiteSpace=wrap;html=1;fontSize=27;align=center;shadow=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ZMe83ilb5GjZ2nILOn1o-1">
+          <mxGeometry x="480" y="330" width="350" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZMe83ilb5GjZ2nILOn1o-5" value="Let&#39;s build a little Angular app right now!" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontSize=27;fontStyle=1" vertex="1" parent="ZMe83ilb5GjZ2nILOn1o-1">
+          <mxGeometry x="505" y="460" width="300" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
