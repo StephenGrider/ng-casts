@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-09T18:16:12.835Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="ZOsOxUlKbBAA8sm2BEPr" version="12.3.6" type="github" pages="11">
+<mxfile host="www.draw.io" modified="2019-12-09T18:17:31.556Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="cZJcQYJx0B7QZVSTgt9b" version="12.3.6" type="github" pages="12">
   <diagram id="L9lqavDQZu4B61CL-ZXD" name="01 - angular">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -536,6 +536,23 @@
         </mxCell>
         <mxCell id="rucbkE6Vl0eZtNZhLmRG-0" value="A single app usually has multiple modules, one for each major feature" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontSize=21;fontStyle=3" vertex="1" parent="TE9Pn5N_DSyEA5e_WHTT-1">
           <mxGeometry x="710" y="140" width="380" height="30" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="12 - q" id="LJb8RI3GUnsrvSbZ9Mwk">
+    <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="_zH0R83c3z1HjRbfl55r-0"/>
+        <mxCell id="_zH0R83c3z1HjRbfl55r-1" parent="_zH0R83c3z1HjRbfl55r-0"/>
+        <mxCell id="_zH0R83c3z1HjRbfl55r-2" value="What&#39;s with all the weird syntax?" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=21;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=2" vertex="1" parent="_zH0R83c3z1HjRbfl55r-1">
+          <mxGeometry x="230" y="140" width="420" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="8ZxnuXfKmkhbaxlILPof-0" value="Code is written with &lt;i&gt;Typescript&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=21;align=center;" vertex="1" parent="_zH0R83c3z1HjRbfl55r-1">
+          <mxGeometry x="420" y="250" width="600" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="8ZxnuXfKmkhbaxlILPof-1" value="Templates are written with &lt;i&gt;Angular template syntax&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=21;align=center;" vertex="1" parent="_zH0R83c3z1HjRbfl55r-1">
+          <mxGeometry x="420" y="330" width="600" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
