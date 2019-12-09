@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-09T18:41:29.347Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="LvMtsFzB_9TX8BMOzEPx" version="12.3.6" type="github" pages="14">
+<mxfile host="www.draw.io" modified="2019-12-09T18:47:33.726Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="bVIOp2nqF9ScDc161995" version="12.3.6" type="github" pages="14">
   <diagram id="L9lqavDQZu4B61CL-ZXD" name="01 - angular">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -350,7 +350,7 @@
             <mxPoint x="1140" y="419" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3mbnUNS7ACF32GQ4g-XX-17" value="Contains the HTML that we want to show to a user.&amp;nbsp; Also maps user-generated events to code written in a component class" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontSize=17;fontStyle=0" vertex="1" parent="XeiOsP3lR7xkkunlaOH9-1">
+        <mxCell id="3mbnUNS7ACF32GQ4g-XX-17" value="Contains the HTML that gets displayed to a user" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontSize=17;fontStyle=0" vertex="1" parent="XeiOsP3lR7xkkunlaOH9-1">
           <mxGeometry x="735" y="284" width="380" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="3mbnUNS7ACF32GQ4g-XX-18" value="translate.service.ts" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=16;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="XeiOsP3lR7xkkunlaOH9-1">
