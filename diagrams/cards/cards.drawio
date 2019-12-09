@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-09T18:17:31.556Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="cZJcQYJx0B7QZVSTgt9b" version="12.3.6" type="github" pages="12">
+<mxfile host="www.draw.io" modified="2019-12-09T18:22:24.227Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="bnOdFKatmiDfC38-GngX" version="12.3.6" type="github" pages="13">
   <diagram id="L9lqavDQZu4B61CL-ZXD" name="01 - angular">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -202,7 +202,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="O1yFQKAaHu3Q3BSn9Vze" name="06 - cards">
-    <mxGraphModel dx="892" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="XIP4yVRSh4DmJjhSghhf-0"/>
         <mxCell id="XIP4yVRSh4DmJjhSghhf-1" parent="XIP4yVRSh4DmJjhSghhf-0"/>
@@ -231,7 +231,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="L2lNQxgeeBE4xXGNXT-z" name="07 - notes">
-    <mxGraphModel dx="669" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="3Ho5yG5OY6Sqpq4aKWqv-0"/>
         <mxCell id="3Ho5yG5OY6Sqpq4aKWqv-1" parent="3Ho5yG5OY6Sqpq4aKWqv-0"/>
@@ -536,6 +536,67 @@
         </mxCell>
         <mxCell id="rucbkE6Vl0eZtNZhLmRG-0" value="A single app usually has multiple modules, one for each major feature" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontSize=21;fontStyle=3" vertex="1" parent="TE9Pn5N_DSyEA5e_WHTT-1">
           <mxGeometry x="710" y="140" width="380" height="30" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="zrvF1NhDCo0YATXp7nAR" name="13 - q">
+    <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="GVkLVSS98HMfzELz_oo_-0"/>
+        <mxCell id="GVkLVSS98HMfzELz_oo_-1" parent="GVkLVSS98HMfzELz_oo_-0"/>
+        <mxCell id="ryIHdDigQntDrU68bdZh-4" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=27;align=center;" vertex="1" parent="GVkLVSS98HMfzELz_oo_-1">
+          <mxGeometry x="240" y="245.5" width="260" height="160" as="geometry"/>
+        </mxCell>
+        <mxCell id="3u3HtotHTehYsJZ5QyQd-0" value="...How do each of those file types match up to the app we just built?" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=19;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=2" vertex="1" parent="GVkLVSS98HMfzELz_oo_-1">
+          <mxGeometry x="160" y="100" width="420" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="ryIHdDigQntDrU68bdZh-0" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;Enter English to Translate&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="GVkLVSS98HMfzELz_oo_-1">
+          <mxGeometry x="250" y="255.5" width="270" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="ryIHdDigQntDrU68bdZh-1" value="How are you?" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;align=left;" vertex="1" parent="GVkLVSS98HMfzELz_oo_-1">
+          <mxGeometry x="252" y="285.5" width="150" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="ryIHdDigQntDrU68bdZh-2" value="Translate" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=center;" vertex="1" parent="GVkLVSS98HMfzELz_oo_-1">
+          <mxGeometry x="252" y="315.5" width="90" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="ryIHdDigQntDrU68bdZh-3" value="¿Cómo estás?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="GVkLVSS98HMfzELz_oo_-1">
+          <mxGeometry x="252" y="365.5" width="170" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="ryIHdDigQntDrU68bdZh-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=19;" edge="1" parent="GVkLVSS98HMfzELz_oo_-1" source="ryIHdDigQntDrU68bdZh-5" target="ryIHdDigQntDrU68bdZh-8">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="ryIHdDigQntDrU68bdZh-5" value="Component Template" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=19;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="GVkLVSS98HMfzELz_oo_-1">
+          <mxGeometry x="590" y="215" width="200" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ryIHdDigQntDrU68bdZh-8" value="Component Class" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=19;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="GVkLVSS98HMfzELz_oo_-1">
+          <mxGeometry x="590" y="305" width="200" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ryIHdDigQntDrU68bdZh-9" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;shadow=1;fontSize=21;align=center;rotation=-180;" vertex="1" parent="GVkLVSS98HMfzELz_oo_-1">
+          <mxGeometry x="800" y="215" width="30" height="65" as="geometry"/>
+        </mxCell>
+        <mxCell id="ryIHdDigQntDrU68bdZh-10" value="&lt;i&gt;Contained the HTML we wanted to show to the user, mapped what happened when a user clicked &#39;translate&#39; to the component class&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="GVkLVSS98HMfzELz_oo_-1">
+          <mxGeometry x="830" y="238" width="270" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="ryIHdDigQntDrU68bdZh-11" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;shadow=1;fontSize=21;align=center;rotation=-180;" vertex="1" parent="GVkLVSS98HMfzELz_oo_-1">
+          <mxGeometry x="800" y="302.5" width="30" height="65" as="geometry"/>
+        </mxCell>
+        <mxCell id="ryIHdDigQntDrU68bdZh-12" value="&lt;i&gt;Contained code to describe what to do when a user clicked the &#39;translate&#39; button&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="GVkLVSS98HMfzELz_oo_-1">
+          <mxGeometry x="830" y="325.5" width="230" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="ryIHdDigQntDrU68bdZh-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=19;" edge="1" parent="GVkLVSS98HMfzELz_oo_-1" target="ryIHdDigQntDrU68bdZh-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="364.83333333333337" as="sourcePoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ryIHdDigQntDrU68bdZh-15" value="Service" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=19;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="GVkLVSS98HMfzELz_oo_-1">
+          <mxGeometry x="590" y="394.5" width="200" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ryIHdDigQntDrU68bdZh-16" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;shadow=1;fontSize=21;align=center;rotation=-180;" vertex="1" parent="GVkLVSS98HMfzELz_oo_-1">
+          <mxGeometry x="800" y="392" width="30" height="65" as="geometry"/>
+        </mxCell>
+        <mxCell id="ryIHdDigQntDrU68bdZh-17" value="&lt;i&gt;Took the English text, translated it into Spanish, then provided the result back to the component class&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="GVkLVSS98HMfzELz_oo_-1">
+          <mxGeometry x="830" y="415" width="270" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
