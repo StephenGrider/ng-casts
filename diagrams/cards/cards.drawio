@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-09T18:24:07.136Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="BdktEJDQ23GEObdRC-xL" version="12.3.6" type="github" pages="14">
+<mxfile host="www.draw.io" modified="2019-12-09T18:27:09.928Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="urGTlSOZKfVbd0mRYfc2" version="12.3.6" type="github" pages="14">
   <diagram id="L9lqavDQZu4B61CL-ZXD" name="01 - angular">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -628,6 +628,30 @@
         </mxCell>
         <mxCell id="lgAj-sZObpeNhUOCabNl-5" value="There is a very tight coupling between a component class and a component template" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontSize=19;fontStyle=3" vertex="1" parent="lgAj-sZObpeNhUOCabNl-1">
           <mxGeometry x="720" y="155" width="420" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="wknqc0k-W8J33HU9Dmll-0" value="&lt;b&gt;AppComponent&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=19;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="lgAj-sZObpeNhUOCabNl-1">
+          <mxGeometry x="335" y="270" width="210" height="220" as="geometry"/>
+        </mxCell>
+        <mxCell id="wknqc0k-W8J33HU9Dmll-1" value="text" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=19;align=center;" vertex="1" parent="lgAj-sZObpeNhUOCabNl-1">
+          <mxGeometry x="355" y="320" width="170" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="wknqc0k-W8J33HU9Dmll-2" value="translatedText" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=19;align=center;" vertex="1" parent="lgAj-sZObpeNhUOCabNl-1">
+          <mxGeometry x="355" y="370" width="170" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="wknqc0k-W8J33HU9Dmll-3" value="submit()" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=19;align=center;" vertex="1" parent="lgAj-sZObpeNhUOCabNl-1">
+          <mxGeometry x="355" y="420" width="170" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="wknqc0k-W8J33HU9Dmll-4" value="&lt;b&gt;App Template&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=19;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="lgAj-sZObpeNhUOCabNl-1">
+          <mxGeometry x="700" y="270" width="430" height="220" as="geometry"/>
+        </mxCell>
+        <mxCell id="wknqc0k-W8J33HU9Dmll-5" value="{{&amp;nbsp; translatedText&amp;nbsp; }}" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=19;align=center;" vertex="1" parent="lgAj-sZObpeNhUOCabNl-1">
+          <mxGeometry x="720" y="320" width="390" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="wknqc0k-W8J33HU9Dmll-6" value="&amp;lt;input (input)=&quot;text = $event.target.value&quot; /&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=14;align=center;" vertex="1" parent="lgAj-sZObpeNhUOCabNl-1">
+          <mxGeometry x="720" y="370" width="390" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="wknqc0k-W8J33HU9Dmll-7" value="&amp;lt;button (click)=&quot;submit()&quot;&amp;gt;Translate!&amp;lt;/button&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=14;align=center;" vertex="1" parent="lgAj-sZObpeNhUOCabNl-1">
+          <mxGeometry x="720" y="420" width="390" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
