@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-04T18:45:00.087Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="VWwHaRBLnqwozhH8gLKA" version="12.3.6" type="github" pages="7">
+<mxfile host="www.draw.io" modified="2019-12-09T17:22:42.851Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="M5B7VIbzK94JObgM4qvc" version="12.3.6" type="github" pages="8">
   <diagram id="L9lqavDQZu4B61CL-ZXD" name="01 - angular">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -247,6 +247,14 @@
         <mxCell id="H9FwStsQX_mLMSB-r7s_-0" value="Online IDE to write this app" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=0" vertex="1" parent="3Ho5yG5OY6Sqpq4aKWqv-1">
           <mxGeometry x="520" y="210" width="310" height="20" as="geometry"/>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="4CMGXtp6psTtBD-WUTE_" name="08 - q">
+    <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="aws-3VP47UtKzt_lLyOU-0"/>
+        <mxCell id="aws-3VP47UtKzt_lLyOU-1" parent="aws-3VP47UtKzt_lLyOU-0"/>
       </root>
     </mxGraphModel>
   </diagram>
