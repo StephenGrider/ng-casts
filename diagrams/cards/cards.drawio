@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-09T18:15:28.976Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="71kz4-Be-OWFu6ajDvUA" version="12.3.6" type="github" pages="11">
+<mxfile host="www.draw.io" modified="2019-12-09T18:16:12.835Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="ZOsOxUlKbBAA8sm2BEPr" version="12.3.6" type="github" pages="11">
   <diagram id="L9lqavDQZu4B61CL-ZXD" name="01 - angular">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -259,22 +259,28 @@
           <mxGeometry x="230" y="140" width="400" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="ambns3x3oSv8O-ZBqvsM-1" value="Angular is for making &lt;i&gt;dynamic&lt;/i&gt;&amp;nbsp;single page applications" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=21;align=center;" vertex="1" parent="aws-3VP47UtKzt_lLyOU-1">
-          <mxGeometry x="410" y="260" width="600" height="60" as="geometry"/>
+          <mxGeometry x="440" y="240" width="600" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="ambns3x3oSv8O-ZBqvsM-2" value="Angular is for &lt;i&gt;large teams&lt;/i&gt;&amp;nbsp;working on &lt;i&gt;large apps&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=21;align=center;" vertex="1" parent="aws-3VP47UtKzt_lLyOU-1">
-          <mxGeometry x="410" y="340" width="600" height="60" as="geometry"/>
+          <mxGeometry x="440" y="480" width="600" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="BBoCiVMZCxhtsE664yzI-0" value="1" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=27;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="aws-3VP47UtKzt_lLyOU-1">
-          <mxGeometry x="350" y="260" width="60" height="60" as="geometry"/>
+          <mxGeometry x="380" y="240" width="60" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="BBoCiVMZCxhtsE664yzI-1" value="2" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=27;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="aws-3VP47UtKzt_lLyOU-1">
-          <mxGeometry x="350" y="340" width="60" height="60" as="geometry"/>
+        <mxCell id="BBoCiVMZCxhtsE664yzI-1" value="4" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=27;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="aws-3VP47UtKzt_lLyOU-1">
+          <mxGeometry x="380" y="480" width="60" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="BBoCiVMZCxhtsE664yzI-2" value="Angular apps try to have a consistent structure" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=21;align=center;" vertex="1" parent="aws-3VP47UtKzt_lLyOU-1">
-          <mxGeometry x="410" y="420" width="600" height="60" as="geometry"/>
+          <mxGeometry x="440" y="400" width="600" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="BBoCiVMZCxhtsE664yzI-3" value="3" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=27;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="aws-3VP47UtKzt_lLyOU-1">
-          <mxGeometry x="350" y="420" width="60" height="60" as="geometry"/>
+          <mxGeometry x="380" y="400" width="60" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="BBoCiVMZCxhtsE664yzI-4" value="Angular is a full-featured framework" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=21;align=center;" vertex="1" parent="aws-3VP47UtKzt_lLyOU-1">
+          <mxGeometry x="440" y="320" width="600" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="BBoCiVMZCxhtsE664yzI-5" value="2" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=27;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="aws-3VP47UtKzt_lLyOU-1">
+          <mxGeometry x="380" y="320" width="60" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
