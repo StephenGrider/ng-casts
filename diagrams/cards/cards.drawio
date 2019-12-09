@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-09T17:22:42.851Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="M5B7VIbzK94JObgM4qvc" version="12.3.6" type="github" pages="8">
+<mxfile host="www.draw.io" modified="2019-12-09T17:37:25.029Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="8_3y5r8urE7SCpuyvotW" version="12.3.6" type="github" pages="8">
   <diagram id="L9lqavDQZu4B61CL-ZXD" name="01 - angular">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -255,6 +255,18 @@
       <root>
         <mxCell id="aws-3VP47UtKzt_lLyOU-0"/>
         <mxCell id="aws-3VP47UtKzt_lLyOU-1" parent="aws-3VP47UtKzt_lLyOU-0"/>
+        <mxCell id="ambns3x3oSv8O-ZBqvsM-0" value="...So what&#39;s Angular all about?" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=21;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=2" vertex="1" parent="aws-3VP47UtKzt_lLyOU-1">
+          <mxGeometry x="230" y="140" width="400" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="ambns3x3oSv8O-ZBqvsM-1" value="Angular is for making &lt;i&gt;dynamic&lt;/i&gt;&amp;nbsp;single page applications" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=21;align=center;" vertex="1" parent="aws-3VP47UtKzt_lLyOU-1">
+          <mxGeometry x="410" y="260" width="600" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ambns3x3oSv8O-ZBqvsM-2" value="Angular is for &lt;i&gt;large teams&lt;/i&gt;&amp;nbsp;working on &lt;i&gt;large apps&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=21;align=center;" vertex="1" parent="aws-3VP47UtKzt_lLyOU-1">
+          <mxGeometry x="410" y="330" width="600" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ambns3x3oSv8O-ZBqvsM-3" value="Angular is for &lt;i&gt;large teams&lt;/i&gt;&amp;nbsp;working on &lt;i&gt;large apps&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=21;align=center;" vertex="1" parent="aws-3VP47UtKzt_lLyOU-1">
+          <mxGeometry x="410" y="400" width="600" height="60" as="geometry"/>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
