@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-10T18:59:27.768Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="d6Z2x-rW5lPWrj1eEdYz" version="12.3.9" type="github" pages="7">
+<mxfile host="www.draw.io" modified="2019-12-10T19:02:46.148Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="CjY-x6RXnHJabbe_9fFb" version="12.3.9" type="github" pages="8">
   <diagram id="wNm0hHR1j8DfDaz-g-fx" name="01 - mockup">
     <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -152,6 +152,62 @@
         </mxCell>
         <mxCell id="gVYkmphiJN-5dQv8ovjq-7" value="&lt;b&gt;or&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=19;" vertex="1" parent="gVYkmphiJN-5dQv8ovjq-1">
           <mxGeometry x="675" y="280" width="40" height="20" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="HFtEEiQaUkdp_tGvUGhK" name="08 - html">
+    <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="ep7cT4W1IJBfOBTpqcyn-0"/>
+        <mxCell id="ep7cT4W1IJBfOBTpqcyn-1" parent="ep7cT4W1IJBfOBTpqcyn-0"/>
+        <mxCell id="AwLs0JPh77SKtMwZMmtD-0" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;fontSize=19;" vertex="1" parent="ep7cT4W1IJBfOBTpqcyn-1">
+          <mxGeometry x="340" y="240" width="300" height="420" as="geometry"/>
+        </mxCell>
+        <mxCell id="AwLs0JPh77SKtMwZMmtD-1" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="AwLs0JPh77SKtMwZMmtD-0">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="AwLs0JPh77SKtMwZMmtD-2" value="localhost:4200" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="AwLs0JPh77SKtMwZMmtD-0">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="AwLs0JPh77SKtMwZMmtD-3" value="Angular Development Server" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=25;align=center;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ep7cT4W1IJBfOBTpqcyn-1">
+          <mxGeometry x="940" y="300" width="210" height="322" as="geometry"/>
+        </mxCell>
+        <mxCell id="AwLs0JPh77SKtMwZMmtD-4" value="" style="endArrow=classic;html=1;fontSize=25;" edge="1" parent="ep7cT4W1IJBfOBTpqcyn-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="330" as="sourcePoint"/>
+            <mxPoint x="940" y="330" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AwLs0JPh77SKtMwZMmtD-5" value="Hi!&amp;nbsp; I&#39;m trying to access localhost:4200" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=14;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="ep7cT4W1IJBfOBTpqcyn-1">
+          <mxGeometry x="700" y="290" width="180" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="AwLs0JPh77SKtMwZMmtD-6" value="" style="endArrow=classic;html=1;fontSize=25;" edge="1" parent="ep7cT4W1IJBfOBTpqcyn-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="940" y="360" as="sourcePoint"/>
+            <mxPoint x="640" y="360" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AwLs0JPh77SKtMwZMmtD-7" value="Welome!&amp;nbsp; Let&#39;s start you off with the index.html file" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=14;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="ep7cT4W1IJBfOBTpqcyn-1">
+          <mxGeometry x="700" y="360" width="180" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="AwLs0JPh77SKtMwZMmtD-8" value="" style="endArrow=classic;html=1;fontSize=25;" edge="1" parent="ep7cT4W1IJBfOBTpqcyn-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="540" as="sourcePoint"/>
+            <mxPoint x="940" y="540" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AwLs0JPh77SKtMwZMmtD-9" value="Ah, I see there are some script tags in here, can you give me the relevant scripts?" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="ep7cT4W1IJBfOBTpqcyn-1">
+          <mxGeometry x="700" y="490" width="180" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="AwLs0JPh77SKtMwZMmtD-10" value="" style="endArrow=classic;html=1;fontSize=25;" edge="1" parent="ep7cT4W1IJBfOBTpqcyn-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="940" y="560" as="sourcePoint"/>
+            <mxPoint x="640" y="560" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AwLs0JPh77SKtMwZMmtD-11" value="Sure thing!&amp;nbsp; Here are all the scripts needed to make the Angular app work" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="ep7cT4W1IJBfOBTpqcyn-1">
+          <mxGeometry x="700" y="560" width="180" height="50" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
