@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-10T18:59:09.994Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="JrClvlQEc8GP0Ujh5tr5" version="12.3.9" type="github" pages="7">
+<mxfile host="www.draw.io" modified="2019-12-10T18:59:27.768Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="d6Z2x-rW5lPWrj1eEdYz" version="12.3.9" type="github" pages="7">
   <diagram id="wNm0hHR1j8DfDaz-g-fx" name="01 - mockup">
     <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -132,6 +132,26 @@
         </mxCell>
         <mxCell id="Mxy4JPP_Kkv1bhCZnXia-6" value="Control C" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=30;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="Mxy4JPP_Kkv1bhCZnXia-1">
           <mxGeometry x="535" y="230" width="400" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="KqGIJZHdIQAOTu1IRHXe" name="07 - methods">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="gVYkmphiJN-5dQv8ovjq-0"/>
+        <mxCell id="gVYkmphiJN-5dQv8ovjq-1" parent="gVYkmphiJN-5dQv8ovjq-0"/>
+        <mxCell id="gVYkmphiJN-5dQv8ovjq-2" value="Add a traditional &#39;link&#39; tag to our HTML file" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=19;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="gVYkmphiJN-5dQv8ovjq-1">
+          <mxGeometry x="495" y="200" width="400" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="gVYkmphiJN-5dQv8ovjq-3" value="Adding Outside CSS to an Angular Project" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=19;fontStyle=1" vertex="1" parent="gVYkmphiJN-5dQv8ovjq-1">
+          <mxGeometry x="560" y="140" width="270" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="gVYkmphiJN-5dQv8ovjq-5" value="Install the CSS as an NPM module, then &#39;import&#39; it into our project" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=19;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="gVYkmphiJN-5dQv8ovjq-1">
+          <mxGeometry x="495" y="310" width="400" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="gVYkmphiJN-5dQv8ovjq-7" value="&lt;b&gt;or&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=19;" vertex="1" parent="gVYkmphiJN-5dQv8ovjq-1">
+          <mxGeometry x="675" y="280" width="40" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
@@ -284,26 +304,6 @@
         </mxCell>
         <mxCell id="irJxC72UDlnh7sxN9Xpk-23" value="content" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=11;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="irJxC72UDlnh7sxN9Xpk-1">
           <mxGeometry x="950" y="419" width="110" height="30" as="geometry"/>
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="KqGIJZHdIQAOTu1IRHXe" name="07 - methods">
-    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
-      <root>
-        <mxCell id="gVYkmphiJN-5dQv8ovjq-0"/>
-        <mxCell id="gVYkmphiJN-5dQv8ovjq-1" parent="gVYkmphiJN-5dQv8ovjq-0"/>
-        <mxCell id="gVYkmphiJN-5dQv8ovjq-2" value="Add a traditional &#39;link&#39; tag to our HTML file" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=19;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="gVYkmphiJN-5dQv8ovjq-1">
-          <mxGeometry x="495" y="200" width="400" height="70" as="geometry"/>
-        </mxCell>
-        <mxCell id="gVYkmphiJN-5dQv8ovjq-3" value="Adding Outside CSS to an Angular Project" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=19;fontStyle=1" vertex="1" parent="gVYkmphiJN-5dQv8ovjq-1">
-          <mxGeometry x="560" y="140" width="270" height="50" as="geometry"/>
-        </mxCell>
-        <mxCell id="gVYkmphiJN-5dQv8ovjq-5" value="Install the CSS as an NPM module, then &#39;import&#39; it into our project" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=19;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="gVYkmphiJN-5dQv8ovjq-1">
-          <mxGeometry x="495" y="310" width="400" height="70" as="geometry"/>
-        </mxCell>
-        <mxCell id="gVYkmphiJN-5dQv8ovjq-7" value="&lt;b&gt;or&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=19;" vertex="1" parent="gVYkmphiJN-5dQv8ovjq-1">
-          <mxGeometry x="675" y="280" width="40" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
