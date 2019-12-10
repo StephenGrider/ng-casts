@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-10T21:49:04.779Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="kHQTNr8dUJg66TBV1hPr" version="12.3.9" type="github" pages="14">
+<mxfile host="www.draw.io" modified="2019-12-10T21:49:30.228Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="Pbd0cCu39ZM7G0Wf1Wa5" version="12.3.9" type="github" pages="14">
   <diagram id="wNm0hHR1j8DfDaz-g-fx" name="01 - mockup">
     <mxGraphModel dx="893" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -335,16 +335,16 @@
           <mxGeometry x="460" y="310" width="440" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="-K9gedjwKWyqqD3DGX9I-3" value="Each component has its own Component Class, Component Template, and Component CSS File" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=14;align=center;" vertex="1" parent="GjF4UAg_ujHjQLzV3iAs-1">
-          <mxGeometry x="460" y="410" width="440" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="-K9gedjwKWyqqD3DGX9I-4" value="Components can be &lt;i&gt;nested, &lt;/i&gt;or shown inside of each other" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=14;align=center;" vertex="1" parent="GjF4UAg_ujHjQLzV3iAs-1">
-          <mxGeometry x="460" y="460" width="440" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="-K9gedjwKWyqqD3DGX9I-5" value="Every app has a component called the &#39;App&#39; component, and it is always the most parent component" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=14;align=center;" vertex="1" parent="GjF4UAg_ujHjQLzV3iAs-1">
           <mxGeometry x="460" y="510" width="440" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="kW51BH7HEkeHVCUgNTlv-0" value="Components are the #1 way to get code reuse in an Angular app" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=14;align=center;" vertex="1" parent="GjF4UAg_ujHjQLzV3iAs-1">
+        <mxCell id="-K9gedjwKWyqqD3DGX9I-4" value="Components can be &lt;i&gt;nested, &lt;/i&gt;or shown inside of each other" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=14;align=center;" vertex="1" parent="GjF4UAg_ujHjQLzV3iAs-1">
           <mxGeometry x="460" y="360" width="440" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="-K9gedjwKWyqqD3DGX9I-5" value="Every app has a component called the &#39;App&#39; component, and it is always the most parent component" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=14;align=center;" vertex="1" parent="GjF4UAg_ujHjQLzV3iAs-1">
+          <mxGeometry x="460" y="410" width="440" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="kW51BH7HEkeHVCUgNTlv-0" value="Components are the #1 way to get code reuse in an Angular app" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=14;align=center;" vertex="1" parent="GjF4UAg_ujHjQLzV3iAs-1">
+          <mxGeometry x="460" y="460" width="440" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
@@ -414,7 +414,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Copy of 14 - mockup" id="RVM7FT78WgUZBVKWVTxD">
+  <diagram name="15 - nesting" id="RVM7FT78WgUZBVKWVTxD">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="x1LFWYHmSm3ebeMZqIkU-0"/>
