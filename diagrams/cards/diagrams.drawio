@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-10T17:24:55.914Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="STWk778h-yRqjrDC-e2e" version="12.3.9" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2019-12-10T17:33:41.323Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="Zu-kWUdbdoa91887n0jh" version="12.3.9" type="github" pages="5">
   <diagram id="wNm0hHR1j8DfDaz-g-fx" name="01 - mockup">
     <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -98,6 +98,26 @@
         </mxCell>
         <mxCell id="co4NUHU7l4P749yWA7sm-9" value="&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;Examples&lt;/i&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=15;fontStyle=1" vertex="1" parent="co4NUHU7l4P749yWA7sm-1">
           <mxGeometry x="900" y="380" width="80" height="20" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="EsukM9emHEQggEpLVP8b" name="05 - starting">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="Gtz-vePYglsYfXFp07V5-0"/>
+        <mxCell id="Gtz-vePYglsYfXFp07V5-1" parent="Gtz-vePYglsYfXFp07V5-0"/>
+        <mxCell id="GYtiQqPeVAfBFFieeSM7-0" value="npm start" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=30;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="Gtz-vePYglsYfXFp07V5-1">
+          <mxGeometry x="500" y="230" width="480" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="GYtiQqPeVAfBFFieeSM7-1" value="Starting an Angular Project" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=15;fontStyle=1" vertex="1" parent="Gtz-vePYglsYfXFp07V5-1">
+          <mxGeometry x="640" y="200" width="200" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="GYtiQqPeVAfBFFieeSM7-2" value="&lt;i&gt;or&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=15;fontStyle=1" vertex="1" parent="Gtz-vePYglsYfXFp07V5-1">
+          <mxGeometry x="640" y="295" width="200" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="GYtiQqPeVAfBFFieeSM7-3" value="ng serve" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=30;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="Gtz-vePYglsYfXFp07V5-1">
+          <mxGeometry x="500" y="320" width="480" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
