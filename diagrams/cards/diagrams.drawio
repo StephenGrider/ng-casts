@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-10T17:09:58.348Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="VYyfDaUVpaucXlpJcftN" version="12.3.9" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-10T17:10:48.364Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="T8qAl969nmvllrLf6jYK" version="12.3.9" type="github" pages="2">
   <diagram id="wNm0hHR1j8DfDaz-g-fx" name="01 - mockup">
     <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -66,6 +66,26 @@
         </mxCell>
         <mxCell id="QejyDPV3MomeFhRJW_PR-23" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/sports-android-l-lollipop-icon-pack/24/mountain_biking-128.png;align=left;" vertex="1" parent="QejyDPV3MomeFhRJW_PR-1">
           <mxGeometry x="381" y="166" width="68" height="68" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="6iK-UfH9HfuKvJJmnFl3" name="02 - strategy">
+    <mxGraphModel dx="891" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="6lUW8sm6FCLK8UPgMSe--0"/>
+        <mxCell id="6lUW8sm6FCLK8UPgMSe--1" parent="6lUW8sm6FCLK8UPgMSe--0"/>
+        <mxCell id="6lUW8sm6FCLK8UPgMSe--2" value="Component Class" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=16;align=center;" vertex="1" parent="6lUW8sm6FCLK8UPgMSe--1">
+          <mxGeometry x="370" y="308" width="200" height="38" as="geometry"/>
+        </mxCell>
+        <mxCell id="6lUW8sm6FCLK8UPgMSe--3" value="Component Template" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=16;align=center;" vertex="1" parent="6lUW8sm6FCLK8UPgMSe--1">
+          <mxGeometry x="370" y="270" width="200" height="38" as="geometry"/>
+        </mxCell>
+        <mxCell id="6lUW8sm6FCLK8UPgMSe--4" value="Service" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=16;align=center;" vertex="1" parent="6lUW8sm6FCLK8UPgMSe--1">
+          <mxGeometry x="370" y="346" width="200" height="38" as="geometry"/>
+        </mxCell>
+        <mxCell id="6lUW8sm6FCLK8UPgMSe--5" value="Module" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=16;align=center;" vertex="1" parent="6lUW8sm6FCLK8UPgMSe--1">
+          <mxGeometry x="370" y="384" width="200" height="38" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
