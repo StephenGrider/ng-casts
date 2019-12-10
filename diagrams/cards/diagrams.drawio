@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-10T21:29:20.158Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="jYEbxxojUnHhOxxM6vUR" version="12.3.9" type="github" pages="12">
+<mxfile host="www.draw.io" modified="2019-12-10T21:37:16.907Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="-gWPOfgNZEt9_3hbkisc" version="12.3.9" type="github" pages="12">
   <diagram id="wNm0hHR1j8DfDaz-g-fx" name="01 - mockup">
     <mxGraphModel dx="893" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -213,7 +213,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2hdY9Hy2TX6psIu-dMyw" name="09 - style">
-    <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="881" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="_9W9IZg4XbyQCaEvctCn-0"/>
         <mxCell id="_9W9IZg4XbyQCaEvctCn-1" parent="_9W9IZg4XbyQCaEvctCn-0"/>
@@ -265,16 +265,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="4nY9sM2-Mjao9UUKaxG3" name="10 - components">
-    <mxGraphModel dx="1494" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
-      <root>
-        <mxCell id="5JYmX9GzGrBjI01r81Qn-0"/>
-        <mxCell id="5JYmX9GzGrBjI01r81Qn-1" parent="5JYmX9GzGrBjI01r81Qn-0"/>
-      </root>
-    </mxGraphModel>
-  </diagram>
   <diagram id="yUqHsHXxosvaXRuMazeQ" name="11 - comps">
-    <mxGraphModel dx="670" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="661" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="avJNdh0wRM2nnLfLLMN0-0"/>
         <mxCell id="avJNdh0wRM2nnLfLLMN0-1" parent="avJNdh0wRM2nnLfLLMN0-0"/>
@@ -321,6 +313,35 @@
         </mxCell>
         <mxCell id="cTqAMmKIjIdJETUr7Sme-8" value="Duplicates same exact HTML three times!" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;" vertex="1" parent="cTqAMmKIjIdJETUr7Sme-1">
           <mxGeometry x="800" y="340" width="130" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ayj7X6K6sZPe_4r-BzZe-0" value="Duplicating HTML is a sign that you need to create a new component" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=14;align=center;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" vertex="1" parent="cTqAMmKIjIdJETUr7Sme-1">
+          <mxGeometry x="797.5" y="420" width="265" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="_nMzJCrW_DKXhOWwDGar" name="13 - comp">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="GjF4UAg_ujHjQLzV3iAs-0"/>
+        <mxCell id="GjF4UAg_ujHjQLzV3iAs-1" parent="GjF4UAg_ujHjQLzV3iAs-0"/>
+        <mxCell id="-K9gedjwKWyqqD3DGX9I-0" value="Angular Components" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=22;fontStyle=1" vertex="1" parent="GjF4UAg_ujHjQLzV3iAs-1">
+          <mxGeometry x="520" y="230" width="320" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="-K9gedjwKWyqqD3DGX9I-1" value="All Angular apps are made of multiple different components" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=14;align=center;" vertex="1" parent="GjF4UAg_ujHjQLzV3iAs-1">
+          <mxGeometry x="460" y="260" width="440" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="-K9gedjwKWyqqD3DGX9I-2" value="Each component is designed to implement one &#39;thing&#39; in the app that is visible on the screen" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=14;align=center;" vertex="1" parent="GjF4UAg_ujHjQLzV3iAs-1">
+          <mxGeometry x="460" y="310" width="440" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="-K9gedjwKWyqqD3DGX9I-3" value="Each component has its own Component Class, Component Template, and Component CSS File" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=14;align=center;" vertex="1" parent="GjF4UAg_ujHjQLzV3iAs-1">
+          <mxGeometry x="460" y="360" width="440" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="-K9gedjwKWyqqD3DGX9I-4" value="Components can be &lt;i&gt;nested, &lt;/i&gt;or shown inside of each other" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=14;align=center;" vertex="1" parent="GjF4UAg_ujHjQLzV3iAs-1">
+          <mxGeometry x="460" y="410" width="440" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="-K9gedjwKWyqqD3DGX9I-5" value="Every app has a component called the &#39;App&#39; component, and it is always the most parent component" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=14;align=center;" vertex="1" parent="GjF4UAg_ujHjQLzV3iAs-1">
+          <mxGeometry x="460" y="460" width="440" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
