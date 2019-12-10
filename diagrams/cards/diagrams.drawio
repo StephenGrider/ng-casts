@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-10T22:05:43.136Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="4XLWVHaYBXxTkXsDxYfg" version="12.3.9" type="github" pages="17">
+<mxfile host="www.draw.io" modified="2019-12-10T22:15:04.960Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="urs54bd6mP0Xat7Wvies" version="12.3.9" type="github" pages="18">
   <diagram id="wNm0hHR1j8DfDaz-g-fx" name="01 - mockup">
     <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -440,7 +440,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8DetOUDKe1saIyNRDlM_" name="14 - mockup">
-    <mxGraphModel dx="995" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="XiDoHlGSlKWF92T93yBE-0"/>
         <mxCell id="XiDoHlGSlKWF92T93yBE-1" parent="XiDoHlGSlKWF92T93yBE-0"/>
@@ -705,6 +705,32 @@
         </mxCell>
         <mxCell id="irJxC72UDlnh7sxN9Xpk-23" value="content" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=11;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="irJxC72UDlnh7sxN9Xpk-1">
           <mxGeometry x="950" y="419" width="110" height="30" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="y35ap3MO_FL5r4QcjYcp" name="18 - creating">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="CJIiutyh2nYmETqz5fhS-0"/>
+        <mxCell id="CJIiutyh2nYmETqz5fhS-1" parent="CJIiutyh2nYmETqz5fhS-0"/>
+        <mxCell id="D22iogEhDXTE-l0jG-4X-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=1;fontSize=18;" edge="1" parent="CJIiutyh2nYmETqz5fhS-1" source="D22iogEhDXTE-l0jG-4X-0" target="D22iogEhDXTE-l0jG-4X-2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="D22iogEhDXTE-l0jG-4X-0" value="ng generate component &amp;lt;name&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=30;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="CJIiutyh2nYmETqz5fhS-1">
+          <mxGeometry x="500" y="230" width="480" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="D22iogEhDXTE-l0jG-4X-1" value="Generating a New Component" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=15;fontStyle=1" vertex="1" parent="CJIiutyh2nYmETqz5fhS-1">
+          <mxGeometry x="605" y="200" width="270" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="D22iogEhDXTE-l0jG-4X-2" value="ng generate component dropdown" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=18;align=center;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=0;fontColor=#333333;" vertex="1" parent="CJIiutyh2nYmETqz5fhS-1">
+          <mxGeometry x="590" y="340" width="300" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="D22iogEhDXTE-l0jG-4X-5" value="ng generate component tabs" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=18;align=center;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=0;fontColor=#333333;" vertex="1" parent="CJIiutyh2nYmETqz5fhS-1">
+          <mxGeometry x="590" y="380" width="300" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="D22iogEhDXTE-l0jG-4X-6" value="ng generate component repository" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=18;align=center;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=0;fontColor=#333333;" vertex="1" parent="CJIiutyh2nYmETqz5fhS-1">
+          <mxGeometry x="590" y="420" width="300" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
