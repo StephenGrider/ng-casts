@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-10T19:02:46.148Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="CjY-x6RXnHJabbe_9fFb" version="12.3.9" type="github" pages="8">
+<mxfile host="www.draw.io" modified="2019-12-10T20:14:32.818Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="wzXboqSOgxnvLUY11weG" version="12.3.9" type="github" pages="9">
   <diagram id="wNm0hHR1j8DfDaz-g-fx" name="01 - mockup">
     <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -208,6 +208,59 @@
         </mxCell>
         <mxCell id="AwLs0JPh77SKtMwZMmtD-11" value="Sure thing!&amp;nbsp; Here are all the scripts needed to make the Angular app work" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="ep7cT4W1IJBfOBTpqcyn-1">
           <mxGeometry x="700" y="560" width="180" height="50" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="2hdY9Hy2TX6psIu-dMyw" name="09 - style">
+    <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="_9W9IZg4XbyQCaEvctCn-0"/>
+        <mxCell id="_9W9IZg4XbyQCaEvctCn-1" parent="_9W9IZg4XbyQCaEvctCn-0"/>
+        <mxCell id="_9W9IZg4XbyQCaEvctCn-2" value="Styling&lt;br style=&quot;font-size: 27px&quot;&gt;&lt;br style=&quot;font-size: 27px&quot;&gt;&lt;br style=&quot;font-size: 27px&quot;&gt;&lt;br style=&quot;font-size: 27px&quot;&gt;&lt;br style=&quot;font-size: 27px&quot;&gt;&lt;br style=&quot;font-size: 27px&quot;&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=27;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="_9W9IZg4XbyQCaEvctCn-1">
+          <mxGeometry x="890" y="260" width="210" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="_9W9IZg4XbyQCaEvctCn-3" value="app.component.css" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=17;align=center;fontStyle=1" vertex="1" parent="_9W9IZg4XbyQCaEvctCn-1">
+          <mxGeometry x="905" y="380" width="180" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="_9W9IZg4XbyQCaEvctCn-4" value="styles.css" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=17;align=center;fontStyle=1" vertex="1" parent="_9W9IZg4XbyQCaEvctCn-1">
+          <mxGeometry x="905" y="310" width="180" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="_9W9IZg4XbyQCaEvctCn-5" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;fontSize=17;" vertex="1" parent="_9W9IZg4XbyQCaEvctCn-1">
+          <mxGeometry x="370" y="140" width="400" height="390" as="geometry"/>
+        </mxCell>
+        <mxCell id="_9W9IZg4XbyQCaEvctCn-6" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="_9W9IZg4XbyQCaEvctCn-5">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="_9W9IZg4XbyQCaEvctCn-7" value="https://www.draw.io" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="_9W9IZg4XbyQCaEvctCn-5">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="_9W9IZg4XbyQCaEvctCn-8" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=27;align=center;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="_9W9IZg4XbyQCaEvctCn-5">
+          <mxGeometry x="100" y="240" width="200" height="140" as="geometry"/>
+        </mxCell>
+        <mxCell id="_9W9IZg4XbyQCaEvctCn-9" value="Content created by app.component.html" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=19;fontStyle=2" vertex="1" parent="_9W9IZg4XbyQCaEvctCn-5">
+          <mxGeometry x="110" y="260" width="180" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="_9W9IZg4XbyQCaEvctCn-10" value="&lt;i style=&quot;font-size: 14px;&quot;&gt;Content created by some other component&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=14;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="_9W9IZg4XbyQCaEvctCn-5">
+          <mxGeometry x="15" y="120" width="115" height="110" as="geometry"/>
+        </mxCell>
+        <mxCell id="_9W9IZg4XbyQCaEvctCn-11" value="&lt;i style=&quot;font-size: 14px;&quot;&gt;Content created by some other component&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=14;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="_9W9IZg4XbyQCaEvctCn-5">
+          <mxGeometry x="140" y="120" width="115" height="110" as="geometry"/>
+        </mxCell>
+        <mxCell id="_9W9IZg4XbyQCaEvctCn-12" value="&lt;i style=&quot;font-size: 14px;&quot;&gt;Content created by some other component&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=14;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="_9W9IZg4XbyQCaEvctCn-5">
+          <mxGeometry x="265" y="120" width="115" height="110" as="geometry"/>
+        </mxCell>
+        <mxCell id="_9W9IZg4XbyQCaEvctCn-13" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;shadow=0;fontSize=14;align=center;rotation=-180;" vertex="1" parent="_9W9IZg4XbyQCaEvctCn-1">
+          <mxGeometry x="1090" y="310" width="30" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="_9W9IZg4XbyQCaEvctCn-14" value="CSS in here applies to &lt;i&gt;everything&lt;/i&gt;&amp;nbsp;in our app" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;" vertex="1" parent="_9W9IZg4XbyQCaEvctCn-1">
+          <mxGeometry x="1120" y="330" width="130" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="_9W9IZg4XbyQCaEvctCn-15" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;shadow=0;fontSize=14;align=center;rotation=-180;" vertex="1" parent="_9W9IZg4XbyQCaEvctCn-1">
+          <mxGeometry x="1090" y="380" width="30" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="_9W9IZg4XbyQCaEvctCn-16" value="CSS in here applies to &lt;i&gt;only&lt;/i&gt;&amp;nbsp;HTML created by the app.component.html file" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;" vertex="1" parent="_9W9IZg4XbyQCaEvctCn-1">
+          <mxGeometry x="1120" y="400" width="170" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
