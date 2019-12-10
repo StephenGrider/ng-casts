@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-12-10T20:14:32.818Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="wzXboqSOgxnvLUY11weG" version="12.3.9" type="github" pages="9">
+<mxfile host="www.draw.io" modified="2019-12-10T21:29:20.158Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="jYEbxxojUnHhOxxM6vUR" version="12.3.9" type="github" pages="12">
   <diagram id="wNm0hHR1j8DfDaz-g-fx" name="01 - mockup">
-    <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="893" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -71,7 +71,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9Nti148Zae0iLnU4YuJx" name="04 - generate">
-    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="670" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="co4NUHU7l4P749yWA7sm-0"/>
         <mxCell id="co4NUHU7l4P749yWA7sm-1" parent="co4NUHU7l4P749yWA7sm-0"/>
@@ -103,7 +103,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="EsukM9emHEQggEpLVP8b" name="05 - starting">
-    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="670" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="Gtz-vePYglsYfXFp07V5-0"/>
         <mxCell id="Gtz-vePYglsYfXFp07V5-1" parent="Gtz-vePYglsYfXFp07V5-0"/>
@@ -265,8 +265,68 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="6iK-UfH9HfuKvJJmnFl3" name="02 - strategy">
+  <diagram id="4nY9sM2-Mjao9UUKaxG3" name="10 - components">
+    <mxGraphModel dx="1494" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="5JYmX9GzGrBjI01r81Qn-0"/>
+        <mxCell id="5JYmX9GzGrBjI01r81Qn-1" parent="5JYmX9GzGrBjI01r81Qn-0"/>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="yUqHsHXxosvaXRuMazeQ" name="11 - comps">
+    <mxGraphModel dx="670" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="avJNdh0wRM2nnLfLLMN0-0"/>
+        <mxCell id="avJNdh0wRM2nnLfLLMN0-1" parent="avJNdh0wRM2nnLfLLMN0-0"/>
+        <mxCell id="I-gTqPoSsK0TJnMbfIB3-0" value="" style="shape=tape;whiteSpace=wrap;html=1;shadow=0;fontSize=14;align=center;rotation=90;size=0.05;" vertex="1" parent="avJNdh0wRM2nnLfLLMN0-1">
+          <mxGeometry x="480" y="190" width="260" height="300" as="geometry"/>
+        </mxCell>
+        <mxCell id="avJNdh0wRM2nnLfLLMN0-3" value="&amp;lt;HTML for &#39;tree&#39; card&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=14;align=center;" vertex="1" parent="avJNdh0wRM2nnLfLLMN0-1">
+          <mxGeometry x="500" y="290" width="220" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="UMCB8HVyleC3_8Qtgbxw-0" value="&amp;lt;HTML for &#39;mountains&#39; card&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=14;align=center;" vertex="1" parent="avJNdh0wRM2nnLfLLMN0-1">
+          <mxGeometry x="500" y="330" width="220" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="UMCB8HVyleC3_8Qtgbxw-1" value="&amp;lt;HTML for &#39;biking&#39; card&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=14;align=center;" vertex="1" parent="avJNdh0wRM2nnLfLLMN0-1">
+          <mxGeometry x="500" y="370" width="220" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="avJNdh0wRM2nnLfLLMN0-2" value="app.component.html" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=14;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="avJNdh0wRM2nnLfLLMN0-1">
+          <mxGeometry x="525" y="230" width="170" height="30" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="12 - dup" id="XQ3hEsVTJPNNK_dRafF9">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="cTqAMmKIjIdJETUr7Sme-0"/>
+        <mxCell id="cTqAMmKIjIdJETUr7Sme-1" parent="cTqAMmKIjIdJETUr7Sme-0"/>
+        <mxCell id="cTqAMmKIjIdJETUr7Sme-2" value="" style="shape=tape;whiteSpace=wrap;html=1;shadow=0;fontSize=14;align=center;rotation=90;size=0.05;" vertex="1" parent="cTqAMmKIjIdJETUr7Sme-1">
+          <mxGeometry x="480" y="190" width="260" height="300" as="geometry"/>
+        </mxCell>
+        <mxCell id="cTqAMmKIjIdJETUr7Sme-3" value="&amp;lt;HTML for &#39;tree&#39; card&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=14;align=center;" vertex="1" parent="cTqAMmKIjIdJETUr7Sme-1">
+          <mxGeometry x="500" y="290" width="220" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="cTqAMmKIjIdJETUr7Sme-4" value="&amp;lt;HTML for &#39;mountains&#39; card&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=14;align=center;" vertex="1" parent="cTqAMmKIjIdJETUr7Sme-1">
+          <mxGeometry x="500" y="330" width="220" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="cTqAMmKIjIdJETUr7Sme-5" value="&amp;lt;HTML for &#39;biking&#39; card&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=14;align=center;" vertex="1" parent="cTqAMmKIjIdJETUr7Sme-1">
+          <mxGeometry x="500" y="370" width="220" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="cTqAMmKIjIdJETUr7Sme-6" value="app.component.html" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=14;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="cTqAMmKIjIdJETUr7Sme-1">
+          <mxGeometry x="525" y="230" width="170" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="cTqAMmKIjIdJETUr7Sme-7" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;shadow=0;fontSize=14;align=center;rotation=-180;" vertex="1" parent="cTqAMmKIjIdJETUr7Sme-1">
+          <mxGeometry x="730" y="290" width="70" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="cTqAMmKIjIdJETUr7Sme-8" value="Duplicates same exact HTML three times!" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;" vertex="1" parent="cTqAMmKIjIdJETUr7Sme-1">
+          <mxGeometry x="800" y="340" width="130" height="20" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="6iK-UfH9HfuKvJJmnFl3" name="02 - strategy">
+    <mxGraphModel dx="670" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="6lUW8sm6FCLK8UPgMSe--0"/>
         <mxCell id="6lUW8sm6FCLK8UPgMSe--1" parent="6lUW8sm6FCLK8UPgMSe--0"/>
