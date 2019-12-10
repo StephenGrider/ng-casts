@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-10T21:37:16.907Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="-gWPOfgNZEt9_3hbkisc" version="12.3.9" type="github" pages="12">
+<mxfile host="www.draw.io" modified="2019-12-10T21:38:43.512Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="05d0mbhWrvg4TDGndA4b" version="12.3.9" type="github" pages="13">
   <diagram id="wNm0hHR1j8DfDaz-g-fx" name="01 - mockup">
     <mxGraphModel dx="893" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -335,19 +335,39 @@
           <mxGeometry x="460" y="310" width="440" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="-K9gedjwKWyqqD3DGX9I-3" value="Each component has its own Component Class, Component Template, and Component CSS File" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=14;align=center;" vertex="1" parent="GjF4UAg_ujHjQLzV3iAs-1">
-          <mxGeometry x="460" y="360" width="440" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="-K9gedjwKWyqqD3DGX9I-4" value="Components can be &lt;i&gt;nested, &lt;/i&gt;or shown inside of each other" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=14;align=center;" vertex="1" parent="GjF4UAg_ujHjQLzV3iAs-1">
           <mxGeometry x="460" y="410" width="440" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="-K9gedjwKWyqqD3DGX9I-5" value="Every app has a component called the &#39;App&#39; component, and it is always the most parent component" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=14;align=center;" vertex="1" parent="GjF4UAg_ujHjQLzV3iAs-1">
+        <mxCell id="-K9gedjwKWyqqD3DGX9I-4" value="Components can be &lt;i&gt;nested, &lt;/i&gt;or shown inside of each other" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=14;align=center;" vertex="1" parent="GjF4UAg_ujHjQLzV3iAs-1">
           <mxGeometry x="460" y="460" width="440" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="-K9gedjwKWyqqD3DGX9I-5" value="Every app has a component called the &#39;App&#39; component, and it is always the most parent component" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=14;align=center;" vertex="1" parent="GjF4UAg_ujHjQLzV3iAs-1">
+          <mxGeometry x="460" y="510" width="440" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="kW51BH7HEkeHVCUgNTlv-0" value="Components are the #1 way to get code reuse in an Angular app" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=14;align=center;" vertex="1" parent="GjF4UAg_ujHjQLzV3iAs-1">
+          <mxGeometry x="460" y="360" width="440" height="40" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="8DetOUDKe1saIyNRDlM_" name="14 - mockup">
+    <mxGraphModel dx="897" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="XiDoHlGSlKWF92T93yBE-0"/>
+        <mxCell id="XiDoHlGSlKWF92T93yBE-1" parent="XiDoHlGSlKWF92T93yBE-0"/>
+        <mxCell id="XiDoHlGSlKWF92T93yBE-2" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;fontSize=14;" vertex="1" parent="XiDoHlGSlKWF92T93yBE-1">
+          <mxGeometry x="330" y="170" width="550" height="380" as="geometry"/>
+        </mxCell>
+        <mxCell id="XiDoHlGSlKWF92T93yBE-3" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="XiDoHlGSlKWF92T93yBE-2">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="XiDoHlGSlKWF92T93yBE-4" value="https://www.draw.io" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="XiDoHlGSlKWF92T93yBE-2">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="6iK-UfH9HfuKvJJmnFl3" name="02 - strategy">
-    <mxGraphModel dx="670" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="6lUW8sm6FCLK8UPgMSe--0"/>
         <mxCell id="6lUW8sm6FCLK8UPgMSe--1" parent="6lUW8sm6FCLK8UPgMSe--0"/>
