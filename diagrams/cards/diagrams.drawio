@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-11T19:28:59.198Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="_JSaCOJpGFXdh-L9Kbe1" version="12.3.9" type="github" pages="26">
+<mxfile host="www.draw.io" modified="2019-12-11T20:01:26.336Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="dt3tU2F3qGU6axRciMss" version="12.3.9" type="github" pages="27">
   <diagram id="wNm0hHR1j8DfDaz-g-fx" name="01 - mockup">
     <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -620,7 +620,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="21 - binding" id="32uNGajzv_xb5iAABBIe">
-    <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="865" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="46wjja3ZD0K6kKO4rxtu-0"/>
         <mxCell id="46wjja3ZD0K6kKO4rxtu-1" parent="46wjja3ZD0K6kKO4rxtu-0"/>
@@ -689,7 +689,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yjmdOWPtyvLAp1qqChNE" name="22 - binding">
-    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="649" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="q1QC9u8V35Tv1QFmFr_g-0"/>
         <mxCell id="q1QC9u8V35Tv1QFmFr_g-1" parent="q1QC9u8V35Tv1QFmFr_g-0"/>
@@ -736,7 +736,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="03 - data" id="3tX8lin7frBJBiZ_HfcI">
-    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="649" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="irJxC72UDlnh7sxN9Xpk-0"/>
         <mxCell id="irJxC72UDlnh7sxN9Xpk-1" parent="irJxC72UDlnh7sxN9Xpk-0"/>
@@ -825,7 +825,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-97qm0gnseO4_yQ0K4f4" name="24 - context">
-    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="649" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="_xY0RkCa6idq7UIZ3w8L-0"/>
         <mxCell id="_xY0RkCa6idq7UIZ3w8L-1" parent="_xY0RkCa6idq7UIZ3w8L-0"/>
@@ -857,7 +857,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="25 - instance" id="2c4xL0mnuKA2Ta7CKg03">
-    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="649" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="TZn-Z37xGNCgDAtzKS6S-0"/>
         <mxCell id="TZn-Z37xGNCgDAtzKS6S-1" parent="TZn-Z37xGNCgDAtzKS6S-0"/>
@@ -907,7 +907,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ts8gGoCYHbl5UAYY-okE" name="25 - instance">
-    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="649" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="eIz3EqzklQH_TYbTIezn-0"/>
         <mxCell id="eIz3EqzklQH_TYbTIezn-1" parent="eIz3EqzklQH_TYbTIezn-0"/>
@@ -917,7 +917,7 @@
         <mxCell id="eIz3EqzklQH_TYbTIezn-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=1;fontSize=12;" edge="1" parent="eIz3EqzklQH_TYbTIezn-1" source="eIz3EqzklQH_TYbTIezn-4" target="eIz3EqzklQH_TYbTIezn-12">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="eIz3EqzklQH_TYbTIezn-4" value="class Card&lt;br style=&quot;font-size: 24px&quot;&gt;&lt;br style=&quot;font-size: 24px&quot;&gt;&lt;br style=&quot;font-size: 24px&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fillColor=#dae8fc;fontSize=24;align=center;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="eIz3EqzklQH_TYbTIezn-1">
+        <mxCell id="eIz3EqzklQH_TYbTIezn-4" value="class CardComponent&lt;br style=&quot;font-size: 24px&quot;&gt;&lt;br style=&quot;font-size: 24px&quot;&gt;&lt;br style=&quot;font-size: 24px&quot;&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fillColor=#dae8fc;fontSize=24;align=center;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="eIz3EqzklQH_TYbTIezn-1">
           <mxGeometry x="370" y="250" width="150" height="200" as="geometry"/>
         </mxCell>
         <mxCell id="eIz3EqzklQH_TYbTIezn-5" value="title" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=14;align=center;" vertex="1" parent="eIz3EqzklQH_TYbTIezn-1">
@@ -939,7 +939,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="J0rbZc1FIoMwbdAj7Qc6" name="26 - template">
-    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="649" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="WAlbGJPpEPIKM6BooBnD-0"/>
         <mxCell id="WAlbGJPpEPIKM6BooBnD-1" parent="WAlbGJPpEPIKM6BooBnD-0"/>
@@ -971,7 +971,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KqxMWW_pUOuQLbNFVnEX" name="27 - relation">
-    <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="865" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="adnzH4fcz1N0Ao_FEyhF-0"/>
         <mxCell id="adnzH4fcz1N0Ao_FEyhF-1" parent="adnzH4fcz1N0Ao_FEyhF-0"/>
@@ -1040,7 +1040,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nmtQqC1balMuFEtSkYYF" name="23 - eval">
-    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="649" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="ukuIM1R_aagDlJidlHbA-0"/>
         <mxCell id="ukuIM1R_aagDlJidlHbA-1" parent="ukuIM1R_aagDlJidlHbA-0"/>
@@ -1079,6 +1079,79 @@
         </mxCell>
         <mxCell id="ukuIM1R_aagDlJidlHbA-13" value="Name of the property we want to communicate to Card" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=16;fontStyle=2" vertex="1" parent="ukuIM1R_aagDlJidlHbA-1">
           <mxGeometry x="517.5" y="225" width="155" height="20" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="K8eTn-Zr2QHQAnuSYBtV" name="27 - relation">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="pCJ20wQ9DbiUQ9HwihAd-0"/>
+        <mxCell id="pCJ20wQ9DbiUQ9HwihAd-1" parent="pCJ20wQ9DbiUQ9HwihAd-0"/>
+        <mxCell id="_iYYS4Ywv1YWfrG5srfj-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=1;fontSize=14;" edge="1" parent="pCJ20wQ9DbiUQ9HwihAd-1" source="_iYYS4Ywv1YWfrG5srfj-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="860" y="240" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_iYYS4Ywv1YWfrG5srfj-0" value="In the parent component template, find where we create the child component" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=12;align=center;" vertex="1" parent="pCJ20wQ9DbiUQ9HwihAd-1">
+          <mxGeometry x="400" y="220" width="430" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="_iYYS4Ywv1YWfrG5srfj-1" value="1" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fillColor=#dae8fc;fontSize=16;align=center;strokeColor=#6c8ebf;" vertex="1" parent="pCJ20wQ9DbiUQ9HwihAd-1">
+          <mxGeometry x="350" y="220" width="50" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="_iYYS4Ywv1YWfrG5srfj-2" value="Add a new &lt;i&gt;binding&amp;nbsp;&lt;/i&gt;to the child component, specifying the data we want to pass down" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=12;align=center;" vertex="1" parent="pCJ20wQ9DbiUQ9HwihAd-1">
+          <mxGeometry x="400" y="315" width="430" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="_iYYS4Ywv1YWfrG5srfj-3" value="3" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fillColor=#dae8fc;fontSize=16;align=center;strokeColor=#6c8ebf;" vertex="1" parent="pCJ20wQ9DbiUQ9HwihAd-1">
+          <mxGeometry x="350" y="315" width="50" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="_iYYS4Ywv1YWfrG5srfj-4" value="In the child component&#39;s &lt;i&gt;class file&lt;/i&gt;, add an &lt;i&gt;input property&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=12;align=center;" vertex="1" parent="pCJ20wQ9DbiUQ9HwihAd-1">
+          <mxGeometry x="400" y="363" width="430" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="_iYYS4Ywv1YWfrG5srfj-5" value="4" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fillColor=#dae8fc;fontSize=16;align=center;strokeColor=#6c8ebf;" vertex="1" parent="pCJ20wQ9DbiUQ9HwihAd-1">
+          <mxGeometry x="350" y="363" width="50" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="_iYYS4Ywv1YWfrG5srfj-6" value="In the child component&#39;s &lt;i&gt;template file&lt;/i&gt;, reference that input property" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=12;align=center;" vertex="1" parent="pCJ20wQ9DbiUQ9HwihAd-1">
+          <mxGeometry x="400" y="410" width="430" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="_iYYS4Ywv1YWfrG5srfj-7" value="5" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fillColor=#dae8fc;fontSize=16;align=center;strokeColor=#6c8ebf;" vertex="1" parent="pCJ20wQ9DbiUQ9HwihAd-1">
+          <mxGeometry x="350" y="410" width="50" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="_iYYS4Ywv1YWfrG5srfj-8" value="Decide on the &lt;i&gt;property name&lt;/i&gt;&amp;nbsp;that we want to use to communicate from the parent to the child" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=12;align=center;" vertex="1" parent="pCJ20wQ9DbiUQ9HwihAd-1">
+          <mxGeometry x="400" y="268" width="430" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="_iYYS4Ywv1YWfrG5srfj-9" value="2" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fillColor=#dae8fc;fontSize=16;align=center;strokeColor=#6c8ebf;" vertex="1" parent="pCJ20wQ9DbiUQ9HwihAd-1">
+          <mxGeometry x="350" y="268" width="50" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="_iYYS4Ywv1YWfrG5srfj-11" value="Just like calling &#39;new CardComponent()&#39;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=12;align=center;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="pCJ20wQ9DbiUQ9HwihAd-1">
+          <mxGeometry x="860" y="220" width="200" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="_iYYS4Ywv1YWfrG5srfj-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=1;fontSize=14;" edge="1" parent="pCJ20wQ9DbiUQ9HwihAd-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="860" y="335" as="targetPoint"/>
+            <mxPoint x="830" y="335" as="sourcePoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_iYYS4Ywv1YWfrG5srfj-13" value="Just like &lt;br&gt;&#39;new CardComponent(&#39;Neat Tree&#39;)&#39;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=12;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="pCJ20wQ9DbiUQ9HwihAd-1">
+          <mxGeometry x="860" y="315" width="200" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="_iYYS4Ywv1YWfrG5srfj-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=1;fontSize=14;" edge="1" parent="pCJ20wQ9DbiUQ9HwihAd-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="860" y="383" as="targetPoint"/>
+            <mxPoint x="830" y="383" as="sourcePoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_iYYS4Ywv1YWfrG5srfj-15" value="Just like&lt;br&gt;constructor(title) { this.title = title }" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=12;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="pCJ20wQ9DbiUQ9HwihAd-1">
+          <mxGeometry x="860" y="363" width="200" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="_iYYS4Ywv1YWfrG5srfj-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=1;fontSize=14;" edge="1" parent="pCJ20wQ9DbiUQ9HwihAd-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="860" y="430" as="targetPoint"/>
+            <mxPoint x="830" y="430" as="sourcePoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_iYYS4Ywv1YWfrG5srfj-17" value="Just like&lt;br&gt;render() {&amp;nbsp; `&amp;lt;p&amp;gt;${this.title}&amp;lt;/p&amp;gt;`" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=12;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="pCJ20wQ9DbiUQ9HwihAd-1">
+          <mxGeometry x="860" y="410" width="200" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
