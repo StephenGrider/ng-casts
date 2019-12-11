@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-11T18:07:45.983Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="KOBOSczVBCZpCwJRdVGy" version="12.3.9" type="github" pages="21">
+<mxfile host="www.draw.io" modified="2019-12-11T18:11:50.856Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="VlVvN8Ro94QC6dIT7gRU" version="12.3.9" type="github" pages="21">
   <diagram id="wNm0hHR1j8DfDaz-g-fx" name="01 - mockup">
     <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -795,28 +795,34 @@
           <mxGeometry x="350" y="220" width="50" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="q1QC9u8V35Tv1QFmFr_g-6" value="Add a new &lt;i&gt;binding&amp;nbsp;&lt;/i&gt;to the child component, specifying the data we want to pass down" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=12;align=center;" vertex="1" parent="q1QC9u8V35Tv1QFmFr_g-1">
-          <mxGeometry x="400" y="270" width="430" height="40" as="geometry"/>
+          <mxGeometry x="400" y="315" width="430" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="q1QC9u8V35Tv1QFmFr_g-7" value="2" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fillColor=#dae8fc;fontSize=16;align=center;strokeColor=#6c8ebf;" vertex="1" parent="q1QC9u8V35Tv1QFmFr_g-1">
-          <mxGeometry x="350" y="270" width="50" height="40" as="geometry"/>
+          <mxGeometry x="350" y="315" width="50" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="q1QC9u8V35Tv1QFmFr_g-8" value="In the child component&#39;s &lt;i&gt;class file&lt;/i&gt;, add an &lt;i&gt;input property&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=12;align=center;" vertex="1" parent="q1QC9u8V35Tv1QFmFr_g-1">
-          <mxGeometry x="400" y="320" width="430" height="40" as="geometry"/>
+          <mxGeometry x="400" y="363" width="430" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="q1QC9u8V35Tv1QFmFr_g-9" value="3" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fillColor=#dae8fc;fontSize=16;align=center;strokeColor=#6c8ebf;" vertex="1" parent="q1QC9u8V35Tv1QFmFr_g-1">
-          <mxGeometry x="350" y="320" width="50" height="40" as="geometry"/>
+          <mxGeometry x="350" y="363" width="50" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="q1QC9u8V35Tv1QFmFr_g-10" value="In the child component&#39;s &lt;i&gt;template file&lt;/i&gt;, reference that input property" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=12;align=center;" vertex="1" parent="q1QC9u8V35Tv1QFmFr_g-1">
-          <mxGeometry x="400" y="370" width="430" height="40" as="geometry"/>
+          <mxGeometry x="400" y="410" width="430" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="q1QC9u8V35Tv1QFmFr_g-11" value="4" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fillColor=#dae8fc;fontSize=16;align=center;strokeColor=#6c8ebf;" vertex="1" parent="q1QC9u8V35Tv1QFmFr_g-1">
-          <mxGeometry x="350" y="370" width="50" height="40" as="geometry"/>
+          <mxGeometry x="350" y="410" width="50" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="q1QC9u8V35Tv1QFmFr_g-12" value="!!!!" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fillColor=#ffe6cc;fontSize=16;align=center;strokeColor=#d79b00;" vertex="1" parent="q1QC9u8V35Tv1QFmFr_g-1">
-          <mxGeometry x="830" y="270" width="40" height="40" as="geometry"/>
+          <mxGeometry x="830" y="315" width="40" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="q1QC9u8V35Tv1QFmFr_g-13" value="!!!!" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fillColor=#ffe6cc;fontSize=16;align=center;strokeColor=#d79b00;" vertex="1" parent="q1QC9u8V35Tv1QFmFr_g-1">
-          <mxGeometry x="830" y="370" width="40" height="40" as="geometry"/>
+          <mxGeometry x="830" y="410" width="40" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="MXzTi1RnaQlsKy14oBwu-0" value="Decide on the &lt;i&gt;property name&lt;/i&gt;&amp;nbsp;that we want to use to communicate from the parent to the child" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=12;align=center;" vertex="1" parent="q1QC9u8V35Tv1QFmFr_g-1">
+          <mxGeometry x="400" y="268" width="430" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="MXzTi1RnaQlsKy14oBwu-1" value="2" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fillColor=#dae8fc;fontSize=16;align=center;strokeColor=#6c8ebf;" vertex="1" parent="q1QC9u8V35Tv1QFmFr_g-1">
+          <mxGeometry x="350" y="268" width="50" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
