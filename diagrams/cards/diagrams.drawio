@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-11T17:44:48.156Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="oJU6TUIz9_EBPMmTjRfy" version="12.3.9" type="github" pages="19">
+<mxfile host="www.draw.io" modified="2019-12-11T18:00:29.171Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="Yj2KXzTVpND8uFrPSNde" version="12.3.9" type="github" pages="20">
   <diagram id="wNm0hHR1j8DfDaz-g-fx" name="01 - mockup">
     <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -773,6 +773,50 @@
         </mxCell>
         <mxCell id="jCT6ThKCNqXsh-2THEQW-7" value="username = &#39;@biking&#39;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=14;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=0" vertex="1" parent="46wjja3ZD0K6kKO4rxtu-1">
           <mxGeometry x="1410" y="460" width="150" height="30" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="yjmdOWPtyvLAp1qqChNE" name="22 - binding">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="q1QC9u8V35Tv1QFmFr_g-0"/>
+        <mxCell id="q1QC9u8V35Tv1QFmFr_g-1" parent="q1QC9u8V35Tv1QFmFr_g-0"/>
+        <mxCell id="q1QC9u8V35Tv1QFmFr_g-2" value="In the parent component template, find where we create the child component" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=12;align=center;" vertex="1" parent="q1QC9u8V35Tv1QFmFr_g-1">
+          <mxGeometry x="400" y="220" width="430" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="q1QC9u8V35Tv1QFmFr_g-3" value="Setting Up Input Binding&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=17;fontStyle=1" vertex="1" parent="q1QC9u8V35Tv1QFmFr_g-1">
+          <mxGeometry x="460" y="170" width="260" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="q1QC9u8V35Tv1QFmFr_g-4" value="(Communicating from a parent to child component)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=12;fontStyle=0" vertex="1" parent="q1QC9u8V35Tv1QFmFr_g-1">
+          <mxGeometry x="425" y="190" width="330" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="q1QC9u8V35Tv1QFmFr_g-5" value="1" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fillColor=#dae8fc;fontSize=16;align=center;strokeColor=#6c8ebf;" vertex="1" parent="q1QC9u8V35Tv1QFmFr_g-1">
+          <mxGeometry x="350" y="220" width="50" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="q1QC9u8V35Tv1QFmFr_g-6" value="Add a new &lt;i&gt;attribute &lt;/i&gt;to the child component, specifying the data we want to pass down" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=12;align=center;" vertex="1" parent="q1QC9u8V35Tv1QFmFr_g-1">
+          <mxGeometry x="400" y="270" width="430" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="q1QC9u8V35Tv1QFmFr_g-7" value="2" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fillColor=#dae8fc;fontSize=16;align=center;strokeColor=#6c8ebf;" vertex="1" parent="q1QC9u8V35Tv1QFmFr_g-1">
+          <mxGeometry x="350" y="270" width="50" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="q1QC9u8V35Tv1QFmFr_g-8" value="In the child component&#39;s &lt;i&gt;class file&lt;/i&gt;, add an &lt;i&gt;input property&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=12;align=center;" vertex="1" parent="q1QC9u8V35Tv1QFmFr_g-1">
+          <mxGeometry x="400" y="320" width="430" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="q1QC9u8V35Tv1QFmFr_g-9" value="3" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fillColor=#dae8fc;fontSize=16;align=center;strokeColor=#6c8ebf;" vertex="1" parent="q1QC9u8V35Tv1QFmFr_g-1">
+          <mxGeometry x="350" y="320" width="50" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="q1QC9u8V35Tv1QFmFr_g-10" value="In the child component&#39;s &lt;i&gt;template file&lt;/i&gt;, reference that input property" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=12;align=center;" vertex="1" parent="q1QC9u8V35Tv1QFmFr_g-1">
+          <mxGeometry x="400" y="370" width="430" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="q1QC9u8V35Tv1QFmFr_g-11" value="4" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fillColor=#dae8fc;fontSize=16;align=center;strokeColor=#6c8ebf;" vertex="1" parent="q1QC9u8V35Tv1QFmFr_g-1">
+          <mxGeometry x="350" y="370" width="50" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="q1QC9u8V35Tv1QFmFr_g-12" value="!!!!" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fillColor=#ffe6cc;fontSize=16;align=center;strokeColor=#d79b00;" vertex="1" parent="q1QC9u8V35Tv1QFmFr_g-1">
+          <mxGeometry x="830" y="270" width="40" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="q1QC9u8V35Tv1QFmFr_g-13" value="!!!!" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fillColor=#ffe6cc;fontSize=16;align=center;strokeColor=#d79b00;" vertex="1" parent="q1QC9u8V35Tv1QFmFr_g-1">
+          <mxGeometry x="830" y="370" width="40" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
