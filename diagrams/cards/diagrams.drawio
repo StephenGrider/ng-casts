@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-11T19:22:19.810Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="cmKRjRSeoNUiZ_dDkTIk" version="12.3.9" type="github" pages="25">
+<mxfile host="www.draw.io" modified="2019-12-11T19:24:30.229Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="xJL0nbI9jrbACaDGQBh0" version="12.3.9" type="github" pages="26">
   <diagram id="wNm0hHR1j8DfDaz-g-fx" name="01 - mockup">
     <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -949,7 +949,7 @@
         <mxCell id="HDXZnZKECHNrNzlBT-lM-1" value="title = &#39;Snowy Mountain&#39;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=12;align=center;" vertex="1" parent="WAlbGJPpEPIKM6BooBnD-1">
           <mxGeometry x="385" y="290" width="165" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="zFIYjERoEdkeI4KV1ejm-2" value="summary() {&lt;br&gt;&amp;nbsp; &amp;nbsp; return `&amp;lt;p&amp;gt;${this.title}&amp;lt;/p&amp;gt;&lt;br&gt;}" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=12;align=left;" vertex="1" parent="WAlbGJPpEPIKM6BooBnD-1">
+        <mxCell id="zFIYjERoEdkeI4KV1ejm-2" value="summary() {&lt;br&gt;&amp;nbsp; &amp;nbsp; return `&amp;lt;p&amp;gt;${this.title}&amp;lt;/p&amp;gt;`&lt;br&gt;}" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=12;align=left;" vertex="1" parent="WAlbGJPpEPIKM6BooBnD-1">
           <mxGeometry x="385" y="325" width="165" height="85" as="geometry"/>
         </mxCell>
         <mxCell id="zFIYjERoEdkeI4KV1ejm-4" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;fontSize=14;align=left;rotation=-180;" vertex="1" parent="WAlbGJPpEPIKM6BooBnD-1">
@@ -961,8 +961,77 @@
       </root>
     </mxGraphModel>
   </diagram>
+  <diagram id="KqxMWW_pUOuQLbNFVnEX" name="27 - relation">
+    <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="adnzH4fcz1N0Ao_FEyhF-0"/>
+        <mxCell id="adnzH4fcz1N0Ao_FEyhF-1" parent="adnzH4fcz1N0Ao_FEyhF-0"/>
+        <mxCell id="adnzH4fcz1N0Ao_FEyhF-2" value="Card&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=23;align=center;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="adnzH4fcz1N0Ao_FEyhF-1">
+          <mxGeometry x="785" y="490" width="230" height="190" as="geometry"/>
+        </mxCell>
+        <mxCell id="adnzH4fcz1N0Ao_FEyhF-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=1;fontSize=23;" edge="1" parent="adnzH4fcz1N0Ao_FEyhF-1" source="adnzH4fcz1N0Ao_FEyhF-6" target="adnzH4fcz1N0Ao_FEyhF-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1155" y="380"/>
+              <mxPoint x="900" y="380"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="adnzH4fcz1N0Ao_FEyhF-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=1;fontSize=21;" edge="1" parent="adnzH4fcz1N0Ao_FEyhF-1" source="adnzH4fcz1N0Ao_FEyhF-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1155.3333333333335" y="490" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="adnzH4fcz1N0Ao_FEyhF-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=1;fontSize=21;" edge="1" parent="adnzH4fcz1N0Ao_FEyhF-1" source="adnzH4fcz1N0Ao_FEyhF-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1155" y="380"/>
+              <mxPoint x="1410" y="380"/>
+            </Array>
+            <mxPoint x="1410" y="490" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="adnzH4fcz1N0Ao_FEyhF-6" value="App" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=23;align=center;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="adnzH4fcz1N0Ao_FEyhF-1">
+          <mxGeometry x="1030" y="290" width="250" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="adnzH4fcz1N0Ao_FEyhF-9" value="title = &#39;Neat Tree&#39;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=14;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=0" vertex="1" parent="adnzH4fcz1N0Ao_FEyhF-1">
+          <mxGeometry x="900" y="420" width="150" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="adnzH4fcz1N0Ao_FEyhF-12" value="title = &#39;Mountains&#39;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=14;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=0" vertex="1" parent="adnzH4fcz1N0Ao_FEyhF-1">
+          <mxGeometry x="1155" y="420" width="150" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="adnzH4fcz1N0Ao_FEyhF-15" value="title = &#39;Biking&#39;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=14;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=0" vertex="1" parent="adnzH4fcz1N0Ao_FEyhF-1">
+          <mxGeometry x="1410" y="420" width="150" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="adnzH4fcz1N0Ao_FEyhF-18" value="title = &#39;Neat Tree&#39;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=14;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=0" vertex="1" parent="adnzH4fcz1N0Ao_FEyhF-1">
+          <mxGeometry x="813" y="540" width="175" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="adnzH4fcz1N0Ao_FEyhF-19" value="showInDOM() {&lt;br&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;&amp;nbsp; &amp;nbsp; return `&amp;lt;p&amp;gt;${this.title}&amp;lt;/p&amp;gt;`&lt;/span&gt;&lt;br&gt;}" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=14;align=left;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=0" vertex="1" parent="adnzH4fcz1N0Ao_FEyhF-1">
+          <mxGeometry x="812.5" y="580" width="175" height="86" as="geometry"/>
+        </mxCell>
+        <mxCell id="AqgxiKOIDsfgCdRJY1Fv-0" value="Card&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=23;align=center;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="adnzH4fcz1N0Ao_FEyhF-1">
+          <mxGeometry x="1040" y="490" width="230" height="190" as="geometry"/>
+        </mxCell>
+        <mxCell id="AqgxiKOIDsfgCdRJY1Fv-1" value="title = &#39;Snowy Mountain&#39;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=14;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=0" vertex="1" parent="adnzH4fcz1N0Ao_FEyhF-1">
+          <mxGeometry x="1068" y="540" width="175" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="AqgxiKOIDsfgCdRJY1Fv-2" value="showInDOM() {&lt;br&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;&amp;nbsp; &amp;nbsp; return `&amp;lt;p&amp;gt;${this.title}&amp;lt;/p&amp;gt;`&lt;/span&gt;&lt;br&gt;}" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=14;align=left;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=0" vertex="1" parent="adnzH4fcz1N0Ao_FEyhF-1">
+          <mxGeometry x="1067.5" y="580" width="175" height="86" as="geometry"/>
+        </mxCell>
+        <mxCell id="AqgxiKOIDsfgCdRJY1Fv-3" value="Card&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=23;align=center;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="adnzH4fcz1N0Ao_FEyhF-1">
+          <mxGeometry x="1295" y="490" width="230" height="190" as="geometry"/>
+        </mxCell>
+        <mxCell id="AqgxiKOIDsfgCdRJY1Fv-4" value="title = &#39;Biking&#39;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=14;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=0" vertex="1" parent="adnzH4fcz1N0Ao_FEyhF-1">
+          <mxGeometry x="1323" y="540" width="175" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="AqgxiKOIDsfgCdRJY1Fv-5" value="showInDOM() {&lt;br&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;&amp;nbsp; &amp;nbsp; return `&amp;lt;p&amp;gt;${this.title}&amp;lt;/p&amp;gt;`&lt;/span&gt;&lt;br&gt;}" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=14;align=left;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=0" vertex="1" parent="adnzH4fcz1N0Ao_FEyhF-1">
+          <mxGeometry x="1322.5" y="580" width="175" height="86" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="nmtQqC1balMuFEtSkYYF" name="23 - eval">
-    <mxGraphModel dx="674" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="ukuIM1R_aagDlJidlHbA-0"/>
         <mxCell id="ukuIM1R_aagDlJidlHbA-1" parent="ukuIM1R_aagDlJidlHbA-0"/>
