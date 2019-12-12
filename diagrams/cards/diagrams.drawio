@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-12T16:31:24.458Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="TGk2Nu_RmeJIziXCTUwx" version="12.3.9" type="github" pages="28">
+<mxfile host="www.draw.io" modified="2019-12-12T17:06:12.755Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="YOhIs_mNf10IhiIqxbCD" version="12.3.9" type="github" pages="28">
   <diagram id="wNm0hHR1j8DfDaz-g-fx" name="01 - mockup">
     <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -172,7 +172,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HFtEEiQaUkdp_tGvUGhK" name="08 - html">
-    <mxGraphModel dx="890" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="ep7cT4W1IJBfOBTpqcyn-0"/>
         <mxCell id="ep7cT4W1IJBfOBTpqcyn-1" parent="ep7cT4W1IJBfOBTpqcyn-0"/>
@@ -238,9 +238,6 @@
         <mxCell id="_9W9IZg4XbyQCaEvctCn-3" value="app.component.css" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=17;align=center;fontStyle=1" vertex="1" parent="_9W9IZg4XbyQCaEvctCn-1">
           <mxGeometry x="905" y="380" width="180" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="_9W9IZg4XbyQCaEvctCn-4" value="styles.css" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=17;align=center;fontStyle=1" vertex="1" parent="_9W9IZg4XbyQCaEvctCn-1">
-          <mxGeometry x="905" y="310" width="180" height="60" as="geometry"/>
-        </mxCell>
         <mxCell id="_9W9IZg4XbyQCaEvctCn-5" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;fontSize=17;" vertex="1" parent="_9W9IZg4XbyQCaEvctCn-1">
           <mxGeometry x="370" y="140" width="400" height="390" as="geometry"/>
         </mxCell>
@@ -276,6 +273,9 @@
         </mxCell>
         <mxCell id="_9W9IZg4XbyQCaEvctCn-16" value="CSS in here applies to &lt;i&gt;only&lt;/i&gt;&amp;nbsp;HTML created by the app.component.html file" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;" vertex="1" parent="_9W9IZg4XbyQCaEvctCn-1">
           <mxGeometry x="1120" y="400" width="170" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="_9W9IZg4XbyQCaEvctCn-4" value="styles.css" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=17;align=center;fontStyle=1" vertex="1" parent="_9W9IZg4XbyQCaEvctCn-1">
+          <mxGeometry x="905" y="310" width="180" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
