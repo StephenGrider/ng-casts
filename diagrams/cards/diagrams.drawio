@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-12T17:28:21.592Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="OBRd1wbDx-GSrsB2D9kd" version="12.3.9" type="github" pages="27">
+<mxfile host="www.draw.io" modified="2019-12-12T17:31:16.458Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="6RF2Zexgqc7SL9V1UeX-" version="12.3.9" type="github" pages="27">
   <diagram id="wNm0hHR1j8DfDaz-g-fx" name="01 - mockup">
     <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -608,13 +608,13 @@
           <mxGeometry x="1330" y="530" width="160" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="46wjja3ZD0K6kKO4rxtu-14" value="{ title: &#39;Tree&#39;, img: &#39;tree.jpeg&#39; }" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=14;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=0" vertex="1" parent="46wjja3ZD0K6kKO4rxtu-1">
-          <mxGeometry x="770" y="420" width="260" height="30" as="geometry"/>
+          <mxGeometry x="1030" y="245" width="260" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="9Vu29U4IX7EU35ou3dt7-0" value="{ title: &#39;Mountain&#39;, img: &#39;mountain.jpeg&#39; }" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=14;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=0" vertex="1" parent="46wjja3ZD0K6kKO4rxtu-1">
-          <mxGeometry x="1025" y="450" width="260" height="30" as="geometry"/>
+          <mxGeometry x="1030" y="275" width="260" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="9Vu29U4IX7EU35ou3dt7-1" value="{ title: &#39;Biking&#39;, img: &#39;biking.jpeg&#39; }" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=14;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=0" vertex="1" parent="46wjja3ZD0K6kKO4rxtu-1">
-          <mxGeometry x="1300" y="470" width="260" height="30" as="geometry"/>
+          <mxGeometry x="1030" y="305" width="260" height="30" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
