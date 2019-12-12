@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-12T17:09:12.117Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="RwoBHGyEruJybEezh8-p" version="12.3.9" type="github" pages="27">
+<mxfile host="www.draw.io" modified="2019-12-12T17:20:43.846Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="nY-BeDmyv5Pet3dDW9Tx" version="12.3.9" type="github" pages="27">
   <diagram id="wNm0hHR1j8DfDaz-g-fx" name="01 - mockup">
     <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -507,10 +507,10 @@
           <mxGeometry x="500" y="315" width="220" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="X9PlUXdE4tL75p-iyYZm-8" value="Angular Component Registry" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fillColor=#d5e8d4;fontSize=18;align=center;strokeColor=#82b366;fontStyle=1" vertex="1" parent="lz0fHmuvKYFgBpNFl8_p-1">
-          <mxGeometry x="810" y="280" width="270" height="40" as="geometry"/>
+          <mxGeometry x="810" y="640" width="290" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="X9PlUXdE4tL75p-iyYZm-9" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=18;align=center;" vertex="1" parent="lz0fHmuvKYFgBpNFl8_p-1">
-          <mxGeometry x="810" y="320" width="270" height="200" as="geometry"/>
+          <mxGeometry x="810" y="680" width="290" height="200" as="geometry"/>
         </mxCell>
         <mxCell id="X9PlUXdE4tL75p-iyYZm-11" value="" style="shape=tape;whiteSpace=wrap;html=1;shadow=0;fontSize=14;align=center;rotation=90;size=0.05;" vertex="1" parent="lz0fHmuvKYFgBpNFl8_p-1">
           <mxGeometry x="525" y="335" width="170" height="300" as="geometry"/>
@@ -520,6 +520,18 @@
         </mxCell>
         <mxCell id="X9PlUXdE4tL75p-iyYZm-13" value="&amp;lt;p&amp;gt;card works!&amp;lt;/p&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=14;align=center;" vertex="1" parent="lz0fHmuvKYFgBpNFl8_p-1">
           <mxGeometry x="510" y="465" width="220" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="7VFZAfIGU1p-RJwpwb-a-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=1;fontSize=17;" edge="1" parent="lz0fHmuvKYFgBpNFl8_p-1" source="7VFZAfIGU1p-RJwpwb-a-0" target="7VFZAfIGU1p-RJwpwb-a-2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="7VFZAfIGU1p-RJwpwb-a-0" value="&amp;lt;app-card&amp;gt;&amp;lt;/app-card&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=14;align=center;" vertex="1" parent="lz0fHmuvKYFgBpNFl8_p-1">
+          <mxGeometry x="820" y="710" width="100" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="7VFZAfIGU1p-RJwpwb-a-2" value="&amp;lt;p&amp;gt;card works!&amp;lt;/p&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=14;align=center;" vertex="1" parent="lz0fHmuvKYFgBpNFl8_p-1">
+          <mxGeometry x="950" y="710" width="130" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="7VFZAfIGU1p-RJwpwb-a-4" value="&amp;lt;p&amp;gt;card works!&amp;lt;/p&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=14;align=center;" vertex="1" parent="lz0fHmuvKYFgBpNFl8_p-1">
+          <mxGeometry x="500" y="750" width="230" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
