@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-11T22:17:22.932Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="9CqdKQgN2IIpfDJyp83R" version="12.3.9" type="github" pages="28">
+<mxfile host="www.draw.io" modified="2019-12-12T16:11:09.405Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="TuMWyRNwt2R9SRUR6VRG" version="12.3.9" type="github" pages="28">
   <diagram id="wNm0hHR1j8DfDaz-g-fx" name="01 - mockup">
     <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -103,7 +103,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="EsukM9emHEQggEpLVP8b" name="05 - starting">
-    <mxGraphModel dx="670" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="Gtz-vePYglsYfXFp07V5-0"/>
         <mxCell id="Gtz-vePYglsYfXFp07V5-1" parent="Gtz-vePYglsYfXFp07V5-0"/>
@@ -123,7 +123,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="06 - stopping" id="Z6sMq3LHS333QTRRN71V">
-    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="668" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="Mxy4JPP_Kkv1bhCZnXia-0"/>
         <mxCell id="Mxy4JPP_Kkv1bhCZnXia-1" parent="Mxy4JPP_Kkv1bhCZnXia-0"/>
@@ -141,23 +141,38 @@
       <root>
         <mxCell id="gVYkmphiJN-5dQv8ovjq-0"/>
         <mxCell id="gVYkmphiJN-5dQv8ovjq-1" parent="gVYkmphiJN-5dQv8ovjq-0"/>
-        <mxCell id="gVYkmphiJN-5dQv8ovjq-2" value="Add a traditional &#39;link&#39; tag to our HTML file" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=19;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="gVYkmphiJN-5dQv8ovjq-1">
-          <mxGeometry x="495" y="200" width="400" height="70" as="geometry"/>
-        </mxCell>
         <mxCell id="gVYkmphiJN-5dQv8ovjq-3" value="Adding Outside CSS to an Angular Project" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=19;fontStyle=1" vertex="1" parent="gVYkmphiJN-5dQv8ovjq-1">
-          <mxGeometry x="560" y="140" width="270" height="50" as="geometry"/>
+          <mxGeometry x="560" y="160" width="270" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="gVYkmphiJN-5dQv8ovjq-5" value="Install the CSS as an NPM module, then &#39;import&#39; it into our project" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=19;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="gVYkmphiJN-5dQv8ovjq-1">
-          <mxGeometry x="495" y="310" width="400" height="70" as="geometry"/>
+        <mxCell id="2BqYw2P1gHlWPaQRpx_X-2" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Install the CSS as an NPM module, then &#39;import&#39; it into our project&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=13;fontStyle=2" vertex="1" parent="gVYkmphiJN-5dQv8ovjq-1">
+          <mxGeometry x="537.5" y="220" width="315" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="gVYkmphiJN-5dQv8ovjq-7" value="&lt;b&gt;or&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=19;" vertex="1" parent="gVYkmphiJN-5dQv8ovjq-1">
-          <mxGeometry x="675" y="280" width="40" height="20" as="geometry"/>
+        <mxCell id="2BqYw2P1gHlWPaQRpx_X-3" value="node_modules" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=17;align=center;" vertex="1" parent="gVYkmphiJN-5dQv8ovjq-1">
+          <mxGeometry x="430.5" y="260" width="172" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="2BqYw2P1gHlWPaQRpx_X-4" value="bulma" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=17;align=center;" vertex="1" parent="gVYkmphiJN-5dQv8ovjq-1">
+          <mxGeometry x="457.5" y="300" width="172" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="2BqYw2P1gHlWPaQRpx_X-5" value="css" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=17;align=center;" vertex="1" parent="gVYkmphiJN-5dQv8ovjq-1">
+          <mxGeometry x="487.5" y="340" width="172" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="2BqYw2P1gHlWPaQRpx_X-6" value="bulma.css" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=17;align=center;" vertex="1" parent="gVYkmphiJN-5dQv8ovjq-1">
+          <mxGeometry x="517.5" y="380" width="172" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="2BqYw2P1gHlWPaQRpx_X-7" value="styles.css&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=17;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="gVYkmphiJN-5dQv8ovjq-1">
+          <mxGeometry x="728" y="270" width="230" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="2BqYw2P1gHlWPaQRpx_X-8" value="import &#39;bulma/css/bulma.css&#39;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=17;" vertex="1" parent="gVYkmphiJN-5dQv8ovjq-1">
+          <mxGeometry x="725" y="320" width="235" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="2BqYw2P1gHlWPaQRpx_X-9" value="&lt;i&gt;styles.css is a &#39;global&#39; css file - we put CSS in there that should affect *everything* in our project&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=17;" vertex="1" parent="gVYkmphiJN-5dQv8ovjq-1">
+          <mxGeometry x="694" y="430" width="317" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="HFtEEiQaUkdp_tGvUGhK" name="08 - html">
-    <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="890" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="ep7cT4W1IJBfOBTpqcyn-0"/>
         <mxCell id="ep7cT4W1IJBfOBTpqcyn-1" parent="ep7cT4W1IJBfOBTpqcyn-0"/>
