@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-12T18:06:39.859Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="U__cqzMPMbGABipK4tgp" version="12.3.9" type="github" pages="27">
+<mxfile host="www.draw.io" modified="2019-12-12T18:17:26.575Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="HP4ZVTl0LFVMmvZgMamr" version="12.3.9" type="github" pages="27">
   <diagram id="wNm0hHR1j8DfDaz-g-fx" name="01 - mockup">
     <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -837,7 +837,7 @@
         <mxCell id="ukuIM1R_aagDlJidlHbA-2" value="&amp;lt;app-card" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=16;align=center;" vertex="1" parent="ukuIM1R_aagDlJidlHbA-1">
           <mxGeometry x="430" y="300" width="100" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="ukuIM1R_aagDlJidlHbA-3" value="title" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=16;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ukuIM1R_aagDlJidlHbA-1">
+        <mxCell id="ukuIM1R_aagDlJidlHbA-3" value="post" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=16;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ukuIM1R_aagDlJidlHbA-1">
           <mxGeometry x="560" y="300" width="70" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="ukuIM1R_aagDlJidlHbA-4" value="......." style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=16;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ukuIM1R_aagDlJidlHbA-1">
