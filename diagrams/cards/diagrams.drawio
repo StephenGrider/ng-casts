@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-12T17:06:12.755Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="YOhIs_mNf10IhiIqxbCD" version="12.3.9" type="github" pages="28">
+<mxfile host="www.draw.io" modified="2019-12-12T17:07:33.785Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="qYI6QVAl6AWWrzYUC1sj" version="12.3.9" type="github" pages="28">
   <diagram id="wNm0hHR1j8DfDaz-g-fx" name="01 - mockup">
     <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -304,7 +304,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="12 - dup" id="XQ3hEsVTJPNNK_dRafF9">
-    <mxGraphModel dx="660" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="cTqAMmKIjIdJETUr7Sme-0"/>
         <mxCell id="cTqAMmKIjIdJETUr7Sme-1" parent="cTqAMmKIjIdJETUr7Sme-0"/>
@@ -349,7 +349,7 @@
         <mxCell id="-K9gedjwKWyqqD3DGX9I-2" value="Each component is designed to implement one &#39;thing&#39; in the app that is visible on the screen" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=14;align=center;" vertex="1" parent="GjF4UAg_ujHjQLzV3iAs-1">
           <mxGeometry x="460" y="308" width="440" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="-K9gedjwKWyqqD3DGX9I-3" value="Each component has its own Component Class, Component Template, and Component CSS File" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=14;align=center;" vertex="1" parent="GjF4UAg_ujHjQLzV3iAs-1">
+        <mxCell id="-K9gedjwKWyqqD3DGX9I-3" value="Each component has its own Component Class, Component Template, Component CSS File, and Spec File" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=14;align=center;" vertex="1" parent="GjF4UAg_ujHjQLzV3iAs-1">
           <mxGeometry x="460" y="550" width="440" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="-K9gedjwKWyqqD3DGX9I-4" value="Components can be &lt;i&gt;nested, &lt;/i&gt;or shown inside of each other" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=14;align=center;" vertex="1" parent="GjF4UAg_ujHjQLzV3iAs-1">
