@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-12T23:06:19.366Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="7j227KHBpRu3_5B78D_w" version="12.4.1" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2019-12-12T23:16:16.934Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="q-eq6O6JMtOLtnEN1X2n" version="12.4.1" type="github" pages="5">
   <diagram id="0a6zaEy4hQcd1dX3Yh7J" name="01 - mockup">
     <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -99,6 +99,44 @@
         </mxCell>
         <mxCell id="bwjWbr0w10KBlKLQV_8o-3" value="Control C" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=30;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="bwjWbr0w10KBlKLQV_8o-1">
           <mxGeometry x="535" y="230" width="400" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ZQ-Z7I4IdlbcSk4md7-B" name="05 - parts">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="SeYP6mRYzNC1TdupC_3W-0"/>
+        <mxCell id="SeYP6mRYzNC1TdupC_3W-1" parent="SeYP6mRYzNC1TdupC_3W-0"/>
+        <mxCell id="SeYP6mRYzNC1TdupC_3W-5" value="851" style="rounded=0;whiteSpace=wrap;html=1;fontSize=23;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="SeYP6mRYzNC1TdupC_3W-1">
+          <mxGeometry x="420" y="300" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="SeYP6mRYzNC1TdupC_3W-6" value="951" style="rounded=0;whiteSpace=wrap;html=1;fontSize=23;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="SeYP6mRYzNC1TdupC_3W-1">
+          <mxGeometry x="560" y="300" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="SeYP6mRYzNC1TdupC_3W-7" value="2963" style="rounded=0;whiteSpace=wrap;html=1;fontSize=23;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="SeYP6mRYzNC1TdupC_3W-1">
+          <mxGeometry x="700" y="300" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="SeYP6mRYzNC1TdupC_3W-8" value="Parts of a North American Phone Number" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;fontStyle=1" vertex="1" parent="SeYP6mRYzNC1TdupC_3W-1">
+          <mxGeometry x="465" y="250" width="310" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="SeYP6mRYzNC1TdupC_3W-9" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontSize=23;rotation=-90;" vertex="1" parent="SeYP6mRYzNC1TdupC_3W-1">
+          <mxGeometry x="470" y="320" width="20" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="SeYP6mRYzNC1TdupC_3W-10" value="Area Code" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="SeYP6mRYzNC1TdupC_3W-1">
+          <mxGeometry x="425" y="390" width="110" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="SeYP6mRYzNC1TdupC_3W-11" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontSize=23;rotation=-90;" vertex="1" parent="SeYP6mRYzNC1TdupC_3W-1">
+          <mxGeometry x="610" y="320" width="20" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="SeYP6mRYzNC1TdupC_3W-12" value="Exchange Code" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="SeYP6mRYzNC1TdupC_3W-1">
+          <mxGeometry x="565" y="390" width="110" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="SeYP6mRYzNC1TdupC_3W-13" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontSize=23;rotation=-90;" vertex="1" parent="SeYP6mRYzNC1TdupC_3W-1">
+          <mxGeometry x="750" y="320" width="20" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="SeYP6mRYzNC1TdupC_3W-14" value="Line Number" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="SeYP6mRYzNC1TdupC_3W-1">
+          <mxGeometry x="705" y="390" width="110" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
