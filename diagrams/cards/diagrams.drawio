@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-12T17:20:43.846Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="nY-BeDmyv5Pet3dDW9Tx" version="12.3.9" type="github" pages="27">
+<mxfile host="www.draw.io" modified="2019-12-12T17:22:14.810Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="yrGnpRup6c-YiaJ68ZYi" version="12.3.9" type="github" pages="27">
   <diagram id="wNm0hHR1j8DfDaz-g-fx" name="01 - mockup">
     <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -595,8 +595,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="46wjja3ZD0K6kKO4rxtu-8" value="App" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=23;align=center;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="46wjja3ZD0K6kKO4rxtu-1">
-          <mxGeometry x="1030" y="290" width="250" height="60" as="geometry"/>
+        <mxCell id="46wjja3ZD0K6kKO4rxtu-8" value="App&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=23;align=center;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="46wjja3ZD0K6kKO4rxtu-1">
+          <mxGeometry x="1000" y="200" width="310" height="150" as="geometry"/>
         </mxCell>
         <mxCell id="46wjja3ZD0K6kKO4rxtu-9" value="Good Approach!" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fillColor=#d5e8d4;fontSize=21;align=center;strokeColor=#82b366;" vertex="1" parent="46wjja3ZD0K6kKO4rxtu-1">
           <mxGeometry x="730" y="230" width="200" height="60" as="geometry"/>
@@ -607,32 +607,14 @@
         <mxCell id="46wjja3ZD0K6kKO4rxtu-11" value="Card" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=23;align=center;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="46wjja3ZD0K6kKO4rxtu-1">
           <mxGeometry x="1330" y="530" width="160" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="46wjja3ZD0K6kKO4rxtu-14" value="title = &#39;Neat Tree&#39;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=14;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=0" vertex="1" parent="46wjja3ZD0K6kKO4rxtu-1">
-          <mxGeometry x="900" y="400" width="150" height="30" as="geometry"/>
+        <mxCell id="46wjja3ZD0K6kKO4rxtu-14" value="{ title: &#39;Tree&#39;, img: &#39;tree.jpeg&#39; }" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=14;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=0" vertex="1" parent="46wjja3ZD0K6kKO4rxtu-1">
+          <mxGeometry x="1025" y="250" width="260" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="jCT6ThKCNqXsh-2THEQW-0" value="img = &#39;tree.jpeg&#39;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=14;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=0" vertex="1" parent="46wjja3ZD0K6kKO4rxtu-1">
-          <mxGeometry x="900" y="430" width="150" height="30" as="geometry"/>
+        <mxCell id="9Vu29U4IX7EU35ou3dt7-0" value="{ title: &#39;Mountain&#39;, img: &#39;mountain.jpeg&#39; }" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=14;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=0" vertex="1" parent="46wjja3ZD0K6kKO4rxtu-1">
+          <mxGeometry x="1025" y="280" width="260" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="jCT6ThKCNqXsh-2THEQW-1" value="username = &#39;@nature&#39;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=14;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=0" vertex="1" parent="46wjja3ZD0K6kKO4rxtu-1">
-          <mxGeometry x="900" y="460" width="150" height="30" as="geometry"/>
-        </mxCell>
-        <mxCell id="jCT6ThKCNqXsh-2THEQW-2" value="title = &#39;Mountains&#39;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=14;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=0" vertex="1" parent="46wjja3ZD0K6kKO4rxtu-1">
-          <mxGeometry x="1155" y="400" width="150" height="30" as="geometry"/>
-        </mxCell>
-        <mxCell id="jCT6ThKCNqXsh-2THEQW-3" value="img = &#39;mountains.jpeg&#39;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=14;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=0" vertex="1" parent="46wjja3ZD0K6kKO4rxtu-1">
-          <mxGeometry x="1155" y="430" width="150" height="30" as="geometry"/>
-        </mxCell>
-        <mxCell id="jCT6ThKCNqXsh-2THEQW-4" value="username = &#39;@hiking&#39;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=14;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=0" vertex="1" parent="46wjja3ZD0K6kKO4rxtu-1">
-          <mxGeometry x="1155" y="460" width="150" height="30" as="geometry"/>
-        </mxCell>
-        <mxCell id="jCT6ThKCNqXsh-2THEQW-5" value="title = &#39;Biking&#39;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=14;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=0" vertex="1" parent="46wjja3ZD0K6kKO4rxtu-1">
-          <mxGeometry x="1410" y="400" width="150" height="30" as="geometry"/>
-        </mxCell>
-        <mxCell id="jCT6ThKCNqXsh-2THEQW-6" value="img = &#39;biking.jpeg&#39;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=14;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=0" vertex="1" parent="46wjja3ZD0K6kKO4rxtu-1">
-          <mxGeometry x="1410" y="430" width="150" height="30" as="geometry"/>
-        </mxCell>
-        <mxCell id="jCT6ThKCNqXsh-2THEQW-7" value="username = &#39;@biking&#39;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=14;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=0" vertex="1" parent="46wjja3ZD0K6kKO4rxtu-1">
-          <mxGeometry x="1410" y="460" width="150" height="30" as="geometry"/>
+        <mxCell id="9Vu29U4IX7EU35ou3dt7-1" value="{ title: &#39;Biking&#39;, img: &#39;biking.jpeg&#39; }" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=14;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=0" vertex="1" parent="46wjja3ZD0K6kKO4rxtu-1">
+          <mxGeometry x="1025" y="310" width="260" height="30" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
