@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-13T20:30:32.000Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="xJC56k9u6StYU2rDQ7C7" version="12.4.1" type="github" pages="12">
+<mxfile host="www.draw.io" modified="2019-12-13T21:17:53.108Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="mGEEdgFepC7jYMVgWnNP" version="12.4.1" type="github" pages="13">
   <diagram id="0a6zaEy4hQcd1dX3Yh7J" name="01 - mockup">
     <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -232,7 +232,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nvQ3yyL4CqmvTGPk0FcQ" name="10 - traditional js">
-    <mxGraphModel dx="678" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="CZIfyaiNJy9VO-8NQMic-0"/>
         <mxCell id="CZIfyaiNJy9VO-8NQMic-1" parent="CZIfyaiNJy9VO-8NQMic-0"/>
@@ -383,6 +383,62 @@
         </mxCell>
         <mxCell id="TlPnMGS7_lltnwMoi6Jn-12" value="Get information out of events" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="iuw4gxSDOid2lr3R7tPK-1">
           <mxGeometry x="960" y="265" width="110" height="20" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="13 - todo" id="URatXhZ6cYIShlshccn1">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="SVlPzd1m87uEmh-MvZAj-0"/>
+        <mxCell id="SVlPzd1m87uEmh-MvZAj-1" parent="SVlPzd1m87uEmh-MvZAj-0"/>
+        <mxCell id="SVlPzd1m87uEmh-MvZAj-2" value="User enters a password length" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="SVlPzd1m87uEmh-MvZAj-1">
+          <mxGeometry x="540" y="180" width="350" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="SVlPzd1m87uEmh-MvZAj-3" value="Angular Approach" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="SVlPzd1m87uEmh-MvZAj-1">
+          <mxGeometry x="592.5" y="150" width="245" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="SVlPzd1m87uEmh-MvZAj-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=13;" edge="1" parent="SVlPzd1m87uEmh-MvZAj-1" source="SVlPzd1m87uEmh-MvZAj-4" target="SVlPzd1m87uEmh-MvZAj-11">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="SVlPzd1m87uEmh-MvZAj-4" value="Event handler triggered, we store the value as a &lt;i style=&quot;font-size: 12px;&quot;&gt;property&lt;/i&gt;&amp;nbsp;on our component class instance" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="SVlPzd1m87uEmh-MvZAj-1">
+          <mxGeometry x="540" y="220" width="350" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="SVlPzd1m87uEmh-MvZAj-5" value="User checks the &#39;Include Letters&#39; checkbox" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="SVlPzd1m87uEmh-MvZAj-1">
+          <mxGeometry x="540" y="260" width="350" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="SVlPzd1m87uEmh-MvZAj-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=13;" edge="1" parent="SVlPzd1m87uEmh-MvZAj-1" source="SVlPzd1m87uEmh-MvZAj-6" target="SVlPzd1m87uEmh-MvZAj-15">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="SVlPzd1m87uEmh-MvZAj-6" value="Event handler triggered, we store the value as a &lt;i&gt;property&lt;/i&gt;&amp;nbsp;on our component class instance" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="SVlPzd1m87uEmh-MvZAj-1">
+          <mxGeometry x="540" y="300" width="350" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="SVlPzd1m87uEmh-MvZAj-7" value="User clicks the &#39;Generate&#39; button" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="SVlPzd1m87uEmh-MvZAj-1">
+          <mxGeometry x="540" y="340" width="350" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="SVlPzd1m87uEmh-MvZAj-8" value="Event handler triggered, we generate a password using the properties collected earlier" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="SVlPzd1m87uEmh-MvZAj-1">
+          <mxGeometry x="540" y="380" width="350" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="SVlPzd1m87uEmh-MvZAj-9" value="We update a &#39;password&#39; property on the component class instance, which causes an update of the &#39;output&#39; input" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="SVlPzd1m87uEmh-MvZAj-1">
+          <mxGeometry x="540" y="420" width="350" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="SVlPzd1m87uEmh-MvZAj-10" value="" style="endArrow=classic;html=1;fontSize=13;" edge="1" parent="SVlPzd1m87uEmh-MvZAj-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="533" y="180" as="sourcePoint"/>
+            <mxPoint x="533" y="450" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SVlPzd1m87uEmh-MvZAj-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="SVlPzd1m87uEmh-MvZAj-1" source="SVlPzd1m87uEmh-MvZAj-11" target="SVlPzd1m87uEmh-MvZAj-7">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="SVlPzd1m87uEmh-MvZAj-11" value="Need event handler to detect change + property on component class so the value can be used later" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="SVlPzd1m87uEmh-MvZAj-1">
+          <mxGeometry x="1100" y="270" width="120" height="65" as="geometry"/>
+        </mxCell>
+        <mxCell id="SVlPzd1m87uEmh-MvZAj-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="SVlPzd1m87uEmh-MvZAj-1" source="SVlPzd1m87uEmh-MvZAj-15" target="SVlPzd1m87uEmh-MvZAj-7">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="SVlPzd1m87uEmh-MvZAj-15" value="Need event handler to detect change + property on component class so the value can be used later" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="SVlPzd1m87uEmh-MvZAj-1">
+          <mxGeometry x="960" y="270" width="120" height="65" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
