@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-13T18:05:25.971Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="K4sK004ZVqEeT2LR_oQ2" version="12.4.1" type="github" pages="6">
+<mxfile host="www.draw.io" modified="2019-12-13T18:11:40.714Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="j9qPU_zpcelDpdl5NxJa" version="12.4.1" type="github" pages="7">
   <diagram id="0a6zaEy4hQcd1dX3Yh7J" name="01 - mockup">
     <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -181,6 +181,32 @@
         </mxCell>
         <mxCell id="t1_MEHv6XdMi_s8i_Gs--15" value="&lt;i&gt;view-to-source&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="t1_MEHv6XdMi_s8i_Gs--1">
           <mxGeometry x="640" y="393" width="120" height="20" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="t_MxfReOixAy8ZWsB-s9" name="07 - event">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="y0Z6RxN4GfncM5O6bKpv-0"/>
+        <mxCell id="y0Z6RxN4GfncM5O6bKpv-1" parent="y0Z6RxN4GfncM5O6bKpv-0"/>
+        <mxCell id="y0Z6RxN4GfncM5O6bKpv-2" value="&amp;lt;button (&lt;b&gt;click&lt;/b&gt;)=&quot;&lt;b&gt;onButtonClick()&lt;/b&gt;&quot;&amp;gt;&amp;lt;/button&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=16;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="y0Z6RxN4GfncM5O6bKpv-1">
+          <mxGeometry x="430" y="300" width="520" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="y0Z6RxN4GfncM5O6bKpv-9" value="What to do when the button gets clicked.&amp;nbsp; Evaluated as CODE!" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=16;fontStyle=2" vertex="1" parent="y0Z6RxN4GfncM5O6bKpv-1">
+          <mxGeometry x="626" y="400" width="166" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="y0Z6RxN4GfncM5O6bKpv-13" value="Name of the event we want to watch for" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=16;fontStyle=2" vertex="1" parent="y0Z6RxN4GfncM5O6bKpv-1">
+          <mxGeometry x="533" y="249" width="155" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="y0Z6RxN4GfncM5O6bKpv-14" value="Event Binding Syntax" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=14;align=center;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" vertex="1" parent="y0Z6RxN4GfncM5O6bKpv-1">
+          <mxGeometry x="800" y="175" width="190" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="y0Z6RxN4GfncM5O6bKpv-8" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;fillColor=none;fontSize=16;align=center;rotation=-90;" vertex="1" parent="y0Z6RxN4GfncM5O6bKpv-1">
+          <mxGeometry x="684" y="307" width="50" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="y0Z6RxN4GfncM5O6bKpv-10" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;fillColor=none;fontSize=16;align=center;rotation=90;size=0.45;" vertex="1" parent="y0Z6RxN4GfncM5O6bKpv-1">
+          <mxGeometry x="588" y="278" width="45" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
