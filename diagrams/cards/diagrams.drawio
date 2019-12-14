@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-14T21:04:55.867Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="aSay5KYJ5gAeG_hfdmXW" version="12.3.9" type="github" pages="25">
+<mxfile host="www.draw.io" modified="2019-12-14T21:41:09.671Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="L7qdEC8L_yTVy2X7J4HW" version="12.3.9" type="github" pages="25">
   <diagram id="4bgd4jEZKWUyR7dDpXIj" name="00 - plan">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -161,7 +161,7 @@
           <mxGeometry x="775" y="260" width="40" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="HjYMhf8E549Qo8oz1tGc-4" value="&amp;lt;div class=&quot;card&quot;&amp;gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; ...&lt;br style=&quot;font-size: 15px&quot;&gt;&amp;lt;/div&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=15;" vertex="1" parent="hRR-7Hs_TooWuQSynTgj-1">
-          <mxGeometry x="460" y="320" width="140" height="20" as="geometry"/>
+          <mxGeometry x="725" y="320" width="140" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="HjYMhf8E549Qo8oz1tGc-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=1;fontSize=15;" edge="1" parent="hRR-7Hs_TooWuQSynTgj-1" source="HjYMhf8E549Qo8oz1tGc-5" target="HjYMhf8E549Qo8oz1tGc-0">
           <mxGeometry relative="1" as="geometry"/>
@@ -182,7 +182,7 @@
           <mxGeometry x="705" y="540" width="180" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="HjYMhf8E549Qo8oz1tGc-11" value=".card {&lt;br&gt;&amp;nbsp; width: 350px;&lt;br&gt;}" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=15;" vertex="1" parent="hRR-7Hs_TooWuQSynTgj-1">
-          <mxGeometry x="460" y="470" width="140" height="60" as="geometry"/>
+          <mxGeometry x="730" y="470" width="140" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
@@ -388,11 +388,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="46wjja3ZD0K6kKO4rxtu-8" value="App&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=23;align=center;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="46wjja3ZD0K6kKO4rxtu-1">
-          <mxGeometry x="1000" y="200" width="310" height="150" as="geometry"/>
-        </mxCell>
-        <mxCell id="46wjja3ZD0K6kKO4rxtu-9" value="Good Approach!" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fillColor=#d5e8d4;fontSize=21;align=center;strokeColor=#82b366;" vertex="1" parent="46wjja3ZD0K6kKO4rxtu-1">
-          <mxGeometry x="730" y="230" width="200" height="60" as="geometry"/>
+        <mxCell id="46wjja3ZD0K6kKO4rxtu-8" value="App" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=23;align=center;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="46wjja3ZD0K6kKO4rxtu-1">
+          <mxGeometry x="1000" y="270" width="310" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="46wjja3ZD0K6kKO4rxtu-10" value="Card" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=23;align=center;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="46wjja3ZD0K6kKO4rxtu-1">
           <mxGeometry x="1075" y="530" width="160" height="60" as="geometry"/>
@@ -400,14 +397,14 @@
         <mxCell id="46wjja3ZD0K6kKO4rxtu-11" value="Card" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=23;align=center;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="46wjja3ZD0K6kKO4rxtu-1">
           <mxGeometry x="1330" y="530" width="160" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="46wjja3ZD0K6kKO4rxtu-14" value="{ title: &#39;Tree&#39;, img: &#39;tree.jpeg&#39; }" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=14;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=0" vertex="1" parent="46wjja3ZD0K6kKO4rxtu-1">
-          <mxGeometry x="790" y="390" width="260" height="30" as="geometry"/>
+        <mxCell id="46wjja3ZD0K6kKO4rxtu-14" value="title = &#39;Neat Tree&#39;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=14;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=0" vertex="1" parent="46wjja3ZD0K6kKO4rxtu-1">
+          <mxGeometry x="900" y="430" width="180" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="9Vu29U4IX7EU35ou3dt7-0" value="{ title: &#39;Mountain&#39;, img: &#39;mountain.jpeg&#39; }" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=14;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=0" vertex="1" parent="46wjja3ZD0K6kKO4rxtu-1">
-          <mxGeometry x="1040" y="440" width="260" height="30" as="geometry"/>
+        <mxCell id="9Vu29U4IX7EU35ou3dt7-0" value="title = &#39;Snowy Mountain&#39;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=14;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=0" vertex="1" parent="46wjja3ZD0K6kKO4rxtu-1">
+          <mxGeometry x="1155" y="430" width="180" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="9Vu29U4IX7EU35ou3dt7-1" value="{ title: &#39;Biking&#39;, img: &#39;biking.jpeg&#39; }" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=14;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=0" vertex="1" parent="46wjja3ZD0K6kKO4rxtu-1">
-          <mxGeometry x="1340" y="480" width="260" height="30" as="geometry"/>
+        <mxCell id="9Vu29U4IX7EU35ou3dt7-1" value="title = &#39;Mountain Biking&#39;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=14;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=0" vertex="1" parent="46wjja3ZD0K6kKO4rxtu-1">
+          <mxGeometry x="1410" y="430" width="180" height="30" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
