@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-14T17:23:28.264Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="8oJMuQVAfdYz_vmosmHp" version="12.4.1" type="github" pages="16">
+<mxfile host="www.draw.io" modified="2019-12-14T17:24:26.718Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="nkIZtaES-KVPWeEHQAAn" version="12.4.1" type="github" pages="17">
   <diagram id="0a6zaEy4hQcd1dX3Yh7J" name="01 - mockup">
     <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -677,6 +677,29 @@
         </mxCell>
         <mxCell id="yCOaRzB-dmLssU72JVTl-9" value="Free, CLI-based deployments.&amp;nbsp; Automatically figures out how to build your app" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="yCOaRzB-dmLssU72JVTl-1">
           <mxGeometry x="550" y="355" width="230" height="50" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="FPgpztXbC96VwlHIWaEu" name="17 - npx">
+    <mxGraphModel dx="498" dy="239" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="XI7wzDqshD-VvkUd2gPR-0"/>
+        <mxCell id="XI7wzDqshD-VvkUd2gPR-1" parent="XI7wzDqshD-VvkUd2gPR-0"/>
+        <mxCell id="XI7wzDqshD-VvkUd2gPR-2" value="npx now" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="XI7wzDqshD-VvkUd2gPR-1">
+          <mxGeometry x="880" y="270" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="XI7wzDqshD-VvkUd2gPR-3" value="now" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="XI7wzDqshD-VvkUd2gPR-1">
+          <mxGeometry x="730" y="270" width="90" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="XI7wzDqshD-VvkUd2gPR-5" value="npm install -g now" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="XI7wzDqshD-VvkUd2gPR-1">
+          <mxGeometry x="520" y="270" width="150" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="XI7wzDqshD-VvkUd2gPR-6" value="+" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="XI7wzDqshD-VvkUd2gPR-1">
+          <mxGeometry x="680" y="290" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="XI7wzDqshD-VvkUd2gPR-7" value="=" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="XI7wzDqshD-VvkUd2gPR-1">
+          <mxGeometry x="830" y="290" width="40" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
