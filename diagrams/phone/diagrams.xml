@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-14T17:04:48.871Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="vB6F7OAMgbc_NQn7k9R7" version="12.4.1" type="github" pages="15">
+<mxfile host="www.draw.io" modified="2019-12-14T17:23:28.264Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="8oJMuQVAfdYz_vmosmHp" version="12.4.1" type="github" pages="16">
   <diagram id="0a6zaEy4hQcd1dX3Yh7J" name="01 - mockup">
     <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -646,8 +646,37 @@
         <mxCell id="Mp9KZ7-73YU41jTFZCEl-14" value="Changes the properties of the HTML element it gets applied to" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;" vertex="1" parent="meaZ_57DcJmJa705T9yJ-1">
           <mxGeometry x="650" y="350" width="120" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="Mp9KZ7-73YU41jTFZCEl-15" value="&amp;lt;label appStrikethrough&amp;gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;lt;input type=&quot;checkbox&quot; /&amp;gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; Use Letters&lt;br&gt;&amp;lt;/label&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=13;" vertex="1" parent="meaZ_57DcJmJa705T9yJ-1">
+        <mxCell id="Mp9KZ7-73YU41jTFZCEl-15" value="&amp;lt;label appStrikethrough&amp;gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;lt;input type=&quot;checkbox&quot; /&amp;gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &lt;strike&gt;Use Letters&lt;/strike&gt;&lt;br&gt;&amp;lt;/label&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=13;" vertex="1" parent="meaZ_57DcJmJa705T9yJ-1">
           <mxGeometry x="800" y="350" width="210" height="20" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="bg9kfjAuEdT_FdDten-t" name="16 - deployment">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="yCOaRzB-dmLssU72JVTl-0"/>
+        <mxCell id="yCOaRzB-dmLssU72JVTl-1" parent="yCOaRzB-dmLssU72JVTl-0"/>
+        <mxCell id="yCOaRzB-dmLssU72JVTl-2" value="now.sh" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="yCOaRzB-dmLssU72JVTl-1">
+          <mxGeometry x="420" y="270" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="yCOaRzB-dmLssU72JVTl-3" value="surge.sh" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="yCOaRzB-dmLssU72JVTl-1">
+          <mxGeometry x="420" y="350" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="yCOaRzB-dmLssU72JVTl-5" value="Basic Deployment of Angular Apps" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontStyle=1" vertex="1" parent="yCOaRzB-dmLssU72JVTl-1">
+          <mxGeometry x="480" y="200" width="210" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="yCOaRzB-dmLssU72JVTl-6" value="" style="endArrow=none;html=1;fontSize=22;" edge="1" parent="yCOaRzB-dmLssU72JVTl-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="340" as="sourcePoint"/>
+            <mxPoint x="770" y="340" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yCOaRzB-dmLssU72JVTl-8" value="Free, CLI-based deployments.&amp;nbsp; Automatically figures out how to build your app" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="yCOaRzB-dmLssU72JVTl-1">
+          <mxGeometry x="550" y="275" width="230" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="yCOaRzB-dmLssU72JVTl-9" value="Free, CLI-based deployments.&amp;nbsp; Automatically figures out how to build your app" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="yCOaRzB-dmLssU72JVTl-1">
+          <mxGeometry x="550" y="355" width="230" height="50" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
