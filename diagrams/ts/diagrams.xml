@@ -1,1 +1,25 @@
-<mxfile host="www.draw.io" modified="2019-12-16T21:15:14.609Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" version="12.4.2" etag="xQxmp_ZcDSFUnNHUbazN" type="github"><diagram id="K5ieoUoihvHOHd8dR5Ru">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-12-16T21:17:19.404Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="hZS71bROhDw0icqrswp9" version="12.4.2" type="github" pages="1">
+  <diagram id="K5ieoUoihvHOHd8dR5Ru" name="01 - TS">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="HnmX0KyF7SV8wZ-sUBqU-2" value="Typescript" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="580" y="200" width="90" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="HnmX0KyF7SV8wZ-sUBqU-3" value="Superset of Javascript (it has all the features of JS + more)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="395" y="240" width="460" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="HnmX0KyF7SV8wZ-sUBqU-4" value="We write TS during development, but the browser still runs JS" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="395" y="300" width="460" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="HnmX0KyF7SV8wZ-sUBqU-5" value="Provides &lt;i style=&quot;font-weight: bold&quot;&gt;zero &lt;/i&gt;speed or performance benefits!" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="395" y="360" width="460" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="HnmX0KyF7SV8wZ-sUBqU-6" value="&lt;b&gt;The only goal of Typescript is to help you catch errors in your code editor instead of while your app is running&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="395" y="420" width="460" height="50" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
