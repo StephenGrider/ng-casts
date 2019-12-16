@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-16T19:18:35.502Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="ZngQRLjyxxKpRZDeU7rc" version="12.3.9" type="github" pages="22">
+<mxfile host="www.draw.io" modified="2019-12-16T20:18:38.118Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="UVUd3uwBm_xN410nJaJG" version="12.3.9" type="github" pages="22">
   <diagram id="4bgd4jEZKWUyR7dDpXIj" name="00 - plan">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -161,7 +161,7 @@
           <mxGeometry x="775" y="260" width="40" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="HjYMhf8E549Qo8oz1tGc-4" value="&amp;lt;div class=&quot;card&quot;&amp;gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; ...&lt;br style=&quot;font-size: 15px&quot;&gt;&amp;lt;/div&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=15;" vertex="1" parent="hRR-7Hs_TooWuQSynTgj-1">
-          <mxGeometry x="725" y="320" width="140" height="20" as="geometry"/>
+          <mxGeometry x="730" y="310" width="140" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="HjYMhf8E549Qo8oz1tGc-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=1;fontSize=15;" edge="1" parent="hRR-7Hs_TooWuQSynTgj-1" source="HjYMhf8E549Qo8oz1tGc-5" target="HjYMhf8E549Qo8oz1tGc-0">
           <mxGeometry relative="1" as="geometry"/>
@@ -182,7 +182,7 @@
           <mxGeometry x="705" y="540" width="180" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="HjYMhf8E549Qo8oz1tGc-11" value=".card {&lt;br&gt;&amp;nbsp; width: 350px;&lt;br&gt;}" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=15;" vertex="1" parent="hRR-7Hs_TooWuQSynTgj-1">
-          <mxGeometry x="730" y="470" width="140" height="60" as="geometry"/>
+          <mxGeometry x="740" y="470" width="140" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
@@ -517,7 +517,7 @@
         <mxCell id="2RYav-bBsrM3Ot-bhO65-0" value="&lt;br&gt;&lt;br&gt;Card Template" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=23;align=center;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="FJcTBnndvsghdtUwz2py-1">
           <mxGeometry x="1330" y="490" width="190" height="90" as="geometry"/>
         </mxCell>
-        <mxCell id="jU1qBByBYaYs3k1Dnv6q-0" value="&amp;lt;app-card title=&quot;Neat Tree&quot;&amp;gt;&amp;lt;/app-card&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=11;align=center;fontStyle=0" vertex="1" parent="FJcTBnndvsghdtUwz2py-1">
+        <mxCell id="jU1qBByBYaYs3k1Dnv6q-0" value="&amp;lt;app-card [title]=&quot;posts[0].title&amp;gt;&amp;lt;/app-card&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=11;align=center;fontStyle=0" vertex="1" parent="FJcTBnndvsghdtUwz2py-1">
           <mxGeometry x="1040" y="320" width="230" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="pjc5nwCQNb7bcL4uQx1s-0" value="title" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=11;align=center;fontStyle=0" vertex="1" parent="FJcTBnndvsghdtUwz2py-1">
