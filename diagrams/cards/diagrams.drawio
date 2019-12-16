@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-16T17:07:36.546Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="QrARpOoOTf1B58PBo6dY" version="12.3.9" type="github" pages="19">
+<mxfile host="www.draw.io" modified="2019-12-16T17:17:20.191Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="QTsSU7e9rkZqjuuhT8ko" version="12.3.9" type="github" pages="19">
   <diagram id="4bgd4jEZKWUyR7dDpXIj" name="00 - plan">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -488,12 +488,12 @@
           <mxGeometry x="1035" y="270" width="240" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="FJcTBnndvsghdtUwz2py-9" value="title = &#39;Neat Tree&#39;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=14;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=0" vertex="1" parent="FJcTBnndvsghdtUwz2py-1">
-          <mxGeometry x="1155" y="405" width="180" height="30" as="geometry"/>
+          <mxGeometry x="1155" y="400" width="180" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="Lq_eAb66pdHQyc472pvT-3" value="title" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=15;align=center;" vertex="1" parent="FJcTBnndvsghdtUwz2py-1">
           <mxGeometry x="1075" y="520" width="80" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="Lq_eAb66pdHQyc472pvT-4" value="&#39;&#39;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=15;align=center;" vertex="1" parent="FJcTBnndvsghdtUwz2py-1">
+        <mxCell id="Lq_eAb66pdHQyc472pvT-4" value="&#39;Neat Tree&#39;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=15;align=center;" vertex="1" parent="FJcTBnndvsghdtUwz2py-1">
           <mxGeometry x="1155" y="520" width="80" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="Lq_eAb66pdHQyc472pvT-5" value="Name" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=12;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=3" vertex="1" parent="FJcTBnndvsghdtUwz2py-1">
@@ -537,7 +537,7 @@
         <mxCell id="q1QC9u8V35Tv1QFmFr_g-7" value="3" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fillColor=#dae8fc;fontSize=16;align=center;strokeColor=#6c8ebf;" vertex="1" parent="q1QC9u8V35Tv1QFmFr_g-1">
           <mxGeometry x="350" y="315" width="50" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="q1QC9u8V35Tv1QFmFr_g-8" value="In the child component&#39;s &lt;i&gt;class file&lt;/i&gt;, add an &lt;i&gt;input property&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=12;align=center;" vertex="1" parent="q1QC9u8V35Tv1QFmFr_g-1">
+        <mxCell id="q1QC9u8V35Tv1QFmFr_g-8" value="In the child component&#39;s &lt;i&gt;class file&lt;/i&gt;, add an &lt;i&gt;input property.&amp;nbsp; &lt;/i&gt;This tells the component to expect the&lt;i&gt;&amp;nbsp;parent&lt;/i&gt;&amp;nbsp;to provide the value for this property" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=12;align=center;" vertex="1" parent="q1QC9u8V35Tv1QFmFr_g-1">
           <mxGeometry x="400" y="268" width="430" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="q1QC9u8V35Tv1QFmFr_g-9" value="4" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fillColor=#dae8fc;fontSize=16;align=center;strokeColor=#6c8ebf;" vertex="1" parent="q1QC9u8V35Tv1QFmFr_g-1">
@@ -579,28 +579,43 @@
           <mxGeometry x="350" y="268" width="50" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="_iYYS4Ywv1YWfrG5srfj-11" value="Just like calling &lt;br&gt;document.createElement(&#39;input&#39;)" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=12;align=center;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="pCJ20wQ9DbiUQ9HwihAd-1">
-          <mxGeometry x="860" y="220" width="200" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="_iYYS4Ywv1YWfrG5srfj-13" value="Just like &lt;br&gt;input.value = &#39;asdf&#39;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=12;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="pCJ20wQ9DbiUQ9HwihAd-1">
-          <mxGeometry x="860" y="315" width="200" height="40" as="geometry"/>
+          <mxGeometry x="870" y="363" width="200" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="_iYYS4Ywv1YWfrG5srfj-15" value="Just like how an input uses the &#39;value&#39; property internally" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=12;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="pCJ20wQ9DbiUQ9HwihAd-1">
-          <mxGeometry x="860" y="387" width="200" height="40" as="geometry"/>
+          <mxGeometry x="870" y="268" width="200" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="gGr_OOv2ehraDabEUvO0-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=1;fontSize=11;" edge="1" parent="pCJ20wQ9DbiUQ9HwihAd-1" source="mIUHToBpCY8znrgWAusn-0" target="_iYYS4Ywv1YWfrG5srfj-11">
+          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="mIUHToBpCY8znrgWAusn-0" value="In the parent component template, find where we create the child component" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=12;align=center;" vertex="1" parent="pCJ20wQ9DbiUQ9HwihAd-1">
           <mxGeometry x="400" y="363" width="430" height="40" as="geometry"/>
         </mxCell>
+        <mxCell id="wd-mRRRFQjmTxzgFIzwH-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=1;fontSize=11;" edge="1" parent="pCJ20wQ9DbiUQ9HwihAd-1" source="mIUHToBpCY8znrgWAusn-1" target="wd-mRRRFQjmTxzgFIzwH-0">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="mIUHToBpCY8znrgWAusn-1" value="Add a new &lt;i&gt;binding&amp;nbsp;&lt;/i&gt;to the child component, specifying the data we want to pass down" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=12;align=center;" vertex="1" parent="pCJ20wQ9DbiUQ9HwihAd-1">
           <mxGeometry x="400" y="410" width="430" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="mIUHToBpCY8znrgWAusn-2" value="In the child component&#39;s &lt;i&gt;class file&lt;/i&gt;, add an &lt;i&gt;input property&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=12;align=center;" vertex="1" parent="pCJ20wQ9DbiUQ9HwihAd-1">
+        <mxCell id="wd-mRRRFQjmTxzgFIzwH-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=1;fontSize=11;" edge="1" parent="pCJ20wQ9DbiUQ9HwihAd-1" source="mIUHToBpCY8znrgWAusn-2" target="_iYYS4Ywv1YWfrG5srfj-15">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="mIUHToBpCY8znrgWAusn-2" value="In the child component&#39;s&amp;nbsp;&lt;i&gt;class file&lt;/i&gt;, add an&amp;nbsp;&lt;i&gt;input property.&amp;nbsp;&amp;nbsp;&lt;/i&gt;This tells the component to expect the&lt;i&gt;&amp;nbsp;parent&lt;/i&gt;&amp;nbsp;to provide the value for this property" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=12;align=center;" vertex="1" parent="pCJ20wQ9DbiUQ9HwihAd-1">
           <mxGeometry x="400" y="268" width="430" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="wd-mRRRFQjmTxzgFIzwH-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;fontSize=11;" edge="1" parent="pCJ20wQ9DbiUQ9HwihAd-1" source="mIUHToBpCY8znrgWAusn-3" target="_iYYS4Ywv1YWfrG5srfj-15">
+          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="mIUHToBpCY8znrgWAusn-3" value="In the child component&#39;s &lt;i&gt;template file&lt;/i&gt;, reference that input property" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=12;align=center;" vertex="1" parent="pCJ20wQ9DbiUQ9HwihAd-1">
           <mxGeometry x="400" y="315.5" width="430" height="40" as="geometry"/>
         </mxCell>
+        <mxCell id="wd-mRRRFQjmTxzgFIzwH-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;fontSize=11;" edge="1" parent="pCJ20wQ9DbiUQ9HwihAd-1" source="mIUHToBpCY8znrgWAusn-4" target="_iYYS4Ywv1YWfrG5srfj-15">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="mIUHToBpCY8znrgWAusn-4" value="Decide on the &lt;i&gt;property name&lt;/i&gt;&amp;nbsp;that we want to use to communicate from the parent to the child" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=12;align=center;" vertex="1" parent="pCJ20wQ9DbiUQ9HwihAd-1">
           <mxGeometry x="400" y="220" width="430" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="wd-mRRRFQjmTxzgFIzwH-0" value="Just like &lt;br&gt;input.value = &#39;asdf&#39;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=12;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="pCJ20wQ9DbiUQ9HwihAd-1">
+          <mxGeometry x="870" y="410" width="200" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
