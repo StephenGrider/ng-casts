@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-16T21:21:41.420Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="MPNF-gVp90Po0sydVbEa" version="12.4.2" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2019-12-16T21:42:34.606Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="YXqO4ybv6ZBXiC6xuLL6" version="12.4.2" type="github" pages="3">
   <diagram id="K5ieoUoihvHOHd8dR5Ru" name="01 - TS">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -27,11 +27,40 @@
       <root>
         <mxCell id="T4SnxCN8KKkGJVW8rMUf-0"/>
         <mxCell id="T4SnxCN8KKkGJVW8rMUf-1" parent="T4SnxCN8KKkGJVW8rMUf-0"/>
-        <mxCell id="T4SnxCN8KKkGJVW8rMUf-2" value="npm install -g ts-node-dev" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="T4SnxCN8KKkGJVW8rMUf-1">
+        <mxCell id="T4SnxCN8KKkGJVW8rMUf-2" value="npm install ts-node-dev" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="T4SnxCN8KKkGJVW8rMUf-1">
           <mxGeometry x="380" y="250" width="470" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="T4SnxCN8KKkGJVW8rMUf-3" value="CLI tool to run Typescript directly at our command line" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=2" vertex="1" parent="T4SnxCN8KKkGJVW8rMUf-1">
+        <mxCell id="T4SnxCN8KKkGJVW8rMUf-3" value="Typescript directly at our command line" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=2" vertex="1" parent="T4SnxCN8KKkGJVW8rMUf-1">
           <mxGeometry x="457.5" y="310" width="315" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="zKdwBlOEMMxOf6TtjYwe-0" value="npm install typescript" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="T4SnxCN8KKkGJVW8rMUf-1">
+          <mxGeometry x="380" y="420" width="470" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="zKdwBlOEMMxOf6TtjYwe-2" value="Typescript itself!&amp;nbsp;&amp;nbsp;&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=2" vertex="1" parent="T4SnxCN8KKkGJVW8rMUf-1">
+          <mxGeometry x="457.5" y="480" width="315" height="30" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="4TlK1L9i1kXSs6qnDvoN" name="03 - types">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="L4QSWA2kLRgyEGwb8dY4-0"/>
+        <mxCell id="L4QSWA2kLRgyEGwb8dY4-1" parent="L4QSWA2kLRgyEGwb8dY4-0"/>
+        <mxCell id="L4QSWA2kLRgyEGwb8dY4-2" value="const name" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="L4QSWA2kLRgyEGwb8dY4-1">
+          <mxGeometry x="400" y="250" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="L4QSWA2kLRgyEGwb8dY4-3" value=": string" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="L4QSWA2kLRgyEGwb8dY4-1">
+          <mxGeometry x="520" y="250" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="L4QSWA2kLRgyEGwb8dY4-4" value="= &#39;Stephen&#39;;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="L4QSWA2kLRgyEGwb8dY4-1">
+          <mxGeometry x="640" y="250" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="L4QSWA2kLRgyEGwb8dY4-5" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontSize=18;rotation=90;" vertex="1" parent="L4QSWA2kLRgyEGwb8dY4-1">
+          <mxGeometry x="565" y="165" width="30" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="L4QSWA2kLRgyEGwb8dY4-6" value="Type Annotation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="L4QSWA2kLRgyEGwb8dY4-1">
+          <mxGeometry x="515" y="170" width="130" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
