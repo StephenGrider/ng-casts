@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-16T21:58:28.543Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="nO9pLPaf3Fm1R8SQLw6a" version="12.4.2" type="github" pages="5">
+<mxfile host="www.draw.io" modified="2019-12-16T22:08:52.046Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="luAmbXhiBivbHzq-3mum" version="12.4.2" type="github" pages="6">
   <diagram id="K5ieoUoihvHOHd8dR5Ru" name="01 - TS">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -66,7 +66,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KGkH0H3mimwC2ic0q7Kl" name="04 - types">
-    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="542" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="aP8mny04UfGmjDG34_9H-0"/>
         <mxCell id="aP8mny04UfGmjDG34_9H-1" parent="aP8mny04UfGmjDG34_9H-0"/>
@@ -185,7 +185,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JrUWj6wb0_nfVGezp6np" name="05 - inference">
-    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="542" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="D61_HO8Qs8umj3H2qiiv-0"/>
         <mxCell id="D61_HO8Qs8umj3H2qiiv-1" parent="D61_HO8Qs8umj3H2qiiv-0"/>
@@ -200,6 +200,23 @@
         </mxCell>
         <mxCell id="Rkp6iBSHXix4NDqaUJ09-7" value="We rely on this behavior extremely frequently except in a couple of corner cases" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="D61_HO8Qs8umj3H2qiiv-1">
           <mxGeometry x="260" y="370" width="480" height="50" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="8c1Fi0zz3Spd8fRhyVE4" name="06 - why types">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="G7K_RPhe7utI3Y-U2ZGP-0"/>
+        <mxCell id="G7K_RPhe7utI3Y-U2ZGP-1" parent="G7K_RPhe7utI3Y-U2ZGP-0"/>
+        <mxCell id="G7K_RPhe7utI3Y-U2ZGP-2" value="Why Types?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;" vertex="1" parent="G7K_RPhe7utI3Y-U2ZGP-1">
+          <mxGeometry x="600" y="120" width="250" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="s0d_a07RvLUat06EHbRU-0" value="Typescript knows about the different &lt;i&gt;properties and methods&lt;/i&gt;&amp;nbsp;that every type has!" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="G7K_RPhe7utI3Y-U2ZGP-1">
+          <mxGeometry x="484" y="160" width="480" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="s0d_a07RvLUat06EHbRU-1" value="If we refer to properties or methods that don&#39;t exist on a value, it will display an error" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="G7K_RPhe7utI3Y-U2ZGP-1">
+          <mxGeometry x="484" y="220" width="480" height="50" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
