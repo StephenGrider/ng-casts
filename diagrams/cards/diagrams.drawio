@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-16T17:03:02.590Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="n2GtMRtf4EbLRKFHr5M0" version="12.3.9" type="github" pages="19">
+<mxfile host="www.draw.io" modified="2019-12-16T17:07:36.546Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="QrARpOoOTf1B58PBo6dY" version="12.3.9" type="github" pages="19">
   <diagram id="4bgd4jEZKWUyR7dDpXIj" name="00 - plan">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -484,8 +484,8 @@
         <mxCell id="Lq_eAb66pdHQyc472pvT-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=1;fontSize=15;" edge="1" parent="FJcTBnndvsghdtUwz2py-1" source="FJcTBnndvsghdtUwz2py-6" target="FJcTBnndvsghdtUwz2py-2">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="FJcTBnndvsghdtUwz2py-6" value="App" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=23;align=center;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="FJcTBnndvsghdtUwz2py-1">
-          <mxGeometry x="1035" y="290" width="240" height="60" as="geometry"/>
+        <mxCell id="FJcTBnndvsghdtUwz2py-6" value="App Template&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=23;align=center;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="FJcTBnndvsghdtUwz2py-1">
+          <mxGeometry x="1035" y="270" width="240" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="FJcTBnndvsghdtUwz2py-9" value="title = &#39;Neat Tree&#39;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=14;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=0" vertex="1" parent="FJcTBnndvsghdtUwz2py-1">
           <mxGeometry x="1155" y="405" width="180" height="30" as="geometry"/>
@@ -507,6 +507,9 @@
         </mxCell>
         <mxCell id="2RYav-bBsrM3Ot-bhO65-2" value="{{ title }}" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=15;align=center;" vertex="1" parent="FJcTBnndvsghdtUwz2py-1">
           <mxGeometry x="1355" y="510" width="140" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="jU1qBByBYaYs3k1Dnv6q-0" value="&amp;lt;app-card title=&quot;Neat Tree&quot;&amp;gt;&amp;lt;/app-card&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=11;align=center;fontStyle=0" vertex="1" parent="FJcTBnndvsghdtUwz2py-1">
+          <mxGeometry x="1040" y="320" width="230" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
