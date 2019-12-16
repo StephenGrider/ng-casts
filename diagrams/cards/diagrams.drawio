@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-16T18:15:23.726Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="I-RYqb4pEsqihIaXSpJS" version="12.3.9" type="github" pages="21">
+<mxfile host="www.draw.io" modified="2019-12-16T18:18:17.367Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="4LfhOphm49ZEW7ohChUf" version="12.3.9" type="github" pages="22">
   <diagram id="4bgd4jEZKWUyR7dDpXIj" name="00 - plan">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -848,6 +848,29 @@
         </mxCell>
         <mxCell id="yWp2tfo8kn0OL3aU8frM-4" value="vs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;" vertex="1" parent="yWp2tfo8kn0OL3aU8frM-1">
           <mxGeometry x="685" y="330" width="40" height="20" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="22 - attr" id="h1Hx7PTMQ19JIC6lZs8M">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="Lf6dgVspZZ-D17TeC4jA-0"/>
+        <mxCell id="Lf6dgVspZZ-D17TeC4jA-1" parent="Lf6dgVspZZ-D17TeC4jA-0"/>
+        <mxCell id="Lf6dgVspZZ-D17TeC4jA-2" value="&amp;lt;app-card title=&quot;Neat Tree&quot;&amp;gt;&amp;lt;/app-card&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=18;align=center;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Lf6dgVspZZ-D17TeC4jA-1">
+          <mxGeometry x="510" y="230" width="390" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="Lf6dgVspZZ-D17TeC4jA-3" value="&amp;lt;app-card [title]=&quot;posts[0].title&quot;&amp;gt;&amp;lt;/app-card&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=18;align=center;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Lf6dgVspZZ-D17TeC4jA-1">
+          <mxGeometry x="510" y="360" width="390" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="Lf6dgVspZZ-D17TeC4jA-4" value="vs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;" vertex="1" parent="Lf6dgVspZZ-D17TeC4jA-1">
+          <mxGeometry x="685" y="310" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="Lf6dgVspZZ-D17TeC4jA-5" value="&lt;i&gt;Use this if we want to set &#39;title&#39; to a string that is hardcoded in the template and will &lt;b&gt;never change&lt;/b&gt;&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;" vertex="1" parent="Lf6dgVspZZ-D17TeC4jA-1">
+          <mxGeometry x="504" y="190" width="402" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="Lf6dgVspZZ-D17TeC4jA-6" value="&lt;i&gt;Use this if we want to set &#39;title&#39;&amp;nbsp; a value coming from a property in our component&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;" vertex="1" parent="Lf6dgVspZZ-D17TeC4jA-1">
+          <mxGeometry x="533.5" y="440" width="343" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
