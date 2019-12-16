@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-16T17:57:02.968Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="2Ie60l27lx5aYw1lTrhR" version="12.3.9" type="github" pages="20">
+<mxfile host="www.draw.io" modified="2019-12-16T18:15:23.726Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="I-RYqb4pEsqihIaXSpJS" version="12.3.9" type="github" pages="21">
   <diagram id="4bgd4jEZKWUyR7dDpXIj" name="00 - plan">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -817,7 +817,7 @@
         <mxCell id="S8yZYPQfZ8Rq97jWqKv3-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=1;fontSize=14;" edge="1" parent="S8yZYPQfZ8Rq97jWqKv3-1" source="S8yZYPQfZ8Rq97jWqKv3-6" target="S8yZYPQfZ8Rq97jWqKv3-13">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="S8yZYPQfZ8Rq97jWqKv3-6" value="App&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=23;align=center;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="S8yZYPQfZ8Rq97jWqKv3-1">
+        <mxCell id="S8yZYPQfZ8Rq97jWqKv3-6" value="App Class&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=23;align=center;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="S8yZYPQfZ8Rq97jWqKv3-1">
           <mxGeometry x="1000" y="160" width="310" height="170" as="geometry"/>
         </mxCell>
         <mxCell id="S8yZYPQfZ8Rq97jWqKv3-9" value="title = post.title" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=14;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=0" vertex="1" parent="S8yZYPQfZ8Rq97jWqKv3-1">
@@ -831,6 +831,23 @@
         </mxCell>
         <mxCell id="S8yZYPQfZ8Rq97jWqKv3-13" value="For each &#39;post&#39; in that &#39;posts&#39; array...." style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=14;align=center;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="S8yZYPQfZ8Rq97jWqKv3-1">
           <mxGeometry x="1018" y="360" width="275" height="50" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="gFQQn0REbtHQYXZ7JxgW" name="21 - syntax">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="yWp2tfo8kn0OL3aU8frM-0"/>
+        <mxCell id="yWp2tfo8kn0OL3aU8frM-1" parent="yWp2tfo8kn0OL3aU8frM-0"/>
+        <mxCell id="yWp2tfo8kn0OL3aU8frM-2" value="&amp;lt;app-card title=&quot;Neat Tree&quot;&amp;gt;&amp;lt;/app-card&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=18;align=center;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="yWp2tfo8kn0OL3aU8frM-1">
+          <mxGeometry x="510" y="230" width="390" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="yWp2tfo8kn0OL3aU8frM-3" value="&amp;lt;app-card [title]=&quot;posts[0].title&quot;&amp;gt;&amp;lt;/app-card&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=18;align=center;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="yWp2tfo8kn0OL3aU8frM-1">
+          <mxGeometry x="510" y="390" width="390" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="yWp2tfo8kn0OL3aU8frM-4" value="vs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;" vertex="1" parent="yWp2tfo8kn0OL3aU8frM-1">
+          <mxGeometry x="685" y="330" width="40" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
