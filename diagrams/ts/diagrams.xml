@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-16T21:17:19.404Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="hZS71bROhDw0icqrswp9" version="12.4.2" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-16T21:21:41.420Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="MPNF-gVp90Po0sydVbEa" version="12.4.2" type="github" pages="2">
   <diagram id="K5ieoUoihvHOHd8dR5Ru" name="01 - TS">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -18,6 +18,20 @@
         </mxCell>
         <mxCell id="HnmX0KyF7SV8wZ-sUBqU-6" value="&lt;b&gt;The only goal of Typescript is to help you catch errors in your code editor instead of while your app is running&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="395" y="420" width="460" height="50" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="wg3aIHVQQNLWx0PsaKHj" name="02 - run">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="T4SnxCN8KKkGJVW8rMUf-0"/>
+        <mxCell id="T4SnxCN8KKkGJVW8rMUf-1" parent="T4SnxCN8KKkGJVW8rMUf-0"/>
+        <mxCell id="T4SnxCN8KKkGJVW8rMUf-2" value="npm install -g ts-node-dev" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="T4SnxCN8KKkGJVW8rMUf-1">
+          <mxGeometry x="380" y="250" width="470" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="T4SnxCN8KKkGJVW8rMUf-3" value="CLI tool to run Typescript directly at our command line" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=2" vertex="1" parent="T4SnxCN8KKkGJVW8rMUf-1">
+          <mxGeometry x="457.5" y="310" width="315" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
