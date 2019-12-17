@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-17T23:51:00.200Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="DHraEoMVcAtR6cDwsBYw" version="12.4.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-17T23:53:07.948Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="72ERDFe5HSaG463nSOLJ" version="12.4.3" type="github" pages="2">
   <diagram id="RnJkvEcWTYdA2Jqj87wk" name="01 - goals">
     <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -57,6 +57,29 @@
         </mxCell>
         <mxCell id="DZ23XbLGNVvMsRwcFlnc-17" value="The International Space Station (ISS) is a space station (habitable artificial satellite) in low Earth orbit. The ISS programme is a joint project between" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=10;" vertex="1" parent="DZ23XbLGNVvMsRwcFlnc-1">
           <mxGeometry x="310" y="323" width="290" height="20" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="J-fQIyFHeudC6-GqFB-S" name="02 - focuses">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="EgFu69-6vCB50pgu1yUX-0"/>
+        <mxCell id="EgFu69-6vCB50pgu1yUX-1" parent="EgFu69-6vCB50pgu1yUX-0"/>
+        <mxCell id="EgFu69-6vCB50pgu1yUX-2" value="App Goals" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontStyle=1" vertex="1" parent="EgFu69-6vCB50pgu1yUX-1">
+          <mxGeometry x="440" y="120" width="190" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="EgFu69-6vCB50pgu1yUX-3" value="Need to figure out how to fetch data from an outside API" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="EgFu69-6vCB50pgu1yUX-1">
+          <mxGeometry x="272.5" y="160" width="525" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="EgFu69-6vCB50pgu1yUX-4" value="Need to learn more about communicating between components" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="EgFu69-6vCB50pgu1yUX-1">
+          <mxGeometry x="272.5" y="220" width="525" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="EgFu69-6vCB50pgu1yUX-5" value="Need to learn more about Typescript to catch errors during development" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="EgFu69-6vCB50pgu1yUX-1">
+          <mxGeometry x="272.5" y="280" width="525" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="EgFu69-6vCB50pgu1yUX-6" value="Need to learn about Angular app security" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="EgFu69-6vCB50pgu1yUX-1">
+          <mxGeometry x="272.5" y="340" width="525" height="50" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
