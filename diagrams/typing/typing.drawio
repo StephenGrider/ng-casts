@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-17T21:14:38.287Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="ZmeuFFzOsdS0f4BvdaP6" version="12.4.2" type="github" pages="13">
+<mxfile host="www.draw.io" modified="2019-12-17T21:38:30.889Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="GBLK5uP9POgLD666XSbE" version="12.4.2" type="github" pages="14">
   <diagram id="3zC5cuCDgjKP6a8tNy6s" name="01 - disclaimer">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -202,10 +202,10 @@
       <root>
         <mxCell id="JFSJnLR9ZNy1vH8tWa54-0"/>
         <mxCell id="JFSJnLR9ZNy1vH8tWa54-1" parent="JFSJnLR9ZNy1vH8tWa54-0"/>
-        <mxCell id="JFSJnLR9ZNy1vH8tWa54-2" value="We need to compare the entered text &lt;i&gt;character by character &lt;/i&gt;with our randomly generated string&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JFSJnLR9ZNy1vH8tWa54-1">
-          <mxGeometry x="520" y="140" width="490" height="60" as="geometry"/>
+        <mxCell id="JFSJnLR9ZNy1vH8tWa54-2" value="Make sure the &#39;Success!&#39; message is hidden by default" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JFSJnLR9ZNy1vH8tWa54-1">
+          <mxGeometry x="520" y="110" width="490" height="90" as="geometry"/>
         </mxCell>
-        <mxCell id="JFSJnLR9ZNy1vH8tWa54-3" value="We probably need a way more sophisticated way of storing the generated string and comparing it with the entered text" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JFSJnLR9ZNy1vH8tWa54-1">
+        <mxCell id="JFSJnLR9ZNy1vH8tWa54-3" value="If the user enters the correct text, show the &#39;Success!&#39; message" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JFSJnLR9ZNy1vH8tWa54-1">
           <mxGeometry x="520" y="210" width="490" height="100" as="geometry"/>
         </mxCell>
       </root>
@@ -381,6 +381,20 @@
         </mxCell>
         <mxCell id="RPvP8Hq5Tfrz5NWm5PwG-25" value="Entered text" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="RPvP8Hq5Tfrz5NWm5PwG-1">
           <mxGeometry x="469.5" y="390" width="40" height="20" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="14 - step" id="SgkxeQXS-NJqhwwqSI7U">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="hGqyCHWDDHtaeCOgTOI--0"/>
+        <mxCell id="hGqyCHWDDHtaeCOgTOI--1" parent="hGqyCHWDDHtaeCOgTOI--0"/>
+        <mxCell id="hGqyCHWDDHtaeCOgTOI--2" value="Iterate through the validated letters." style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="hGqyCHWDDHtaeCOgTOI--1">
+          <mxGeometry x="520" y="140" width="490" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="hGqyCHWDDHtaeCOgTOI--3" value="We probably need a way more sophisticated way of storing the generated string and comparing it with the entered text" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="hGqyCHWDDHtaeCOgTOI--1">
+          <mxGeometry x="520" y="210" width="490" height="100" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
