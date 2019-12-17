@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-17T21:13:55.269Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="SQeIcNLh4qErMz2-OREN" version="12.4.2" type="github" pages="13">
+<mxfile host="www.draw.io" modified="2019-12-17T21:14:38.287Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="ZmeuFFzOsdS0f4BvdaP6" version="12.4.2" type="github" pages="13">
   <diagram id="3zC5cuCDgjKP6a8tNy6s" name="01 - disclaimer">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -205,11 +205,8 @@
         <mxCell id="JFSJnLR9ZNy1vH8tWa54-2" value="We need to compare the entered text &lt;i&gt;character by character &lt;/i&gt;with our randomly generated string&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JFSJnLR9ZNy1vH8tWa54-1">
           <mxGeometry x="520" y="140" width="490" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="JFSJnLR9ZNy1vH8tWa54-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JFSJnLR9ZNy1vH8tWa54-1">
-          <mxGeometry x="520" y="210" width="490" height="70" as="geometry"/>
-        </mxCell>
-        <mxCell id="JFSJnLR9ZNy1vH8tWa54-4" value="Verify that this works by console logging whatever value the user types in the input" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JFSJnLR9ZNy1vH8tWa54-1">
-          <mxGeometry x="520" y="290" width="490" height="80" as="geometry"/>
+        <mxCell id="JFSJnLR9ZNy1vH8tWa54-3" value="We probably need a way more sophisticated way of storing the generated string and comparing it with the entered text" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JFSJnLR9ZNy1vH8tWa54-1">
+          <mxGeometry x="520" y="210" width="490" height="100" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
@@ -235,7 +232,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4F14pCWtgTtvh133rrJ6" name="12 - model">
-    <mxGraphModel dx="677" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="AqoJi8sDEEPmagOd8fCI-0"/>
         <mxCell id="AqoJi8sDEEPmagOd8fCI-1" parent="AqoJi8sDEEPmagOd8fCI-0"/>
