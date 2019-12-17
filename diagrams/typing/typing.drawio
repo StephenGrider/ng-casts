@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-17T21:44:51.062Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="ufAicGTX72VIjejcP45S" version="12.4.2" type="github" pages="15">
+<mxfile host="www.draw.io" modified="2019-12-17T21:46:02.474Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="XJkVv4bBBLHzvrJaZ4OQ" version="12.4.2" type="github" pages="16">
   <diagram id="3zC5cuCDgjKP6a8tNy6s" name="01 - disclaimer">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -198,7 +198,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="10 - step" id="DFcFtRhj3Cf_4P4-o2OF">
-    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="661" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="JFSJnLR9ZNy1vH8tWa54-0"/>
         <mxCell id="JFSJnLR9ZNy1vH8tWa54-1" parent="JFSJnLR9ZNy1vH8tWa54-0"/>
@@ -211,8 +211,19 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="zvzH8khXBsMUC9Vxphk1" name="11 - compare">
+  <diagram id="GCwZxhnUIEkywjFNQ970" name="16 - index">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="yI0aybooSEcVvxrmNejf-0"/>
+        <mxCell id="yI0aybooSEcVvxrmNejf-1" parent="yI0aybooSEcVvxrmNejf-0"/>
+        <mxCell id="4yhqcjbLPFN2jDA0h2Ts-0" value="Display each character in the template, but color it green if it is right, red if wrong, and gray if a given character hasn&#39;t been entered yet" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="yI0aybooSEcVvxrmNejf-1">
+          <mxGeometry x="520" y="110" width="490" height="140" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="zvzH8khXBsMUC9Vxphk1" name="11 - compare">
+    <mxGraphModel dx="661" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="aS3Gxqcv6ESjDYojU56d-0"/>
         <mxCell id="aS3Gxqcv6ESjDYojU56d-1" parent="aS3Gxqcv6ESjDYojU56d-0"/>
@@ -232,7 +243,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ezL_GFW4xGKxIKV2HqRM" name="15 - approaches">
-    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="661" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="vvG4VIjJp7RfASj8-90J-0"/>
         <mxCell id="vvG4VIjJp7RfASj8-90J-1" parent="vvG4VIjJp7RfASj8-90J-0"/>
