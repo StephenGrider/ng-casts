@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-17T21:46:02.474Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="XJkVv4bBBLHzvrJaZ4OQ" version="12.4.2" type="github" pages="16">
+<mxfile host="www.draw.io" modified="2019-12-17T21:47:57.030Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="WqrOmEG6puu2YkJsdlCT" version="12.4.2" type="github" pages="17">
   <diagram id="3zC5cuCDgjKP6a8tNy6s" name="01 - disclaimer">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -223,7 +223,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zvzH8khXBsMUC9Vxphk1" name="11 - compare">
-    <mxGraphModel dx="661" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="aS3Gxqcv6ESjDYojU56d-0"/>
         <mxCell id="aS3Gxqcv6ESjDYojU56d-1" parent="aS3Gxqcv6ESjDYojU56d-0"/>
@@ -243,7 +243,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ezL_GFW4xGKxIKV2HqRM" name="15 - approaches">
-    <mxGraphModel dx="661" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="vvG4VIjJp7RfASj8-90J-0"/>
         <mxCell id="vvG4VIjJp7RfASj8-90J-1" parent="vvG4VIjJp7RfASj8-90J-0"/>
@@ -258,6 +258,20 @@
         </mxCell>
         <mxCell id="B7OU3XZv6BcST9rBVZXd-4" value="Template Based" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="vvG4VIjJp7RfASj8-90J-1">
           <mxGeometry x="800" y="260" width="160" height="20" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="X7Cc2rdpZmrag1x978G2" name="17 - ngfor">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="XnSPyeJEtUq_8SKz357B-0"/>
+        <mxCell id="XnSPyeJEtUq_8SKz357B-1" parent="XnSPyeJEtUq_8SKz357B-0"/>
+        <mxCell id="-Jsh5ag4_ue1L5l6Neho-0" value="&amp;lt;span *ngFor=&quot;let letter of randomText.split(&#39;&#39;); let i = index;&quot;&amp;gt;&lt;br&gt;&amp;lt;/span&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;align=left;" vertex="1" parent="XnSPyeJEtUq_8SKz357B-1">
+          <mxGeometry x="440" y="240" width="600" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="-Jsh5ag4_ue1L5l6Neho-2" value="NgFor with an Index" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=1" vertex="1" parent="XnSPyeJEtUq_8SKz357B-1">
+          <mxGeometry x="620" y="210" width="240" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
