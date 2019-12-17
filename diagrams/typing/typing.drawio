@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-17T21:38:30.889Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="GBLK5uP9POgLD666XSbE" version="12.4.2" type="github" pages="14">
+<mxfile host="www.draw.io" modified="2019-12-17T21:44:51.062Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="ufAicGTX72VIjejcP45S" version="12.4.2" type="github" pages="15">
   <diagram id="3zC5cuCDgjKP6a8tNy6s" name="01 - disclaimer">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -227,6 +227,26 @@
         </mxCell>
         <mxCell id="-UNgvu6yjDeVGGU-b2kM-3" value="&amp;nbsp;Lorem kbsum" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;align=left;" vertex="1" parent="aS3Gxqcv6ESjDYojU56d-1">
           <mxGeometry x="480" y="410" width="210" height="40" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ezL_GFW4xGKxIKV2HqRM" name="15 - approaches">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="vvG4VIjJp7RfASj8-90J-0"/>
+        <mxCell id="vvG4VIjJp7RfASj8-90J-1" parent="vvG4VIjJp7RfASj8-90J-0"/>
+        <mxCell id="B7OU3XZv6BcST9rBVZXd-0" value="Write comparison code in the component &lt;i&gt;class.&amp;nbsp; &lt;/i&gt;Add a method that compares the entered text with the random text and generates a datastructure describing which characters are wrong" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="vvG4VIjJp7RfASj8-90J-1">
+          <mxGeometry x="380" y="290" width="320" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="B7OU3XZv6BcST9rBVZXd-2" value="Class Based" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="vvG4VIjJp7RfASj8-90J-1">
+          <mxGeometry x="460" y="260" width="160" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="B7OU3XZv6BcST9rBVZXd-3" value="Component class records the entered text + random text then hands result off to template.&amp;nbsp; Template decides how to render each character" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="vvG4VIjJp7RfASj8-90J-1">
+          <mxGeometry x="720" y="290" width="320" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="B7OU3XZv6BcST9rBVZXd-4" value="Template Based" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="vvG4VIjJp7RfASj8-90J-1">
+          <mxGeometry x="800" y="260" width="160" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
