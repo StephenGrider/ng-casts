@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-17T19:06:42.847Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="u5jgBcHrYKYLXAiPQHlj" version="12.4.2" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2019-12-17T19:52:18.653Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="kh6hdR-_3fhbdwxo7zY-" version="12.4.2" type="github" pages="5">
   <diagram id="3zC5cuCDgjKP6a8tNy6s" name="01 - disclaimer">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -23,7 +23,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ToNqnjSojEKyG6_L5J9U" name="02 - mockup">
-    <mxGraphModel dx="855" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="kJL3GemzY2xbFpWmF57N-0"/>
         <mxCell id="kJL3GemzY2xbFpWmF57N-1" parent="kJL3GemzY2xbFpWmF57N-0"/>
@@ -45,14 +45,14 @@
         <mxCell id="kJL3GemzY2xbFpWmF57N-12" value="Lorem ipsum dolor sit amet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=2" vertex="1" parent="kJL3GemzY2xbFpWmF57N-2">
           <mxGeometry x="162.5" y="175" width="225" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="kJL3GemzY2xbFpWmF57N-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="kJL3GemzY2xbFpWmF57N-2">
+        <mxCell id="kJL3GemzY2xbFpWmF57N-13" value="Lorem ipsum dolor sit amet" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="kJL3GemzY2xbFpWmF57N-2">
           <mxGeometry x="170" y="240" width="210" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="03 - typing" id="ml-E4Vk8qamDuQay9fMO">
-    <mxGraphModel dx="855" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="6HSiybdemevKV44agzi7-0"/>
         <mxCell id="6HSiybdemevKV44agzi7-1" parent="6HSiybdemevKV44agzi7-0"/>
@@ -71,10 +71,10 @@
         <mxCell id="6HSiybdemevKV44agzi7-6" value="Typing Challenge" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontStyle=1" vertex="1" parent="6HSiybdemevKV44agzi7-2">
           <mxGeometry x="187.5" y="130" width="175" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="6HSiybdemevKV44agzi7-7" value="&lt;font color=&quot;#33ff33&quot;&gt;Lorem&lt;/font&gt; &lt;font color=&quot;#ff0000&quot;&gt;i&lt;/font&gt;psum dolor sit amet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=2" vertex="1" parent="6HSiybdemevKV44agzi7-2">
+        <mxCell id="6HSiybdemevKV44agzi7-7" value="&lt;font color=&quot;#33ff33&quot;&gt;Lorem&lt;/font&gt; &lt;font color=&quot;#ff0000&quot;&gt;ipsum d&lt;/font&gt;olor sit amet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=2" vertex="1" parent="6HSiybdemevKV44agzi7-2">
           <mxGeometry x="162.5" y="175" width="225" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="6HSiybdemevKV44agzi7-8" value="&amp;nbsp;Lorem k" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;align=left;" vertex="1" parent="6HSiybdemevKV44agzi7-2">
+        <mxCell id="6HSiybdemevKV44agzi7-8" value="&amp;nbsp;Lorem kalksdj" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;align=left;" vertex="1" parent="6HSiybdemevKV44agzi7-2">
           <mxGeometry x="170" y="240" width="210" height="40" as="geometry"/>
         </mxCell>
       </root>
@@ -108,6 +108,26 @@
         </mxCell>
         <mxCell id="Sdiq3zvMLhk7DjWIavyo-9" value="You win!" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontStyle=1" vertex="1" parent="Sdiq3zvMLhk7DjWIavyo-2">
           <mxGeometry x="187.5" y="300" width="175" height="20" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="KhQKptp95kW-xrMt0c17" name="05 - step">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="F88OeaSKevgMvjSdSm2t-0"/>
+        <mxCell id="F88OeaSKevgMvjSdSm2t-1" parent="F88OeaSKevgMvjSdSm2t-0"/>
+        <mxCell id="F88OeaSKevgMvjSdSm2t-2" value="Generate a new Angular project named &#39;typing&#39;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="F88OeaSKevgMvjSdSm2t-1">
+          <mxGeometry x="530" y="150" width="490" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="F88OeaSKevgMvjSdSm2t-3" value="Start the project up and access it in your browser" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="F88OeaSKevgMvjSdSm2t-1">
+          <mxGeometry x="530" y="220" width="490" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="F88OeaSKevgMvjSdSm2t-4" value="Install Bulma CSS using &#39;npm&#39;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="F88OeaSKevgMvjSdSm2t-1">
+          <mxGeometry x="530" y="290" width="490" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="F88OeaSKevgMvjSdSm2t-5" value="Make sure Bulma CSS gets included into the project" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="F88OeaSKevgMvjSdSm2t-1">
+          <mxGeometry x="530" y="360" width="490" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
