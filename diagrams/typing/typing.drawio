@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-17T19:52:18.653Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="kh6hdR-_3fhbdwxo7zY-" version="12.4.2" type="github" pages="5">
+<mxfile host="www.draw.io" modified="2019-12-17T19:57:23.745Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="WXWftS51ZcHXtQhLemrs" version="12.4.2" type="github" pages="6">
   <diagram id="3zC5cuCDgjKP6a8tNy6s" name="01 - disclaimer">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -128,6 +128,20 @@
         </mxCell>
         <mxCell id="F88OeaSKevgMvjSdSm2t-5" value="Make sure Bulma CSS gets included into the project" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="F88OeaSKevgMvjSdSm2t-1">
           <mxGeometry x="530" y="360" width="490" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Y6FUrMuP8pb2Geokddwq" name="06 - step">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="zSNH1sWErDgYx_2rxu5I-0"/>
+        <mxCell id="zSNH1sWErDgYx_2rxu5I-1" parent="zSNH1sWErDgYx_2rxu5I-0"/>
+        <mxCell id="hH6XscC2yD8mMvEA6E-3-0" value="Change the content that gets displayed to the user" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="zSNH1sWErDgYx_2rxu5I-1">
+          <mxGeometry x="520" y="140" width="490" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="hH6XscC2yD8mMvEA6E-3-2" value="Make sure we can see a title, some place to put the randomly generated sentence, an input, and the &#39;success&#39; message" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="zSNH1sWErDgYx_2rxu5I-1">
+          <mxGeometry x="520" y="210" width="490" height="100" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
