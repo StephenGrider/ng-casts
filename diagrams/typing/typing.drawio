@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-17T19:57:23.745Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="WXWftS51ZcHXtQhLemrs" version="12.4.2" type="github" pages="6">
+<mxfile host="www.draw.io" modified="2019-12-17T20:04:02.767Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="pGs7LmhSPs0bLIRUyZ5j" version="12.4.2" type="github" pages="7">
   <diagram id="3zC5cuCDgjKP6a8tNy6s" name="01 - disclaimer">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -142,6 +142,23 @@
         </mxCell>
         <mxCell id="hH6XscC2yD8mMvEA6E-3-2" value="Make sure we can see a title, some place to put the randomly generated sentence, an input, and the &#39;success&#39; message" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="zSNH1sWErDgYx_2rxu5I-1">
           <mxGeometry x="520" y="210" width="490" height="100" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Oc05OA3zV78bcSS1Vofn" name="07 - step">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="UeB1yedIK-696nlOYSyz-0"/>
+        <mxCell id="UeB1yedIK-696nlOYSyz-1" parent="UeB1yedIK-696nlOYSyz-0"/>
+        <mxCell id="cc7n-IQJtYzBt_SVodHm-0" value="We need to randomly generate a sentence" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="UeB1yedIK-696nlOYSyz-1">
+          <mxGeometry x="520" y="140" width="490" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="cc7n-IQJtYzBt_SVodHm-2" value="When our app first starts up, we should generate a new sentence and assign it to a property of some component" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="UeB1yedIK-696nlOYSyz-1">
+          <mxGeometry x="520" y="210" width="490" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="cc7n-IQJtYzBt_SVodHm-3" value="We should then make sure that this randomly generated sentence is visible on the screen" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="UeB1yedIK-696nlOYSyz-1">
+          <mxGeometry x="520" y="310" width="490" height="90" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
