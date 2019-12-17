@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-17T20:04:02.767Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="pGs7LmhSPs0bLIRUyZ5j" version="12.4.2" type="github" pages="7">
+<mxfile host="www.draw.io" modified="2019-12-17T20:15:07.866Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="2cLsPBUu3Fc0Y_98AGNf" version="12.4.2" type="github" pages="8">
   <diagram id="3zC5cuCDgjKP6a8tNy6s" name="01 - disclaimer">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -159,6 +159,23 @@
         </mxCell>
         <mxCell id="cc7n-IQJtYzBt_SVodHm-3" value="We should then make sure that this randomly generated sentence is visible on the screen" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="UeB1yedIK-696nlOYSyz-1">
           <mxGeometry x="520" y="310" width="490" height="90" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="7E8KGtTzZCOLDeHxP2ge" name="08 - step">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="HudaiXmk_yXjDqlmtyeN-0"/>
+        <mxCell id="HudaiXmk_yXjDqlmtyeN-1" parent="HudaiXmk_yXjDqlmtyeN-0"/>
+        <mxCell id="k4YsP6CTQ8r7eTNMfVSQ-0" value="We need to detect when a user types in the text input" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="HudaiXmk_yXjDqlmtyeN-1">
+          <mxGeometry x="520" y="140" width="490" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="k4YsP6CTQ8r7eTNMfVSQ-1" value="Add in some code to detect the user typing in there" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="HudaiXmk_yXjDqlmtyeN-1">
+          <mxGeometry x="520" y="210" width="490" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="k4YsP6CTQ8r7eTNMfVSQ-2" value="Verify that this works by console logging whatever value the user types in the input" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="HudaiXmk_yXjDqlmtyeN-1">
+          <mxGeometry x="520" y="290" width="490" height="80" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
