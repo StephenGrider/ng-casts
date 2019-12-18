@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-18T17:29:05.997Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="xb42cvyHFT8T0SzjIJeU" version="12.4.3" type="github" pages="7">
+<mxfile host="www.draw.io" modified="2019-12-18T17:41:06.332Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="RVWU7LSX566SIEFlCpKv" version="12.4.3" type="github" pages="8">
   <diagram id="RnJkvEcWTYdA2Jqj87wk" name="01 - goals">
     <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -290,6 +290,32 @@
         <mxCell id="vIUeItmn4XtzfMA4fAoW-1" parent="vIUeItmn4XtzfMA4fAoW-0"/>
         <mxCell id="vIUeItmn4XtzfMA4fAoW-2" value="mediawiki.org/wiki/API:Main_page" style="rounded=0;whiteSpace=wrap;html=1;fontSize=23;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="vIUeItmn4XtzfMA4fAoW-1">
           <mxGeometry x="550" y="280" width="440" height="110" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="wXxabJJtuyI71Xh23fB3" name="08 - services">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="QbElHTPY7XoVYqX2Et37-0"/>
+        <mxCell id="QbElHTPY7XoVYqX2Et37-1" parent="QbElHTPY7XoVYqX2Et37-0"/>
+        <mxCell id="QbElHTPY7XoVYqX2Et37-2" value="Services" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontStyle=1" vertex="1" parent="QbElHTPY7XoVYqX2Et37-1">
+          <mxGeometry x="540" y="90" width="90" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="QbElHTPY7XoVYqX2Et37-3" value="Used to fetch/store/update any kind of data in our app" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=center;" vertex="1" parent="QbElHTPY7XoVYqX2Et37-1">
+          <mxGeometry x="340" y="130" width="490" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="QbElHTPY7XoVYqX2Et37-4" value="Almost always where we are going to put network requests" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=center;" vertex="1" parent="QbElHTPY7XoVYqX2Et37-1">
+          <mxGeometry x="340" y="190" width="490" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="QbElHTPY7XoVYqX2Et37-5" value="Data flows from a service to a component" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=center;" vertex="1" parent="QbElHTPY7XoVYqX2Et37-1">
+          <mxGeometry x="340" y="250" width="490" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="QbElHTPY7XoVYqX2Et37-6" value="Services are implemented as classes" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=center;" vertex="1" parent="QbElHTPY7XoVYqX2Et37-1">
+          <mxGeometry x="340" y="310" width="490" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="QbElHTPY7XoVYqX2Et37-7" value="Angular will &lt;i&gt;automatically&lt;/i&gt;&amp;nbsp;create a &lt;i&gt;single&lt;/i&gt; instance of each service for us" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=center;" vertex="1" parent="QbElHTPY7XoVYqX2Et37-1">
+          <mxGeometry x="340" y="370" width="490" height="50" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
