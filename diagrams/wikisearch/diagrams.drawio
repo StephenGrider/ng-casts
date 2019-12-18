@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-18T22:01:08.687Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="OQzFkePWHjqEmNifBD4i" version="12.4.3" type="github" pages="12">
+<mxfile host="www.draw.io" modified="2019-12-18T22:26:16.013Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="0v29JAsBtE82Fhzkpb8x" version="12.4.3" type="github" pages="12">
   <diagram id="RnJkvEcWTYdA2Jqj87wk" name="01 - goals">
     <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -442,7 +442,7 @@
         <mxCell id="p9Nr9Gtb6VpMaUEvTdzg-6" value="&lt;span style=&quot;font-weight: normal; font-size: 13px;&quot;&gt;Theoretically makes code reuse and code changes easier, but &lt;i style=&quot;font-size: 13px;&quot;&gt;I personally have not seen that happen a lot&lt;/i&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=13;align=center;fontStyle=1" vertex="1" parent="p9Nr9Gtb6VpMaUEvTdzg-1">
           <mxGeometry x="475" y="560" width="515" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="p9Nr9Gtb6VpMaUEvTdzg-8" value="Angular&#39;s dependency injection system automatically creates instances of &#39;injectable&#39; things and gives them to components/services/etc that ask for them" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=13;align=center;fontStyle=0" vertex="1" parent="p9Nr9Gtb6VpMaUEvTdzg-1">
+        <mxCell id="p9Nr9Gtb6VpMaUEvTdzg-8" value="Components &lt;i&gt;need others things to work correctly&lt;/i&gt;.&amp;nbsp; Our components could create an instance of those things themselves.&amp;nbsp; &lt;i&gt;Instead, we create them separately and pass them in to the constructor&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=13;align=center;fontStyle=0" vertex="1" parent="p9Nr9Gtb6VpMaUEvTdzg-1">
           <mxGeometry x="475" y="380" width="515" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="p9Nr9Gtb6VpMaUEvTdzg-9" value="The &#39;automatic&#39; nature of DI is not strictly required - &lt;i&gt;we could do this all manually by hand&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=13;align=center;fontStyle=0" vertex="1" parent="p9Nr9Gtb6VpMaUEvTdzg-1">
