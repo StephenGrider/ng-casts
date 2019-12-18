@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-18T22:26:16.013Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="0v29JAsBtE82Fhzkpb8x" version="12.4.3" type="github" pages="12">
+<mxfile host="www.draw.io" modified="2019-12-18T22:26:23.004Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="z9QOtvonWAwpCT0uWTCf" version="12.4.3" type="github" pages="12">
   <diagram id="RnJkvEcWTYdA2Jqj87wk" name="01 - goals">
     <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -436,7 +436,7 @@
         <mxCell id="p9Nr9Gtb6VpMaUEvTdzg-4" value="Components, services, and other things in Angular &#39;ask&#39; for dependencies, rather than creating them directly" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=13;align=center;" vertex="1" parent="p9Nr9Gtb6VpMaUEvTdzg-1">
           <mxGeometry x="475" y="320" width="515" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="p9Nr9Gtb6VpMaUEvTdzg-5" value="The goal is to make testing easier" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=13;align=center;fontStyle=1" vertex="1" parent="p9Nr9Gtb6VpMaUEvTdzg-1">
+        <mxCell id="p9Nr9Gtb6VpMaUEvTdzg-5" value="The goal is to make testing easier" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=13;align=center;fontStyle=0" vertex="1" parent="p9Nr9Gtb6VpMaUEvTdzg-1">
           <mxGeometry x="475" y="500" width="515" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="p9Nr9Gtb6VpMaUEvTdzg-6" value="&lt;span style=&quot;font-weight: normal; font-size: 13px;&quot;&gt;Theoretically makes code reuse and code changes easier, but &lt;i style=&quot;font-size: 13px;&quot;&gt;I personally have not seen that happen a lot&lt;/i&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=13;align=center;fontStyle=1" vertex="1" parent="p9Nr9Gtb6VpMaUEvTdzg-1">
