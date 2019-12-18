@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-18T18:35:45.899Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="VCXKv9LxCB9pfkQ2s3hO" version="12.4.3" type="github" pages="11">
+<mxfile host="www.draw.io" modified="2019-12-18T18:37:47.344Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="tuPH7yH5qLMzVqxOzgq9" version="12.4.3" type="github" pages="10">
   <diagram id="RnJkvEcWTYdA2Jqj87wk" name="01 - goals">
     <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -374,29 +374,6 @@
         </mxCell>
         <mxCell id="_JylXqgn7el4qpckgFFf-1" value="&#39;wikipedia&#39; will be of type &#39;Instance of WikipediaService&#39;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=0" vertex="1" parent="AKs85c4nEn8waSlRDNFy-1">
           <mxGeometry x="706.5" y="316" width="165" height="30" as="geometry"/>
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram name="Copy of 10 - serivce" id="9lg1_g-w3v02DEJreAvZ">
-    <mxGraphModel dx="1494" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
-      <root>
-        <mxCell id="vGKn2FNCwxQNt8mvuydq-0"/>
-        <mxCell id="vGKn2FNCwxQNt8mvuydq-1" parent="vGKn2FNCwxQNt8mvuydq-0"/>
-        <mxCell id="vGKn2FNCwxQNt8mvuydq-2" value="private wikipedia: WikipediaService)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="vGKn2FNCwxQNt8mvuydq-1">
-          <mxGeometry x="560" y="240" width="310" height="50" as="geometry"/>
-        </mxCell>
-        <mxCell id="vGKn2FNCwxQNt8mvuydq-3" value="constructor(" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="vGKn2FNCwxQNt8mvuydq-1">
-          <mxGeometry x="450" y="240" width="110" height="50" as="geometry"/>
-        </mxCell>
-        <mxCell id="vGKn2FNCwxQNt8mvuydq-4" value="{&amp;nbsp; &amp;nbsp;}" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="vGKn2FNCwxQNt8mvuydq-1">
-          <mxGeometry x="869.5" y="240" width="90.5" height="50" as="geometry"/>
-        </mxCell>
-        <mxCell id="vGKn2FNCwxQNt8mvuydq-5" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontSize=18;align=center;rotation=90;strokeWidth=2;" vertex="1" parent="vGKn2FNCwxQNt8mvuydq-1">
-          <mxGeometry x="620" y="168" width="38" height="136" as="geometry"/>
-        </mxCell>
-        <mxCell id="vGKn2FNCwxQNt8mvuydq-6" value="&#39;wikipedia&#39; will be added as a &#39;private&#39; property &lt;i&gt;automatically&lt;/i&gt;&amp;nbsp;to the instance of the App component" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=0" vertex="1" parent="vGKn2FNCwxQNt8mvuydq-1">
-          <mxGeometry x="556.5" y="160" width="165" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
