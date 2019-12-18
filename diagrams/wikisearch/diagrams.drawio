@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-18T21:43:56.057Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="GsGmGb-whBN7j6oNo09y" version="12.4.3" type="github" pages="11">
+<mxfile host="www.draw.io" modified="2019-12-18T21:57:58.187Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="-oNsfc9onSqNAEFjTlA2" version="12.4.3" type="github" pages="12">
   <diagram id="RnJkvEcWTYdA2Jqj87wk" name="01 - goals">
     <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -421,6 +421,26 @@
         </mxCell>
         <mxCell id="UCvL0g0zG1OU-FdawaFi-19" value="Sure, here&#39;s an instance of Car and WikipediaService" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=12;align=center;fontStyle=2" vertex="1" parent="Jy2yGZOvvMkZB2We71Da-1">
           <mxGeometry x="772" y="698" width="168" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="NXBwcVBz4-elAQhJhgkT" name="12 - di">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="p9Nr9Gtb6VpMaUEvTdzg-0"/>
+        <mxCell id="p9Nr9Gtb6VpMaUEvTdzg-1" parent="p9Nr9Gtb6VpMaUEvTdzg-0"/>
+        <mxCell id="p9Nr9Gtb6VpMaUEvTdzg-3" value="Dependency Injection" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=21;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="p9Nr9Gtb6VpMaUEvTdzg-1">
+          <mxGeometry x="520" y="260" width="300" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="p9Nr9Gtb6VpMaUEvTdzg-4" value="Components, services, and other things in Angular &#39;ask&#39; for dependencies, rather than creating them directly" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=15;align=center;" vertex="1" parent="p9Nr9Gtb6VpMaUEvTdzg-1">
+          <mxGeometry x="475" y="320" width="390" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="p9Nr9Gtb6VpMaUEvTdzg-5" value="The goal is to make testing easier" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=15;align=center;fontStyle=1" vertex="1" parent="p9Nr9Gtb6VpMaUEvTdzg-1">
+          <mxGeometry x="475" y="380" width="390" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="p9Nr9Gtb6VpMaUEvTdzg-6" value="&lt;span style=&quot;font-weight: normal&quot;&gt;Theoretically makes code reuse and code changes easier, but &lt;i&gt;I personally have not seen that happen a lot&lt;/i&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=15;align=center;fontStyle=1" vertex="1" parent="p9Nr9Gtb6VpMaUEvTdzg-1">
+          <mxGeometry x="475" y="440" width="390" height="50" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
