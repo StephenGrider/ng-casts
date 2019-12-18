@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-18T18:37:47.344Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="tuPH7yH5qLMzVqxOzgq9" version="12.4.3" type="github" pages="10">
+<mxfile host="www.draw.io" modified="2019-12-18T21:43:56.057Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="GsGmGb-whBN7j6oNo09y" version="12.4.3" type="github" pages="11">
   <diagram id="RnJkvEcWTYdA2Jqj87wk" name="01 - goals">
     <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -350,7 +350,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="10 - serivce" id="H3KqHxUzc0musjw0r3R-">
-    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="666" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="AKs85c4nEn8waSlRDNFy-0"/>
         <mxCell id="AKs85c4nEn8waSlRDNFy-1" parent="AKs85c4nEn8waSlRDNFy-0"/>
@@ -374,6 +374,53 @@
         </mxCell>
         <mxCell id="_JylXqgn7el4qpckgFFf-1" value="&#39;wikipedia&#39; will be of type &#39;Instance of WikipediaService&#39;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=0" vertex="1" parent="AKs85c4nEn8waSlRDNFy-1">
           <mxGeometry x="706.5" y="316" width="165" height="30" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="dGOfUkdj3caqpj-yBQBy" name="11 - DI">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="Jy2yGZOvvMkZB2We71Da-0"/>
+        <mxCell id="Jy2yGZOvvMkZB2We71Da-1" parent="Jy2yGZOvvMkZB2We71Da-0"/>
+        <mxCell id="UCvL0g0zG1OU-FdawaFi-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="Jy2yGZOvvMkZB2We71Da-1" source="Jy2yGZOvvMkZB2We71Da-2" target="UCvL0g0zG1OU-FdawaFi-14">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="Jy2yGZOvvMkZB2We71Da-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=12;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Jy2yGZOvvMkZB2We71Da-1">
+          <mxGeometry x="540" y="550" width="310" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="Jy2yGZOvvMkZB2We71Da-3" value="Injector/Container" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="Jy2yGZOvvMkZB2We71Da-1">
+          <mxGeometry x="660" y="560" width="70" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="UCvL0g0zG1OU-FdawaFi-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="Jy2yGZOvvMkZB2We71Da-1" source="UCvL0g0zG1OU-FdawaFi-0" target="UCvL0g0zG1OU-FdawaFi-2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="UCvL0g0zG1OU-FdawaFi-0" value="Car" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=12;align=center;" vertex="1" parent="Jy2yGZOvvMkZB2We71Da-1">
+          <mxGeometry x="557.5" y="590" width="100" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="UCvL0g0zG1OU-FdawaFi-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="Jy2yGZOvvMkZB2We71Da-1" source="UCvL0g0zG1OU-FdawaFi-1" target="UCvL0g0zG1OU-FdawaFi-3">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="UCvL0g0zG1OU-FdawaFi-1" value="WikipediaService" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=12;align=center;" vertex="1" parent="Jy2yGZOvvMkZB2We71Da-1">
+          <mxGeometry x="557.5" y="630" width="100" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="UCvL0g0zG1OU-FdawaFi-2" value="new Car()" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=12;align=center;" vertex="1" parent="Jy2yGZOvvMkZB2We71Da-1">
+          <mxGeometry x="692.5" y="590" width="137.5" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="UCvL0g0zG1OU-FdawaFi-3" value="new WikipediaService()" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=12;align=center;" vertex="1" parent="Jy2yGZOvvMkZB2We71Da-1">
+          <mxGeometry x="692.5" y="630" width="137.5" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="UCvL0g0zG1OU-FdawaFi-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="Jy2yGZOvvMkZB2We71Da-1" source="UCvL0g0zG1OU-FdawaFi-14" target="Jy2yGZOvvMkZB2We71Da-2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="UCvL0g0zG1OU-FdawaFi-14" value="Angular" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=20;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="Jy2yGZOvvMkZB2We71Da-1">
+          <mxGeometry x="540" y="780" width="310" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="UCvL0g0zG1OU-FdawaFi-16" value="I&#39;m trying to show the App component.&amp;nbsp; It says it needs WikipediaService and Car" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=12;align=center;fontStyle=2" vertex="1" parent="Jy2yGZOvvMkZB2We71Da-1">
+          <mxGeometry x="450" y="698" width="168" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="UCvL0g0zG1OU-FdawaFi-19" value="Sure, here&#39;s an instance of Car and WikipediaService" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=12;align=center;fontStyle=2" vertex="1" parent="Jy2yGZOvvMkZB2We71Da-1">
+          <mxGeometry x="772" y="698" width="168" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
