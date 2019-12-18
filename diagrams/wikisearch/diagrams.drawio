@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-18T17:27:44.220Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="T0v9ug8Pu3bF25oa3HJN" version="12.4.3" type="github" pages="6">
+<mxfile host="www.draw.io" modified="2019-12-18T17:29:05.997Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="xb42cvyHFT8T0SzjIJeU" version="12.4.3" type="github" pages="7">
   <diagram id="RnJkvEcWTYdA2Jqj87wk" name="01 - goals">
     <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -279,6 +279,17 @@
         </mxCell>
         <mxCell id="twId2GrNxOe7X0C6yxwC-9" value="term" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="wSknwv8qutS8RWmazU4m-1">
           <mxGeometry x="540" y="260" width="60" height="20" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="l4addjHukP946SrjYVwH" name="07 - docs">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="vIUeItmn4XtzfMA4fAoW-0"/>
+        <mxCell id="vIUeItmn4XtzfMA4fAoW-1" parent="vIUeItmn4XtzfMA4fAoW-0"/>
+        <mxCell id="vIUeItmn4XtzfMA4fAoW-2" value="mediawiki.org/wiki/API:Main_page" style="rounded=0;whiteSpace=wrap;html=1;fontSize=23;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="vIUeItmn4XtzfMA4fAoW-1">
+          <mxGeometry x="550" y="280" width="440" height="110" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
