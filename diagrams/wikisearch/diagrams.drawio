@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-18T16:37:08.668Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="tANBnI4gRz4hD6T1qOsw" version="12.4.3" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2019-12-18T17:05:28.561Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="ijQxDtWYNHzHwEiFrBDD" version="12.4.3" type="github" pages="5">
   <diagram id="RnJkvEcWTYdA2Jqj87wk" name="01 - goals">
     <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -212,6 +212,44 @@
         </mxCell>
         <mxCell id="vXaoxF1FkjHIJHMcbnl6-0" value="Pages" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="GZx0or1PetMA-Os968Fu-1">
           <mxGeometry x="740" y="273" width="70" height="20" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="W5dLdjqoOezTGKQ1VYKz" name="05 - diff">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="PJxJHHhYgRFNych-H0iy-0"/>
+        <mxCell id="PJxJHHhYgRFNych-H0iy-1" parent="PJxJHHhYgRFNych-H0iy-0"/>
+        <mxCell id="PJxJHHhYgRFNych-H0iy-2" value="User types stuff into the text input" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="PJxJHHhYgRFNych-H0iy-1">
+          <mxGeometry x="450" y="240" width="300" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="PJxJHHhYgRFNych-H0iy-3" value="Style One" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontStyle=1" vertex="1" parent="PJxJHHhYgRFNych-H0iy-1">
+          <mxGeometry x="497.5" y="210" width="205" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="PJxJHHhYgRFNych-H0iy-4" value="User types stuff into the text input" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="PJxJHHhYgRFNych-H0iy-1">
+          <mxGeometry x="840" y="240" width="300" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="PJxJHHhYgRFNych-H0iy-5" value="Style Two" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontStyle=1" vertex="1" parent="PJxJHHhYgRFNych-H0iy-1">
+          <mxGeometry x="902.5" y="210" width="175" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="PJxJHHhYgRFNych-H0iy-6" value="User hits the &#39;enter&#39; key to trigger a search" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="PJxJHHhYgRFNych-H0iy-1">
+          <mxGeometry x="450" y="310" width="300" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="PJxJHHhYgRFNych-H0iy-7" value="We look at the text input and pull the current value out" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="PJxJHHhYgRFNych-H0iy-1">
+          <mxGeometry x="450" y="380" width="300" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="PJxJHHhYgRFNych-H0iy-8" value="We send that current value back to the App component" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="PJxJHHhYgRFNych-H0iy-1">
+          <mxGeometry x="450" y="450" width="300" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="PJxJHHhYgRFNych-H0iy-9" value="With each keypress, we run an event handler and store the updated text" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="PJxJHHhYgRFNych-H0iy-1">
+          <mxGeometry x="840" y="310" width="300" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="PJxJHHhYgRFNych-H0iy-10" value="User hits the &#39;enter&#39; key to trigger a search" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="PJxJHHhYgRFNych-H0iy-1">
+          <mxGeometry x="840" y="380" width="300" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="PJxJHHhYgRFNych-H0iy-11" value="We take our stored property send it back to the App component" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="PJxJHHhYgRFNych-H0iy-1">
+          <mxGeometry x="840" y="450" width="300" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
