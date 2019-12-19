@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-19T21:54:35.695Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="T-Kg62DeI20kJPl9xT-d" version="12.4.3" type="github" pages="5">
+<mxfile host="www.draw.io" modified="2019-12-19T22:12:47.004Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="eUbQzeXZIG5YzwXqOJIu" version="12.4.3" type="github" pages="5">
   <diagram id="MhcPTcOK3C3aLbVcjWQV" name="01 - rx">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -171,7 +171,7 @@
       <root>
         <mxCell id="u5GpBWqKinK1J_kGYK0N-0"/>
         <mxCell id="u5GpBWqKinK1J_kGYK0N-1" parent="u5GpBWqKinK1J_kGYK0N-0"/>
-        <mxCell id="u5GpBWqKinK1J_kGYK0N-2" value="out-pi-silk.now.sh" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=center;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="u5GpBWqKinK1J_kGYK0N-1">
+        <mxCell id="u5GpBWqKinK1J_kGYK0N-2" value="out.stegrider.now.sh" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=center;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="u5GpBWqKinK1J_kGYK0N-1">
           <mxGeometry x="450" y="270" width="370" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="u5GpBWqKinK1J_kGYK0N-3" value="Tool to play around with and visualize RxJS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=2" vertex="1" parent="u5GpBWqKinK1J_kGYK0N-1">
