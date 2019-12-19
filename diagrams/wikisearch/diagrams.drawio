@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-19T17:09:22.175Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="8f3WfDhQi10R-Sdf6bXC" version="12.4.3" type="github" pages="14">
+<mxfile host="www.draw.io" modified="2019-12-19T17:11:32.282Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="5IEnu4n5gb6vVhoXQwQb" version="12.4.3" type="github" pages="15">
   <diagram id="RnJkvEcWTYdA2Jqj87wk" name="01 - goals">
     <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -447,6 +447,20 @@
         </mxCell>
         <mxCell id="p9Nr9Gtb6VpMaUEvTdzg-9" value="The &#39;automatic&#39; nature of DI is not strictly required - &lt;i&gt;we could do this all manually by hand&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=13;align=center;fontStyle=0" vertex="1" parent="p9Nr9Gtb6VpMaUEvTdzg-1">
           <mxGeometry x="475" y="440" width="515" height="50" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="E9BSIAWPenhKD7wKIGMH" name="15 - only">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="z0fzaWmAdf-aZmJ--E8B-0"/>
+        <mxCell id="z0fzaWmAdf-aZmJ--E8B-1" parent="z0fzaWmAdf-aZmJ--E8B-0"/>
+        <mxCell id="z0fzaWmAdf-aZmJ--E8B-2" value="We only want to display HTML in our app that &lt;i&gt;we have created&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=23;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="z0fzaWmAdf-aZmJ--E8B-1">
+          <mxGeometry x="570" y="240" width="410" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="z0fzaWmAdf-aZmJ--E8B-3" value="General Rule" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="z0fzaWmAdf-aZmJ--E8B-1">
+          <mxGeometry x="697.5" y="340" width="155" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
