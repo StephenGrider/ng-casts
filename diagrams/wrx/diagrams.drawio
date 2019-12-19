@@ -1,1 +1,45 @@
-<mxfile host="www.draw.io" modified="2019-12-19T19:00:36.340Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" version="12.4.3" etag="0YmTWQUoMHncnDsdHhRH" type="github"><diagram id="MhcPTcOK3C3aLbVcjWQV">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-12-19T19:05:09.411Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="luHaqG5K68EXLzY3yOi9" version="12.4.3" type="github" pages="2">
+  <diagram id="MhcPTcOK3C3aLbVcjWQV" name="01 - rx">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="B_728O0IIQVurIM5gVWn-1" value="rxjs" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=38;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="510" y="290" width="200" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="B_728O0IIQVurIM5gVWn-2" value="Functional reactive programming library" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="520" y="380" width="180" height="30" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="VIs7xF5QN6lNnKBiRLss" name="02 - notes">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="VLIs1-oUz5Zc2NLsGu33-0"/>
+        <mxCell id="VLIs1-oUz5Zc2NLsGu33-1" parent="VLIs1-oUz5Zc2NLsGu33-0"/>
+        <mxCell id="VLIs1-oUz5Zc2NLsGu33-2" value="Notes on Rxjs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="VLIs1-oUz5Zc2NLsGu33-1">
+          <mxGeometry x="665" y="80" width="180" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="VLIs1-oUz5Zc2NLsGu33-4" value="Separate library from Angular" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="VLIs1-oUz5Zc2NLsGu33-1">
+          <mxGeometry x="505" y="105" width="500" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="VLIs1-oUz5Zc2NLsGu33-5" value="Used extensively by Angular for managing data" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="VLIs1-oUz5Zc2NLsGu33-1">
+          <mxGeometry x="505" y="148" width="500" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="VLIs1-oUz5Zc2NLsGu33-6" value="We use this &lt;i style=&quot;font-size: 14px;&quot;&gt;instead of&amp;nbsp;&lt;/i&gt;promises or async/await for handling async stuff" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="VLIs1-oUz5Zc2NLsGu33-1">
+          <mxGeometry x="505" y="191" width="500" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="VLIs1-oUz5Zc2NLsGu33-7" value="Not strictly required!&amp;nbsp; We can use promises and async/await!" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="VLIs1-oUz5Zc2NLsGu33-1">
+          <mxGeometry x="505" y="234" width="500" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="VLIs1-oUz5Zc2NLsGu33-8" value="Hard.&amp;nbsp; Probably the hardest thing in the world of JS, period." style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="VLIs1-oUz5Zc2NLsGu33-1">
+          <mxGeometry x="505" y="277" width="500" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="VLIs1-oUz5Zc2NLsGu33-9" value="If you can get a good grasp of RXJS, all of angular is at your fingertips!" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="VLIs1-oUz5Zc2NLsGu33-1">
+          <mxGeometry x="505" y="320" width="500" height="35" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
