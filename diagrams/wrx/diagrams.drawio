@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-19T22:12:47.004Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="eUbQzeXZIG5YzwXqOJIu" version="12.4.3" type="github" pages="5">
+<mxfile host="www.draw.io" modified="2019-12-19T22:13:49.930Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="LvUrHwLRZlCvufacaJXE" version="12.4.3" type="github" pages="5">
   <diagram id="MhcPTcOK3C3aLbVcjWQV" name="01 - rx">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -178,7 +178,10 @@
           <mxGeometry x="522.5" y="340" width="225" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="u5GpBWqKinK1J_kGYK0N-4" value="&lt;i&gt;Note: &lt;/i&gt;Original credit to @moroshko, github.com/moroshko/rxviz" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=center;fontStyle=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="u5GpBWqKinK1J_kGYK0N-1">
-          <mxGeometry x="450" y="450" width="370" height="60" as="geometry"/>
+          <mxGeometry x="450" y="500" width="370" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="EJPu_4sIWRM98IiyBt1S-0" value="&lt;i&gt;We are going to write out a quick example. You will likely say &#39;why are we even using this?&#39; at some point&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=center;fontStyle=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="u5GpBWqKinK1J_kGYK0N-1">
+          <mxGeometry x="450" y="390" width="370" height="80" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
