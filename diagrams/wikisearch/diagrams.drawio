@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-19T17:47:11.199Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="Zhp1YBNB7XCNp451q8SK" version="12.4.3" type="github" pages="17">
+<mxfile host="www.draw.io" modified="2019-12-19T18:29:13.868Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="yvr-8N7SqEx11-NuabMe" version="12.4.3" type="github" pages="18">
   <diagram id="RnJkvEcWTYdA2Jqj87wk" name="01 - goals">
     <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -528,7 +528,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="E8Pk8fm6xYTyDljtogES" name="13 - sec">
-    <mxGraphModel dx="646" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="iceffdJoQtm9ECl98-h4-0"/>
         <mxCell id="iceffdJoQtm9ECl98-h4-1" parent="iceffdJoQtm9ECl98-h4-0"/>
@@ -616,6 +616,9 @@
         <mxCell id="6SfwNWWd58R2fPaLlhQC-10" value="Login" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=14;align=center;" vertex="1" parent="6SfwNWWd58R2fPaLlhQC-2">
           <mxGeometry x="210" y="260" width="100" height="30" as="geometry"/>
         </mxCell>
+        <mxCell id="VjQ5v4DMC3UKA9kLu74G-0" value="Interested in a loan? Contact us today!" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;" vertex="1" parent="6SfwNWWd58R2fPaLlhQC-2">
+          <mxGeometry x="105" y="330" width="200" height="20" as="geometry"/>
+        </mxCell>
         <mxCell id="6SfwNWWd58R2fPaLlhQC-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=23;" edge="1" parent="6SfwNWWd58R2fPaLlhQC-1" source="6SfwNWWd58R2fPaLlhQC-12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="700" y="360" as="targetPoint"/>
@@ -627,7 +630,7 @@
         <mxCell id="6SfwNWWd58R2fPaLlhQC-14" value="index.html" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=23;align=center;" vertex="1" parent="6SfwNWWd58R2fPaLlhQC-1">
           <mxGeometry x="770" y="330" width="130" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="6SfwNWWd58R2fPaLlhQC-15" value="Bank Content Server" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=23;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="6SfwNWWd58R2fPaLlhQC-1">
+        <mxCell id="6SfwNWWd58R2fPaLlhQC-15" value="Bank Content Server" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=23;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="6SfwNWWd58R2fPaLlhQC-1">
           <mxGeometry x="950" y="450" width="160" height="150" as="geometry"/>
         </mxCell>
         <mxCell id="6SfwNWWd58R2fPaLlhQC-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=23;" edge="1" parent="6SfwNWWd58R2fPaLlhQC-1">
@@ -645,8 +648,22 @@
         <mxCell id="6SfwNWWd58R2fPaLlhQC-18" value="Can I have some stuff to show?" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=15;align=center;" vertex="1" parent="6SfwNWWd58R2fPaLlhQC-1">
           <mxGeometry x="770" y="430" width="130" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="6SfwNWWd58R2fPaLlhQC-19" value="Sure, here is some raw HTML" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=15;align=center;" vertex="1" parent="6SfwNWWd58R2fPaLlhQC-1">
-          <mxGeometry x="770" y="560" width="130" height="50" as="geometry"/>
+        <mxCell id="6SfwNWWd58R2fPaLlhQC-19" value="MALICIOUS HTML WITH EMBEDDED JS" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=15;align=center;" vertex="1" parent="6SfwNWWd58R2fPaLlhQC-1">
+          <mxGeometry x="770" y="560" width="130" height="70" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="9o2uO5_sDPpW8E4tOwaZ" name="18 - direct">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="-3f-5fbu4e9cV9Q3AUqf-0"/>
+        <mxCell id="-3f-5fbu4e9cV9Q3AUqf-1" parent="-3f-5fbu4e9cV9Q3AUqf-0"/>
+        <mxCell id="-3f-5fbu4e9cV9Q3AUqf-2" value="https://en.wikipedia.org?curid=" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=28;align=center;" vertex="1" parent="-3f-5fbu4e9cV9Q3AUqf-1">
+          <mxGeometry x="410" y="250" width="430" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="-3f-5fbu4e9cV9Q3AUqf-3" value="pageid" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=28;align=center;" vertex="1" parent="-3f-5fbu4e9cV9Q3AUqf-1">
+          <mxGeometry x="840" y="250" width="120" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
