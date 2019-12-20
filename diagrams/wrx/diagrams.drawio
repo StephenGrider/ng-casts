@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-20T19:08:40.837Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="0NzZawa8FXKzRets8Jmt" version="12.4.3" type="github" pages="13">
+<mxfile host="www.draw.io" modified="2019-12-20T19:09:15.231Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="PE61Meqsnya8bUOPBIWQ" version="12.4.3" type="github" pages="13">
   <diagram id="MhcPTcOK3C3aLbVcjWQV" name="01 - rx">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -612,10 +612,10 @@
           <mxGeometry x="390" y="268" width="500" height="35" as="geometry"/>
         </mxCell>
         <mxCell id="4O6UbndrGAJ2nDLOAHaE-3" value="Print out the user&#39;s name, number of todos, and number of posts" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="zQCWlnee9hCuGcnxU1gw-1">
-          <mxGeometry x="390" y="350" width="500" height="35" as="geometry"/>
+          <mxGeometry x="390" y="360" width="500" height="35" as="geometry"/>
         </mxCell>
-        <mxCell id="4O6UbndrGAJ2nDLOAHaE-4" value="Fetch the profile, todos, and posts of the user with that ID" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="zQCWlnee9hCuGcnxU1gw-1">
-          <mxGeometry x="390" y="309" width="500" height="35" as="geometry"/>
+        <mxCell id="4O6UbndrGAJ2nDLOAHaE-4" value="Fetch the profile, todos, and posts of the user with that ID from&amp;nbsp;&lt;br&gt;&lt;b&gt;jsonplaceholder.typicode.com&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="zQCWlnee9hCuGcnxU1gw-1">
+          <mxGeometry x="390" y="309" width="500" height="41" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
