@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-20T00:02:15.194Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="cA3lAqo56u3h1g_8k4gI" version="12.4.3" type="github" pages="9">
+<mxfile host="www.draw.io" modified="2019-12-20T00:02:48.906Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="oyecdcS7odUjpU2VQabL" version="12.4.3" type="github" pages="10">
   <diagram id="MhcPTcOK3C3aLbVcjWQV" name="01 - rx">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -423,10 +423,24 @@
           <mxGeometry x="505" y="241" width="500" height="35" as="geometry"/>
         </mxCell>
         <mxCell id="0LpEuLUNMtPcTo-4mtid-5" value="For any given problem, you will probably decide to use one operator, then later realize you could have more easily used another" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="guBLXfjhpPqEHeP8Hw4l-1">
-          <mxGeometry x="505" y="280" width="500" height="35" as="geometry"/>
+          <mxGeometry x="505" y="281" width="500" height="35" as="geometry"/>
         </mxCell>
         <mxCell id="0LpEuLUNMtPcTo-4mtid-8" value="Recommendation: take a look at &lt;i&gt;exactly what value &lt;/i&gt;is coming out of your observable, then figure out what operators you need to implement your app" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="guBLXfjhpPqEHeP8Hw4l-1">
+          <mxGeometry x="505" y="360" width="500" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="KAn5Pbkwt18N49SYM6bp-0" value="Almost all documentation around operators is awful" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="guBLXfjhpPqEHeP8Hw4l-1">
           <mxGeometry x="505" y="320" width="500" height="35" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="VPpmBj94PChLHki153Jy" name="07 - link">
+    <mxGraphModel dx="654" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="wS0xqcbWKqH5a8ZPb11V-0"/>
+        <mxCell id="wS0xqcbWKqH5a8ZPb11V-1" parent="wS0xqcbWKqH5a8ZPb11V-0"/>
+        <mxCell id="wS0xqcbWKqH5a8ZPb11V-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=center;" vertex="1" parent="wS0xqcbWKqH5a8ZPb11V-1">
+          <mxGeometry x="550" y="240" width="120" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
