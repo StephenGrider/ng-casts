@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-20T17:07:20.620Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="q1UiF4fUszdlUTBrMxMa" version="12.4.3" type="github" pages="12">
+<mxfile host="www.draw.io" modified="2019-12-20T19:08:40.837Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="0NzZawa8FXKzRets8Jmt" version="12.4.3" type="github" pages="13">
   <diagram id="MhcPTcOK3C3aLbVcjWQV" name="01 - rx">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="VIs7xF5QN6lNnKBiRLss" name="02 - notes">
-    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="670" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="VLIs1-oUz5Zc2NLsGu33-0"/>
         <mxCell id="VLIs1-oUz5Zc2NLsGu33-1" parent="VLIs1-oUz5Zc2NLsGu33-0"/>
@@ -40,13 +40,13 @@
           <mxGeometry x="505" y="359" width="500" height="35" as="geometry"/>
         </mxCell>
         <mxCell id="NDzQ4Fvtysc01dS01UdN-0" value="RxJs makes building some kinds of features &lt;i&gt;really really easy&lt;/i&gt;&amp;nbsp;compared to writing normal code" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="VLIs1-oUz5Zc2NLsGu33-1">
-          <mxGeometry x="505" y="276" width="500" height="35" as="geometry"/>
+          <mxGeometry x="505" y="280" width="500" height="35" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="SM1V0fOd3Kj7k1MCDoup" name="06 - add">
-    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="670" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="rDrWEWUbxZ_-EN-GcFcM-0"/>
         <mxCell id="rDrWEWUbxZ_-EN-GcFcM-1" parent="rDrWEWUbxZ_-EN-GcFcM-0"/>
@@ -593,6 +593,29 @@
         </mxCell>
         <mxCell id="mNl17Z-rjYP8g3RzGtup-23" value="Third element from array" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="mNl17Z-rjYP8g3RzGtup-1">
           <mxGeometry x="1000" y="450" width="120" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="LZ2hFsNJxbTBY6_6NAaN" name="13 - app">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="zQCWlnee9hCuGcnxU1gw-0"/>
+        <mxCell id="zQCWlnee9hCuGcnxU1gw-1" parent="zQCWlnee9hCuGcnxU1gw-0"/>
+        <mxCell id="4O6UbndrGAJ2nDLOAHaE-0" value="Build an App..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="zQCWlnee9hCuGcnxU1gw-1">
+          <mxGeometry x="550" y="200" width="180" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="4O6UbndrGAJ2nDLOAHaE-1" value="Show a text input to a user" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="zQCWlnee9hCuGcnxU1gw-1">
+          <mxGeometry x="390" y="227" width="500" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="4O6UbndrGAJ2nDLOAHaE-2" value="The user will enter the ID of another user" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="zQCWlnee9hCuGcnxU1gw-1">
+          <mxGeometry x="390" y="268" width="500" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="4O6UbndrGAJ2nDLOAHaE-3" value="Print out the user&#39;s name, number of todos, and number of posts" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="zQCWlnee9hCuGcnxU1gw-1">
+          <mxGeometry x="390" y="350" width="500" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="4O6UbndrGAJ2nDLOAHaE-4" value="Fetch the profile, todos, and posts of the user with that ID" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="zQCWlnee9hCuGcnxU1gw-1">
+          <mxGeometry x="390" y="309" width="500" height="35" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
