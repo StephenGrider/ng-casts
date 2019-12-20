@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-19T23:41:24.868Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="53bzliOGrqsaDyjX0Xbu" version="12.4.3" type="github" pages="9">
+<mxfile host="www.draw.io" modified="2019-12-20T00:02:15.194Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="cA3lAqo56u3h1g_8k4gI" version="12.4.3" type="github" pages="9">
   <diagram id="MhcPTcOK3C3aLbVcjWQV" name="01 - rx">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="VIs7xF5QN6lNnKBiRLss" name="02 - notes">
-    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="669" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="VLIs1-oUz5Zc2NLsGu33-0"/>
         <mxCell id="VLIs1-oUz5Zc2NLsGu33-1" parent="VLIs1-oUz5Zc2NLsGu33-0"/>
@@ -243,7 +243,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="04 - terminology" id="4mZ6OKR4qwcd8C8CqgLs">
-    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="669" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="rPSWsxHMC6BjD7F-ph-m-0"/>
         <mxCell id="rPSWsxHMC6BjD7F-ph-m-1" parent="rPSWsxHMC6BjD7F-ph-m-0"/>
@@ -407,16 +407,26 @@
       <root>
         <mxCell id="guBLXfjhpPqEHeP8Hw4l-0"/>
         <mxCell id="guBLXfjhpPqEHeP8Hw4l-1" parent="guBLXfjhpPqEHeP8Hw4l-0"/>
-        <mxCell id="guBLXfjhpPqEHeP8Hw4l-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="guBLXfjhpPqEHeP8Hw4l-1" source="guBLXfjhpPqEHeP8Hw4l-26">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="690" y="220" as="targetPoint"/>
-          </mxGeometry>
+        <mxCell id="0LpEuLUNMtPcTo-4mtid-0" value="Operators" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="guBLXfjhpPqEHeP8Hw4l-1">
+          <mxGeometry x="665" y="90" width="180" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="guBLXfjhpPqEHeP8Hw4l-26" value="Obervable" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="guBLXfjhpPqEHeP8Hw4l-1">
-          <mxGeometry x="590" y="160" width="200" height="30" as="geometry"/>
+        <mxCell id="0LpEuLUNMtPcTo-4mtid-1" value="Functions that do some specific processing on the incoming value" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="guBLXfjhpPqEHeP8Hw4l-1">
+          <mxGeometry x="505" y="122" width="500" height="35" as="geometry"/>
         </mxCell>
-        <mxCell id="guBLXfjhpPqEHeP8Hw4l-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=center;" vertex="1" parent="guBLXfjhpPqEHeP8Hw4l-1">
-          <mxGeometry x="590" y="220" width="200" height="30" as="geometry"/>
+        <mxCell id="0LpEuLUNMtPcTo-4mtid-2" value="We chain together operators to build up a processing pipeline" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="guBLXfjhpPqEHeP8Hw4l-1">
+          <mxGeometry x="505" y="162" width="500" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="0LpEuLUNMtPcTo-4mtid-3" value="75% of RxJs is memorizing the different operators" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="guBLXfjhpPqEHeP8Hw4l-1">
+          <mxGeometry x="505" y="201" width="500" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="0LpEuLUNMtPcTo-4mtid-4" value="There are some very &lt;i&gt;generic&lt;/i&gt;&amp;nbsp;operators and some very &lt;i&gt;specific &lt;/i&gt;ones" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="guBLXfjhpPqEHeP8Hw4l-1">
+          <mxGeometry x="505" y="241" width="500" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="0LpEuLUNMtPcTo-4mtid-5" value="For any given problem, you will probably decide to use one operator, then later realize you could have more easily used another" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="guBLXfjhpPqEHeP8Hw4l-1">
+          <mxGeometry x="505" y="280" width="500" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="0LpEuLUNMtPcTo-4mtid-8" value="Recommendation: take a look at &lt;i&gt;exactly what value &lt;/i&gt;is coming out of your observable, then figure out what operators you need to implement your app" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="guBLXfjhpPqEHeP8Hw4l-1">
+          <mxGeometry x="505" y="320" width="500" height="35" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
