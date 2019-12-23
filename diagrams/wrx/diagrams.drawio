@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-23T17:49:56.136Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="fCzmB7jFyuJDAq6Wm8id" version="12.4.3" type="github" pages="21">
+<mxfile host="www.draw.io" modified="2019-12-23T17:50:39.091Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="r6gl4g_vSLj0xCO6VAo4" version="12.4.3" type="github" pages="21">
   <diagram id="MhcPTcOK3C3aLbVcjWQV" name="01 - rx">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -638,13 +638,13 @@
         <mxCell id="I5LfndOfvIqjYU7sxPPy-2" value="Hot Observables" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="I5LfndOfvIqjYU7sxPPy-1">
           <mxGeometry x="600" y="80" width="190" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="I5LfndOfvIqjYU7sxPPy-3" value="Emit a &lt;i style=&quot;font-size: 14px;&quot;&gt;separate&lt;/i&gt; set of values for each observer that subscribes" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="I5LfndOfvIqjYU7sxPPy-1">
+        <mxCell id="I5LfndOfvIqjYU7sxPPy-3" value="Emit a &lt;i&gt;single&lt;/i&gt;&amp;nbsp;set of values for all observers that subscribe" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="I5LfndOfvIqjYU7sxPPy-1">
           <mxGeometry x="470" y="110" width="450" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="I5LfndOfvIqjYU7sxPPy-4" value="All of the operators in a pipe will be executed for each separate observer that subscribes" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="I5LfndOfvIqjYU7sxPPy-1">
+        <mxCell id="I5LfndOfvIqjYU7sxPPy-4" value="All of the operators in a pipe are executed just once" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="I5LfndOfvIqjYU7sxPPy-1">
           <mxGeometry x="470" y="160" width="450" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="I5LfndOfvIqjYU7sxPPy-5" value="Leads to bad behavior if we have an operator that makes a network request!" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="I5LfndOfvIqjYU7sxPPy-1">
+        <mxCell id="I5LfndOfvIqjYU7sxPPy-5" value="We can make a &#39;cold&#39; observable &#39;hot&#39; by adding in an operator to the pipe" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="I5LfndOfvIqjYU7sxPPy-1">
           <mxGeometry x="470" y="210" width="450" height="40" as="geometry"/>
         </mxCell>
       </root>
