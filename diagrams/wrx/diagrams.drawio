@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-23T18:26:30.842Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="xpx4eNQ1IeXTXLD6akHd" version="12.4.3" type="github" pages="21">
+<mxfile host="www.draw.io" modified="2019-12-23T18:29:17.833Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="X0-DM5Kh1SjPXknNQ-VV" version="12.4.3" type="github" pages="21">
   <diagram id="MhcPTcOK3C3aLbVcjWQV" name="01 - rx">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -398,13 +398,13 @@
         <mxCell id="u7M7XSrEBZVCxEW8xUuK-0"/>
         <mxCell id="u7M7XSrEBZVCxEW8xUuK-1" parent="u7M7XSrEBZVCxEW8xUuK-0"/>
         <mxCell id="pO06OOcIXgrh3VAJiUOt-0" value="Hot Observable" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="u7M7XSrEBZVCxEW8xUuK-1">
-          <mxGeometry x="360" y="250" width="220" height="60" as="geometry"/>
+          <mxGeometry x="360" y="210" width="220" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="pO06OOcIXgrh3VAJiUOt-1" value="Cold Observable" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="u7M7XSrEBZVCxEW8xUuK-1">
-          <mxGeometry x="690" y="250" width="220" height="60" as="geometry"/>
+          <mxGeometry x="690" y="210" width="220" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="pO06OOcIXgrh3VAJiUOt-2" value="vs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="u7M7XSrEBZVCxEW8xUuK-1">
-          <mxGeometry x="620" y="270" width="40" height="20" as="geometry"/>
+          <mxGeometry x="620" y="230" width="40" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="Tgrx9tl8DyZOgtCk62u1-0" value="Multicast Observable" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="u7M7XSrEBZVCxEW8xUuK-1">
           <mxGeometry x="360" y="360" width="220" height="60" as="geometry"/>
