@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-23T19:24:10.916Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="EW70P8EbYNYaK_pVETnt" version="12.4.3" type="github" pages="23">
+<mxfile host="www.draw.io" modified="2019-12-23T19:26:58.850Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="7Eo4_TfuaFibzzm6g2yR" version="12.4.3" type="github" pages="24">
   <diagram id="MhcPTcOK3C3aLbVcjWQV" name="01 - rx">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -1203,6 +1203,38 @@
         </mxCell>
         <mxCell id="yQc1Cjr4f7rxVKc5aTsU-26" value="zip" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="yQc1Cjr4f7rxVKc5aTsU-1" vertex="1">
           <mxGeometry x="637.5" y="915" width="360" height="50" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="xNCXVG5QbKZdaMv2AuTm" name="24 - ng">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="8rPyx9XsotLkAOADjL_8-0"/>
+        <mxCell id="8rPyx9XsotLkAOADjL_8-1" parent="8rPyx9XsotLkAOADjL_8-0"/>
+        <mxCell id="8rPyx9XsotLkAOADjL_8-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="8rPyx9XsotLkAOADjL_8-1">
+          <mxGeometry x="490" y="290" width="180" height="150" as="geometry"/>
+        </mxCell>
+        <mxCell id="8rPyx9XsotLkAOADjL_8-3" value="Wikipedia Service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=1" vertex="1" parent="8rPyx9XsotLkAOADjL_8-1">
+          <mxGeometry x="495" y="300" width="170" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="8rPyx9XsotLkAOADjL_8-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="8rPyx9XsotLkAOADjL_8-1">
+          <mxGeometry x="850" y="290" width="310" height="150" as="geometry"/>
+        </mxCell>
+        <mxCell id="8rPyx9XsotLkAOADjL_8-5" value="App Component" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=1" vertex="1" parent="8rPyx9XsotLkAOADjL_8-1">
+          <mxGeometry x="925" y="300" width="170" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="8rPyx9XsotLkAOADjL_8-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.011;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=17;" edge="1" parent="8rPyx9XsotLkAOADjL_8-1" source="8rPyx9XsotLkAOADjL_8-6" target="8rPyx9XsotLkAOADjL_8-4">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="8rPyx9XsotLkAOADjL_8-6" value="search()" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;align=center;" vertex="1" parent="8rPyx9XsotLkAOADjL_8-1">
+          <mxGeometry x="520" y="350" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="8rPyx9XsotLkAOADjL_8-8" value="Observable" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;align=center;" vertex="1" parent="8rPyx9XsotLkAOADjL_8-1">
+          <mxGeometry x="710" y="380" width="100" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="8rPyx9XsotLkAOADjL_8-9" value="onTerm() {&lt;br style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; // Get Observable and subscribe to it with an observer&lt;br style=&quot;font-size: 10px;&quot;&gt;}" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=left;" vertex="1" parent="8rPyx9XsotLkAOADjL_8-1">
+          <mxGeometry x="880" y="350" width="260" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
