@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-24T20:42:20.083Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="UEnzkTHhTVdzNGu19W-e" version="12.4.3" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2019-12-24T21:26:56.757Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="1JFJa54DURvZzZKLIttS" version="12.4.3" type="github" pages="2">
   <diagram id="g-8aUn-yCLQlOlD1rf04" name="01 - mockup">
     <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -81,7 +81,7 @@
         <mxCell id="F1kFH90dVr8UZjHQC_4X-19" value="Successfully fetched 10 articles from News API!" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="F1kFH90dVr8UZjHQC_4X-2">
           <mxGeometry x="280" y="270" width="200" height="70" as="geometry"/>
         </mxCell>
-        <mxCell id="F1kFH90dVr8UZjHQC_4X-20" value="Successfully fetched 10 articles from News API!" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="F1kFH90dVr8UZjHQC_4X-2">
+        <mxCell id="F1kFH90dVr8UZjHQC_4X-20" value="Failed to fetch articles from Hacker News" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="F1kFH90dVr8UZjHQC_4X-2">
           <mxGeometry x="280" y="350" width="200" height="70" as="geometry"/>
         </mxCell>
         <mxCell id="F1kFH90dVr8UZjHQC_4X-21" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iDeleteApp;fillColor=#cccccc;fillColor2=#000000;strokeColor=#ffffff;fontSize=16;fontColor=#000000;align=center;" vertex="1" parent="F1kFH90dVr8UZjHQC_4X-2">
