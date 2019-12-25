@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-25T20:48:34.971Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="3DSYAL1migGtdHyTB13F" version="12.4.3" type="github" pages="8">
+<mxfile host="www.draw.io" modified="2019-12-25T20:53:56.487Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="k-OA5xilJnKGfD8eKqn8" version="12.4.3" type="github" pages="8">
   <diagram id="g-8aUn-yCLQlOlD1rf04" name="01 - mockup">
     <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -92,7 +92,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="02 - souces" id="DbKbJx4aomJnNt5FVq7H">
-    <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="995" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="F1kFH90dVr8UZjHQC_4X-0"/>
         <mxCell id="F1kFH90dVr8UZjHQC_4X-1" parent="F1kFH90dVr8UZjHQC_4X-0"/>
@@ -428,10 +428,13 @@
           <mxGeometry x="570" y="300" width="270" height="200" as="geometry"/>
         </mxCell>
         <mxCell id="4pYhQTcvPVw--77Q3iF8-8" value="Forecast Component" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=#000000;align=center;" vertex="1" parent="4pYhQTcvPVw--77Q3iF8-1">
-          <mxGeometry x="570" y="520" width="270" height="40" as="geometry"/>
+          <mxGeometry x="570" y="580" width="270" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="4pYhQTcvPVw--77Q3iF8-10" value="Series of operators to take the latitude/longitude and transform it into a forecast" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=#000000;align=center;" vertex="1" parent="4pYhQTcvPVw--77Q3iF8-1">
           <mxGeometry x="582.5" y="370" width="247" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="xgYhgVE4Bs2yOCiOrJmd-0" value="[{ temp: 10 }, { temp: 10 }]" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=#000000;align=center;" vertex="1" parent="4pYhQTcvPVw--77Q3iF8-1">
+          <mxGeometry x="710" y="520" width="170" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
