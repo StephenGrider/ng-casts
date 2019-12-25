@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-12-25T20:53:56.487Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="k-OA5xilJnKGfD8eKqn8" version="12.4.3" type="github" pages="8">
+<mxfile host="www.draw.io" modified="2019-12-25T21:17:51.535Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="IidDUC7EtwUD8-nq5ksH" version="12.4.3" type="github" pages="8">
   <diagram id="g-8aUn-yCLQlOlD1rf04" name="01 - mockup">
-    <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="995" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -236,9 +236,6 @@
       <root>
         <mxCell id="3SoM6HA_jyPIw3LqU1Tw-0"/>
         <mxCell id="3SoM6HA_jyPIw3LqU1Tw-1" parent="3SoM6HA_jyPIw3LqU1Tw-0"/>
-        <mxCell id="J5sj-qad0n7Q5YYya026-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=18;fontColor=#000000;" edge="1" parent="3SoM6HA_jyPIw3LqU1Tw-1" source="3SoM6HA_jyPIw3LqU1Tw-2" target="WZpHvqNM9GYi3sBNEaxF-2">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
         <mxCell id="3SoM6HA_jyPIw3LqU1Tw-2" value="Tech News" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="3SoM6HA_jyPIw3LqU1Tw-1">
           <mxGeometry x="450" y="300" width="170" height="50" as="geometry"/>
         </mxCell>
@@ -248,11 +245,8 @@
         <mxCell id="WZpHvqNM9GYi3sBNEaxF-1" value="Weather" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="3SoM6HA_jyPIw3LqU1Tw-1">
           <mxGeometry x="630" y="360" width="170" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="J5sj-qad0n7Q5YYya026-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontSize=18;fontColor=#000000;" edge="1" parent="3SoM6HA_jyPIw3LqU1Tw-1" source="WZpHvqNM9GYi3sBNEaxF-2" target="3SoM6HA_jyPIw3LqU1Tw-2">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
         <mxCell id="WZpHvqNM9GYi3sBNEaxF-2" value="World News" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="3SoM6HA_jyPIw3LqU1Tw-1">
-          <mxGeometry x="450" y="400" width="170" height="50" as="geometry"/>
+          <mxGeometry x="450" y="360" width="170" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="SFQH_lSibxfokDE7pJIL-0" value="Major App Features" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#000000;fontStyle=1" vertex="1" parent="3SoM6HA_jyPIw3LqU1Tw-1">
           <mxGeometry x="563" y="260" width="120" height="20" as="geometry"/>
@@ -266,25 +260,25 @@
         <mxCell id="yvNez5VvWC91W-0IzM8K-0"/>
         <mxCell id="yvNez5VvWC91W-0IzM8K-1" parent="yvNez5VvWC91W-0IzM8K-0"/>
         <mxCell id="yvNez5VvWC91W-0IzM8K-2" value="Modules" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;fontColor=#000000;fontStyle=1" vertex="1" parent="yvNez5VvWC91W-0IzM8K-1">
-          <mxGeometry x="618.75" y="230" width="120" height="20" as="geometry"/>
+          <mxGeometry x="427.5" y="230" width="500" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="yvNez5VvWC91W-0IzM8K-3" value="Organizes code in a project" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;align=center;" vertex="1" parent="yvNez5VvWC91W-0IzM8K-1">
-          <mxGeometry x="427.5" y="264" width="502.5" height="40" as="geometry"/>
+          <mxGeometry x="427.5" y="264" width="500" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="yvNez5VvWC91W-0IzM8K-7" value="Combining modules + services is a bit awkward.&amp;nbsp; Major change was introduced in Angular v6." style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;align=center;" vertex="1" parent="yvNez5VvWC91W-0IzM8K-1">
-          <mxGeometry x="420" y="400" width="510" height="40" as="geometry"/>
+          <mxGeometry x="427.5" y="400" width="500" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="yvNez5VvWC91W-0IzM8K-8" value="Forces you to organize your code" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;align=center;" vertex="1" parent="yvNez5VvWC91W-0IzM8K-1">
-          <mxGeometry x="427.5" y="445" width="502.5" height="40" as="geometry"/>
+          <mxGeometry x="427.5" y="445" width="500" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="yvNez5VvWC91W-0IzM8K-9" value="Can have a huge impact on how quickly your app starts up" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;align=center;" vertex="1" parent="yvNez5VvWC91W-0IzM8K-1">
-          <mxGeometry x="427.5" y="490" width="502.5" height="40" as="geometry"/>
+          <mxGeometry x="427.5" y="490" width="500" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="GIczURscTnpITPPiAAUS-0" value="Contains a set of components, services, pipes, and directives" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;align=center;" vertex="1" parent="yvNez5VvWC91W-0IzM8K-1">
-          <mxGeometry x="427.5" y="309" width="502.5" height="40" as="geometry"/>
+          <mxGeometry x="427.5" y="309" width="500" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="lAo7j_EECdqk6Gkgg8ix-0" value="Some modules are built into Angular, others we create on our own" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;align=center;" vertex="1" parent="yvNez5VvWC91W-0IzM8K-1">
-          <mxGeometry x="427.5" y="353" width="502.5" height="40" as="geometry"/>
+          <mxGeometry x="427.5" y="354" width="500" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
@@ -428,13 +422,10 @@
           <mxGeometry x="570" y="300" width="270" height="200" as="geometry"/>
         </mxCell>
         <mxCell id="4pYhQTcvPVw--77Q3iF8-8" value="Forecast Component" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=#000000;align=center;" vertex="1" parent="4pYhQTcvPVw--77Q3iF8-1">
-          <mxGeometry x="570" y="580" width="270" height="40" as="geometry"/>
+          <mxGeometry x="570" y="540" width="270" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="4pYhQTcvPVw--77Q3iF8-10" value="Series of operators to take the latitude/longitude and transform it into a forecast" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=#000000;align=center;" vertex="1" parent="4pYhQTcvPVw--77Q3iF8-1">
           <mxGeometry x="582.5" y="370" width="247" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="xgYhgVE4Bs2yOCiOrJmd-0" value="[{ temp: 10 }, { temp: 10 }]" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=#000000;align=center;" vertex="1" parent="4pYhQTcvPVw--77Q3iF8-1">
-          <mxGeometry x="710" y="520" width="170" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
