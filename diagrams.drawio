@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-25T19:09:17.596Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="O_y9PwqENhMPktUwl98J" version="12.4.3" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2019-12-25T19:33:32.596Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="wmxVcZzv27QLQBGUVLt8" version="12.4.3" type="github" pages="5">
   <diagram id="g-8aUn-yCLQlOlD1rf04" name="01 - mockup">
     <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -92,7 +92,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="02 - souces" id="DbKbJx4aomJnNt5FVq7H">
-    <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="881" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="F1kFH90dVr8UZjHQC_4X-0"/>
         <mxCell id="F1kFH90dVr8UZjHQC_4X-1" parent="F1kFH90dVr8UZjHQC_4X-0"/>
@@ -232,10 +232,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="b3hTejPsAf5sX11WIBNo" name="03 - modules">
-    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="661" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="3SoM6HA_jyPIw3LqU1Tw-0"/>
         <mxCell id="3SoM6HA_jyPIw3LqU1Tw-1" parent="3SoM6HA_jyPIw3LqU1Tw-0"/>
+        <mxCell id="J5sj-qad0n7Q5YYya026-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=18;fontColor=#000000;" edge="1" parent="3SoM6HA_jyPIw3LqU1Tw-1" source="3SoM6HA_jyPIw3LqU1Tw-2" target="WZpHvqNM9GYi3sBNEaxF-2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="3SoM6HA_jyPIw3LqU1Tw-2" value="Tech News" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="3SoM6HA_jyPIw3LqU1Tw-1">
           <mxGeometry x="450" y="300" width="170" height="50" as="geometry"/>
         </mxCell>
@@ -245,8 +248,11 @@
         <mxCell id="WZpHvqNM9GYi3sBNEaxF-1" value="Weather" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="3SoM6HA_jyPIw3LqU1Tw-1">
           <mxGeometry x="630" y="360" width="170" height="50" as="geometry"/>
         </mxCell>
+        <mxCell id="J5sj-qad0n7Q5YYya026-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontSize=18;fontColor=#000000;" edge="1" parent="3SoM6HA_jyPIw3LqU1Tw-1" source="WZpHvqNM9GYi3sBNEaxF-2" target="3SoM6HA_jyPIw3LqU1Tw-2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="WZpHvqNM9GYi3sBNEaxF-2" value="World News" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="3SoM6HA_jyPIw3LqU1Tw-1">
-          <mxGeometry x="450" y="360" width="170" height="50" as="geometry"/>
+          <mxGeometry x="450" y="400" width="170" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="SFQH_lSibxfokDE7pJIL-0" value="Major App Features" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#000000;fontStyle=1" vertex="1" parent="3SoM6HA_jyPIw3LqU1Tw-1">
           <mxGeometry x="563" y="260" width="120" height="20" as="geometry"/>
@@ -255,7 +261,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wlAYZMSNxMvzLOQUT90D" name="04 - modules">
-    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="661" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="yvNez5VvWC91W-0IzM8K-0"/>
         <mxCell id="yvNez5VvWC91W-0IzM8K-1" parent="yvNez5VvWC91W-0IzM8K-0"/>
@@ -263,25 +269,60 @@
           <mxGeometry x="618.75" y="230" width="120" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="yvNez5VvWC91W-0IzM8K-3" value="Organizes code in a project" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;align=center;" vertex="1" parent="yvNez5VvWC91W-0IzM8K-1">
-          <mxGeometry x="427.5" y="256" width="502.5" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="yvNez5VvWC91W-0IzM8K-6" value="&lt;i&gt;Supposedly &lt;/i&gt;helps you get some code reuse.&amp;nbsp; Meh. Kind of a pain to use. Adds another step of configuration" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;align=center;" vertex="1" parent="yvNez5VvWC91W-0IzM8K-1">
-          <mxGeometry x="427.5" y="393" width="502.5" height="40" as="geometry"/>
+          <mxGeometry x="427.5" y="264" width="502.5" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="yvNez5VvWC91W-0IzM8K-7" value="Combining modules + services is a bit awkward.&amp;nbsp; Major change was introduced in Angular v6." style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;align=center;" vertex="1" parent="yvNez5VvWC91W-0IzM8K-1">
-          <mxGeometry x="427.5" y="439" width="502.5" height="40" as="geometry"/>
+          <mxGeometry x="420" y="400" width="510" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="yvNez5VvWC91W-0IzM8K-8" value="Forces you to organize your code" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;align=center;" vertex="1" parent="yvNez5VvWC91W-0IzM8K-1">
-          <mxGeometry x="427.5" y="484" width="502.5" height="40" as="geometry"/>
+          <mxGeometry x="427.5" y="445" width="502.5" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="yvNez5VvWC91W-0IzM8K-9" value="Can have a huge impact on how quickly your app starts up" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;align=center;" vertex="1" parent="yvNez5VvWC91W-0IzM8K-1">
-          <mxGeometry x="427.5" y="530" width="502.5" height="40" as="geometry"/>
+          <mxGeometry x="427.5" y="490" width="502.5" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="GIczURscTnpITPPiAAUS-0" value="Contains a set of components, services, pipes, and directives" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;align=center;" vertex="1" parent="yvNez5VvWC91W-0IzM8K-1">
-          <mxGeometry x="427.5" y="301" width="502.5" height="40" as="geometry"/>
+          <mxGeometry x="427.5" y="309" width="502.5" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="lAo7j_EECdqk6Gkgg8ix-0" value="Some modules are built into Angular, others we create on our own" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;align=center;" vertex="1" parent="yvNez5VvWC91W-0IzM8K-1">
-          <mxGeometry x="427.5" y="347" width="502.5" height="40" as="geometry"/>
+          <mxGeometry x="427.5" y="353" width="502.5" height="40" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="NePHELgjTmDIw3OwcOcL" name="05 - modules">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="cV5af1RW3ih_n-gjFhCA-0"/>
+        <mxCell id="cV5af1RW3ih_n-gjFhCA-1" parent="cV5af1RW3ih_n-gjFhCA-0"/>
+        <mxCell id="38YTR_zMsuHVqLdiMxAo-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="cV5af1RW3ih_n-gjFhCA-1">
+          <mxGeometry x="315" y="180" width="70" height="220" as="geometry"/>
+        </mxCell>
+        <mxCell id="cV5af1RW3ih_n-gjFhCA-2" value="This is a single feature of our app, so we should probably generate a module to contain all the code for it" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="cV5af1RW3ih_n-gjFhCA-1">
+          <mxGeometry x="450" y="210" width="340" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="38YTR_zMsuHVqLdiMxAo-0" value="49F&lt;br style=&quot;font-size: 12px;&quot;&gt;Mon" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="cV5af1RW3ih_n-gjFhCA-1">
+          <mxGeometry x="330" y="190" width="40" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="38YTR_zMsuHVqLdiMxAo-1" value="49F&lt;br style=&quot;font-size: 12px;&quot;&gt;Tue" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="cV5af1RW3ih_n-gjFhCA-1">
+          <mxGeometry x="330" y="230" width="40" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="38YTR_zMsuHVqLdiMxAo-2" value="49F&lt;br style=&quot;font-size: 12px;&quot;&gt;Wed" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="cV5af1RW3ih_n-gjFhCA-1">
+          <mxGeometry x="330" y="270" width="40" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="38YTR_zMsuHVqLdiMxAo-3" value="49F&lt;br style=&quot;font-size: 12px;&quot;&gt;Thur" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="cV5af1RW3ih_n-gjFhCA-1">
+          <mxGeometry x="330" y="310" width="40" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="38YTR_zMsuHVqLdiMxAo-4" value="49F&lt;br style=&quot;font-size: 12px;&quot;&gt;Fri" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="cV5af1RW3ih_n-gjFhCA-1">
+          <mxGeometry x="330" y="350" width="40" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="38YTR_zMsuHVqLdiMxAo-6" value="The &#39;Weather&#39; Feature" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#000000;fontStyle=1" vertex="1" parent="cV5af1RW3ih_n-gjFhCA-1">
+          <mxGeometry x="505" y="180" width="230" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="38YTR_zMsuHVqLdiMxAo-7" value="Probably need one component called &#39;forecast&#39; or &#39;weather-list&#39; or something to display to use" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="cV5af1RW3ih_n-gjFhCA-1">
+          <mxGeometry x="450" y="260" width="340" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="38YTR_zMsuHVqLdiMxAo-8" value="Need to reach out the an API to fetch weather data, so probably need a service" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="cV5af1RW3ih_n-gjFhCA-1">
+          <mxGeometry x="450" y="310" width="340" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
