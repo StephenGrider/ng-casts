@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-25T20:22:06.643Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="9Mom-UOdLzQPJj3psFRW" version="12.4.3" type="github" pages="7">
+<mxfile host="www.draw.io" modified="2019-12-25T20:48:34.971Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="3DSYAL1migGtdHyTB13F" version="12.4.3" type="github" pages="8">
   <diagram id="g-8aUn-yCLQlOlD1rf04" name="01 - mockup">
     <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -398,6 +398,40 @@
         <mxCell id="-0tLmjFovVv1OZcaFcBP-1" parent="-0tLmjFovVv1OZcaFcBP-0"/>
         <mxCell id="-0tLmjFovVv1OZcaFcBP-2" value="openweathermap.org" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="-0tLmjFovVv1OZcaFcBP-1">
           <mxGeometry x="500" y="270" width="350" height="90" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="GeAdAU4uI79BnhkX6NES" name="08 - method">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="4pYhQTcvPVw--77Q3iF8-0"/>
+        <mxCell id="4pYhQTcvPVw--77Q3iF8-1" parent="4pYhQTcvPVw--77Q3iF8-0"/>
+        <mxCell id="4pYhQTcvPVw--77Q3iF8-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;fontColor=#000000;" edge="1" parent="4pYhQTcvPVw--77Q3iF8-1" source="4pYhQTcvPVw--77Q3iF8-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="705" y="300" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4pYhQTcvPVw--77Q3iF8-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="4pYhQTcvPVw--77Q3iF8-1">
+          <mxGeometry x="570" y="210" width="270" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="4pYhQTcvPVw--77Q3iF8-4" value="Observable" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontColor=#000000;fontStyle=1" vertex="1" parent="4pYhQTcvPVw--77Q3iF8-1">
+          <mxGeometry x="685" y="217" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="4pYhQTcvPVw--77Q3iF8-5" value="{ latitude: 0, longitude: 0 }" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#000000;" vertex="1" parent="4pYhQTcvPVw--77Q3iF8-1">
+          <mxGeometry x="582.5" y="250" width="245" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="4pYhQTcvPVw--77Q3iF8-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;fontColor=#000000;" edge="1" parent="4pYhQTcvPVw--77Q3iF8-1" source="4pYhQTcvPVw--77Q3iF8-7" target="4pYhQTcvPVw--77Q3iF8-8">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="4pYhQTcvPVw--77Q3iF8-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="4pYhQTcvPVw--77Q3iF8-1">
+          <mxGeometry x="570" y="300" width="270" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="4pYhQTcvPVw--77Q3iF8-8" value="Forecast Component" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=#000000;align=center;" vertex="1" parent="4pYhQTcvPVw--77Q3iF8-1">
+          <mxGeometry x="570" y="520" width="270" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="4pYhQTcvPVw--77Q3iF8-10" value="Series of operators to take the latitude/longitude and transform it into a forecast" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=#000000;align=center;" vertex="1" parent="4pYhQTcvPVw--77Q3iF8-1">
+          <mxGeometry x="582.5" y="370" width="247" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
