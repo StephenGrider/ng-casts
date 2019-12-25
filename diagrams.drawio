@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-24T21:26:56.757Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="1JFJa54DURvZzZKLIttS" version="12.4.3" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2019-12-25T17:56:21.769Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="3IKT6aBzdlKqWFpSuGxE" version="12.4.3" type="github" pages="2">
   <diagram id="g-8aUn-yCLQlOlD1rf04" name="01 - mockup">
     <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="7k7S9Wrkfu1JMB76o6uD-3" value="https://www.draw.io" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="7k7S9Wrkfu1JMB76o6uD-1">
           <mxGeometry x="130" y="60" width="250" height="26" as="geometry"/>
         </mxCell>
-        <mxCell id="7k7S9Wrkfu1JMB76o6uD-4" value="News of the World" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=17;" vertex="1" parent="7k7S9Wrkfu1JMB76o6uD-1">
+        <mxCell id="7k7S9Wrkfu1JMB76o6uD-4" value="Tech News" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=17;" vertex="1" parent="7k7S9Wrkfu1JMB76o6uD-1">
           <mxGeometry x="70" y="130" width="230" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="7k7S9Wrkfu1JMB76o6uD-5" value="Developments in the Atlantic" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontColor=#3399FF;" vertex="1" parent="7k7S9Wrkfu1JMB76o6uD-1">
@@ -34,6 +34,45 @@
         <mxCell id="7k7S9Wrkfu1JMB76o6uD-10" value="Latest predictions for football" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontColor=#3399FF;" vertex="1" parent="7k7S9Wrkfu1JMB76o6uD-1">
           <mxGeometry x="70" y="270" width="420" height="20" as="geometry"/>
         </mxCell>
+        <mxCell id="ZcnqVWj34kaJ8Non3Mdq-1" value="World News" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=17;" vertex="1" parent="7k7S9Wrkfu1JMB76o6uD-1">
+          <mxGeometry x="350" y="130" width="230" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZcnqVWj34kaJ8Non3Mdq-2" value="Developments in the Atlantic" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontColor=#3399FF;" vertex="1" parent="7k7S9Wrkfu1JMB76o6uD-1">
+          <mxGeometry x="350" y="170" width="420" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZcnqVWj34kaJ8Non3Mdq-3" value="Latest Global Economic Report" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontColor=#3399FF;" vertex="1" parent="7k7S9Wrkfu1JMB76o6uD-1">
+          <mxGeometry x="350" y="190" width="420" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZcnqVWj34kaJ8Non3Mdq-4" value="Something something music star" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontColor=#3399FF;" vertex="1" parent="7k7S9Wrkfu1JMB76o6uD-1">
+          <mxGeometry x="350" y="210" width="420" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZcnqVWj34kaJ8Non3Mdq-5" value="Twitter got hacked" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontColor=#3399FF;" vertex="1" parent="7k7S9Wrkfu1JMB76o6uD-1">
+          <mxGeometry x="350" y="230" width="420" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZcnqVWj34kaJ8Non3Mdq-6" value="Twitter didn&#39;t get hacked" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontColor=#3399FF;" vertex="1" parent="7k7S9Wrkfu1JMB76o6uD-1">
+          <mxGeometry x="350" y="250" width="420" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZcnqVWj34kaJ8Non3Mdq-7" value="Latest predictions for football" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontColor=#3399FF;" vertex="1" parent="7k7S9Wrkfu1JMB76o6uD-1">
+          <mxGeometry x="350" y="270" width="420" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="plgwIDLF2LK-LxARxo-t-1" value="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="7k7S9Wrkfu1JMB76o6uD-1">
+          <mxGeometry x="110" y="300" width="30" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="plgwIDLF2LK-LxARxo-t-2" value="2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=#000000;align=center;" vertex="1" parent="7k7S9Wrkfu1JMB76o6uD-1">
+          <mxGeometry x="140" y="300" width="30" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="plgwIDLF2LK-LxARxo-t-3" value="3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=#000000;align=center;" vertex="1" parent="7k7S9Wrkfu1JMB76o6uD-1">
+          <mxGeometry x="170" y="300" width="30" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="plgwIDLF2LK-LxARxo-t-4" value="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="7k7S9Wrkfu1JMB76o6uD-1">
+          <mxGeometry x="400" y="300" width="30" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="plgwIDLF2LK-LxARxo-t-5" value="2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=#000000;align=center;" vertex="1" parent="7k7S9Wrkfu1JMB76o6uD-1">
+          <mxGeometry x="430" y="300" width="30" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="plgwIDLF2LK-LxARxo-t-6" value="3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=#000000;align=center;" vertex="1" parent="7k7S9Wrkfu1JMB76o6uD-1">
+          <mxGeometry x="460" y="300" width="30" height="30" as="geometry"/>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -43,7 +82,7 @@
         <mxCell id="F1kFH90dVr8UZjHQC_4X-0"/>
         <mxCell id="F1kFH90dVr8UZjHQC_4X-1" parent="F1kFH90dVr8UZjHQC_4X-0"/>
         <mxCell id="F1kFH90dVr8UZjHQC_4X-2" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="F1kFH90dVr8UZjHQC_4X-1">
-          <mxGeometry x="320" y="140" width="490" height="430" as="geometry"/>
+          <mxGeometry x="320" y="140" width="620" height="490" as="geometry"/>
         </mxCell>
         <mxCell id="F1kFH90dVr8UZjHQC_4X-3" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="F1kFH90dVr8UZjHQC_4X-2">
           <mxGeometry x="60" y="12" width="110" height="26" as="geometry"/>
@@ -51,56 +90,32 @@
         <mxCell id="F1kFH90dVr8UZjHQC_4X-4" value="https://www.draw.io" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="F1kFH90dVr8UZjHQC_4X-2">
           <mxGeometry x="130" y="60" width="250" height="26" as="geometry"/>
         </mxCell>
-        <mxCell id="F1kFH90dVr8UZjHQC_4X-5" value="News of the World" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=17;" vertex="1" parent="F1kFH90dVr8UZjHQC_4X-2">
-          <mxGeometry x="70" y="130" width="230" height="20" as="geometry"/>
+        <mxCell id="F1kFH90dVr8UZjHQC_4X-19" value="Successfully fetched 10 articles from News API!" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="F1kFH90dVr8UZjHQC_4X-2">
+          <mxGeometry x="410" y="380" width="200" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="F1kFH90dVr8UZjHQC_4X-6" value="Developments in the Atlantic" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontColor=#3399FF;" vertex="1" parent="F1kFH90dVr8UZjHQC_4X-2">
-          <mxGeometry x="70" y="170" width="420" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="F1kFH90dVr8UZjHQC_4X-7" value="Latest Global Economic Report" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontColor=#3399FF;" vertex="1" parent="F1kFH90dVr8UZjHQC_4X-2">
-          <mxGeometry x="70" y="190" width="420" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="F1kFH90dVr8UZjHQC_4X-8" value="Something something music star" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontColor=#3399FF;" vertex="1" parent="F1kFH90dVr8UZjHQC_4X-2">
-          <mxGeometry x="70" y="210" width="420" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="F1kFH90dVr8UZjHQC_4X-9" value="Twitter got hacked" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontColor=#3399FF;" vertex="1" parent="F1kFH90dVr8UZjHQC_4X-2">
-          <mxGeometry x="70" y="230" width="420" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="F1kFH90dVr8UZjHQC_4X-10" value="Twitter didn&#39;t get hacked" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontColor=#3399FF;" vertex="1" parent="F1kFH90dVr8UZjHQC_4X-2">
-          <mxGeometry x="70" y="250" width="420" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="F1kFH90dVr8UZjHQC_4X-11" value="Latest predictions for football" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontColor=#3399FF;" vertex="1" parent="F1kFH90dVr8UZjHQC_4X-2">
-          <mxGeometry x="70" y="270" width="420" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="F1kFH90dVr8UZjHQC_4X-12" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontSize=13;fontColor=#3399FF;align=left;" vertex="1" parent="F1kFH90dVr8UZjHQC_4X-2">
-          <mxGeometry x="20" y="170" width="40" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="F1kFH90dVr8UZjHQC_4X-17" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontSize=13;fontColor=#3399FF;align=left;" vertex="1" parent="F1kFH90dVr8UZjHQC_4X-2">
-          <mxGeometry x="20" y="230" width="40" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="F1kFH90dVr8UZjHQC_4X-19" value="Successfully fetched 10 articles from News API!" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="F1kFH90dVr8UZjHQC_4X-2">
-          <mxGeometry x="280" y="270" width="200" height="70" as="geometry"/>
-        </mxCell>
-        <mxCell id="F1kFH90dVr8UZjHQC_4X-20" value="Failed to fetch articles from Hacker News" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="F1kFH90dVr8UZjHQC_4X-2">
-          <mxGeometry x="280" y="350" width="200" height="70" as="geometry"/>
-        </mxCell>
-        <mxCell id="F1kFH90dVr8UZjHQC_4X-21" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iDeleteApp;fillColor=#cccccc;fillColor2=#000000;strokeColor=#ffffff;fontSize=16;fontColor=#000000;align=center;" vertex="1" parent="F1kFH90dVr8UZjHQC_4X-2">
-          <mxGeometry x="460" y="272" width="15" height="15" as="geometry"/>
+        <mxCell id="F1kFH90dVr8UZjHQC_4X-20" value="Failed to fetch articles from Hacker News" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="F1kFH90dVr8UZjHQC_4X-2">
+          <mxGeometry x="410" y="434.67" width="200" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="F1kFH90dVr8UZjHQC_4X-22" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iDeleteApp;fillColor=#cccccc;fillColor2=#000000;strokeColor=#ffffff;fontSize=16;fontColor=#000000;align=center;" vertex="1" parent="F1kFH90dVr8UZjHQC_4X-2">
-          <mxGeometry x="460" y="353" width="15" height="15" as="geometry"/>
+          <mxGeometry x="590" y="440" width="15" height="15" as="geometry"/>
         </mxCell>
-        <mxCell id="F1kFH90dVr8UZjHQC_4X-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;fontColor=#000000;" edge="1" parent="F1kFH90dVr8UZjHQC_4X-1" source="F1kFH90dVr8UZjHQC_4X-14" target="F1kFH90dVr8UZjHQC_4X-12">
+        <mxCell id="whZvrPYI4WGM9WZDTElz-20" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iDeleteApp;fillColor=#cccccc;fillColor2=#000000;strokeColor=#ffffff;fontSize=16;fontColor=#000000;align=center;" vertex="1" parent="F1kFH90dVr8UZjHQC_4X-2">
+          <mxGeometry x="590" y="380" width="15" height="15" as="geometry"/>
+        </mxCell>
+        <mxCell id="whZvrPYI4WGM9WZDTElz-21" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontSize=13;fontColor=#000000;align=center;" vertex="1" parent="F1kFH90dVr8UZjHQC_4X-2">
+          <mxGeometry x="20" y="170" width="40" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="whZvrPYI4WGM9WZDTElz-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=13;fontColor=#000000;" edge="1" parent="F1kFH90dVr8UZjHQC_4X-1" source="F1kFH90dVr8UZjHQC_4X-14" target="whZvrPYI4WGM9WZDTElz-21">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="F1kFH90dVr8UZjHQC_4X-14" value="Articles sourced from news.ycombinator.com" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontStyle=2" vertex="1" parent="F1kFH90dVr8UZjHQC_4X-1">
-          <mxGeometry x="100" y="290" width="190" height="80" as="geometry"/>
+          <mxGeometry x="100" y="330" width="190" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="F1kFH90dVr8UZjHQC_4X-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;fontColor=#000000;" edge="1" parent="F1kFH90dVr8UZjHQC_4X-1" source="F1kFH90dVr8UZjHQC_4X-16" target="F1kFH90dVr8UZjHQC_4X-17">
+        <mxCell id="whZvrPYI4WGM9WZDTElz-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=13;fontColor=#000000;" edge="1" parent="F1kFH90dVr8UZjHQC_4X-1" source="F1kFH90dVr8UZjHQC_4X-16" target="whZvrPYI4WGM9WZDTElz-23">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="F1kFH90dVr8UZjHQC_4X-16" value="Articles sourced from newsapi.org" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontStyle=2" vertex="1" parent="F1kFH90dVr8UZjHQC_4X-1">
-          <mxGeometry x="100" y="390" width="190" height="80" as="geometry"/>
+          <mxGeometry x="970" y="330" width="190" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="F1kFH90dVr8UZjHQC_4X-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;fontColor=#000000;" edge="1" parent="F1kFH90dVr8UZjHQC_4X-1" source="F1kFH90dVr8UZjHQC_4X-23" target="F1kFH90dVr8UZjHQC_4X-19">
           <mxGeometry relative="1" as="geometry"/>
@@ -109,7 +124,70 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="F1kFH90dVr8UZjHQC_4X-23" value="Notifications that auto-dismiss after 5 seconds" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontStyle=2" vertex="1" parent="F1kFH90dVr8UZjHQC_4X-1">
-          <mxGeometry x="870" y="440" width="190" height="80" as="geometry"/>
+          <mxGeometry x="990" y="530" width="190" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="whZvrPYI4WGM9WZDTElz-0" value="Tech News" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=17;" vertex="1" parent="F1kFH90dVr8UZjHQC_4X-1">
+          <mxGeometry x="390" y="270" width="230" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="whZvrPYI4WGM9WZDTElz-1" value="Developments in the Atlantic" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontColor=#3399FF;" vertex="1" parent="F1kFH90dVr8UZjHQC_4X-1">
+          <mxGeometry x="390" y="310" width="420" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="whZvrPYI4WGM9WZDTElz-2" value="Latest Global Economic Report" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontColor=#3399FF;" vertex="1" parent="F1kFH90dVr8UZjHQC_4X-1">
+          <mxGeometry x="390" y="330" width="420" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="whZvrPYI4WGM9WZDTElz-3" value="Something something music star" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontColor=#3399FF;" vertex="1" parent="F1kFH90dVr8UZjHQC_4X-1">
+          <mxGeometry x="390" y="350" width="420" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="whZvrPYI4WGM9WZDTElz-4" value="Twitter got hacked" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontColor=#3399FF;" vertex="1" parent="F1kFH90dVr8UZjHQC_4X-1">
+          <mxGeometry x="390" y="370" width="420" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="whZvrPYI4WGM9WZDTElz-5" value="Twitter didn&#39;t get hacked" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontColor=#3399FF;" vertex="1" parent="F1kFH90dVr8UZjHQC_4X-1">
+          <mxGeometry x="390" y="390" width="420" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="whZvrPYI4WGM9WZDTElz-6" value="Latest predictions for football" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontColor=#3399FF;" vertex="1" parent="F1kFH90dVr8UZjHQC_4X-1">
+          <mxGeometry x="390" y="410" width="420" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="whZvrPYI4WGM9WZDTElz-7" value="World News" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=17;" vertex="1" parent="F1kFH90dVr8UZjHQC_4X-1">
+          <mxGeometry x="670" y="270" width="230" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="whZvrPYI4WGM9WZDTElz-8" value="Developments in the Atlantic" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontColor=#3399FF;" vertex="1" parent="F1kFH90dVr8UZjHQC_4X-1">
+          <mxGeometry x="670" y="310" width="200" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="whZvrPYI4WGM9WZDTElz-9" value="Latest Global Economic Report" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontColor=#3399FF;" vertex="1" parent="F1kFH90dVr8UZjHQC_4X-1">
+          <mxGeometry x="670" y="330" width="200" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="whZvrPYI4WGM9WZDTElz-10" value="Something something music star" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontColor=#3399FF;" vertex="1" parent="F1kFH90dVr8UZjHQC_4X-1">
+          <mxGeometry x="670" y="350" width="200" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="whZvrPYI4WGM9WZDTElz-11" value="Twitter got hacked" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontColor=#3399FF;" vertex="1" parent="F1kFH90dVr8UZjHQC_4X-1">
+          <mxGeometry x="670" y="370" width="200" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="whZvrPYI4WGM9WZDTElz-12" value="Twitter didn&#39;t get hacked" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontColor=#3399FF;" vertex="1" parent="F1kFH90dVr8UZjHQC_4X-1">
+          <mxGeometry x="670" y="390" width="200" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="whZvrPYI4WGM9WZDTElz-13" value="Latest predictions for football" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontColor=#3399FF;" vertex="1" parent="F1kFH90dVr8UZjHQC_4X-1">
+          <mxGeometry x="670" y="410" width="200" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="whZvrPYI4WGM9WZDTElz-14" value="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="F1kFH90dVr8UZjHQC_4X-1">
+          <mxGeometry x="430" y="440" width="30" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="whZvrPYI4WGM9WZDTElz-15" value="2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=#000000;align=center;" vertex="1" parent="F1kFH90dVr8UZjHQC_4X-1">
+          <mxGeometry x="460" y="440" width="30" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="whZvrPYI4WGM9WZDTElz-16" value="3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=#000000;align=center;" vertex="1" parent="F1kFH90dVr8UZjHQC_4X-1">
+          <mxGeometry x="490" y="440" width="30" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="whZvrPYI4WGM9WZDTElz-17" value="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="F1kFH90dVr8UZjHQC_4X-1">
+          <mxGeometry x="720" y="440" width="30" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="whZvrPYI4WGM9WZDTElz-18" value="2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=#000000;align=center;" vertex="1" parent="F1kFH90dVr8UZjHQC_4X-1">
+          <mxGeometry x="750" y="440" width="30" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="whZvrPYI4WGM9WZDTElz-19" value="3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=#000000;align=center;" vertex="1" parent="F1kFH90dVr8UZjHQC_4X-1">
+          <mxGeometry x="780" y="440" width="30" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="whZvrPYI4WGM9WZDTElz-23" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontSize=13;fontColor=#000000;align=center;rotation=-180;" vertex="1" parent="F1kFH90dVr8UZjHQC_4X-1">
+          <mxGeometry x="870" y="310" width="30" height="120" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
