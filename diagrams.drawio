@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-25T20:15:49.309Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="_uJh5zCi67TvCZ9vT8CI" version="12.4.3" type="github" pages="6">
+<mxfile host="www.draw.io" modified="2019-12-25T20:22:06.643Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="9Mom-UOdLzQPJj3psFRW" version="12.4.3" type="github" pages="7">
   <diagram id="g-8aUn-yCLQlOlD1rf04" name="01 - mockup">
     <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -387,6 +387,17 @@
         </mxCell>
         <mxCell id="y1Wj1AHJQfw8DBTjeAAx-17" value="Only present in the &#39;App&#39; module.&amp;nbsp; Designates the first component to be created when app starts up" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontColor=#000000;align=center;" vertex="1" parent="y1Wj1AHJQfw8DBTjeAAx-1">
           <mxGeometry x="620" y="460" width="340" height="40" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ts7rCatbMDabcBSg71KX" name="07 - weather">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="-0tLmjFovVv1OZcaFcBP-0"/>
+        <mxCell id="-0tLmjFovVv1OZcaFcBP-1" parent="-0tLmjFovVv1OZcaFcBP-0"/>
+        <mxCell id="-0tLmjFovVv1OZcaFcBP-2" value="openweathermap.org" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="-0tLmjFovVv1OZcaFcBP-1">
+          <mxGeometry x="500" y="270" width="350" height="90" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
