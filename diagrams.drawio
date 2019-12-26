@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-26T21:28:52.501Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="O-k8hWeU-tUw0xBvra13" version="12.4.3" type="github" pages="14">
+<mxfile host="www.draw.io" modified="2019-12-26T21:37:46.886Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="0XE0Vdlp9Ttnt7OArIAI" version="12.4.3" type="github" pages="14">
   <diagram id="g-8aUn-yCLQlOlD1rf04" name="01 - mockup">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -838,7 +838,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZB9HA8uQYaMuga2h4KPb" name="11 - pipes">
-    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="623" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="HzhNeCAwSYBL6Nx-qFvW-0"/>
         <mxCell id="HzhNeCAwSYBL6Nx-qFvW-1" parent="HzhNeCAwSYBL6Nx-qFvW-0"/>
@@ -857,7 +857,7 @@
         <mxCell id="0BNjCZMaYBSUuIM-Vq-U-5" value="Similar to creating a method on a class and calling it from the class&#39;s template" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;align=center;" vertex="1" parent="HzhNeCAwSYBL6Nx-qFvW-1">
           <mxGeometry x="427.5" y="309" width="500" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="0BNjCZMaYBSUuIM-Vq-U-6" value="Several pipes are built into Angular" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;align=center;" vertex="1" parent="HzhNeCAwSYBL6Nx-qFvW-1">
+        <mxCell id="0BNjCZMaYBSUuIM-Vq-U-6" value="Several pipes are built into Angular (angular.io/api?type=pipe)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;align=center;" vertex="1" parent="HzhNeCAwSYBL6Nx-qFvW-1">
           <mxGeometry x="427.5" y="354" width="500" height="40" as="geometry"/>
         </mxCell>
       </root>
