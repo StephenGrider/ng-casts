@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-27T18:59:57.849Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="OnWJddxO0ZfOXFozbft_" version="12.4.7" type="github" pages="14">
+<mxfile host="www.draw.io" modified="2019-12-27T19:02:59.989Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="e3r3uiqxTCtJa-W7EQjC" version="12.4.7" type="github" pages="15">
   <diagram id="2xvHRoVgtsFEUhj8bdC1" name="01 - mockup">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -653,6 +653,45 @@
         </mxCell>
         <mxCell id="76VfNR1qisQ7RJ_Jq60m-15" value="Subjects are &lt;b&gt;multicast&lt;/b&gt;&amp;nbsp;by default" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="76VfNR1qisQ7RJ_Jq60m-1">
           <mxGeometry x="880" y="445" width="210" height="110" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="wCeIwTZgEXkkTXIYfwI9" name="15 - variations">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="gR5oXvuX69uLA2g0wDPS-0"/>
+        <mxCell id="gR5oXvuX69uLA2g0wDPS-1" parent="gR5oXvuX69uLA2g0wDPS-0"/>
+        <mxCell id="gR5oXvuX69uLA2g0wDPS-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=24;fontColor=#000000;" edge="1" parent="gR5oXvuX69uLA2g0wDPS-1" source="gR5oXvuX69uLA2g0wDPS-2" target="gR5oXvuX69uLA2g0wDPS-6">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="gR5oXvuX69uLA2g0wDPS-2" value="Async Subject" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="gR5oXvuX69uLA2g0wDPS-1">
+          <mxGeometry x="450" y="250" width="190" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="gR5oXvuX69uLA2g0wDPS-4" value="Behavior Subject" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="gR5oXvuX69uLA2g0wDPS-1">
+          <mxGeometry x="450" y="320" width="190" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="gR5oXvuX69uLA2g0wDPS-5" value="Replay Subject" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="gR5oXvuX69uLA2g0wDPS-1">
+          <mxGeometry x="450" y="390" width="190" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="gR5oXvuX69uLA2g0wDPS-6" value="Same as subject, &lt;i style=&quot;font-size: 14px;&quot;&gt;but also&lt;/i&gt;&amp;nbsp;doesn&#39;t emit any values until it is marked as &#39;complete&#39;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;align=center;" vertex="1" parent="gR5oXvuX69uLA2g0wDPS-1">
+          <mxGeometry x="680" y="250" width="300" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="gR5oXvuX69uLA2g0wDPS-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=24;fontColor=#000000;" edge="1" parent="gR5oXvuX69uLA2g0wDPS-1" target="gR5oXvuX69uLA2g0wDPS-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="350" as="sourcePoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gR5oXvuX69uLA2g0wDPS-9" value="Same as subject, &lt;i&gt;but also&lt;/i&gt;&amp;nbsp;takes an initial &#39;seed&#39; value.&amp;nbsp; New subscribers instantly get the most recent value" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;align=center;" vertex="1" parent="gR5oXvuX69uLA2g0wDPS-1">
+          <mxGeometry x="680" y="320" width="300" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="gR5oXvuX69uLA2g0wDPS-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=24;fontColor=#000000;" edge="1" parent="gR5oXvuX69uLA2g0wDPS-1" target="gR5oXvuX69uLA2g0wDPS-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="420" as="sourcePoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gR5oXvuX69uLA2g0wDPS-11" value="Same as subject, &lt;i style=&quot;font-size: 14px&quot;&gt;but also&lt;/i&gt;&amp;nbsp;new subscribers instantly get sent all previously emitted values" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;align=center;" vertex="1" parent="gR5oXvuX69uLA2g0wDPS-1">
+          <mxGeometry x="680" y="390" width="300" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
