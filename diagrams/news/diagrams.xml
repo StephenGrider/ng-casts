@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-27T17:44:21.513Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="l3ExPSNxOsIiV4L_wMTy" version="12.4.7" type="github">
+<mxfile host="www.draw.io" modified="2019-12-27T17:44:46.073Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="WJNDBYFWVEAxaX_O_Oyd" version="12.4.7" type="github">
   <diagram id="2xvHRoVgtsFEUhj8bdC1" name="01 - mockup">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -56,10 +56,10 @@
           <mxGeometry x="510" y="325" width="40" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="C4E9YnNGNAB8dCSZOVx5-18" value="Failed to fetch weather" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="C4E9YnNGNAB8dCSZOVx5-1">
-          <mxGeometry x="380" y="280" width="160" height="45" as="geometry"/>
+          <mxGeometry x="380" y="285" width="160" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="C4E9YnNGNAB8dCSZOVx5-19" value="x" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="C4E9YnNGNAB8dCSZOVx5-1">
-          <mxGeometry x="510" y="275" width="40" height="20" as="geometry"/>
+          <mxGeometry x="510" y="280" width="40" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="C4E9YnNGNAB8dCSZOVx5-20" value="Tech News" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="C4E9YnNGNAB8dCSZOVx5-1">
           <mxGeometry x="100" y="135" width="80" height="20" as="geometry"/>
