@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-27T18:15:28.544Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="NjJzlNewxn5XXmJq7GHB" version="12.4.7" type="github" pages="9">
+<mxfile host="www.draw.io" modified="2019-12-27T18:25:47.764Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="g_r2lKJcX_N7Uth-lQVZ" version="12.4.7" type="github" pages="10">
   <diagram id="2xvHRoVgtsFEUhj8bdC1" name="01 - mockup">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -451,6 +451,44 @@
         </mxCell>
         <mxCell id="3SItbf9XnNSEIXGjzjNm-1" value="Forecast Service" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontColor=#000000;align=center;" vertex="1" parent="3dNYIccMYxJ6bQl6paMz-1">
           <mxGeometry x="385" y="385" width="120" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="gGTTwOyIw_eDsatm2EC3" name="10 - rx">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="NF4NNCLZJGFqcluhNaVx-0"/>
+        <mxCell id="NF4NNCLZJGFqcluhNaVx-1" parent="NF4NNCLZJGFqcluhNaVx-0"/>
+        <mxCell id="NF4NNCLZJGFqcluhNaVx-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;fontColor=#000000;" edge="1" parent="NF4NNCLZJGFqcluhNaVx-1" source="NF4NNCLZJGFqcluhNaVx-2" target="NF4NNCLZJGFqcluhNaVx-8">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="NF4NNCLZJGFqcluhNaVx-2" value="??????" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;align=center;" vertex="1" parent="NF4NNCLZJGFqcluhNaVx-1">
+          <mxGeometry x="530" y="270" width="250" height="190" as="geometry"/>
+        </mxCell>
+        <mxCell id="NF4NNCLZJGFqcluhNaVx-3" value="Notifications Service" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="NF4NNCLZJGFqcluhNaVx-1">
+          <mxGeometry x="780" y="270" width="110" height="190" as="geometry"/>
+        </mxCell>
+        <mxCell id="NF4NNCLZJGFqcluhNaVx-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=11;fontColor=#000000;" edge="1" parent="NF4NNCLZJGFqcluhNaVx-1" source="NF4NNCLZJGFqcluhNaVx-4" target="NF4NNCLZJGFqcluhNaVx-2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="NF4NNCLZJGFqcluhNaVx-4" value="&#39;Fetched 10 articles&#39;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="NF4NNCLZJGFqcluhNaVx-1">
+          <mxGeometry x="400" y="190" width="170" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="NF4NNCLZJGFqcluhNaVx-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=11;fontColor=#000000;" edge="1" parent="NF4NNCLZJGFqcluhNaVx-1" source="NF4NNCLZJGFqcluhNaVx-5" target="NF4NNCLZJGFqcluhNaVx-2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="NF4NNCLZJGFqcluhNaVx-5" value="&#39;Error fetching weather&#39;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="NF4NNCLZJGFqcluhNaVx-1">
+          <mxGeometry x="590" y="190" width="170" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="NF4NNCLZJGFqcluhNaVx-8" value="[ &lt;br style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; { message: &#39;Fetched 10 articles&#39;, type: &#39;success&#39; }, &lt;br style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; { message: &#39;Error fetching weather&#39;, type: &#39;error&#39; }&lt;br style=&quot;font-size: 11px;&quot;&gt;]" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fontColor=#000000;align=left;" vertex="1" parent="NF4NNCLZJGFqcluhNaVx-1">
+          <mxGeometry x="527.5" y="480" width="255" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="NF4NNCLZJGFqcluhNaVx-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=11;fontColor=#000000;" edge="1" parent="NF4NNCLZJGFqcluhNaVx-1" source="NF4NNCLZJGFqcluhNaVx-12" target="NF4NNCLZJGFqcluhNaVx-2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="NF4NNCLZJGFqcluhNaVx-12" value="Clear message &#39;Error fetching weather&#39;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="NF4NNCLZJGFqcluhNaVx-1">
+          <mxGeometry x="780" y="190" width="170" height="30" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
