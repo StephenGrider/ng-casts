@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-27T18:02:11.008Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="I4pJcJQZB7-EpzB_yUjC" version="12.4.7" type="github" pages="9">
+<mxfile host="www.draw.io" modified="2019-12-27T18:15:28.544Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="NjJzlNewxn5XXmJq7GHB" version="12.4.7" type="github" pages="9">
   <diagram id="2xvHRoVgtsFEUhj8bdC1" name="01 - mockup">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -117,11 +117,20 @@
         <mxCell id="NOWC87Rp-KUjtQD2sRhA-12" value="Notifications Module" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="NOWC87Rp-KUjtQD2sRhA-1">
           <mxGeometry x="840" y="460" width="160" height="120" as="geometry"/>
         </mxCell>
+        <mxCell id="2HC-3ugG154TqnBIXEcs-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;fontColor=#000000;" edge="1" parent="NOWC87Rp-KUjtQD2sRhA-1" source="NOWC87Rp-KUjtQD2sRhA-13" target="NOWC87Rp-KUjtQD2sRhA-20">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="NOWC87Rp-KUjtQD2sRhA-13" value="App Component" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontColor=#000000;align=center;" vertex="1" parent="NOWC87Rp-KUjtQD2sRhA-1">
           <mxGeometry x="385" y="385" width="120" height="60" as="geometry"/>
         </mxCell>
+        <mxCell id="2HC-3ugG154TqnBIXEcs-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontColor=#000000;" edge="1" parent="NOWC87Rp-KUjtQD2sRhA-1" source="NOWC87Rp-KUjtQD2sRhA-15" target="NOWC87Rp-KUjtQD2sRhA-20">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="NOWC87Rp-KUjtQD2sRhA-15" value="Forecast Service" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;align=center;" vertex="1" parent="NOWC87Rp-KUjtQD2sRhA-1">
           <mxGeometry x="617.5" y="327.5" width="195" height="45" as="geometry"/>
+        </mxCell>
+        <mxCell id="2HC-3ugG154TqnBIXEcs-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.174;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;fontColor=#000000;" edge="1" parent="NOWC87Rp-KUjtQD2sRhA-1" source="NOWC87Rp-KUjtQD2sRhA-16" target="NOWC87Rp-KUjtQD2sRhA-20">
+          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="NOWC87Rp-KUjtQD2sRhA-16" value="Forecast Component" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;align=center;" vertex="1" parent="NOWC87Rp-KUjtQD2sRhA-1">
           <mxGeometry x="617.5" y="267.5" width="195" height="45" as="geometry"/>
@@ -129,7 +138,7 @@
         <mxCell id="NOWC87Rp-KUjtQD2sRhA-19" value="NoticeList Component" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;align=center;" vertex="1" parent="NOWC87Rp-KUjtQD2sRhA-1">
           <mxGeometry x="617.5" y="527.5" width="195" height="45" as="geometry"/>
         </mxCell>
-        <mxCell id="NOWC87Rp-KUjtQD2sRhA-20" value="Notice Service" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;align=center;" vertex="1" parent="NOWC87Rp-KUjtQD2sRhA-1">
+        <mxCell id="NOWC87Rp-KUjtQD2sRhA-20" value="Notification Service" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;align=center;" vertex="1" parent="NOWC87Rp-KUjtQD2sRhA-1">
           <mxGeometry x="617.5" y="467.5" width="195" height="45" as="geometry"/>
         </mxCell>
       </root>
@@ -143,10 +152,10 @@
         <mxCell id="bSxTg8MDjXYmYKLVJOwp-6" value="How to Wire Up Services in a Module World" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontColor=#000000;fontStyle=1" vertex="1" parent="bSxTg8MDjXYmYKLVJOwp-1">
           <mxGeometry x="510" y="200" width="270" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="bSxTg8MDjXYmYKLVJOwp-7" value="Add the Service to a module&#39;s &#39;providers&#39; array" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=#000000;align=center;" vertex="1" parent="bSxTg8MDjXYmYKLVJOwp-1">
+        <mxCell id="bSxTg8MDjXYmYKLVJOwp-7" value="Add the Service to a module&#39;s &#39;providers&#39; array" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="bSxTg8MDjXYmYKLVJOwp-1">
           <mxGeometry x="420" y="240" width="450" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="bSxTg8MDjXYmYKLVJOwp-8" value="Use the &#39;@injectable&#39; decorator" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=#000000;align=center;" vertex="1" parent="bSxTg8MDjXYmYKLVJOwp-1">
+        <mxCell id="bSxTg8MDjXYmYKLVJOwp-8" value="Use the &#39;@injectable&#39; decorator" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="bSxTg8MDjXYmYKLVJOwp-1">
           <mxGeometry x="420" y="300" width="450" height="50" as="geometry"/>
         </mxCell>
       </root>
@@ -217,7 +226,7 @@
         <mxCell id="KewZuo7Lsxk_NtF-L6rU-25" value="Everything" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="TRmf-zHZqEFY3rmj_lLX-1">
           <mxGeometry x="490" y="640" width="120" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="KewZuo7Lsxk_NtF-L6rU-26" value="4" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="TRmf-zHZqEFY3rmj_lLX-1">
+        <mxCell id="KewZuo7Lsxk_NtF-L6rU-26" value="5" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="TRmf-zHZqEFY3rmj_lLX-1">
           <mxGeometry x="410" y="640" width="80" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="KewZuo7Lsxk_NtF-L6rU-28" value="All services in the &#39;&lt;b style=&quot;font-size: 14px;&quot;&gt;app&lt;/b&gt;&#39; module" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="TRmf-zHZqEFY3rmj_lLX-1">
@@ -253,7 +262,7 @@
           <mxGeometry x="385" y="385" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="Ic8qerqlo09_CyIiCgFi-9" value="Forecast Service" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;align=center;" vertex="1" parent="Ic8qerqlo09_CyIiCgFi-1">
-          <mxGeometry x="617.5" y="327.5" width="195" height="45" as="geometry"/>
+          <mxGeometry x="617.5" y="325" width="195" height="45" as="geometry"/>
         </mxCell>
         <mxCell id="Ic8qerqlo09_CyIiCgFi-10" value="Forecast Component" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;align=center;" vertex="1" parent="Ic8qerqlo09_CyIiCgFi-1">
           <mxGeometry x="617.5" y="267.5" width="195" height="45" as="geometry"/>
@@ -261,8 +270,11 @@
         <mxCell id="Ic8qerqlo09_CyIiCgFi-11" value="NoticeList Component" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;align=center;" vertex="1" parent="Ic8qerqlo09_CyIiCgFi-1">
           <mxGeometry x="617.5" y="527.5" width="195" height="45" as="geometry"/>
         </mxCell>
+        <mxCell id="DUe2pUUBdNo19TTDo7Yx-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;fontColor=#000000;" edge="1" parent="Ic8qerqlo09_CyIiCgFi-1" source="Ic8qerqlo09_CyIiCgFi-12" target="Ic8qerqlo09_CyIiCgFi-11">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="Ic8qerqlo09_CyIiCgFi-12" value="Notice Service" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;align=center;" vertex="1" parent="Ic8qerqlo09_CyIiCgFi-1">
-          <mxGeometry x="617.5" y="467.5" width="195" height="45" as="geometry"/>
+          <mxGeometry x="617.5" y="470" width="195" height="45" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
