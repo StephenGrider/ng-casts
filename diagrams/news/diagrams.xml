@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-27T17:44:46.073Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="WJNDBYFWVEAxaX_O_Oyd" version="12.4.7" type="github">
+<mxfile host="www.draw.io" modified="2019-12-27T17:55:14.237Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="Zq4PY3QukDKnJDB9dYTQ" version="12.4.7" type="github" pages="3">
   <diagram id="2xvHRoVgtsFEUhj8bdC1" name="01 - mockup">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -90,6 +90,64 @@
         </mxCell>
         <mxCell id="C4E9YnNGNAB8dCSZOVx5-29" value="Something else" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3399FF;" vertex="1" parent="C4E9YnNGNAB8dCSZOVx5-1">
           <mxGeometry x="300" y="208" width="150" height="20" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="aQetbAAOe78wnkj_6Qig" name="02 - notices">
+    <mxGraphModel dx="893" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="NOWC87Rp-KUjtQD2sRhA-0"/>
+        <mxCell id="NOWC87Rp-KUjtQD2sRhA-1" parent="NOWC87Rp-KUjtQD2sRhA-0"/>
+        <mxCell id="NOWC87Rp-KUjtQD2sRhA-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="NOWC87Rp-KUjtQD2sRhA-1">
+          <mxGeometry x="360" y="370" width="170" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="NOWC87Rp-KUjtQD2sRhA-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="NOWC87Rp-KUjtQD2sRhA-1">
+          <mxGeometry x="590" y="260" width="250" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="NOWC87Rp-KUjtQD2sRhA-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="NOWC87Rp-KUjtQD2sRhA-1">
+          <mxGeometry x="590" y="460" width="250" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="NOWC87Rp-KUjtQD2sRhA-10" value="App Module" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="NOWC87Rp-KUjtQD2sRhA-1">
+          <mxGeometry x="240" y="370" width="120" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="NOWC87Rp-KUjtQD2sRhA-11" value="Weather Module" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="NOWC87Rp-KUjtQD2sRhA-1">
+          <mxGeometry x="840" y="260" width="160" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="NOWC87Rp-KUjtQD2sRhA-12" value="Notifications Module" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="NOWC87Rp-KUjtQD2sRhA-1">
+          <mxGeometry x="840" y="460" width="160" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="NOWC87Rp-KUjtQD2sRhA-13" value="App Component" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontColor=#000000;align=center;" vertex="1" parent="NOWC87Rp-KUjtQD2sRhA-1">
+          <mxGeometry x="385" y="385" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="NOWC87Rp-KUjtQD2sRhA-15" value="Forecast Service" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;align=center;" vertex="1" parent="NOWC87Rp-KUjtQD2sRhA-1">
+          <mxGeometry x="617.5" y="327.5" width="195" height="45" as="geometry"/>
+        </mxCell>
+        <mxCell id="NOWC87Rp-KUjtQD2sRhA-16" value="Forecast Component" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;align=center;" vertex="1" parent="NOWC87Rp-KUjtQD2sRhA-1">
+          <mxGeometry x="617.5" y="267.5" width="195" height="45" as="geometry"/>
+        </mxCell>
+        <mxCell id="NOWC87Rp-KUjtQD2sRhA-19" value="NoticeList Component" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;align=center;" vertex="1" parent="NOWC87Rp-KUjtQD2sRhA-1">
+          <mxGeometry x="617.5" y="527.5" width="195" height="45" as="geometry"/>
+        </mxCell>
+        <mxCell id="NOWC87Rp-KUjtQD2sRhA-20" value="Notice Service" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;align=center;" vertex="1" parent="NOWC87Rp-KUjtQD2sRhA-1">
+          <mxGeometry x="617.5" y="467.5" width="195" height="45" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="SqMmi8Up3pmSl3Vj59Cr" name="03 - services">
+    <mxGraphModel dx="670" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="bSxTg8MDjXYmYKLVJOwp-0"/>
+        <mxCell id="bSxTg8MDjXYmYKLVJOwp-1" parent="bSxTg8MDjXYmYKLVJOwp-0"/>
+        <mxCell id="bSxTg8MDjXYmYKLVJOwp-6" value="How to Wire Up Services in a Module World" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontColor=#000000;fontStyle=1" vertex="1" parent="bSxTg8MDjXYmYKLVJOwp-1">
+          <mxGeometry x="510" y="200" width="270" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="bSxTg8MDjXYmYKLVJOwp-7" value="Add the Service to a module&#39;s &#39;providers&#39; array" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=#000000;align=center;" vertex="1" parent="bSxTg8MDjXYmYKLVJOwp-1">
+          <mxGeometry x="420" y="240" width="450" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="bSxTg8MDjXYmYKLVJOwp-8" value="Use the &#39;@injectable&#39; decorator" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=#000000;align=center;" vertex="1" parent="bSxTg8MDjXYmYKLVJOwp-1">
+          <mxGeometry x="420" y="300" width="450" height="50" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
