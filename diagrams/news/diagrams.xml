@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-27T19:02:59.989Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="e3r3uiqxTCtJa-W7EQjC" version="12.4.7" type="github" pages="15">
+<mxfile host="www.draw.io" modified="2019-12-27T19:45:30.688Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="SJIwMWYDhdXOjQ5DSJNn" version="12.4.7" type="github" pages="16">
   <diagram id="2xvHRoVgtsFEUhj8bdC1" name="01 - mockup">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -548,7 +548,7 @@
       <root>
         <mxCell id="WR9FY8O8t7ZW4oawe4R_-0"/>
         <mxCell id="WR9FY8O8t7ZW4oawe4R_-1" parent="WR9FY8O8t7ZW4oawe4R_-0"/>
-        <mxCell id="WR9FY8O8t7ZW4oawe4R_-2" value="Subject" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WR9FY8O8t7ZW4oawe4R_-1">
+        <mxCell id="WR9FY8O8t7ZW4oawe4R_-2" value="Subject" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="WR9FY8O8t7ZW4oawe4R_-1">
           <mxGeometry x="470" y="260" width="110" height="160" as="geometry"/>
         </mxCell>
         <mxCell id="WR9FY8O8t7ZW4oawe4R_-3" value="Observer" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;align=center;" vertex="1" parent="WR9FY8O8t7ZW4oawe4R_-1">
@@ -568,6 +568,32 @@
         </mxCell>
         <mxCell id="WR9FY8O8t7ZW4oawe4R_-10" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontSize=21;fontColor=#000000;align=left;rotation=-180;" vertex="1" parent="WR9FY8O8t7ZW4oawe4R_-1">
           <mxGeometry x="730" y="340" width="30" height="80" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Qx2pbMNRhR72L3Rva1UJ" name="16 - subjects">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="VgPVUdVM124tBzUnKxJn-0"/>
+        <mxCell id="VgPVUdVM124tBzUnKxJn-1" parent="VgPVUdVM124tBzUnKxJn-0"/>
+        <mxCell id="VgPVUdVM124tBzUnKxJn-2" value="Notes on Subjects" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontColor=#000000;" vertex="1" parent="VgPVUdVM124tBzUnKxJn-1">
+          <mxGeometry x="680" y="70" width="220" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="VgPVUdVM124tBzUnKxJn-3" value="&lt;b style=&quot;font-size: 13px&quot;&gt;Hot&lt;/b&gt;&amp;nbsp;by default - it will emit values even if nobody is listening!" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontColor=#000000;align=center;" vertex="1" parent="VgPVUdVM124tBzUnKxJn-1">
+          <mxGeometry x="545" y="100" width="490" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="VgPVUdVM124tBzUnKxJn-4" value="&lt;span style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;The Subject is&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 13px&quot;&gt;Multicast&lt;/b&gt;&amp;nbsp;by default - multiple subscribers always get the same value" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontColor=#000000;align=center;" vertex="1" parent="VgPVUdVM124tBzUnKxJn-1">
+          <mxGeometry x="545" y="150" width="490" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="VgPVUdVM124tBzUnKxJn-5" value="&lt;b&gt;WEEEOOOOOWEEEOOOOO GOTCHA - Calling &#39;pipe&#39; returns a new&amp;nbsp; OBSERVABLE that is COLD and UNICAST&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="VgPVUdVM124tBzUnKxJn-1">
+          <mxGeometry x="545" y="200" width="490" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="VgPVUdVM124tBzUnKxJn-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/48x48-free-time-icons/48/Emergency_off.png;fontSize=13;fontColor=#000000;align=center;" vertex="1" parent="VgPVUdVM124tBzUnKxJn-1">
+          <mxGeometry x="517" y="206" width="28" height="28" as="geometry"/>
+        </mxCell>
+        <mxCell id="VgPVUdVM124tBzUnKxJn-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/48x48-free-time-icons/48/Emergency_off.png;fontSize=13;fontColor=#000000;align=center;" vertex="1" parent="VgPVUdVM124tBzUnKxJn-1">
+          <mxGeometry x="1040" y="206" width="28" height="28" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
