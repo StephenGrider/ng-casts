@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-28T18:55:35.183Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="zblaggKF-G2ErMbbeuid" version="12.4.7" type="github" pages="8">
+<mxfile host="www.draw.io" modified="2019-12-28T19:15:22.494Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="CcEXCkFzYobttKv93BaT" version="12.4.7" type="github" pages="11">
   <diagram id="c7xge1HRT64sg_Y8zw0z" name="01 - mockup">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -152,6 +152,66 @@
         <mxCell id="GDcgEYNzkdXXziX_IGwE-1" parent="GDcgEYNzkdXXziX_IGwE-0"/>
         <mxCell id="7RACP4Ka_GAG_488YKJ1-0" value="Make sure the component we generated earlier is visible on the screen" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="GDcgEYNzkdXXziX_IGwE-1">
           <mxGeometry x="530" y="200" width="450" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="z_VJDKU0Y0OLiemGPzLm" name="09 - button">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="w9n0EAB8Os8VDa5Kr1FZ-0"/>
+        <mxCell id="w9n0EAB8Os8VDa5Kr1FZ-1" parent="w9n0EAB8Os8VDa5Kr1FZ-0"/>
+        <mxCell id="KUKyfKpt6bKpPdMqMCCZ-0" value="Use dependency injection to get access to the service in your component" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="w9n0EAB8Os8VDa5Kr1FZ-1">
+          <mxGeometry x="530" y="200" width="450" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="KUKyfKpt6bKpPdMqMCCZ-2" value="When the component is about to show on the screen, call the &#39;getPhoto&#39; method to make the request" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="w9n0EAB8Os8VDa5Kr1FZ-1">
+          <mxGeometry x="530" y="270" width="450" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="KUKyfKpt6bKpPdMqMCCZ-3" value="Inspect the request in your network request tab and ensure that you see some data fetched" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="w9n0EAB8Os8VDa5Kr1FZ-1">
+          <mxGeometry x="530" y="340" width="450" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="JbAT3oHxNk7AU6bMBtJz-0" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontSize=18;rotation=-180;" vertex="1" parent="w9n0EAB8Os8VDa5Kr1FZ-1">
+          <mxGeometry x="990" y="270" width="20" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="JbAT3oHxNk7AU6bMBtJz-1" value="&lt;i&gt;Just calling the method alone won&#39;t work....&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="w9n0EAB8Os8VDa5Kr1FZ-1">
+          <mxGeometry x="1010" y="290" width="110" height="20" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="10 - note" id="r1aV4Vzh-G6xoXQpDmUY">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="EWqAmwgBbmL9_DVbwPx4-0"/>
+        <mxCell id="EWqAmwgBbmL9_DVbwPx4-1" parent="EWqAmwgBbmL9_DVbwPx4-0"/>
+        <mxCell id="EWqAmwgBbmL9_DVbwPx4-2" value="In the subscription that you added, get access to the response and console log it" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="EWqAmwgBbmL9_DVbwPx4-1">
+          <mxGeometry x="530" y="200" width="450" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="EWqAmwgBbmL9_DVbwPx4-3" value="Try to console log&amp;nbsp;&lt;i&gt;just&lt;/i&gt;&amp;nbsp;the &#39;urls.regular&#39; property" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="EWqAmwgBbmL9_DVbwPx4-1">
+          <mxGeometry x="530" y="270" width="450" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="EWqAmwgBbmL9_DVbwPx4-4" value="End up with an error from typescript?&amp;nbsp; Perhaps we need to apply a type annotation to help TS understand the format of the response" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="EWqAmwgBbmL9_DVbwPx4-1">
+          <mxGeometry x="530" y="340" width="450" height="80" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="10 - img" id="4gJ1fN3AUXiCGwxwZzvv">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="Wk-u33mYpSHPJ3AkItH6-0"/>
+        <mxCell id="Wk-u33mYpSHPJ3AkItH6-1" parent="Wk-u33mYpSHPJ3AkItH6-0"/>
+        <mxCell id="Wk-u33mYpSHPJ3AkItH6-2" value="Add a new property to the class to store the URL of the fetched image" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Wk-u33mYpSHPJ3AkItH6-1">
+          <mxGeometry x="530" y="200" width="450" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="Wk-u33mYpSHPJ3AkItH6-3" value="Add in a img element to the component&#39;s template" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Wk-u33mYpSHPJ3AkItH6-1">
+          <mxGeometry x="530" y="333" width="450" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="Wk-u33mYpSHPJ3AkItH6-4" value="Use the property binding syntax to set the &#39;src&#39; property of the image to the property you created in step #1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Wk-u33mYpSHPJ3AkItH6-1">
+          <mxGeometry x="530" y="400" width="450" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="D6jyDDnHY4hKRdpHFACX-0" value="Store URL from the response in that new property" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Wk-u33mYpSHPJ3AkItH6-1">
+          <mxGeometry x="530" y="267" width="450" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
