@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-28T17:50:53.594Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="jevbu6tYOki44Qgqq-Qh" version="12.4.7" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2019-12-28T17:55:56.107Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="F50e9Nsjl8W0kxZmgLm5" version="12.4.7" type="github" pages="5">
   <diagram id="c7xge1HRT64sg_Y8zw0z" name="01 - mockup">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -84,6 +84,23 @@
         </mxCell>
         <mxCell id="8X3dBuqi-eF8kJCuDmWP-1" value="Generate a &lt;i&gt;component&lt;/i&gt;&amp;nbsp;with an appropriate name that will eventually display a photo + a button" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="xfzJ9ZjU-mCF_E_MOTA_-1">
           <mxGeometry x="460" y="280" width="450" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="qXHG2HFfFz7-kECpa-kk" name="05 - api">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="_Qmh8EniUmEs2rvbKyel-0"/>
+        <mxCell id="_Qmh8EniUmEs2rvbKyel-1" parent="_Qmh8EniUmEs2rvbKyel-0"/>
+        <mxCell id="YuDlnmPuwrW7FFPO4szK-0" value="Sign up for the Unsplash API" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="_Qmh8EniUmEs2rvbKyel-1">
+          <mxGeometry x="530" y="200" width="450" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="YuDlnmPuwrW7FFPO4szK-1" value="After signing up, create a new &#39;application&#39; on the Unsplash developer page" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="_Qmh8EniUmEs2rvbKyel-1">
+          <mxGeometry x="530" y="270" width="450" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="YuDlnmPuwrW7FFPO4szK-2" value="In the created application, find your &#39;Access Key&#39;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="_Qmh8EniUmEs2rvbKyel-1">
+          <mxGeometry x="530" y="340" width="450" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
