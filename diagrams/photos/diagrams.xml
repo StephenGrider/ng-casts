@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-28T17:42:30.532Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="9u-vVb5iGllatm0V_Zyo" version="12.4.7" type="github">
+<mxfile host="www.draw.io" modified="2019-12-28T17:43:12.543Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="84Yv4wX10f2iIvswMzk3" version="12.4.7" type="github" pages="2">
   <diagram id="c7xge1HRT64sg_Y8zw0z" name="01 - mockup">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -18,6 +18,17 @@
         </mxCell>
         <mxCell id="IEbEX15jgYf6S5dAG2Nu-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/ios-7-icons/50/picture-128.png" vertex="1" parent="IEbEX15jgYf6S5dAG2Nu-1">
           <mxGeometry x="30" y="160" width="80" height="80" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="wc02yb7mOgx5JTrBo_Vh" name="02 - step">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="UabKFcCpZolEFO539zMI-0"/>
+        <mxCell id="UabKFcCpZolEFO539zMI-1" parent="UabKFcCpZolEFO539zMI-0"/>
+        <mxCell id="UabKFcCpZolEFO539zMI-2" value="Generate a new project!" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="UabKFcCpZolEFO539zMI-1">
+          <mxGeometry x="390" y="200" width="450" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
