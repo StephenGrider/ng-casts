@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-28T19:15:22.494Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="CcEXCkFzYobttKv93BaT" version="12.4.7" type="github" pages="11">
+<mxfile host="www.draw.io" modified="2019-12-28T19:24:48.152Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="azuJpRhACyMz92PVtuTl" version="12.4.7" type="github" pages="12">
   <diagram id="c7xge1HRT64sg_Y8zw0z" name="01 - mockup">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -207,11 +207,31 @@
         <mxCell id="Wk-u33mYpSHPJ3AkItH6-3" value="Add in a img element to the component&#39;s template" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Wk-u33mYpSHPJ3AkItH6-1">
           <mxGeometry x="530" y="333" width="450" height="60" as="geometry"/>
         </mxCell>
+        <mxCell id="1sSM59xzxlvYMUmy2UxQ-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="Wk-u33mYpSHPJ3AkItH6-1" source="Wk-u33mYpSHPJ3AkItH6-4" target="Wk-u33mYpSHPJ3AkItH6-2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="Wk-u33mYpSHPJ3AkItH6-4" value="Use the property binding syntax to set the &#39;src&#39; property of the image to the property you created in step #1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Wk-u33mYpSHPJ3AkItH6-1">
           <mxGeometry x="530" y="400" width="450" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="D6jyDDnHY4hKRdpHFACX-0" value="Store URL from the response in that new property" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Wk-u33mYpSHPJ3AkItH6-1">
           <mxGeometry x="530" y="267" width="450" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="WKbd1i5VIzGzImfWawxE" name="11 - img">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="LjjdyAVDOoNxvBvZfNKy-0"/>
+        <mxCell id="LjjdyAVDOoNxvBvZfNKy-1" parent="LjjdyAVDOoNxvBvZfNKy-0"/>
+        <mxCell id="9ZQ5Of8uSpM7cOHrIHOT-0" value="Add a button to the template" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="LjjdyAVDOoNxvBvZfNKy-1">
+          <mxGeometry x="530" y="200" width="450" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="9ZQ5Of8uSpM7cOHrIHOT-1" value="Add an event handler to the button that will run a method from our component" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="LjjdyAVDOoNxvBvZfNKy-1">
+          <mxGeometry x="530" y="270" width="450" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="9ZQ5Of8uSpM7cOHrIHOT-2" value="In that method, make sure you call your service again to fetch another photo and update the property storing your image URL" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="LjjdyAVDOoNxvBvZfNKy-1">
+          <mxGeometry x="530" y="340" width="450" height="80" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
