@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-28T18:03:32.537Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="ANLC_V_BCmzP4vFLa_r7" version="12.4.7" type="github" pages="5">
+<mxfile host="www.draw.io" modified="2019-12-28T18:55:35.183Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="zblaggKF-G2ErMbbeuid" version="12.4.7" type="github" pages="8">
   <diagram id="c7xge1HRT64sg_Y8zw0z" name="01 - mockup">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -97,13 +97,61 @@
         <mxCell id="_Qmh8EniUmEs2rvbKyel-0"/>
         <mxCell id="_Qmh8EniUmEs2rvbKyel-1" parent="_Qmh8EniUmEs2rvbKyel-0"/>
         <mxCell id="YuDlnmPuwrW7FFPO4szK-0" value="Sign up for the Unsplash API" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="_Qmh8EniUmEs2rvbKyel-1">
-          <mxGeometry x="530" y="200" width="450" height="60" as="geometry"/>
+          <mxGeometry x="560" y="200" width="450" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="YuDlnmPuwrW7FFPO4szK-1" value="After signing up, create a new &#39;application&#39; on the Unsplash developer page" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="_Qmh8EniUmEs2rvbKyel-1">
           <mxGeometry x="530" y="270" width="450" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="YuDlnmPuwrW7FFPO4szK-2" value="In the created application, find your &#39;Access Key&#39;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="_Qmh8EniUmEs2rvbKyel-1">
           <mxGeometry x="530" y="340" width="450" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="_ySRMXomJ7JKz_bJKz9u" name="06 - http">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="_5LEtwIOhiIahqB0DjWa-0"/>
+        <mxCell id="_5LEtwIOhiIahqB0DjWa-1" parent="_5LEtwIOhiIahqB0DjWa-0"/>
+        <mxCell id="Ri5ZKa8Qf3kvFArJZVgu-0" value="Add the &#39;HttpClientModule&#39; to the App module&#39;s list of &#39;imports&#39;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="_5LEtwIOhiIahqB0DjWa-1">
+          <mxGeometry x="530" y="200" width="450" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ri5ZKa8Qf3kvFArJZVgu-3" value="Use dependency injection to get access to the &#39;HttpClient&#39; in our service" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="_5LEtwIOhiIahqB0DjWa-1">
+          <mxGeometry x="530" y="270" width="450" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ilpOXP8S_rWTIVkrfSyt" name="07 - http">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="otNOsL6_S5fmZWo0Yrfl-0"/>
+        <mxCell id="otNOsL6_S5fmZWo0Yrfl-1" parent="otNOsL6_S5fmZWo0Yrfl-0"/>
+        <mxCell id="scTAb_JqCTIvd4mR8EMW-0" value="Add a new method to the service that will make and return a request" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="otNOsL6_S5fmZWo0Yrfl-1">
+          <mxGeometry x="530" y="410" width="450" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="scTAb_JqCTIvd4mR8EMW-1" value="Take a look at the Unsplash API documentation on how to access their API" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="otNOsL6_S5fmZWo0Yrfl-1">
+          <mxGeometry x="530" y="270" width="450" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="scTAb_JqCTIvd4mR8EMW-2" value="Take a look at the type definition of the &#39;HttpClient&#39; to figure out how to include a header on the request" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="otNOsL6_S5fmZWo0Yrfl-1">
+          <mxGeometry x="530" y="340" width="450" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="scTAb_JqCTIvd4mR8EMW-3" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontSize=18;rotation=-180;" vertex="1" parent="otNOsL6_S5fmZWo0Yrfl-1">
+          <mxGeometry x="990" y="270" width="20" height="130" as="geometry"/>
+        </mxCell>
+        <mxCell id="scTAb_JqCTIvd4mR8EMW-4" value="&lt;i&gt;Hard!&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="otNOsL6_S5fmZWo0Yrfl-1">
+          <mxGeometry x="1010" y="325" width="50" height="20" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="NKpabH5ITiVw4TCWusvn" name="08 - next">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="GDcgEYNzkdXXziX_IGwE-0"/>
+        <mxCell id="GDcgEYNzkdXXziX_IGwE-1" parent="GDcgEYNzkdXXziX_IGwE-0"/>
+        <mxCell id="7RACP4Ka_GAG_488YKJ1-0" value="Make sure the component we generated earlier is visible on the screen" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="GDcgEYNzkdXXziX_IGwE-1">
+          <mxGeometry x="530" y="200" width="450" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
