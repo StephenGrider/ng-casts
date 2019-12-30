@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-30T18:10:09.988Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="z2ix8AlBdf5XUm2n-afO" version="12.4.7" type="github" pages="6">
+<mxfile host="www.draw.io" modified="2019-12-30T18:10:32.990Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="s_pa_0mAfbxzyOKfkGxz" version="12.4.7" type="github" pages="7">
   <diagram id="eDroFy-HSb05-lqE0q7p" name="01 - news">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -280,6 +280,17 @@
         </mxCell>
         <mxCell id="rItbG_sJz1COWMYmKOhA-16" value="Article List Component" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="rItbG_sJz1COWMYmKOhA-1">
           <mxGeometry x="515" y="410" width="160" height="50" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="EgluvSnVNKYC6EPOATBU" name="07 - n">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="OxWp_4NYNBdfNye2iYEk-0"/>
+        <mxCell id="OxWp_4NYNBdfNye2iYEk-1" parent="OxWp_4NYNBdfNye2iYEk-0"/>
+        <mxCell id="KnhGwL32zZFMoo-8KSe7-0" value="newsapi.org" style="rounded=0;whiteSpace=wrap;html=1;fontSize=27;align=center;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="OxWp_4NYNBdfNye2iYEk-1">
+          <mxGeometry x="670" y="280" width="320" height="90" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
