@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-30T17:45:56.700Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="1qfnSOhmBS2kFzGpdbgF" version="12.4.7" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2019-12-30T17:46:19.965Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="RUsuoLiYra0QGYhTr_yp" version="12.4.7" type="github" pages="2">
   <diagram id="eDroFy-HSb05-lqE0q7p" name="01 - news">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -51,54 +51,6 @@
         </mxCell>
         <mxCell id="3QwijCEAim_IzcLTl3X6-18" value="Consume data in the component" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="490" width="190" height="50" as="geometry"/>
-        </mxCell>
-        <mxCell id="IhZwr2kJBpS-oOaumTRD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="1" source="IhZwr2kJBpS-oOaumTRD-2" target="IhZwr2kJBpS-oOaumTRD-5">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="IhZwr2kJBpS-oOaumTRD-2" value="Figure out the service design" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="260" width="190" height="50" as="geometry"/>
-        </mxCell>
-        <mxCell id="IhZwr2kJBpS-oOaumTRD-3" value="&lt;b style=&quot;font-size: 18px&quot;&gt;Hacker News Articles&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="872.5" y="227" width="125" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="IhZwr2kJBpS-oOaumTRD-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="IhZwr2kJBpS-oOaumTRD-5" target="IhZwr2kJBpS-oOaumTRD-7">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="IhZwr2kJBpS-oOaumTRD-5" value="Figure out how to juggle the appropriate RX operators" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="337" width="190" height="50" as="geometry"/>
-        </mxCell>
-        <mxCell id="IhZwr2kJBpS-oOaumTRD-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="1" source="IhZwr2kJBpS-oOaumTRD-7" target="IhZwr2kJBpS-oOaumTRD-8">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="IhZwr2kJBpS-oOaumTRD-7" value="Wire up the service to a component" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="413" width="190" height="50" as="geometry"/>
-        </mxCell>
-        <mxCell id="IhZwr2kJBpS-oOaumTRD-8" value="Consume data in the component" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="490" width="190" height="50" as="geometry"/>
-        </mxCell>
-        <mxCell id="IhZwr2kJBpS-oOaumTRD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="1" source="IhZwr2kJBpS-oOaumTRD-10" target="IhZwr2kJBpS-oOaumTRD-13">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="IhZwr2kJBpS-oOaumTRD-10" value="Figure out the service design" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="260" width="190" height="50" as="geometry"/>
-        </mxCell>
-        <mxCell id="IhZwr2kJBpS-oOaumTRD-11" value="&lt;b style=&quot;font-size: 18px&quot;&gt;News API Articles&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1092.5" y="227" width="125" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="IhZwr2kJBpS-oOaumTRD-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="IhZwr2kJBpS-oOaumTRD-13" target="IhZwr2kJBpS-oOaumTRD-15">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="IhZwr2kJBpS-oOaumTRD-13" value="Figure out how to juggle the appropriate RX operators" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="337" width="190" height="50" as="geometry"/>
-        </mxCell>
-        <mxCell id="IhZwr2kJBpS-oOaumTRD-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="1" source="IhZwr2kJBpS-oOaumTRD-15" target="IhZwr2kJBpS-oOaumTRD-16">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="IhZwr2kJBpS-oOaumTRD-15" value="Wire up the service to a component" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="413" width="190" height="50" as="geometry"/>
-        </mxCell>
-        <mxCell id="IhZwr2kJBpS-oOaumTRD-16" value="Consume data in the component" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="490" width="190" height="50" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
@@ -162,8 +114,8 @@
         <mxCell id="X1WcNXS_PzWT5cU8pnIV-19" value="Figure out the service design" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="X1WcNXS_PzWT5cU8pnIV-1">
           <mxGeometry x="830" y="260" width="190" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="X1WcNXS_PzWT5cU8pnIV-20" value="&lt;b style=&quot;font-size: 18px&quot;&gt;Hacker News&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="X1WcNXS_PzWT5cU8pnIV-1">
-          <mxGeometry x="862.5" y="230" width="125" height="20" as="geometry"/>
+        <mxCell id="X1WcNXS_PzWT5cU8pnIV-20" value="&lt;b style=&quot;font-size: 18px&quot;&gt;Hacker News Articles&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="X1WcNXS_PzWT5cU8pnIV-1">
+          <mxGeometry x="862.5" y="229" width="125" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="X1WcNXS_PzWT5cU8pnIV-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="X1WcNXS_PzWT5cU8pnIV-1" source="X1WcNXS_PzWT5cU8pnIV-22" target="X1WcNXS_PzWT5cU8pnIV-24">
           <mxGeometry relative="1" as="geometry"/>
@@ -186,7 +138,7 @@
         <mxCell id="X1WcNXS_PzWT5cU8pnIV-27" value="Figure out the service design" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="X1WcNXS_PzWT5cU8pnIV-1">
           <mxGeometry x="1040" y="260" width="190" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="X1WcNXS_PzWT5cU8pnIV-28" value="&lt;b style=&quot;font-size: 18px&quot;&gt;News API&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="X1WcNXS_PzWT5cU8pnIV-1">
+        <mxCell id="X1WcNXS_PzWT5cU8pnIV-28" value="&lt;b style=&quot;font-size: 18px&quot;&gt;News API Articles&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="X1WcNXS_PzWT5cU8pnIV-1">
           <mxGeometry x="1072.5" y="230" width="125" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="X1WcNXS_PzWT5cU8pnIV-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="X1WcNXS_PzWT5cU8pnIV-1" source="X1WcNXS_PzWT5cU8pnIV-30" target="X1WcNXS_PzWT5cU8pnIV-32">
