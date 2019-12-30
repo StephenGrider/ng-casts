@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-30T22:16:01.280Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="GsV6db4a-Ukpv8Sx2CE-" version="12.4.7" type="github" pages="10">
+<mxfile host="www.draw.io" modified="2019-12-30T22:22:21.345Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="pf5KIe3dG_f37ejHgRnJ" version="12.4.7" type="github" pages="10">
   <diagram id="eDroFy-HSb05-lqE0q7p" name="01 - news">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -558,19 +558,28 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="m66LJnTjep8_KIksQPeF-2" value="Paginator" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="m66LJnTjep8_KIksQPeF-1">
-          <mxGeometry x="540" y="440" width="240" height="50" as="geometry"/>
+          <mxGeometry x="540" y="420" width="240" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="m66LJnTjep8_KIksQPeF-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=22;" edge="1" parent="m66LJnTjep8_KIksQPeF-1" source="m66LJnTjep8_KIksQPeF-3" target="m66LJnTjep8_KIksQPeF-2">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="m66LJnTjep8_KIksQPeF-3" value="News API Article List" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="m66LJnTjep8_KIksQPeF-1">
-          <mxGeometry x="540" y="260" width="240" height="50" as="geometry"/>
+          <mxGeometry x="540" y="280" width="240" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="m66LJnTjep8_KIksQPeF-5" value="@input numberOfPages" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="m66LJnTjep8_KIksQPeF-1">
           <mxGeometry x="450" y="350" width="150" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="m66LJnTjep8_KIksQPeF-7" value="@output pageChanged" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="m66LJnTjep8_KIksQPeF-1">
           <mxGeometry x="720" y="350" width="150" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="m66LJnTjep8_KIksQPeF-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="m66LJnTjep8_KIksQPeF-1" source="m66LJnTjep8_KIksQPeF-8" target="m66LJnTjep8_KIksQPeF-3">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="m66LJnTjep8_KIksQPeF-8" value="News API Service" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="m66LJnTjep8_KIksQPeF-1">
+          <mxGeometry x="540" y="170" width="240" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="m66LJnTjep8_KIksQPeF-10" value="numberOfPages Subject" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="m66LJnTjep8_KIksQPeF-1">
+          <mxGeometry x="660" y="240" width="150" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
