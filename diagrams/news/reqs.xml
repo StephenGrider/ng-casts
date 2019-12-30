@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-30T17:55:00.175Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="fzLhcyoZ-rXSlilMheZ2" version="12.4.7" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2019-12-30T18:03:28.630Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="al-3x6OH11Gg6GLUpSgj" version="12.4.7" type="github" pages="4">
   <diagram id="eDroFy-HSb05-lqE0q7p" name="01 - news">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -167,7 +167,7 @@
         <mxCell id="dTJgZV3JKOMWdkhxYriQ-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;" vertex="1" parent="dTJgZV3JKOMWdkhxYriQ-1">
           <mxGeometry x="450" y="275" width="200" height="175" as="geometry"/>
         </mxCell>
-        <mxCell id="dTJgZV3JKOMWdkhxYriQ-2" value="Tech News" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="dTJgZV3JKOMWdkhxYriQ-1">
+        <mxCell id="dTJgZV3JKOMWdkhxYriQ-2" value="World News" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="dTJgZV3JKOMWdkhxYriQ-1">
           <mxGeometry x="470" y="285" width="80" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="dTJgZV3JKOMWdkhxYriQ-3" value="Twitter is down" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3399FF;" vertex="1" parent="dTJgZV3JKOMWdkhxYriQ-1">
@@ -194,14 +194,38 @@
         <mxCell id="dTJgZV3JKOMWdkhxYriQ-10" value="4" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;align=center;" vertex="1" parent="dTJgZV3JKOMWdkhxYriQ-1">
           <mxGeometry x="530" y="410" width="20" height="20" as="geometry"/>
         </mxCell>
+        <mxCell id="TL0v_5MMI7yb5pjdSgAL-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="dTJgZV3JKOMWdkhxYriQ-1" source="dTJgZV3JKOMWdkhxYriQ-12" target="TL0v_5MMI7yb5pjdSgAL-2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="TL0v_5MMI7yb5pjdSgAL-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="dTJgZV3JKOMWdkhxYriQ-1" source="dTJgZV3JKOMWdkhxYriQ-12" target="TL0v_5MMI7yb5pjdSgAL-6">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="dTJgZV3JKOMWdkhxYriQ-12" value="Service for Fetching Articles" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="dTJgZV3JKOMWdkhxYriQ-1">
-          <mxGeometry x="750" y="322.5" width="170" height="80" as="geometry"/>
+          <mxGeometry x="750" y="328" width="170" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="TL0v_5MMI7yb5pjdSgAL-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="dTJgZV3JKOMWdkhxYriQ-1" source="TL0v_5MMI7yb5pjdSgAL-0" target="dTJgZV3JKOMWdkhxYriQ-12">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="TL0v_5MMI7yb5pjdSgAL-0" value="Page to fetch" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;" vertex="1" parent="dTJgZV3JKOMWdkhxYriQ-1">
+          <mxGeometry x="765" y="240" width="140" height="55" as="geometry"/>
+        </mxCell>
+        <mxCell id="TL0v_5MMI7yb5pjdSgAL-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="dTJgZV3JKOMWdkhxYriQ-1" source="TL0v_5MMI7yb5pjdSgAL-2" target="dTJgZV3JKOMWdkhxYriQ-5">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="TL0v_5MMI7yb5pjdSgAL-2" value="list of articles" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;" vertex="1" parent="dTJgZV3JKOMWdkhxYriQ-1">
+          <mxGeometry x="700" y="440" width="140" height="55" as="geometry"/>
+        </mxCell>
+        <mxCell id="TL0v_5MMI7yb5pjdSgAL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="dTJgZV3JKOMWdkhxYriQ-1" source="TL0v_5MMI7yb5pjdSgAL-6" target="dTJgZV3JKOMWdkhxYriQ-8">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="TL0v_5MMI7yb5pjdSgAL-6" value="How many pages of articles are there" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;" vertex="1" parent="dTJgZV3JKOMWdkhxYriQ-1">
+          <mxGeometry x="850" y="440" width="140" height="55" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="IWE9xzKYVkXitoZ7Uvmj" name="03 - pagination">
-    <mxGraphModel dx="654" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="rItbG_sJz1COWMYmKOhA-0"/>
         <mxCell id="rItbG_sJz1COWMYmKOhA-1" parent="rItbG_sJz1COWMYmKOhA-0"/>
