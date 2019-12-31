@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-31T19:10:20.144Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="SH86G5rXDVk7q81h2Gji" version="12.4.7" type="github">
+<mxfile host="www.draw.io" modified="2019-12-31T19:17:29.261Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="wUiYsLVTGM-UNCM1qqVo" version="12.4.7" type="github">
   <diagram id="kb77SCrll2ZyydQfQ6Kl" name="01 - pipes">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="ep9HpAeXDQoowD_cF9Go-2" value="&lt;b style=&quot;font-size: 28px;&quot;&gt;Pipes&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;" vertex="1" parent="1">
           <mxGeometry x="580" y="70" width="40" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="ep9HpAeXDQoowD_cF9Go-3" value="Super easy way to format data in a template" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="ep9HpAeXDQoowD_cF9Go-3" value="Functions that format data for use in a template" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="380" y="100" width="440" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="ep9HpAeXDQoowD_cF9Go-4" value="Only used in a template" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
