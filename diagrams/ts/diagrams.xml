@@ -1,22 +1,22 @@
-<mxfile host="www.draw.io" modified="2019-12-17T17:43:38.748Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="cVmpv1F0TvLFSVf8y5Pf" version="12.4.2" type="github" pages="9">
+<mxfile host="www.draw.io" modified="2019-12-31T17:53:08.761Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="0mg02R6k38bpOzfduBGd" version="12.4.7" type="github" pages="10">
   <diagram id="K5ieoUoihvHOHd8dR5Ru" name="01 - TS">
-    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1282" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
-        <mxCell id="HnmX0KyF7SV8wZ-sUBqU-2" value="Typescript" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=28;" vertex="1" parent="1">
+        <mxCell id="HnmX0KyF7SV8wZ-sUBqU-2" value="Typescript" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=28;" parent="1" vertex="1">
           <mxGeometry x="580" y="200" width="90" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="HnmX0KyF7SV8wZ-sUBqU-3" value="Superset of Javascript (it has all the features of JS + more)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="HnmX0KyF7SV8wZ-sUBqU-3" value="Superset of Javascript (it has all the features of JS + more)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="395" y="240" width="460" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="HnmX0KyF7SV8wZ-sUBqU-4" value="We write TS during development, but the browser still runs JS" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="HnmX0KyF7SV8wZ-sUBqU-4" value="We write TS during development, but the browser still runs JS" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="395" y="300" width="460" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="HnmX0KyF7SV8wZ-sUBqU-5" value="Provides &lt;i style=&quot;font-weight: bold&quot;&gt;zero &lt;/i&gt;speed or performance benefits!" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="HnmX0KyF7SV8wZ-sUBqU-5" value="Provides &lt;i style=&quot;font-weight: bold&quot;&gt;zero &lt;/i&gt;speed or performance benefits!" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="395" y="360" width="460" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="HnmX0KyF7SV8wZ-sUBqU-6" value="&lt;b&gt;The only goal of Typescript is to help you catch errors in your code editor instead of while your app is running&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="HnmX0KyF7SV8wZ-sUBqU-6" value="&lt;b&gt;The only goal of Typescript is to help you catch errors in your code editor instead of while your app is running&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="395" y="420" width="460" height="50" as="geometry"/>
         </mxCell>
       </root>
@@ -355,33 +355,62 @@
     </mxGraphModel>
   </diagram>
   <diagram id="H-e6JzZtVwPoAUmz-PZF" name="09 - dec">
-    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1282" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="xEvEjAL3b3cMroG5syf_-0"/>
         <mxCell id="xEvEjAL3b3cMroG5syf_-1" parent="xEvEjAL3b3cMroG5syf_-0"/>
-        <mxCell id="xEvEjAL3b3cMroG5syf_-2" value="Decorators" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=29;" vertex="1" parent="xEvEjAL3b3cMroG5syf_-1">
+        <mxCell id="xEvEjAL3b3cMroG5syf_-2" value="Decorators" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=29;" parent="xEvEjAL3b3cMroG5syf_-1" vertex="1">
           <mxGeometry x="630" y="80" width="40" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="xEvEjAL3b3cMroG5syf_-3" value="Plain functions" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="xEvEjAL3b3cMroG5syf_-1">
+        <mxCell id="xEvEjAL3b3cMroG5syf_-3" value="Plain functions" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="xEvEjAL3b3cMroG5syf_-1" vertex="1">
           <mxGeometry x="390" y="110" width="520" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="xEvEjAL3b3cMroG5syf_-4" value="Called when the file &lt;i style=&quot;font-size: 13px;&quot;&gt;first gets executed&lt;/i&gt;, not when an instance of the class is created" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="xEvEjAL3b3cMroG5syf_-1">
+        <mxCell id="xEvEjAL3b3cMroG5syf_-4" value="Called when the file &lt;i style=&quot;font-size: 13px;&quot;&gt;first gets executed&lt;/i&gt;, not when an instance of the class is created" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="xEvEjAL3b3cMroG5syf_-1" vertex="1">
           <mxGeometry x="390" y="158" width="520" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="xEvEjAL3b3cMroG5syf_-5" value="Can be applied to a class, a property, a method, an accessor, or an argument of a method" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="xEvEjAL3b3cMroG5syf_-1">
+        <mxCell id="xEvEjAL3b3cMroG5syf_-5" value="Can be applied to a class, a property, a method, an accessor, or an argument of a method" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="xEvEjAL3b3cMroG5syf_-1" vertex="1">
           <mxGeometry x="390" y="207" width="520" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="xEvEjAL3b3cMroG5syf_-6" value="Receives different arguments depending on where it gets used" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="xEvEjAL3b3cMroG5syf_-1">
+        <mxCell id="xEvEjAL3b3cMroG5syf_-6" value="Receives different arguments depending on where it gets used" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="xEvEjAL3b3cMroG5syf_-1" vertex="1">
           <mxGeometry x="390" y="255" width="520" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="xEvEjAL3b3cMroG5syf_-7" value="Can be a plain decorator or a decorator factory" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="xEvEjAL3b3cMroG5syf_-1">
+        <mxCell id="xEvEjAL3b3cMroG5syf_-7" value="Can be a plain decorator or a decorator factory" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="xEvEjAL3b3cMroG5syf_-1" vertex="1">
           <mxGeometry x="390" y="303" width="520" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="xEvEjAL3b3cMroG5syf_-8" value="Used to mess around with the internals of the class in clever ways" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="xEvEjAL3b3cMroG5syf_-1">
+        <mxCell id="xEvEjAL3b3cMroG5syf_-8" value="Used to mess around with the internals of the class in clever ways" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="xEvEjAL3b3cMroG5syf_-1" vertex="1">
           <mxGeometry x="390" y="352" width="520" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="xEvEjAL3b3cMroG5syf_-9" value="Super, &lt;i&gt;super&lt;/i&gt;&amp;nbsp;complicated, not really worth our time to go further into right now" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="xEvEjAL3b3cMroG5syf_-1">
+        <mxCell id="xEvEjAL3b3cMroG5syf_-9" value="Super, &lt;i&gt;super&lt;/i&gt;&amp;nbsp;complicated, not really worth our time to go further into right now" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="xEvEjAL3b3cMroG5syf_-1" vertex="1">
           <mxGeometry x="390" y="400" width="520" height="40" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="lHkRCGNMmCjfigxuSAw4" name="10 - generics">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="mMg1peolBUudF8Aby7ci-0"/>
+        <mxCell id="mMg1peolBUudF8Aby7ci-1" parent="mMg1peolBUudF8Aby7ci-0"/>
+        <mxCell id="mMg1peolBUudF8Aby7ci-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=21;" edge="1" parent="mMg1peolBUudF8Aby7ci-1" source="mMg1peolBUudF8Aby7ci-2" target="mMg1peolBUudF8Aby7ci-7">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="mMg1peolBUudF8Aby7ci-2" value="map" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=21;" vertex="1" parent="mMg1peolBUudF8Aby7ci-1">
+          <mxGeometry x="460" y="300" width="150" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="mMg1peolBUudF8Aby7ci-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=21;" edge="1" parent="mMg1peolBUudF8Aby7ci-1" source="mMg1peolBUudF8Aby7ci-3" target="mMg1peolBUudF8Aby7ci-2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="mMg1peolBUudF8Aby7ci-3" value="Input Array" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="mMg1peolBUudF8Aby7ci-1">
+          <mxGeometry x="350" y="180" width="150" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="mMg1peolBUudF8Aby7ci-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=21;" edge="1" parent="mMg1peolBUudF8Aby7ci-1" source="mMg1peolBUudF8Aby7ci-4" target="mMg1peolBUudF8Aby7ci-2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="mMg1peolBUudF8Aby7ci-4" value="Iterator Function" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="mMg1peolBUudF8Aby7ci-1">
+          <mxGeometry x="580" y="180" width="150" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="mMg1peolBUudF8Aby7ci-7" value="New Array" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="mMg1peolBUudF8Aby7ci-1">
+          <mxGeometry x="460" y="420" width="150" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
