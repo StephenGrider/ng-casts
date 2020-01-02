@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-02T21:26:10.734Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="OKnDMpyrEd5n8KiVwf3I" version="12.4.8" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2020-01-02T21:31:30.317Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="7Iqm6damPSMl3QNjvc54" version="12.4.8" type="github" pages="3">
   <diagram id="QTolocRpUIRaSXo2WMzZ" name="01 - mockup">
     <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -60,6 +60,35 @@
         </mxCell>
         <mxCell id="sCoDXY34yT8PbmyZDTl2-20" value="4242 4242 4242 4242" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" vertex="1" parent="sCoDXY34yT8PbmyZDTl2-1">
           <mxGeometry x="95" y="215" width="175" height="20" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="y1-o2xekFcaKySm913Pn" name="03 - form">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="aQByiWvXOFRsTcmzV2p2-0"/>
+        <mxCell id="aQByiWvXOFRsTcmzV2p2-1" parent="aQByiWvXOFRsTcmzV2p2-0"/>
+        <mxCell id="aQByiWvXOFRsTcmzV2p2-2" value="Created by grouping together a series of inputs, checkboxes, radio buttons, selects, etc" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="aQByiWvXOFRsTcmzV2p2-1">
+          <mxGeometry x="530" y="130" width="480" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="aQByiWvXOFRsTcmzV2p2-3" value="Forms In General" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;fontStyle=1" vertex="1" parent="aQByiWvXOFRsTcmzV2p2-1">
+          <mxGeometry x="655" y="100" width="230" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="aQByiWvXOFRsTcmzV2p2-5" value="Forms need validation" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="aQByiWvXOFRsTcmzV2p2-1">
+          <mxGeometry x="530" y="186" width="480" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="aQByiWvXOFRsTcmzV2p2-6" value="Forms need messaging to help the user along" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="aQByiWvXOFRsTcmzV2p2-1">
+          <mxGeometry x="530" y="242" width="480" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="aQByiWvXOFRsTcmzV2p2-7" value="Forms frequently need to change rapidly without having to rewrite a ton of app logic" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="aQByiWvXOFRsTcmzV2p2-1">
+          <mxGeometry x="530" y="298" width="480" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="aQByiWvXOFRsTcmzV2p2-8" value="Angular has two separate and different systems for building forms" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="aQByiWvXOFRsTcmzV2p2-1">
+          <mxGeometry x="530" y="354" width="480" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="aQByiWvXOFRsTcmzV2p2-9" value="We can technically implement forms with just what we&#39;ve covered in this course so far (property binding and event handlers)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="aQByiWvXOFRsTcmzV2p2-1">
+          <mxGeometry x="530" y="410" width="480" height="50" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
