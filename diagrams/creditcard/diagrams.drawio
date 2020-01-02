@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-02T18:51:45.964Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="dkW2uPjNatAO4bbBMfwE" version="12.4.8" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2020-01-02T21:26:10.734Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="OKnDMpyrEd5n8KiVwf3I" version="12.4.8" type="github" pages="2">
   <diagram id="QTolocRpUIRaSXo2WMzZ" name="01 - mockup">
     <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -84,13 +84,13 @@
         <mxCell id="BR_0b176YaDw3XOWm91t-6" value="Most of the form logic is driven by configuration in a &lt;b style=&quot;font-size: 12px;&quot;&gt;component class file&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="BR_0b176YaDw3XOWm91t-1">
           <mxGeometry x="540" y="68" width="370" height="37" as="geometry"/>
         </mxCell>
-        <mxCell id="BR_0b176YaDw3XOWm91t-7" value="&quot;More appropriate for complex forms&quot;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="BR_0b176YaDw3XOWm91t-1">
+        <mxCell id="BR_0b176YaDw3XOWm91t-7" value="More appropriate for complex forms" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="BR_0b176YaDw3XOWm91t-1">
           <mxGeometry x="540" y="107" width="370" height="37" as="geometry"/>
         </mxCell>
         <mxCell id="BR_0b176YaDw3XOWm91t-8" value="Most of the form logic is driven by config in our &lt;b style=&quot;font-size: 12px;&quot;&gt;component template file&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="BR_0b176YaDw3XOWm91t-1">
           <mxGeometry x="540" y="250" width="370" height="37" as="geometry"/>
         </mxCell>
-        <mxCell id="BR_0b176YaDw3XOWm91t-9" value="&quot;More appropriate for simple forms&quot;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="BR_0b176YaDw3XOWm91t-1">
+        <mxCell id="BR_0b176YaDw3XOWm91t-9" value="More appropriate for simple forms" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="BR_0b176YaDw3XOWm91t-1">
           <mxGeometry x="540" y="291" width="370" height="37" as="geometry"/>
         </mxCell>
         <mxCell id="BR_0b176YaDw3XOWm91t-10" value="&lt;span style=&quot;white-space: normal; font-size: 12px;&quot;&gt;Exposes some aspects of the form to us as RxJs Observables&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="BR_0b176YaDw3XOWm91t-1">
