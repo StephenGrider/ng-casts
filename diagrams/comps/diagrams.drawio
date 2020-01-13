@@ -1,4 +1,15 @@
-<mxfile host="www.draw.io" modified="2020-01-13T17:41:00.694Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="tcr4e5ZNKdayZCCUu5rc" version="12.5.1" type="github">
+<mxfile host="www.draw.io" modified="2020-01-13T18:27:12.311Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="9gLzx97JM-e4w7cHfoo8" version="12.5.1" type="github" pages="2">
+  <diagram id="vAU2icVZnVVsbZ8cxz05" name="02 - sem">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="ZaMI3tFs_J1XZlpAEU4s-0"/>
+        <mxCell id="ZaMI3tFs_J1XZlpAEU4s-1" parent="ZaMI3tFs_J1XZlpAEU4s-0"/>
+        <mxCell id="ZaMI3tFs_J1XZlpAEU4s-2" value="semantic-ui.com" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="ZaMI3tFs_J1XZlpAEU4s-1">
+          <mxGeometry x="450" y="240" width="330" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="G4dSxPrtSfT2ga3OpHY1" name="01 - mockup">
     <mxGraphModel dx="1195" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
