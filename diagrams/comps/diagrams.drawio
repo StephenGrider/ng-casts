@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-13T18:47:03.486Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="xPKBUm8t0GxtIAsnQS93" version="12.5.1" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2020-01-13T21:47:39.294Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="evDY27VPelEaty9aXLEF" version="12.5.1" type="github" pages="6">
   <diagram id="vAU2icVZnVVsbZ8cxz05" name="02 - sem">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -389,6 +389,73 @@
         </mxCell>
         <mxCell id="axLBgP9SELJ8qy8nJnmc-12" value="Study each widget we are going to make in detail and figure out a way to pass it some config options" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="axLBgP9SELJ8qy8nJnmc-1">
           <mxGeometry x="720" y="280" width="320" height="50" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Npu1qR_YhrC0C2_xR1n5" name="05 - mods">
+    <mxGraphModel dx="656" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="BP-Ar0N7XWCt9b9Qs0d4-0"/>
+        <mxCell id="BP-Ar0N7XWCt9b9Qs0d4-1" parent="BP-Ar0N7XWCt9b9Qs0d4-0"/>
+        <mxCell id="BP-Ar0N7XWCt9b9Qs0d4-2" value="Used to group together similar components, directives, and pipes in Angular" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="BP-Ar0N7XWCt9b9Qs0d4-1">
+          <mxGeometry x="380" y="230" width="530" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="BP-Ar0N7XWCt9b9Qs0d4-3" value="Modules" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;" vertex="1" parent="BP-Ar0N7XWCt9b9Qs0d4-1">
+          <mxGeometry x="625" y="200" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="BP-Ar0N7XWCt9b9Qs0d4-4" value="All Angular apps have at least one module - the App Module" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="BP-Ar0N7XWCt9b9Qs0d4-1">
+          <mxGeometry x="380" y="280" width="530" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="BP-Ar0N7XWCt9b9Qs0d4-5" value="Angular provides us some default modules (http, form handling)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="BP-Ar0N7XWCt9b9Qs0d4-1">
+          <mxGeometry x="380" y="330" width="530" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="BP-Ar0N7XWCt9b9Qs0d4-6" value="Super flexible!" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="BP-Ar0N7XWCt9b9Qs0d4-1">
+          <mxGeometry x="380" y="380" width="530" height="40" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="64xkM0JHexJ4pCe9HtrU" name="06 - mods">
+    <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="ZHJRCP9kMX0Yo5ealwYg-0"/>
+        <mxCell id="ZHJRCP9kMX0Yo5ealwYg-1" parent="ZHJRCP9kMX0Yo5ealwYg-0"/>
+        <mxCell id="ZHJRCP9kMX0Yo5ealwYg-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ZHJRCP9kMX0Yo5ealwYg-1">
+          <mxGeometry x="210" y="210" width="340" height="260" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZHJRCP9kMX0Yo5ealwYg-3" value="&lt;b&gt;App Module&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;" vertex="1" parent="ZHJRCP9kMX0Yo5ealwYg-1">
+          <mxGeometry x="287.5" y="220" width="185" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZHJRCP9kMX0Yo5ealwYg-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="ZHJRCP9kMX0Yo5ealwYg-1">
+          <mxGeometry x="600" y="210" width="350" height="260" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZHJRCP9kMX0Yo5ealwYg-5" value="&lt;b&gt;Other Module&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;" vertex="1" parent="ZHJRCP9kMX0Yo5ealwYg-1">
+          <mxGeometry x="682.5" y="220" width="185" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZHJRCP9kMX0Yo5ealwYg-6" value="Component A" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=center;" vertex="1" parent="ZHJRCP9kMX0Yo5ealwYg-1">
+          <mxGeometry x="220" y="260" width="150" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZHJRCP9kMX0Yo5ealwYg-7" value="Component B" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=center;" vertex="1" parent="ZHJRCP9kMX0Yo5ealwYg-1">
+          <mxGeometry x="390" y="260" width="150" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZHJRCP9kMX0Yo5ealwYg-8" value="Pipe" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=center;" vertex="1" parent="ZHJRCP9kMX0Yo5ealwYg-1">
+          <mxGeometry x="220" y="330" width="150" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZHJRCP9kMX0Yo5ealwYg-9" value="Directive" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=center;" vertex="1" parent="ZHJRCP9kMX0Yo5ealwYg-1">
+          <mxGeometry x="390" y="330" width="150" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZHJRCP9kMX0Yo5ealwYg-10" value="Component C" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=center;" vertex="1" parent="ZHJRCP9kMX0Yo5ealwYg-1">
+          <mxGeometry x="615" y="260" width="150" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZHJRCP9kMX0Yo5ealwYg-11" value="Component D" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=center;" vertex="1" parent="ZHJRCP9kMX0Yo5ealwYg-1">
+          <mxGeometry x="785" y="260" width="150" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZHJRCP9kMX0Yo5ealwYg-12" value="Pipe" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=center;" vertex="1" parent="ZHJRCP9kMX0Yo5ealwYg-1">
+          <mxGeometry x="615" y="330" width="150" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZHJRCP9kMX0Yo5ealwYg-13" value="Directive" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=center;" vertex="1" parent="ZHJRCP9kMX0Yo5ealwYg-1">
+          <mxGeometry x="785" y="330" width="150" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
