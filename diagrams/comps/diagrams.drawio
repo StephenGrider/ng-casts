@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-13T18:27:12.311Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="9gLzx97JM-e4w7cHfoo8" version="12.5.1" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2020-01-13T18:39:03.115Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="0WObwl05S-MS88z4UF_0" version="12.5.1" type="github" pages="3">
   <diagram id="vAU2icVZnVVsbZ8cxz05" name="02 - sem">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -6,6 +6,9 @@
         <mxCell id="ZaMI3tFs_J1XZlpAEU4s-1" parent="ZaMI3tFs_J1XZlpAEU4s-0"/>
         <mxCell id="ZaMI3tFs_J1XZlpAEU4s-2" value="semantic-ui.com" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="ZaMI3tFs_J1XZlpAEU4s-1">
           <mxGeometry x="450" y="240" width="330" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="4axB9tEJAmGs_o-PMnVQ-0" value="&lt;i&gt;A CSS library&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="ZaMI3tFs_J1XZlpAEU4s-1">
+          <mxGeometry x="537.5" y="310" width="155" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
@@ -323,6 +326,47 @@
         </mxCell>
         <mxCell id="b6q1SKspGeo5kJjIOPxl-113" value="&amp;gt; What should I have for dinner?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="b6q1SKspGeo5kJjIOPxl-77">
           <mxGeometry x="40" y="380" width="260" height="20" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="cxGV3vTQ2QtsitKNTgDf" name="03 - problems">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="axLBgP9SELJ8qy8nJnmc-0"/>
+        <mxCell id="axLBgP9SELJ8qy8nJnmc-1" parent="axLBgP9SELJ8qy8nJnmc-0"/>
+        <mxCell id="axLBgP9SELJ8qy8nJnmc-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=26;" edge="1" parent="axLBgP9SELJ8qy8nJnmc-1" source="axLBgP9SELJ8qy8nJnmc-2" target="axLBgP9SELJ8qy8nJnmc-5">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="axLBgP9SELJ8qy8nJnmc-2" value="Need to show different pages of content to the user" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="axLBgP9SELJ8qy8nJnmc-1">
+          <mxGeometry x="350" y="160" width="320" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="axLBgP9SELJ8qy8nJnmc-3" value="Problems" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;" vertex="1" parent="axLBgP9SELJ8qy8nJnmc-1">
+          <mxGeometry x="490" y="130" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="axLBgP9SELJ8qy8nJnmc-4" value="Solutions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;" vertex="1" parent="axLBgP9SELJ8qy8nJnmc-1">
+          <mxGeometry x="860" y="130" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="axLBgP9SELJ8qy8nJnmc-5" value="Use Angular&#39;s Routing feature to allow the user to navigate around and see different pages" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="axLBgP9SELJ8qy8nJnmc-1">
+          <mxGeometry x="720" y="160" width="320" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="axLBgP9SELJ8qy8nJnmc-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=26;" edge="1" parent="axLBgP9SELJ8qy8nJnmc-1" source="axLBgP9SELJ8qy8nJnmc-8" target="axLBgP9SELJ8qy8nJnmc-9">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="axLBgP9SELJ8qy8nJnmc-8" value="There are a &lt;i&gt;lot &lt;/i&gt;of different components we need to create!" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="axLBgP9SELJ8qy8nJnmc-1">
+          <mxGeometry x="350" y="220" width="320" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="axLBgP9SELJ8qy8nJnmc-9" value="Make separate &lt;i&gt;Modules&lt;/i&gt;&amp;nbsp;to group together each set of components" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="axLBgP9SELJ8qy8nJnmc-1">
+          <mxGeometry x="720" y="220" width="320" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="axLBgP9SELJ8qy8nJnmc-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=26;" edge="1" parent="axLBgP9SELJ8qy8nJnmc-1" source="axLBgP9SELJ8qy8nJnmc-11" target="axLBgP9SELJ8qy8nJnmc-12">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="axLBgP9SELJ8qy8nJnmc-11" value="We should make these components somehow reusable" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="axLBgP9SELJ8qy8nJnmc-1">
+          <mxGeometry x="350" y="280" width="320" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="axLBgP9SELJ8qy8nJnmc-12" value="Study each widget we are going to make in detail and figure out a way to pass it some config options" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="axLBgP9SELJ8qy8nJnmc-1">
+          <mxGeometry x="720" y="280" width="320" height="50" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
