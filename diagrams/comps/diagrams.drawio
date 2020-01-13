@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-01-13T18:39:03.115Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="0WObwl05S-MS88z4UF_0" version="12.5.1" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2020-01-13T18:41:09.388Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="1a6vKqnrB6GaON6nBTKW" version="12.5.1" type="github" pages="4">
   <diagram id="vAU2icVZnVVsbZ8cxz05" name="02 - sem">
-    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="657" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="ZaMI3tFs_J1XZlpAEU4s-0"/>
         <mxCell id="ZaMI3tFs_J1XZlpAEU4s-1" parent="ZaMI3tFs_J1XZlpAEU4s-0"/>
@@ -9,6 +9,29 @@
         </mxCell>
         <mxCell id="4axB9tEJAmGs_o-PMnVQ-0" value="&lt;i&gt;A CSS library&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="ZaMI3tFs_J1XZlpAEU4s-1">
           <mxGeometry x="537.5" y="310" width="155" height="20" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="gMHvzonc3eMBFMIQYa92" name="04 - semantic">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="-XBrB-katNyUkC63vr14-0"/>
+        <mxCell id="-XBrB-katNyUkC63vr14-1" parent="-XBrB-katNyUkC63vr14-0"/>
+        <mxCell id="Cq113-RAYWUyoC-S9eks-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" edge="1" parent="-XBrB-katNyUkC63vr14-1" source="Cq113-RAYWUyoC-S9eks-0" target="Cq113-RAYWUyoC-S9eks-2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="Cq113-RAYWUyoC-S9eks-0" value="Semantic CSS" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="-XBrB-katNyUkC63vr14-1">
+          <mxGeometry x="420" y="260" width="200" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="Cq113-RAYWUyoC-S9eks-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" edge="1" parent="-XBrB-katNyUkC63vr14-1" source="Cq113-RAYWUyoC-S9eks-1" target="Cq113-RAYWUyoC-S9eks-2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="Cq113-RAYWUyoC-S9eks-1" value="Semantic JS" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="-XBrB-katNyUkC63vr14-1">
+          <mxGeometry x="650" y="260" width="200" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="Cq113-RAYWUyoC-S9eks-2" value="Semantic-UI" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="-XBrB-katNyUkC63vr14-1">
+          <mxGeometry x="535" y="410" width="200" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
