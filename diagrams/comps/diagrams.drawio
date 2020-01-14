@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-14T21:06:02.607Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="_AypkZbl6MrXhez7Ia0p" version="12.5.1" type="github" pages="21">
+<mxfile host="www.draw.io" modified="2020-01-14T21:23:55.829Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="2Hfs8h_eWAtViRaF3gQO" version="12.5.1" type="github" pages="22">
   <diagram id="vAU2icVZnVVsbZ8cxz05" name="02 - sem">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -1290,13 +1290,72 @@
         <mxCell id="Ius4wINTRsb-w48AvOHI-9" value="In the AppRoutingModule, define a Route in the &#39;routes&#39; array to specify when to load up that module" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;" vertex="1" parent="Ius4wINTRsb-w48AvOHI-1">
           <mxGeometry x="420" y="273" width="540" height="49" as="geometry"/>
         </mxCell>
-        <mxCell id="Ius4wINTRsb-w48AvOHI-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;fontSize=15;" edge="1" parent="Ius4wINTRsb-w48AvOHI-1" target="Ius4wINTRsb-w48AvOHI-12">
+        <mxCell id="Ius4wINTRsb-w48AvOHI-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;fontSize=15;" edge="1" parent="Ius4wINTRsb-w48AvOHI-1" target="Ius4wINTRsb-w48AvOHI-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="690" y="290" as="sourcePoint"/>
+            <mxPoint x="690" y="320" as="sourcePoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="Ius4wINTRsb-w48AvOHI-12" value="In your lazy loaded module&#39;s Routing file, edit the &#39;path&#39; of each route to be relative to the path you specified in the &#39;AppRoutingModule&#39;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;" vertex="1" parent="Ius4wINTRsb-w48AvOHI-1">
           <mxGeometry x="420" y="340" width="540" height="49" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Rfku5liR8elsmGK7ou0T" name="22 - lazy">
+    <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="uaNvnlfiXdRXsKHZURsf-0"/>
+        <mxCell id="uaNvnlfiXdRXsKHZURsf-1" parent="uaNvnlfiXdRXsKHZURsf-0"/>
+        <mxCell id="-q-9MoIsjhNhBEjSoewp-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="uaNvnlfiXdRXsKHZURsf-1">
+          <mxGeometry x="350" y="210" width="340" height="220" as="geometry"/>
+        </mxCell>
+        <mxCell id="-q-9MoIsjhNhBEjSoewp-1" value="App Routing Module" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=1" vertex="1" parent="uaNvnlfiXdRXsKHZURsf-1">
+          <mxGeometry x="357.18000000000006" y="400" width="325.63" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="-q-9MoIsjhNhBEjSoewp-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=21;" edge="1" parent="uaNvnlfiXdRXsKHZURsf-1" source="-q-9MoIsjhNhBEjSoewp-3" target="-q-9MoIsjhNhBEjSoewp-4">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="-q-9MoIsjhNhBEjSoewp-3" value="&#39;&#39;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;align=center;" vertex="1" parent="uaNvnlfiXdRXsKHZURsf-1">
+          <mxGeometry x="364.3699999999999" y="280" width="132.51" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="-q-9MoIsjhNhBEjSoewp-4" value="HomeComponent" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="uaNvnlfiXdRXsKHZURsf-1">
+          <mxGeometry x="520" y="280" width="160" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="-q-9MoIsjhNhBEjSoewp-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=21;" edge="1" parent="uaNvnlfiXdRXsKHZURsf-1" source="-q-9MoIsjhNhBEjSoewp-6" target="-q-9MoIsjhNhBEjSoewp-7">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="-q-9MoIsjhNhBEjSoewp-6" value="**" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;align=center;" vertex="1" parent="uaNvnlfiXdRXsKHZURsf-1">
+          <mxGeometry x="364.3699999999999" y="330" width="132.51" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="-q-9MoIsjhNhBEjSoewp-7" value="NotFoundComponent" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="uaNvnlfiXdRXsKHZURsf-1">
+          <mxGeometry x="520" y="330" width="160" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="c1s8fSKOJYiKFgkvPhq4-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="uaNvnlfiXdRXsKHZURsf-1">
+          <mxGeometry x="790" y="210" width="340" height="99" as="geometry"/>
+        </mxCell>
+        <mxCell id="c1s8fSKOJYiKFgkvPhq4-1" value="Elements Routing Module" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=1" vertex="1" parent="uaNvnlfiXdRXsKHZURsf-1">
+          <mxGeometry x="804.3699999999999" y="280" width="311.25" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="c1s8fSKOJYiKFgkvPhq4-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=21;" edge="1" parent="uaNvnlfiXdRXsKHZURsf-1" source="c1s8fSKOJYiKFgkvPhq4-3" target="c1s8fSKOJYiKFgkvPhq4-4">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="c1s8fSKOJYiKFgkvPhq4-3" value="&#39;&#39;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;align=center;" vertex="1" parent="uaNvnlfiXdRXsKHZURsf-1">
+          <mxGeometry x="804.3699999999999" y="220" width="132.51" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="c1s8fSKOJYiKFgkvPhq4-4" value="ElementsHome Component" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="uaNvnlfiXdRXsKHZURsf-1">
+          <mxGeometry x="960" y="220" width="160" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="c1s8fSKOJYiKFgkvPhq4-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=21;" edge="1" parent="uaNvnlfiXdRXsKHZURsf-1" source="c1s8fSKOJYiKFgkvPhq4-6" target="c1s8fSKOJYiKFgkvPhq4-7">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="c1s8fSKOJYiKFgkvPhq4-6" value="elements" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;align=center;" vertex="1" parent="uaNvnlfiXdRXsKHZURsf-1">
+          <mxGeometry x="364.3699999999999" y="230" width="132.51" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="c1s8fSKOJYiKFgkvPhq4-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;fontSize=15;" edge="1" parent="uaNvnlfiXdRXsKHZURsf-1" source="c1s8fSKOJYiKFgkvPhq4-7" target="c1s8fSKOJYiKFgkvPhq4-0">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="c1s8fSKOJYiKFgkvPhq4-7" value="Load ElementsModule" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="uaNvnlfiXdRXsKHZURsf-1">
+          <mxGeometry x="520" y="230" width="160" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
