@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-14T20:57:29.208Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="UGllqYqp-_NhgImCjw_D" version="12.5.1" type="github" pages="20">
+<mxfile host="www.draw.io" modified="2020-01-14T21:06:02.607Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="_AypkZbl6MrXhez7Ia0p" version="12.5.1" type="github" pages="21">
   <diagram id="vAU2icVZnVVsbZ8cxz05" name="02 - sem">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -1077,7 +1077,7 @@
             <mxPoint x="1010" y="290" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8okYEIt6ehJSvKlGJLzY-7" value="I&#39;d like to visit localhost:4200" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="VfobAFfWGD_VirlJi9SJ-1">
+        <mxCell id="8okYEIt6ehJSvKlGJLzY-7" value="I&#39;d like to visit localhost:4200/" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="VfobAFfWGD_VirlJi9SJ-1">
           <mxGeometry x="775" y="250" width="150" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="8okYEIt6ehJSvKlGJLzY-8" value="" style="endArrow=classic;html=1;fontSize=26;" edge="1" parent="VfobAFfWGD_VirlJi9SJ-1">
@@ -1263,6 +1263,40 @@
         </mxCell>
         <mxCell id="u5ZOBTY1eKuro2egifDP-20" value="By the way, can I have the Elements Module?" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="u5ZOBTY1eKuro2egifDP-1">
           <mxGeometry x="775" y="579.3299999999999" width="150" height="40" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="LB03aweKzcRnW0q1u71a" name="21 - lazy">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="Ius4wINTRsb-w48AvOHI-0"/>
+        <mxCell id="Ius4wINTRsb-w48AvOHI-1" parent="Ius4wINTRsb-w48AvOHI-0"/>
+        <mxCell id="Ius4wINTRsb-w48AvOHI-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;fontSize=15;" edge="1" parent="Ius4wINTRsb-w48AvOHI-1" source="Ius4wINTRsb-w48AvOHI-2" target="Ius4wINTRsb-w48AvOHI-7">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ius4wINTRsb-w48AvOHI-2" value="Choose which modules should be lazy loaded" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;" vertex="1" parent="Ius4wINTRsb-w48AvOHI-1">
+          <mxGeometry x="420" y="140" width="540" height="49" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ius4wINTRsb-w48AvOHI-6" value="Implementing Lazy Loading" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="Ius4wINTRsb-w48AvOHI-1">
+          <mxGeometry x="525" y="110" width="330" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ius4wINTRsb-w48AvOHI-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;fontSize=15;" edge="1" parent="Ius4wINTRsb-w48AvOHI-1" source="Ius4wINTRsb-w48AvOHI-7" target="Ius4wINTRsb-w48AvOHI-9">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ius4wINTRsb-w48AvOHI-7" value="For each of those modules, &lt;i&gt;remove&lt;/i&gt;&amp;nbsp;any import statements for those modules from anywhere else in your project" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;" vertex="1" parent="Ius4wINTRsb-w48AvOHI-1">
+          <mxGeometry x="420" y="207" width="540" height="49" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ius4wINTRsb-w48AvOHI-9" value="In the AppRoutingModule, define a Route in the &#39;routes&#39; array to specify when to load up that module" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;" vertex="1" parent="Ius4wINTRsb-w48AvOHI-1">
+          <mxGeometry x="420" y="273" width="540" height="49" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ius4wINTRsb-w48AvOHI-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;fontSize=15;" edge="1" parent="Ius4wINTRsb-w48AvOHI-1" target="Ius4wINTRsb-w48AvOHI-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="290" as="sourcePoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ius4wINTRsb-w48AvOHI-12" value="In your lazy loaded module&#39;s Routing file, edit the &#39;path&#39; of each route to be relative to the path you specified in the &#39;AppRoutingModule&#39;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;" vertex="1" parent="Ius4wINTRsb-w48AvOHI-1">
+          <mxGeometry x="420" y="340" width="540" height="49" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
