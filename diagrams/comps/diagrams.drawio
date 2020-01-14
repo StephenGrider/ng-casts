@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-14T20:55:48.717Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="1dYd0EY3TAlmwUyvOUe-" version="12.5.1" type="github" pages="19">
+<mxfile host="www.draw.io" modified="2020-01-14T20:57:29.208Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="UGllqYqp-_NhgImCjw_D" version="12.5.1" type="github" pages="20">
   <diagram id="vAU2icVZnVVsbZ8cxz05" name="02 - sem">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -1189,6 +1189,80 @@
         </mxCell>
         <mxCell id="-PP6Y0sxLJadprBJTfp6-0" value="Not necessary to show localhost:4200!" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;align=center;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" vertex="1" parent="QbcqoYpDhtzj9NJCFHyW-1">
           <mxGeometry x="925" y="580" width="230" height="70" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="20 - lazy" id="fh82XDeYzeOBUH5pDOVW">
+    <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="u5ZOBTY1eKuro2egifDP-0"/>
+        <mxCell id="u5ZOBTY1eKuro2egifDP-1" parent="u5ZOBTY1eKuro2egifDP-0"/>
+        <mxCell id="u5ZOBTY1eKuro2egifDP-2" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;fontSize=14;" vertex="1" parent="u5ZOBTY1eKuro2egifDP-1">
+          <mxGeometry x="360" y="260" width="340" height="450" as="geometry"/>
+        </mxCell>
+        <mxCell id="u5ZOBTY1eKuro2egifDP-3" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="u5ZOBTY1eKuro2egifDP-2">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="u5ZOBTY1eKuro2egifDP-4" value="localhost:4200" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="u5ZOBTY1eKuro2egifDP-2">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="u5ZOBTY1eKuro2egifDP-5" value="Angular Development Server" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="u5ZOBTY1eKuro2egifDP-1">
+          <mxGeometry x="1010" y="260" width="180" height="450" as="geometry"/>
+        </mxCell>
+        <mxCell id="u5ZOBTY1eKuro2egifDP-6" value="" style="endArrow=classic;html=1;fontSize=26;" edge="1" parent="u5ZOBTY1eKuro2egifDP-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="290" as="sourcePoint"/>
+            <mxPoint x="1010" y="290" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u5ZOBTY1eKuro2egifDP-7" value="I&#39;d like to visit localhost:4200" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="u5ZOBTY1eKuro2egifDP-1">
+          <mxGeometry x="775" y="250" width="150" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="u5ZOBTY1eKuro2egifDP-8" value="" style="endArrow=classic;html=1;fontSize=26;" edge="1" parent="u5ZOBTY1eKuro2egifDP-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1010" y="310" as="sourcePoint"/>
+            <mxPoint x="700" y="310" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u5ZOBTY1eKuro2egifDP-9" value="Sounds great! Here you go!" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="u5ZOBTY1eKuro2egifDP-1">
+          <mxGeometry x="750" y="310" width="200" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="u5ZOBTY1eKuro2egifDP-10" value="" style="endArrow=classic;html=1;fontSize=26;" edge="1" parent="u5ZOBTY1eKuro2egifDP-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1010" y="360" as="sourcePoint"/>
+            <mxPoint x="700" y="360" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u5ZOBTY1eKuro2egifDP-11" value="App Module" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="u5ZOBTY1eKuro2egifDP-1">
+          <mxGeometry x="750" y="360" width="200" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="u5ZOBTY1eKuro2egifDP-14" value="" style="endArrow=classic;html=1;fontSize=26;" edge="1" parent="u5ZOBTY1eKuro2egifDP-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1010" y="650" as="sourcePoint"/>
+            <mxPoint x="700" y="650" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u5ZOBTY1eKuro2egifDP-15" value="Elements Module" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="u5ZOBTY1eKuro2egifDP-1">
+          <mxGeometry x="750" y="650" width="200" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="u5ZOBTY1eKuro2egifDP-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;fontSize=17;" edge="1" parent="u5ZOBTY1eKuro2egifDP-1" source="u5ZOBTY1eKuro2egifDP-16" target="u5ZOBTY1eKuro2egifDP-17">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="u5ZOBTY1eKuro2egifDP-16" value="&lt;i&gt;User clicks a link to navigate to localhost:4200/elements&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="u5ZOBTY1eKuro2egifDP-1">
+          <mxGeometry x="750" y="435" width="200" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="u5ZOBTY1eKuro2egifDP-17" value="&lt;i&gt;Angular realizes it needs to load another module!&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="u5ZOBTY1eKuro2egifDP-1">
+          <mxGeometry x="750" y="495" width="200" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="u5ZOBTY1eKuro2egifDP-19" value="" style="endArrow=classic;html=1;fontSize=26;" edge="1" parent="u5ZOBTY1eKuro2egifDP-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="619.3299999999999" as="sourcePoint"/>
+            <mxPoint x="1010" y="619.3299999999999" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u5ZOBTY1eKuro2egifDP-20" value="By the way, can I have the Elements Module?" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="u5ZOBTY1eKuro2egifDP-1">
+          <mxGeometry x="775" y="579.3299999999999" width="150" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
