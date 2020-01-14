@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-13T22:05:23.313Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="FffUI65rVuKedB5IXfQ5" version="12.5.1" type="github" pages="7">
+<mxfile host="www.draw.io" modified="2020-01-14T16:21:07.943Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="JoWmmDKfgHOhag2Z8rHM" version="12.5.1" type="github" pages="8">
   <diagram id="vAU2icVZnVVsbZ8cxz05" name="02 - sem">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -393,35 +393,6 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="Npu1qR_YhrC0C2_xR1n5" name="05 - mods">
-    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
-      <root>
-        <mxCell id="BP-Ar0N7XWCt9b9Qs0d4-0"/>
-        <mxCell id="BP-Ar0N7XWCt9b9Qs0d4-1" parent="BP-Ar0N7XWCt9b9Qs0d4-0"/>
-        <mxCell id="BP-Ar0N7XWCt9b9Qs0d4-2" value="Used to group together similar components, directives, and pipes in Angular" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="BP-Ar0N7XWCt9b9Qs0d4-1">
-          <mxGeometry x="380" y="230" width="530" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="BP-Ar0N7XWCt9b9Qs0d4-3" value="Few Notes on Modules" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;fontStyle=1" vertex="1" parent="BP-Ar0N7XWCt9b9Qs0d4-1">
-          <mxGeometry x="473.75" y="200" width="342.5" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="BP-Ar0N7XWCt9b9Qs0d4-4" value="All Angular apps have at least one module - the App Module" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="BP-Ar0N7XWCt9b9Qs0d4-1">
-          <mxGeometry x="380" y="330" width="530" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="BP-Ar0N7XWCt9b9Qs0d4-5" value="Angular provides us some default modules (http, form handling)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="BP-Ar0N7XWCt9b9Qs0d4-1">
-          <mxGeometry x="380" y="380" width="530" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="BP-Ar0N7XWCt9b9Qs0d4-6" value="Super flexible!" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="BP-Ar0N7XWCt9b9Qs0d4-1">
-          <mxGeometry x="380" y="480" width="530" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="g6KQdkyNivnFSWh-KEVL-0" value="Closely related to handling navigation - you &lt;i&gt;probably&lt;/i&gt;&amp;nbsp;don&#39;t need to use modules if you aren&#39;t using routing" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="BP-Ar0N7XWCt9b9Qs0d4-1">
-          <mxGeometry x="380" y="430" width="530" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="g6KQdkyNivnFSWh-KEVL-1" value="Similar in nature to a single Typescript file (but modules wrap up several different files)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="BP-Ar0N7XWCt9b9Qs0d4-1">
-          <mxGeometry x="380" y="280" width="530" height="40" as="geometry"/>
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
   <diagram id="64xkM0JHexJ4pCe9HtrU" name="06 - mods">
     <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -471,6 +442,58 @@
         </mxCell>
         <mxCell id="ooxt3QWjdJT_kDKtHrbO-6" value="30° C" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontStyle=1" vertex="1" parent="P4Qy8tzUSmbYszCjQw8e-0">
           <mxGeometry x="345" y="190" width="130" height="20" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Npu1qR_YhrC0C2_xR1n5" name="05 - mods">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="BP-Ar0N7XWCt9b9Qs0d4-0"/>
+        <mxCell id="BP-Ar0N7XWCt9b9Qs0d4-1" parent="BP-Ar0N7XWCt9b9Qs0d4-0"/>
+        <mxCell id="BP-Ar0N7XWCt9b9Qs0d4-2" value="Used to group together similar components, directives, and pipes in Angular" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="BP-Ar0N7XWCt9b9Qs0d4-1">
+          <mxGeometry x="380" y="230" width="530" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="BP-Ar0N7XWCt9b9Qs0d4-3" value="Few Notes on Modules" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;fontStyle=1" vertex="1" parent="BP-Ar0N7XWCt9b9Qs0d4-1">
+          <mxGeometry x="473.75" y="200" width="342.5" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="BP-Ar0N7XWCt9b9Qs0d4-4" value="All Angular apps have at least one module - the App Module" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="BP-Ar0N7XWCt9b9Qs0d4-1">
+          <mxGeometry x="380" y="330" width="530" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="BP-Ar0N7XWCt9b9Qs0d4-5" value="Angular provides us some default modules (http, form handling)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="BP-Ar0N7XWCt9b9Qs0d4-1">
+          <mxGeometry x="380" y="380" width="530" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="BP-Ar0N7XWCt9b9Qs0d4-6" value="Super flexible!" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="BP-Ar0N7XWCt9b9Qs0d4-1">
+          <mxGeometry x="380" y="480" width="530" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="g6KQdkyNivnFSWh-KEVL-0" value="Closely related to handling navigation - you &lt;i&gt;probably&lt;/i&gt;&amp;nbsp;don&#39;t need to use modules if you aren&#39;t using routing" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="BP-Ar0N7XWCt9b9Qs0d4-1">
+          <mxGeometry x="380" y="430" width="530" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="g6KQdkyNivnFSWh-KEVL-1" value="Similar in nature to a single Typescript file (but modules wrap up several different files)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="BP-Ar0N7XWCt9b9Qs0d4-1">
+          <mxGeometry x="380" y="280" width="530" height="40" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="yALzv1-gorw0JZNVSai2" name="08 - module">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="I3aqE394DmrMTAWq8RPb-0"/>
+        <mxCell id="I3aqE394DmrMTAWq8RPb-1" parent="I3aqE394DmrMTAWq8RPb-0"/>
+        <mxCell id="I3aqE394DmrMTAWq8RPb-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=24;" edge="1" parent="I3aqE394DmrMTAWq8RPb-1" source="I3aqE394DmrMTAWq8RPb-2" target="I3aqE394DmrMTAWq8RPb-3">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="I3aqE394DmrMTAWq8RPb-2" value="ng generate module MODULE_NAME --routing" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="I3aqE394DmrMTAWq8RPb-1">
+          <mxGeometry x="450" y="260" width="560" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="I3aqE394DmrMTAWq8RPb-3" value="ng g m MODULE_NAME --routing" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="I3aqE394DmrMTAWq8RPb-1">
+          <mxGeometry x="450" y="380" width="560" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="I3aqE394DmrMTAWq8RPb-5" value="Creating a Module" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=1" vertex="1" parent="I3aqE394DmrMTAWq8RPb-1">
+          <mxGeometry x="595" y="230" width="270" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="I3aqE394DmrMTAWq8RPb-6" value="&#39;Routing&#39; flag tells Angular to make this module ready for navigation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=2" vertex="1" parent="I3aqE394DmrMTAWq8RPb-1">
+          <mxGeometry x="580" y="490" width="300" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
