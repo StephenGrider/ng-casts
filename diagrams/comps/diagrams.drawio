@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-14T17:36:02.602Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="2IkGM-9M4JAM85J7pybl" version="12.5.1" type="github" pages="15">
+<mxfile host="www.draw.io" modified="2020-01-14T18:36:34.984Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="9pL5mY95YjtWmigwuMku" version="12.5.1" type="github" pages="16">
   <diagram id="vAU2icVZnVVsbZ8cxz05" name="02 - sem">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -687,83 +687,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="zG-j414GMoLWT2_8lpBI" name="07 - types">
-    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
-      <root>
-        <mxCell id="ZlSIsIOTVLtSGGjzhfMN-0"/>
-        <mxCell id="ZlSIsIOTVLtSGGjzhfMN-1" parent="ZlSIsIOTVLtSGGjzhfMN-0"/>
-        <mxCell id="ZlSIsIOTVLtSGGjzhfMN-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=25;" edge="1" parent="ZlSIsIOTVLtSGGjzhfMN-1" source="ZlSIsIOTVLtSGGjzhfMN-2" target="ZlSIsIOTVLtSGGjzhfMN-8">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="fkoSG8-9BLqw-w_f4H1L-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.004;entryY=0.327;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;" edge="1" parent="ZlSIsIOTVLtSGGjzhfMN-1" source="ZlSIsIOTVLtSGGjzhfMN-2" target="ZlSIsIOTVLtSGGjzhfMN-4">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="ZlSIsIOTVLtSGGjzhfMN-2" value="Domain" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ZlSIsIOTVLtSGGjzhfMN-1">
-          <mxGeometry x="410" y="260" width="120" height="49" as="geometry"/>
-        </mxCell>
-        <mxCell id="ZlSIsIOTVLtSGGjzhfMN-3" value="Module Types" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontStyle=1" vertex="1" parent="ZlSIsIOTVLtSGGjzhfMN-1">
-          <mxGeometry x="590" y="230" width="190" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="fkoSG8-9BLqw-w_f4H1L-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="ZlSIsIOTVLtSGGjzhfMN-1" source="ZlSIsIOTVLtSGGjzhfMN-4" target="ZlSIsIOTVLtSGGjzhfMN-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="360" y="357"/>
-              <mxPoint x="360" y="273"/>
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZlSIsIOTVLtSGGjzhfMN-4" value="Rout&lt;b&gt;ed&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ZlSIsIOTVLtSGGjzhfMN-1">
-          <mxGeometry x="410" y="320" width="120" height="49" as="geometry"/>
-        </mxCell>
-        <mxCell id="ZlSIsIOTVLtSGGjzhfMN-5" value="Rout&lt;b&gt;ing&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ZlSIsIOTVLtSGGjzhfMN-1">
-          <mxGeometry x="410" y="380" width="120" height="49" as="geometry"/>
-        </mxCell>
-        <mxCell id="ZlSIsIOTVLtSGGjzhfMN-6" value="Service" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ZlSIsIOTVLtSGGjzhfMN-1">
-          <mxGeometry x="410" y="440" width="120" height="49" as="geometry"/>
-        </mxCell>
-        <mxCell id="ZlSIsIOTVLtSGGjzhfMN-7" value="Widget" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ZlSIsIOTVLtSGGjzhfMN-1">
-          <mxGeometry x="410" y="500" width="120" height="49" as="geometry"/>
-        </mxCell>
-        <mxCell id="ZlSIsIOTVLtSGGjzhfMN-8" value="Wraps up all the components needed to implement one single feature" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="ZlSIsIOTVLtSGGjzhfMN-1">
-          <mxGeometry x="560" y="260" width="400" height="49" as="geometry"/>
-        </mxCell>
-        <mxCell id="ZlSIsIOTVLtSGGjzhfMN-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=25;" edge="1" parent="ZlSIsIOTVLtSGGjzhfMN-1" target="ZlSIsIOTVLtSGGjzhfMN-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="530" y="344.5" as="sourcePoint"/>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZlSIsIOTVLtSGGjzhfMN-11" value="Same as a &#39;Domain&#39; module, but these components are tied to routes (only displayed when the user is at some particular address)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="ZlSIsIOTVLtSGGjzhfMN-1">
-          <mxGeometry x="560" y="320" width="400" height="49" as="geometry"/>
-        </mxCell>
-        <mxCell id="ZlSIsIOTVLtSGGjzhfMN-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=25;" edge="1" parent="ZlSIsIOTVLtSGGjzhfMN-1" target="ZlSIsIOTVLtSGGjzhfMN-13">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="530" y="404.5" as="sourcePoint"/>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZlSIsIOTVLtSGGjzhfMN-13" value="Defines routing rules (show TodoList component when a user is at a route of &#39;/todos&#39;)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="ZlSIsIOTVLtSGGjzhfMN-1">
-          <mxGeometry x="560" y="380" width="400" height="49" as="geometry"/>
-        </mxCell>
-        <mxCell id="ZlSIsIOTVLtSGGjzhfMN-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=25;" edge="1" parent="ZlSIsIOTVLtSGGjzhfMN-1" target="ZlSIsIOTVLtSGGjzhfMN-15">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="530" y="464.5" as="sourcePoint"/>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZlSIsIOTVLtSGGjzhfMN-15" value="Defines services that will be used in multiple parts of the app" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="ZlSIsIOTVLtSGGjzhfMN-1">
-          <mxGeometry x="560" y="440" width="400" height="49" as="geometry"/>
-        </mxCell>
-        <mxCell id="ZlSIsIOTVLtSGGjzhfMN-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=25;" edge="1" parent="ZlSIsIOTVLtSGGjzhfMN-1" target="ZlSIsIOTVLtSGGjzhfMN-17">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="530" y="524.5" as="sourcePoint"/>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZlSIsIOTVLtSGGjzhfMN-17" value="Defines some reusable components that will be used in multiple other modules" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="ZlSIsIOTVLtSGGjzhfMN-1">
-          <mxGeometry x="560" y="500" width="400" height="49" as="geometry"/>
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
   <diagram name="12 - rules" id="opdmEBklAZKh20xYtfLz">
-    <mxGraphModel dx="877" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="y5xV9-974WiU-HbdDgJG-0"/>
         <mxCell id="y5xV9-974WiU-HbdDgJG-1" parent="y5xV9-974WiU-HbdDgJG-0"/>
@@ -905,6 +830,122 @@
         </mxCell>
         <mxCell id="qTbC3lA5x6GRIaOyJg4C-19" value="CollectionsHome Component" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="Uz_y9p4m9XV28pfKaIS7-1">
           <mxGeometry x="820" y="380" width="160" height="40" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="zG-j414GMoLWT2_8lpBI" name="07 - types">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="ZlSIsIOTVLtSGGjzhfMN-0"/>
+        <mxCell id="ZlSIsIOTVLtSGGjzhfMN-1" parent="ZlSIsIOTVLtSGGjzhfMN-0"/>
+        <mxCell id="ZlSIsIOTVLtSGGjzhfMN-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=25;" edge="1" parent="ZlSIsIOTVLtSGGjzhfMN-1" source="ZlSIsIOTVLtSGGjzhfMN-2" target="ZlSIsIOTVLtSGGjzhfMN-8">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZlSIsIOTVLtSGGjzhfMN-2" value="Domain" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ZlSIsIOTVLtSGGjzhfMN-1">
+          <mxGeometry x="410" y="260" width="120" height="49" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZlSIsIOTVLtSGGjzhfMN-3" value="Module Types" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontStyle=1" vertex="1" parent="ZlSIsIOTVLtSGGjzhfMN-1">
+          <mxGeometry x="590" y="230" width="190" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZlSIsIOTVLtSGGjzhfMN-4" value="Rout&lt;b&gt;ed&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ZlSIsIOTVLtSGGjzhfMN-1">
+          <mxGeometry x="410" y="320" width="120" height="49" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZlSIsIOTVLtSGGjzhfMN-5" value="Rout&lt;b&gt;ing&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ZlSIsIOTVLtSGGjzhfMN-1">
+          <mxGeometry x="410" y="380" width="120" height="49" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZlSIsIOTVLtSGGjzhfMN-6" value="Service" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ZlSIsIOTVLtSGGjzhfMN-1">
+          <mxGeometry x="410" y="440" width="120" height="49" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZlSIsIOTVLtSGGjzhfMN-7" value="Widget" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ZlSIsIOTVLtSGGjzhfMN-1">
+          <mxGeometry x="410" y="500" width="120" height="49" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZlSIsIOTVLtSGGjzhfMN-8" value="Wraps up all the components needed to implement one single feature" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="ZlSIsIOTVLtSGGjzhfMN-1">
+          <mxGeometry x="560" y="260" width="400" height="49" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZlSIsIOTVLtSGGjzhfMN-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=25;" edge="1" parent="ZlSIsIOTVLtSGGjzhfMN-1" target="ZlSIsIOTVLtSGGjzhfMN-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="344.5" as="sourcePoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZlSIsIOTVLtSGGjzhfMN-11" value="Same as a &#39;Domain&#39; module, but these components are tied to routes (only displayed when the user is at some particular address)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="ZlSIsIOTVLtSGGjzhfMN-1">
+          <mxGeometry x="560" y="320" width="400" height="49" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZlSIsIOTVLtSGGjzhfMN-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=25;" edge="1" parent="ZlSIsIOTVLtSGGjzhfMN-1" target="ZlSIsIOTVLtSGGjzhfMN-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="404.5" as="sourcePoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZlSIsIOTVLtSGGjzhfMN-13" value="Defines routing rules (show TodoList component when a user is at a route of &#39;/todos&#39;)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="ZlSIsIOTVLtSGGjzhfMN-1">
+          <mxGeometry x="560" y="380" width="400" height="49" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZlSIsIOTVLtSGGjzhfMN-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=25;" edge="1" parent="ZlSIsIOTVLtSGGjzhfMN-1" target="ZlSIsIOTVLtSGGjzhfMN-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="464.5" as="sourcePoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZlSIsIOTVLtSGGjzhfMN-15" value="Defines services that will be used in multiple parts of the app" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="ZlSIsIOTVLtSGGjzhfMN-1">
+          <mxGeometry x="560" y="440" width="400" height="49" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZlSIsIOTVLtSGGjzhfMN-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=25;" edge="1" parent="ZlSIsIOTVLtSGGjzhfMN-1" target="ZlSIsIOTVLtSGGjzhfMN-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="524.5" as="sourcePoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZlSIsIOTVLtSGGjzhfMN-17" value="Defines some reusable components that will be used in multiple other modules" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="ZlSIsIOTVLtSGGjzhfMN-1">
+          <mxGeometry x="560" y="500" width="400" height="49" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ZLcK06oxI7Uyc0J0RoPa" name="16 - routing">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="q7JCmsHbsZQb0VoHFzbf-0"/>
+        <mxCell id="q7JCmsHbsZQb0VoHFzbf-1" parent="q7JCmsHbsZQb0VoHFzbf-0"/>
+        <mxCell id="q7JCmsHbsZQb0VoHFzbf-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=24;" edge="1" parent="q7JCmsHbsZQb0VoHFzbf-1" source="q7JCmsHbsZQb0VoHFzbf-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="230" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q7JCmsHbsZQb0VoHFzbf-2" value="collections" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="q7JCmsHbsZQb0VoHFzbf-1">
+          <mxGeometry x="460" y="200" width="130" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="q7JCmsHbsZQb0VoHFzbf-3" value="CollectionsHomeComponent" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;align=center;" vertex="1" parent="q7JCmsHbsZQb0VoHFzbf-1">
+          <mxGeometry x="680" y="200" width="330" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="q7JCmsHbsZQb0VoHFzbf-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=24;" edge="1" parent="q7JCmsHbsZQb0VoHFzbf-1" source="q7JCmsHbsZQb0VoHFzbf-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="300" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q7JCmsHbsZQb0VoHFzbf-6" value="elements" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="q7JCmsHbsZQb0VoHFzbf-1">
+          <mxGeometry x="460" y="270" width="130" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="q7JCmsHbsZQb0VoHFzbf-7" value="ElementsHomeComponent" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;align=center;" vertex="1" parent="q7JCmsHbsZQb0VoHFzbf-1">
+          <mxGeometry x="680" y="270" width="330" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="q7JCmsHbsZQb0VoHFzbf-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=24;" edge="1" parent="q7JCmsHbsZQb0VoHFzbf-1" source="q7JCmsHbsZQb0VoHFzbf-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="370" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q7JCmsHbsZQb0VoHFzbf-15" value="&#39;&#39;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="q7JCmsHbsZQb0VoHFzbf-1">
+          <mxGeometry x="460" y="340" width="130" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="q7JCmsHbsZQb0VoHFzbf-16" value="HomeComponent" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;align=center;" vertex="1" parent="q7JCmsHbsZQb0VoHFzbf-1">
+          <mxGeometry x="680" y="340" width="330" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="q7JCmsHbsZQb0VoHFzbf-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=24;" edge="1" parent="q7JCmsHbsZQb0VoHFzbf-1" source="q7JCmsHbsZQb0VoHFzbf-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="440" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q7JCmsHbsZQb0VoHFzbf-18" value="**" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="q7JCmsHbsZQb0VoHFzbf-1">
+          <mxGeometry x="460" y="410" width="130" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="q7JCmsHbsZQb0VoHFzbf-19" value="NotFoundComponent" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;align=center;" vertex="1" parent="q7JCmsHbsZQb0VoHFzbf-1">
+          <mxGeometry x="680" y="410" width="330" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
