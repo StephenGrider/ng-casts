@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-15T16:11:42.610Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="VYq-IN6ouQyXeewGVKmq" version="12.5.1" type="github" pages="29">
+<mxfile host="www.draw.io" modified="2020-01-15T18:06:12.544Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="mqkHZrmcpgyJfDuh1LW9" version="12.5.1" type="github" pages="28">
   <diagram id="vAU2icVZnVVsbZ8cxz05" name="02 - sem">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -1733,7 +1733,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Copy of 27 - segment" id="i788eP6IgP0onvFBlxd0">
+  <diagram name="28 - select" id="i788eP6IgP0onvFBlxd0">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="9XGcLa4_UvRTL7lDiK8y-0"/>
@@ -1773,29 +1773,6 @@
         </mxCell>
         <mxCell id="C-BuE5DcVBlE-mps13SC-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;align=left;fillColor=none;strokeColor=#FF0000;strokeWidth=6;" vertex="1" parent="9XGcLa4_UvRTL7lDiK8y-1">
           <mxGeometry x="690" y="415" width="170" height="35" as="geometry"/>
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="GVf0K58SfV4d8g4ObqU7" name="01 - help">
-    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
-      <root>
-        <mxCell id="R1n1UHQ6YWdq8-9qkVBG-0"/>
-        <mxCell id="R1n1UHQ6YWdq8-9qkVBG-1" parent="R1n1UHQ6YWdq8-9qkVBG-0"/>
-        <mxCell id="R1n1UHQ6YWdq8-9qkVBG-2" value="How to Get Help" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=1" vertex="1" parent="R1n1UHQ6YWdq8-9qkVBG-1">
-          <mxGeometry x="640" y="110" width="220" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="R1n1UHQ6YWdq8-9qkVBG-3" value="Check the Udemy Q/A discussion" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontSize=24;align=center;shadow=1;" vertex="1" parent="R1n1UHQ6YWdq8-9qkVBG-1">
-          <mxGeometry x="485" y="150" width="530" height="70" as="geometry"/>
-        </mxCell>
-        <mxCell id="R1n1UHQ6YWdq8-9qkVBG-4" value="Take a look at the zip file attached to the lecture" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontSize=24;align=center;shadow=1;" vertex="1" parent="R1n1UHQ6YWdq8-9qkVBG-1">
-          <mxGeometry x="485" y="230" width="530" height="70" as="geometry"/>
-        </mxCell>
-        <mxCell id="R1n1UHQ6YWdq8-9qkVBG-5" value="Message me directly on Udemy" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontSize=24;align=center;shadow=1;" vertex="1" parent="R1n1UHQ6YWdq8-9qkVBG-1">
-          <mxGeometry x="485" y="310" width="530" height="70" as="geometry"/>
-        </mxCell>
-        <mxCell id="R1n1UHQ6YWdq8-9qkVBG-6" value="Tweet at me - @ste_grider" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontSize=24;align=center;shadow=1;" vertex="1" parent="R1n1UHQ6YWdq8-9qkVBG-1">
-          <mxGeometry x="485" y="390" width="530" height="70" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
