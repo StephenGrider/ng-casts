@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-15T18:26:44.131Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="FY86cCHte8_XlG0GQGYG" version="12.5.4" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2020-01-15T18:31:20.391Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="k64oLfmfYFN-tzg6w-2n" version="12.5.4" type="github" pages="3">
   <diagram id="SXIOeuUj-WeNT6pQmgWG" name="01 - mockup">
     <mxGraphModel dx="1195" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -357,7 +357,7 @@
         <mxCell id="yBghl7YIIfd8AOz_1Pp6-11" value="Engineer" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="6Bck2ubDyb045L7wMyk4-1">
           <mxGeometry x="760" y="375" width="180" height="25" as="geometry"/>
         </mxCell>
-        <mxCell id="JPBFnez0-I1wOjssYMCB-0" value="{ name: &#39;James&#39;, age: 30, job: &#39;Designer&#39; }" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="6Bck2ubDyb045L7wMyk4-1">
+        <mxCell id="JPBFnez0-I1wOjssYMCB-0" value="{ job: &#39;Designer&#39;, age: 30,&lt;br&gt;name: &#39;James&#39;, ,&amp;nbsp; }" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="6Bck2ubDyb045L7wMyk4-1">
           <mxGeometry x="565" y="120" width="210" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="JPBFnez0-I1wOjssYMCB-1" value="{ name: &#39;Jill&#39;, age: 28, job: &#39;Engineer&#39; }" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="6Bck2ubDyb045L7wMyk4-1">
