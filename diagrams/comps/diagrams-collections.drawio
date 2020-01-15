@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-15T18:07:16.022Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="m5dZrhlk_YQxgfnYNOnK" version="12.5.4" type="github">
+<mxfile host="www.draw.io" modified="2020-01-15T18:22:55.959Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="GSi8E-yYsmz9MWBw8YDY" version="12.5.4" type="github" pages="2">
   <diagram id="SXIOeuUj-WeNT6pQmgWG" name="01 - mockup">
     <mxGraphModel dx="1195" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -312,6 +312,47 @@
         </mxCell>
         <mxCell id="3RapWTTPyt1SbRt5Weay-91" value="&amp;gt; What should I have for dinner?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="3RapWTTPyt1SbRt5Weay-76">
           <mxGeometry x="40" y="380" width="260" height="20" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="YoApQmddCFajXHLrZDGN" name="02 - collections">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="MsUH2t43NOqwI96yDXyi-0"/>
+        <mxCell id="MsUH2t43NOqwI96yDXyi-1" parent="MsUH2t43NOqwI96yDXyi-0"/>
+        <mxCell id="MsUH2t43NOqwI96yDXyi-2" value="Table Component" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=21;fontStyle=1" vertex="1" parent="MsUH2t43NOqwI96yDXyi-1">
+          <mxGeometry x="590" y="400" width="210" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="MsUH2t43NOqwI96yDXyi-3" value="data" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="MsUH2t43NOqwI96yDXyi-1">
+          <mxGeometry x="470" y="180" width="210" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="MsUH2t43NOqwI96yDXyi-4" value="headers" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="MsUH2t43NOqwI96yDXyi-1">
+          <mxGeometry x="720" y="180" width="210" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="MsUH2t43NOqwI96yDXyi-5" value="{ name: &#39;James&#39;, age: 30, job: &#39;Designer&#39; }" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="MsUH2t43NOqwI96yDXyi-1">
+          <mxGeometry x="470" y="210" width="210" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="MsUH2t43NOqwI96yDXyi-6" value="{ name: &#39;Jill&#39;, age: 28, job: &#39;Engineer&#39; }" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="MsUH2t43NOqwI96yDXyi-1">
+          <mxGeometry x="470" y="240" width="210" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="MsUH2t43NOqwI96yDXyi-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="MsUH2t43NOqwI96yDXyi-1" source="MsUH2t43NOqwI96yDXyi-7" target="MsUH2t43NOqwI96yDXyi-2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="MsUH2t43NOqwI96yDXyi-7" value="{ name: &#39;Elyse&#39;, age: 32, job: &#39;Engineer&#39; }" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="MsUH2t43NOqwI96yDXyi-1">
+          <mxGeometry x="470" y="270" width="210" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="MsUH2t43NOqwI96yDXyi-8" value="{ key: &#39;name&#39;, label: &#39;Name&#39; }" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="MsUH2t43NOqwI96yDXyi-1">
+          <mxGeometry x="720" y="210" width="210" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="MsUH2t43NOqwI96yDXyi-9" value="{ key: &#39;age&#39;, label: &#39;Age&#39; }" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="MsUH2t43NOqwI96yDXyi-1">
+          <mxGeometry x="720" y="240" width="210" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="MsUH2t43NOqwI96yDXyi-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="MsUH2t43NOqwI96yDXyi-1" source="MsUH2t43NOqwI96yDXyi-10" target="MsUH2t43NOqwI96yDXyi-2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="MsUH2t43NOqwI96yDXyi-10" value="{ key: &#39;job&#39;, label: &#39;Job&#39; }" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="MsUH2t43NOqwI96yDXyi-1">
+          <mxGeometry x="720" y="270" width="210" height="30" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
