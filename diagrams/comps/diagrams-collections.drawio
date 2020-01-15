@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-15T22:28:32.555Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="zA6x6eo-9Jq7BxyG5b6d" version="12.5.4" type="github" pages="8">
+<mxfile host="www.draw.io" modified="2020-01-15T22:29:00.978Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="sANcFcfATT_tOzY2iaaU" version="12.5.4" type="github" pages="8">
   <diagram id="SXIOeuUj-WeNT6pQmgWG" name="01 - mockup">
     <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -736,19 +736,19 @@
         <mxCell id="KXZkaTpL9duZvSH1Mhoh-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="m1LDf4_aw2hruIvpbQ6I-1" source="KXZkaTpL9duZvSH1Mhoh-3" target="KXZkaTpL9duZvSH1Mhoh-0">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="KXZkaTpL9duZvSH1Mhoh-3" value="RouterLinks in App Component&lt;br&gt;modify this part of the route" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="m1LDf4_aw2hruIvpbQ6I-1">
+        <mxCell id="KXZkaTpL9duZvSH1Mhoh-3" value="RELATIVE RouterLinks in App Component&lt;br&gt;modify this part of the route" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="m1LDf4_aw2hruIvpbQ6I-1">
           <mxGeometry x="525" y="280" width="170" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="KXZkaTpL9duZvSH1Mhoh-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="m1LDf4_aw2hruIvpbQ6I-1" source="KXZkaTpL9duZvSH1Mhoh-4" target="KXZkaTpL9duZvSH1Mhoh-2">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="KXZkaTpL9duZvSH1Mhoh-4" value="RouterLinks in CollectionsHome Component modify this part of the route" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="m1LDf4_aw2hruIvpbQ6I-1">
+        <mxCell id="KXZkaTpL9duZvSH1Mhoh-4" value="RELATIVE RouterLinks in CollectionsHome Component modify this part of the route" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="m1LDf4_aw2hruIvpbQ6I-1">
           <mxGeometry x="686.88" y="470" width="191.25" height="90" as="geometry"/>
         </mxCell>
         <mxCell id="KXZkaTpL9duZvSH1Mhoh-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="m1LDf4_aw2hruIvpbQ6I-1" source="KXZkaTpL9duZvSH1Mhoh-5" target="KXZkaTpL9duZvSH1Mhoh-1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="KXZkaTpL9duZvSH1Mhoh-5" value="RouterLinks in Companies Component modify this part of the route" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="m1LDf4_aw2hruIvpbQ6I-1">
+        <mxCell id="KXZkaTpL9duZvSH1Mhoh-5" value="RELATIVE RouterLinks in Companies Component modify this part of the route" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="m1LDf4_aw2hruIvpbQ6I-1">
           <mxGeometry x="873.13" y="280" width="173.75" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="KXZkaTpL9duZvSH1Mhoh-9" value="/" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="m1LDf4_aw2hruIvpbQ6I-1">
