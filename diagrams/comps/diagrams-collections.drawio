@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-16T17:26:37.065Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="xIbkasIZHmcAMMiCiV4v" version="12.5.4" type="github" pages="10">
+<mxfile host="www.draw.io" modified="2020-01-16T17:27:08.816Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="CN1qdF8HHzkO0NHg1KEq" version="12.5.4" type="github" pages="10">
   <diagram id="SXIOeuUj-WeNT6pQmgWG" name="01 - mockup">
     <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -854,38 +854,32 @@
       <root>
         <mxCell id="Kswj_r6QB8PPDTiM9kWG-0"/>
         <mxCell id="Kswj_r6QB8PPDTiM9kWG-1" parent="Kswj_r6QB8PPDTiM9kWG-0"/>
-        <mxCell id="Kswj_r6QB8PPDTiM9kWG-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="Kswj_r6QB8PPDTiM9kWG-1" source="Kswj_r6QB8PPDTiM9kWG-2" target="Kswj_r6QB8PPDTiM9kWG-3">
+        <mxCell id="Kswj_r6QB8PPDTiM9kWG-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="Kswj_r6QB8PPDTiM9kWG-1" source="Kswj_r6QB8PPDTiM9kWG-2" target="Kswj_r6QB8PPDTiM9kWG-3">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="Kswj_r6QB8PPDTiM9kWG-2" value="Add a link to the header in the App Component&#39;s Template file.&amp;nbsp; This should navigate to the &#39;views&#39; route" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Kswj_r6QB8PPDTiM9kWG-1">
-          <mxGeometry x="490" y="70" width="470" height="60" as="geometry"/>
+          <mxGeometry x="490" y="70" width="470" height="52" as="geometry"/>
+        </mxCell>
+        <mxCell id="Kswj_r6QB8PPDTiM9kWG-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="Kswj_r6QB8PPDTiM9kWG-1" source="Kswj_r6QB8PPDTiM9kWG-3" target="Kswj_r6QB8PPDTiM9kWG-6">
+          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="Kswj_r6QB8PPDTiM9kWG-3" value="In the AppRouting Module, add a rule to &lt;i&gt;lazy load&lt;/i&gt;&amp;nbsp;the ViewsModule whenever a user navigates to &#39;views&#39;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Kswj_r6QB8PPDTiM9kWG-1">
-          <mxGeometry x="490" y="145" width="470" height="60" as="geometry"/>
+          <mxGeometry x="490" y="145" width="470" height="52" as="geometry"/>
         </mxCell>
-        <mxCell id="Kswj_r6QB8PPDTiM9kWG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="Kswj_r6QB8PPDTiM9kWG-1" target="Kswj_r6QB8PPDTiM9kWG-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="725" y="210" as="sourcePoint"/>
-          </mxGeometry>
+        <mxCell id="Kswj_r6QB8PPDTiM9kWG-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="Kswj_r6QB8PPDTiM9kWG-1" source="Kswj_r6QB8PPDTiM9kWG-6" target="Kswj_r6QB8PPDTiM9kWG-8">
+          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="Kswj_r6QB8PPDTiM9kWG-6" value="Generate a ViewsHomeComponent and a Statistics Component both in the Views module" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Kswj_r6QB8PPDTiM9kWG-1">
-          <mxGeometry x="490" y="220" width="470" height="60" as="geometry"/>
+          <mxGeometry x="490" y="220" width="470" height="52" as="geometry"/>
         </mxCell>
-        <mxCell id="Kswj_r6QB8PPDTiM9kWG-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="Kswj_r6QB8PPDTiM9kWG-1" target="Kswj_r6QB8PPDTiM9kWG-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="725" y="290" as="sourcePoint"/>
-          </mxGeometry>
+        <mxCell id="Kswj_r6QB8PPDTiM9kWG-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="Kswj_r6QB8PPDTiM9kWG-1" source="Kswj_r6QB8PPDTiM9kWG-8" target="Kswj_r6QB8PPDTiM9kWG-10">
+          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="Kswj_r6QB8PPDTiM9kWG-8" value="Add a rule to the ViewsRouting Module to show the ViewsHomeComponent" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Kswj_r6QB8PPDTiM9kWG-1">
-          <mxGeometry x="490" y="295" width="470" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="Kswj_r6QB8PPDTiM9kWG-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="Kswj_r6QB8PPDTiM9kWG-1" target="Kswj_r6QB8PPDTiM9kWG-10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="725" y="370" as="sourcePoint"/>
-          </mxGeometry>
+          <mxGeometry x="490" y="295" width="470" height="52" as="geometry"/>
         </mxCell>
         <mxCell id="Kswj_r6QB8PPDTiM9kWG-10" value="Show the StatisticsComponent in the ViewsHomeComponent" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Kswj_r6QB8PPDTiM9kWG-1">
-          <mxGeometry x="490" y="370" width="470" height="60" as="geometry"/>
+          <mxGeometry x="490" y="370" width="470" height="52" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
