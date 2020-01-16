@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-16T17:09:01.299Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="XXZd7EmYRGNNqMedtEbi" version="12.5.4" type="github" pages="9">
+<mxfile host="www.draw.io" modified="2020-01-16T17:26:37.065Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="xIbkasIZHmcAMMiCiV4v" version="12.5.4" type="github" pages="10">
   <diagram id="SXIOeuUj-WeNT6pQmgWG" name="01 - mockup">
     <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -620,7 +620,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wC3RNJQkvvIFDwsuO-P8" name="08 - plan">
-    <mxGraphModel dx="646" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="EtpL4aJW7k0BCMEijyaQ-0"/>
         <mxCell id="EtpL4aJW7k0BCMEijyaQ-1" parent="EtpL4aJW7k0BCMEijyaQ-0"/>
@@ -716,6 +716,24 @@
         <mxCell id="PQ3FGTR18dewF92M7tQk-4" value="Collections Component" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="JK69jArG_Ae7fF3zpYkH-1">
           <mxGeometry x="740" y="420" width="170" height="50" as="geometry"/>
         </mxCell>
+        <mxCell id="EFB8QtygTC7Vq6V1swuA-0" value="&#39;collections&#39;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;fontStyle=1" vertex="1" parent="JK69jArG_Ae7fF3zpYkH-1">
+          <mxGeometry x="990" y="210" width="120" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="EFB8QtygTC7Vq6V1swuA-1" value="&#39;&#39;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;fontStyle=1" vertex="1" parent="JK69jArG_Ae7fF3zpYkH-1">
+          <mxGeometry x="965" y="280" width="170" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="EFB8QtygTC7Vq6V1swuA-2" value="&#39;companies&#39;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;fontStyle=1" vertex="1" parent="JK69jArG_Ae7fF3zpYkH-1">
+          <mxGeometry x="980" y="360" width="140" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="EFB8QtygTC7Vq6V1swuA-3" value="Companies Component" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="JK69jArG_Ae7fF3zpYkH-1">
+          <mxGeometry x="1120" y="350" width="170" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="EFB8QtygTC7Vq6V1swuA-4" value="Collections Component" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="JK69jArG_Ae7fF3zpYkH-1">
+          <mxGeometry x="1135" y="275" width="170" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="EFB8QtygTC7Vq6V1swuA-5" value="App Component" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="JK69jArG_Ae7fF3zpYkH-1">
+          <mxGeometry x="1110" y="205" width="170" height="50" as="geometry"/>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -724,6 +742,21 @@
       <root>
         <mxCell id="phjD0D3nTN3Anb65UWzm-0"/>
         <mxCell id="phjD0D3nTN3Anb65UWzm-1" parent="phjD0D3nTN3Anb65UWzm-0"/>
+        <mxCell id="QNMTwVuMln_Yr8NQf6Tp-0" value="&#39;collections&#39;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;fontStyle=1" vertex="1" parent="phjD0D3nTN3Anb65UWzm-1">
+          <mxGeometry x="550" y="390" width="120" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="QNMTwVuMln_Yr8NQf6Tp-1" value="&#39;&#39;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;fontStyle=1" vertex="1" parent="phjD0D3nTN3Anb65UWzm-1">
+          <mxGeometry x="705" y="390" width="155" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="QNMTwVuMln_Yr8NQf6Tp-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="phjD0D3nTN3Anb65UWzm-1" source="QNMTwVuMln_Yr8NQf6Tp-5" target="QNMTwVuMln_Yr8NQf6Tp-1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="QNMTwVuMln_Yr8NQf6Tp-5" value="RELATIVE RouterLinks in CollectionsHome Component modify this part of the route" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="phjD0D3nTN3Anb65UWzm-1">
+          <mxGeometry x="686.88" y="470" width="191.25" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="QNMTwVuMln_Yr8NQf6Tp-6" value="/" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="phjD0D3nTN3Anb65UWzm-1">
+          <mxGeometry x="669" y="400" width="40" height="20" as="geometry"/>
+        </mxCell>
         <mxCell id="QNMTwVuMln_Yr8NQf6Tp-7" value="Result of a RouterLink in the CollectionsHome Component" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="phjD0D3nTN3Anb65UWzm-1">
           <mxGeometry x="870" y="280" width="400" height="30" as="geometry"/>
         </mxCell>
@@ -812,6 +845,47 @@
         </mxCell>
         <mxCell id="KXZkaTpL9duZvSH1Mhoh-10" value="/" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="m1LDf4_aw2hruIvpbQ6I-1">
           <mxGeometry x="856.25" y="400" width="40" height="20" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="O3KhVkRuY5vm6Cur7UbQ" name="13 - ex">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="Kswj_r6QB8PPDTiM9kWG-0"/>
+        <mxCell id="Kswj_r6QB8PPDTiM9kWG-1" parent="Kswj_r6QB8PPDTiM9kWG-0"/>
+        <mxCell id="Kswj_r6QB8PPDTiM9kWG-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="Kswj_r6QB8PPDTiM9kWG-1" source="Kswj_r6QB8PPDTiM9kWG-2" target="Kswj_r6QB8PPDTiM9kWG-3">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="Kswj_r6QB8PPDTiM9kWG-2" value="Add a link to the header in the App Component&#39;s Template file.&amp;nbsp; This should navigate to the &#39;views&#39; route" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Kswj_r6QB8PPDTiM9kWG-1">
+          <mxGeometry x="490" y="70" width="470" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="Kswj_r6QB8PPDTiM9kWG-3" value="In the AppRouting Module, add a rule to &lt;i&gt;lazy load&lt;/i&gt;&amp;nbsp;the ViewsModule whenever a user navigates to &#39;views&#39;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Kswj_r6QB8PPDTiM9kWG-1">
+          <mxGeometry x="490" y="145" width="470" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="Kswj_r6QB8PPDTiM9kWG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="Kswj_r6QB8PPDTiM9kWG-1" target="Kswj_r6QB8PPDTiM9kWG-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="725" y="210" as="sourcePoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kswj_r6QB8PPDTiM9kWG-6" value="Generate a ViewsHomeComponent and a Statistics Component both in the Views module" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Kswj_r6QB8PPDTiM9kWG-1">
+          <mxGeometry x="490" y="220" width="470" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="Kswj_r6QB8PPDTiM9kWG-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="Kswj_r6QB8PPDTiM9kWG-1" target="Kswj_r6QB8PPDTiM9kWG-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="725" y="290" as="sourcePoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kswj_r6QB8PPDTiM9kWG-8" value="Add a rule to the ViewsRouting Module to show the ViewsHomeComponent" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Kswj_r6QB8PPDTiM9kWG-1">
+          <mxGeometry x="490" y="295" width="470" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="Kswj_r6QB8PPDTiM9kWG-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="Kswj_r6QB8PPDTiM9kWG-1" target="Kswj_r6QB8PPDTiM9kWG-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="725" y="370" as="sourcePoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kswj_r6QB8PPDTiM9kWG-10" value="Show the StatisticsComponent in the ViewsHomeComponent" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Kswj_r6QB8PPDTiM9kWG-1">
+          <mxGeometry x="490" y="370" width="470" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
