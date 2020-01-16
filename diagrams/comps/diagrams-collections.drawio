@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-16T21:23:46.251Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="VdswOpAM6Z9Lb4DpFaJN" version="12.5.4" type="github" pages="14">
+<mxfile host="www.draw.io" modified="2020-01-16T21:23:59.590Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="9ghOYrIqCm4Tx63RzM64" version="12.5.4" type="github" pages="14">
   <diagram id="SXIOeuUj-WeNT6pQmgWG" name="01 - mockup">
     <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -1010,7 +1010,7 @@
           <mxGeometry x="550" y="380" width="320" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="WbqEPTWYDR7aVdt4EgYw-15" value="&lt;i&gt;Full list of hooks&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="WbqEPTWYDR7aVdt4EgYw-1">
-          <mxGeometry x="625" y="450" width="170" height="20" as="geometry"/>
+          <mxGeometry x="625" y="444" width="170" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
