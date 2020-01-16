@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-16T17:27:08.816Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="CN1qdF8HHzkO0NHg1KEq" version="12.5.4" type="github" pages="10">
+<mxfile host="www.draw.io" modified="2020-01-16T17:45:27.618Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="s2oM1Ih-jiFu5HD2lwD4" version="12.5.4" type="github" pages="11">
   <diagram id="SXIOeuUj-WeNT6pQmgWG" name="01 - mockup">
     <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -880,6 +880,29 @@
         </mxCell>
         <mxCell id="Kswj_r6QB8PPDTiM9kWG-10" value="Show the StatisticsComponent in the ViewsHomeComponent" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Kswj_r6QB8PPDTiM9kWG-1">
           <mxGeometry x="490" y="370" width="470" height="52" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="FliEtlmW4iYqwPLv-dGB" name="11 - data">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="qHBBrR3z0qLc29FVXTrC-0"/>
+        <mxCell id="qHBBrR3z0qLc29FVXTrC-1" parent="qHBBrR3z0qLc29FVXTrC-0"/>
+        <mxCell id="qHBBrR3z0qLc29FVXTrC-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=21;" edge="1" parent="qHBBrR3z0qLc29FVXTrC-1" source="qHBBrR3z0qLc29FVXTrC-2" target="qHBBrR3z0qLc29FVXTrC-3">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="qHBBrR3z0qLc29FVXTrC-2" value="ViewsHome Component" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="qHBBrR3z0qLc29FVXTrC-1">
+          <mxGeometry x="580" y="110" width="260" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="qHBBrR3z0qLc29FVXTrC-3" value="ItemList Component" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="qHBBrR3z0qLc29FVXTrC-1">
+          <mxGeometry x="580" y="310" width="260" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="qHBBrR3z0qLc29FVXTrC-5" value="{ image: &#39;couch.jpeg&#39;, title: &#39;Couch&#39;, description: &#39;A Couch&#39; }" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;" vertex="1" parent="qHBBrR3z0qLc29FVXTrC-1">
+          <mxGeometry x="710" y="210" width="290" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="qHBBrR3z0qLc29FVXTrC-6" value="{ image: &#39;dresser.jpeg&#39;, title: &#39;Dresser&#39;, description: &#39;A Dresser&#39; }" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;" vertex="1" parent="qHBBrR3z0qLc29FVXTrC-1">
+          <mxGeometry x="710" y="230" width="290" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
