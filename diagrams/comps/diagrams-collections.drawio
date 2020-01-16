@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-16T17:45:27.618Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="s2oM1Ih-jiFu5HD2lwD4" version="12.5.4" type="github" pages="11">
+<mxfile host="www.draw.io" modified="2020-01-16T18:31:15.189Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="_JuuQEXp5epZRbPl_1Ry" version="12.5.4" type="github" pages="12">
   <diagram id="SXIOeuUj-WeNT6pQmgWG" name="01 - mockup">
     <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -903,6 +903,41 @@
         </mxCell>
         <mxCell id="qHBBrR3z0qLc29FVXTrC-6" value="{ image: &#39;dresser.jpeg&#39;, title: &#39;Dresser&#39;, description: &#39;A Dresser&#39; }" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;" vertex="1" parent="qHBBrR3z0qLc29FVXTrC-1">
           <mxGeometry x="710" y="230" width="290" height="20" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="14 - steps" id="4a-rIXdcCkDJH2qDFAKw">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="I7QmqM63pP1D00wwgC8M-0"/>
+        <mxCell id="I7QmqM63pP1D00wwgC8M-1" parent="I7QmqM63pP1D00wwgC8M-0"/>
+        <mxCell id="I7QmqM63pP1D00wwgC8M-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="I7QmqM63pP1D00wwgC8M-1" source="I7QmqM63pP1D00wwgC8M-3" target="I7QmqM63pP1D00wwgC8M-5">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="I7QmqM63pP1D00wwgC8M-3" value="Add a link to the header in the App Component&#39;s Template file.&amp;nbsp; This should navigate to the &#39;mods&#39; route" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="I7QmqM63pP1D00wwgC8M-1">
+          <mxGeometry x="490" y="70" width="470" height="52" as="geometry"/>
+        </mxCell>
+        <mxCell id="I7QmqM63pP1D00wwgC8M-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="I7QmqM63pP1D00wwgC8M-1" source="I7QmqM63pP1D00wwgC8M-5" target="I7QmqM63pP1D00wwgC8M-7">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="I7QmqM63pP1D00wwgC8M-5" value="In the AppRouting Module, add a rule to &lt;i&gt;lazy load&lt;/i&gt;&amp;nbsp;the ModsModule whenever a user navigates to &#39;mods&#39;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="I7QmqM63pP1D00wwgC8M-1">
+          <mxGeometry x="490" y="145" width="470" height="52" as="geometry"/>
+        </mxCell>
+        <mxCell id="I7QmqM63pP1D00wwgC8M-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="I7QmqM63pP1D00wwgC8M-1" source="I7QmqM63pP1D00wwgC8M-7" target="I7QmqM63pP1D00wwgC8M-9">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="I7QmqM63pP1D00wwgC8M-7" value="Generate a ModsHomeComponent and a Modal Component both in the Mods module" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="I7QmqM63pP1D00wwgC8M-1">
+          <mxGeometry x="490" y="220" width="470" height="52" as="geometry"/>
+        </mxCell>
+        <mxCell id="I7QmqM63pP1D00wwgC8M-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="I7QmqM63pP1D00wwgC8M-1" source="I7QmqM63pP1D00wwgC8M-9" target="I7QmqM63pP1D00wwgC8M-10">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="I7QmqM63pP1D00wwgC8M-9" value="Add a rule to the ModsRouting Module to show the ModsHomeComponent" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="I7QmqM63pP1D00wwgC8M-1">
+          <mxGeometry x="490" y="295" width="470" height="52" as="geometry"/>
+        </mxCell>
+        <mxCell id="I7QmqM63pP1D00wwgC8M-10" value="Show the Modal Component in the ModsHomeComponent" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="I7QmqM63pP1D00wwgC8M-1">
+          <mxGeometry x="490" y="370" width="470" height="52" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
