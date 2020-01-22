@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-22T21:27:04.832Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="QG_jANlfemAAM_uacve8" version="12.5.5" type="github" pages="11">
+<mxfile host="www.draw.io" modified="2020-01-22T21:41:22.470Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="V8-G0l1ICY4In4Kbw-px" version="12.5.5" type="github" pages="11">
   <diagram id="1-tBwHP-1E4B09z1GZpH" name="01 - mockup">
     <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -810,8 +810,14 @@
         <mxCell id="MaejNaYOaMhvIdddQrLV-2" value="Observable from POST Request" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="MaejNaYOaMhvIdddQrLV-1">
           <mxGeometry x="530" y="90" width="250" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="MaejNaYOaMhvIdddQrLV-3" value="Response if username is OK" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="MaejNaYOaMhvIdddQrLV-1">
+        <mxCell id="8MEaXbo8h_M2DmvQK-vG-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=11;" edge="1" parent="MaejNaYOaMhvIdddQrLV-1" source="MaejNaYOaMhvIdddQrLV-3" target="MaejNaYOaMhvIdddQrLV-7">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="MaejNaYOaMhvIdddQrLV-3" value="Response if username is OK&lt;br&gt;{ available: true }" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="MaejNaYOaMhvIdddQrLV-1">
           <mxGeometry x="460" y="200" width="155" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="8MEaXbo8h_M2DmvQK-vG-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="MaejNaYOaMhvIdddQrLV-1" source="MaejNaYOaMhvIdddQrLV-5" target="MaejNaYOaMhvIdddQrLV-8">
+          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="MaejNaYOaMhvIdddQrLV-5" value="ERROR! If username is in use" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="MaejNaYOaMhvIdddQrLV-1">
           <mxGeometry x="690" y="200" width="155" height="40" as="geometry"/>
