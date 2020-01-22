@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-22T18:50:14.445Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="W1dUF_0bOyIf9pT67Y1v" version="12.5.5" type="github" pages="9">
+<mxfile host="www.draw.io" modified="2020-01-22T20:55:10.150Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="OmWmSbEPNxqLXTrbJsAX" version="12.5.5" type="github" pages="10">
   <diagram id="1-tBwHP-1E4B09z1GZpH" name="01 - mockup">
     <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -759,6 +759,38 @@
           <mxGeometry x="590" y="340" width="420" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="I81zeQsT81AsZQ989W3Z-11" value="Class-Based Custom Sync Validator" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="I81zeQsT81AsZQ989W3Z-1">
+          <mxGeometry x="650" y="87" width="300" height="20" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="10 - async" id="cedvp6cyrfYH2hbQu45y">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="G3oQB4JUIBPBFHLs4FnP-0"/>
+        <mxCell id="G3oQB4JUIBPBFHLs4FnP-1" parent="G3oQB4JUIBPBFHLs4FnP-0"/>
+        <mxCell id="G3oQB4JUIBPBFHLs4FnP-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=13;" edge="1" parent="G3oQB4JUIBPBFHLs4FnP-1" source="G3oQB4JUIBPBFHLs4FnP-3" target="G3oQB4JUIBPBFHLs4FnP-5">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="G3oQB4JUIBPBFHLs4FnP-3" value="Create a new class to implement your custom validator" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;" vertex="1" parent="G3oQB4JUIBPBFHLs4FnP-1">
+          <mxGeometry x="590" y="110" width="420" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="G3oQB4JUIBPBFHLs4FnP-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=13;" edge="1" parent="G3oQB4JUIBPBFHLs4FnP-1" source="G3oQB4JUIBPBFHLs4FnP-5" target="G3oQB4JUIBPBFHLs4FnP-7">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="G3oQB4JUIBPBFHLs4FnP-5" value="[Optional] Have the class implement the &#39;AsyncValidator&#39; interface" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;" vertex="1" parent="G3oQB4JUIBPBFHLs4FnP-1">
+          <mxGeometry x="590" y="185" width="420" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="G3oQB4JUIBPBFHLs4FnP-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=13;" edge="1" parent="G3oQB4JUIBPBFHLs4FnP-1" source="G3oQB4JUIBPBFHLs4FnP-7" target="G3oQB4JUIBPBFHLs4FnP-8">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="G3oQB4JUIBPBFHLs4FnP-7" value="Add a &#39;validate&#39; method to the class, which will be called with a FormGroup or FormControl" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;" vertex="1" parent="G3oQB4JUIBPBFHLs4FnP-1">
+          <mxGeometry x="590" y="260" width="420" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="G3oQB4JUIBPBFHLs4FnP-8" value="Validator method should return an Observable that will emit &#39;null&#39; if everything is OK or an object if something is wrong" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;" vertex="1" parent="G3oQB4JUIBPBFHLs4FnP-1">
+          <mxGeometry x="590" y="340" width="420" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="G3oQB4JUIBPBFHLs4FnP-9" value="Class-Based Custom Async Validator" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="G3oQB4JUIBPBFHLs4FnP-1">
           <mxGeometry x="650" y="87" width="300" height="20" as="geometry"/>
         </mxCell>
       </root>
