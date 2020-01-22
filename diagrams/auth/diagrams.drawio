@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-01-22T16:35:01.521Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="F9zXZg0W6hKf2wCJSF0Q" version="12.5.5" type="github" pages="5">
+<mxfile host="www.draw.io" modified="2020-01-22T16:44:18.586Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="1VBXvkKoKnN9ECxKsLna" version="12.5.5" type="github" pages="6">
   <diagram id="1-tBwHP-1E4B09z1GZpH" name="01 - mockup">
-    <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="863" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -557,6 +557,35 @@
         </mxCell>
         <mxCell id="I_-YZEyknPYXxahh_0_k-25" value="Get user ID from the token, find their emails" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="aXrjFdpKK3HP2yhhegVw-1">
           <mxGeometry x="1040" y="560" width="170" height="30" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="GaDJOxmQt97Ey5PfAnd8" name="06 - gen">
+    <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="FB8gD0sbhwUfSpiDrTg5-0"/>
+        <mxCell id="FB8gD0sbhwUfSpiDrTg5-1" parent="FB8gD0sbhwUfSpiDrTg5-0"/>
+        <mxCell id="Y8VcCkdbAQiCGH2jrrS5-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="FB8gD0sbhwUfSpiDrTg5-1">
+          <mxGeometry x="310" y="190" width="490" height="210" as="geometry"/>
+        </mxCell>
+        <mxCell id="Y8VcCkdbAQiCGH2jrrS5-1" value="Auth Module" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=31;fontStyle=1" vertex="1" parent="FB8gD0sbhwUfSpiDrTg5-1">
+          <mxGeometry x="421.25" y="200" width="267.5" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="Y8VcCkdbAQiCGH2jrrS5-2" value="Signin Component" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;align=center;" vertex="1" parent="FB8gD0sbhwUfSpiDrTg5-1">
+          <mxGeometry x="335" y="270" width="210" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="Y8VcCkdbAQiCGH2jrrS5-3" value="Signup Component" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;align=center;" vertex="1" parent="FB8gD0sbhwUfSpiDrTg5-1">
+          <mxGeometry x="565" y="270" width="210" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="Y8VcCkdbAQiCGH2jrrS5-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="FB8gD0sbhwUfSpiDrTg5-1">
+          <mxGeometry x="310" y="430" width="490" height="210" as="geometry"/>
+        </mxCell>
+        <mxCell id="Y8VcCkdbAQiCGH2jrrS5-6" value="Shared Module" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=31;fontStyle=1" vertex="1" parent="FB8gD0sbhwUfSpiDrTg5-1">
+          <mxGeometry x="421.25" y="600" width="267.5" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="Y8VcCkdbAQiCGH2jrrS5-7" value="Input Component" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;align=center;" vertex="1" parent="FB8gD0sbhwUfSpiDrTg5-1">
+          <mxGeometry x="335" y="450" width="210" height="80" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
