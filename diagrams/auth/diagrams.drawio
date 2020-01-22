@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-22T18:47:53.542Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="EYa0oflDQQi_6Ac0sBN_" version="12.5.5" type="github" pages="9">
+<mxfile host="www.draw.io" modified="2020-01-22T18:50:14.445Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="W1dUF_0bOyIf9pT67Y1v" version="12.5.5" type="github" pages="9">
   <diagram id="1-tBwHP-1E4B09z1GZpH" name="01 - mockup">
     <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -757,6 +757,9 @@
         </mxCell>
         <mxCell id="I81zeQsT81AsZQ989W3Z-7" value="Validator method should return &#39;null&#39; if everything is OK, or an object if something is wrong" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;" vertex="1" parent="I81zeQsT81AsZQ989W3Z-1">
           <mxGeometry x="590" y="340" width="420" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="I81zeQsT81AsZQ989W3Z-11" value="Class-Based Custom Sync Validator" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="I81zeQsT81AsZQ989W3Z-1">
+          <mxGeometry x="650" y="87" width="300" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
