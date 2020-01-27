@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-27T21:00:00.457Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="7Is-s0fgd9J4CNwZuziO" version="12.5.5" type="github" pages="21">
+<mxfile host="www.draw.io" modified="2020-01-27T21:01:13.422Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="strKjISKaOVQusRQSdsA" version="12.5.5" type="github" pages="21">
   <diagram id="1-tBwHP-1E4B09z1GZpH" name="01 - mockup">
     <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -1380,7 +1380,7 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="G3cqU09ujF6EVrzouNnD-2" value="Sign Up" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="G3cqU09ujF6EVrzouNnD-1">
-          <mxGeometry x="420" y="330" width="120" height="60" as="geometry"/>
+          <mxGeometry x="460" y="330" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="G3cqU09ujF6EVrzouNnD-3" value="Navigate to some other route after signing up" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="G3cqU09ujF6EVrzouNnD-1">
           <mxGeometry x="640" y="330" width="340" height="60" as="geometry"/>
@@ -1390,6 +1390,12 @@
         </mxCell>
         <mxCell id="G3cqU09ujF6EVrzouNnD-7" value="Implement the signin form" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="G3cqU09ujF6EVrzouNnD-1">
           <mxGeometry x="640" y="410" width="340" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="G3cqU09ujF6EVrzouNnD-9" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontSize=21;align=center;rotation=-180;" vertex="1" parent="G3cqU09ujF6EVrzouNnD-1">
+          <mxGeometry x="990" y="250" width="20" height="220" as="geometry"/>
+        </mxCell>
+        <mxCell id="G3cqU09ujF6EVrzouNnD-10" value="Outstanding tasks" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="G3cqU09ujF6EVrzouNnD-1">
+          <mxGeometry x="1010" y="350" width="150" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
