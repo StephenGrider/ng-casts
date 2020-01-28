@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-28T21:01:08.545Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="i9W0NJFyfb7i3Bgu51vo" version="12.5.5" type="github" pages="29">
+<mxfile host="www.draw.io" modified="2020-01-28T21:28:40.002Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="PApgkExFcOCWhnKfJyBe" version="12.5.5" type="github" pages="30">
   <diagram id="1-tBwHP-1E4B09z1GZpH" name="01 - mockup">
     <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -1935,6 +1935,34 @@
         </mxCell>
         <mxCell id="-yAJ7_plvaMuQ6PpRnta-10" value="User can load this lazily-loaded module and access the routes inside of it" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;fontStyle=0" vertex="1" parent="-yAJ7_plvaMuQ6PpRnta-1">
           <mxGeometry x="660" y="370" width="350" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="4exYUmZbrAWZSTbCLVoN" name="30 - auth">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="NhAHfRn5Hy3sbu5gEEt5-0"/>
+        <mxCell id="NhAHfRn5Hy3sbu5gEEt5-1" parent="NhAHfRn5Hy3sbu5gEEt5-0"/>
+        <mxCell id="NhAHfRn5Hy3sbu5gEEt5-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="NhAHfRn5Hy3sbu5gEEt5-1">
+          <mxGeometry x="420" y="260" width="180" height="150" as="geometry"/>
+        </mxCell>
+        <mxCell id="NhAHfRn5Hy3sbu5gEEt5-3" value="AuthService" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontStyle=1" vertex="1" parent="NhAHfRn5Hy3sbu5gEEt5-1">
+          <mxGeometry x="490" y="270" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="NhAHfRn5Hy3sbu5gEEt5-4" value="checkAuth()" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;align=center;" vertex="1" parent="NhAHfRn5Hy3sbu5gEEt5-1">
+          <mxGeometry x="440" y="310" width="140" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="NhAHfRn5Hy3sbu5gEEt5-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=17;" edge="1" parent="NhAHfRn5Hy3sbu5gEEt5-1" source="NhAHfRn5Hy3sbu5gEEt5-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="365" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NhAHfRn5Hy3sbu5gEEt5-5" value="signedin$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;align=center;" vertex="1" parent="NhAHfRn5Hy3sbu5gEEt5-1">
+          <mxGeometry x="440" y="350" width="140" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="NhAHfRn5Hy3sbu5gEEt5-8" value="Boolean" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;align=center;" vertex="1" parent="NhAHfRn5Hy3sbu5gEEt5-1">
+          <mxGeometry x="650" y="350" width="140" height="30" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
