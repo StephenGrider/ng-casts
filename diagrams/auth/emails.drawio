@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-29T19:31:57.114Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="biHyuUfFgZP3NkwWYc95" version="12.6.1" type="github" pages="5">
+<mxfile host="www.draw.io" modified="2020-01-29T20:39:45.267Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="pbOHdsUx8DWDwHDt0u25" version="12.6.1" type="github" pages="6">
   <diagram id="pgKuPr49PQANVNS3kX-P" name="01 - int">
     <mxGraphModel dx="654" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -214,6 +214,45 @@
         </mxCell>
         <mxCell id="dtpgWnrUJDh1jD7ioERK-9" value="Simple description of what the URL is *right now*" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="dtpgWnrUJDh1jD7ioERK-1">
           <mxGeometry x="620" y="375" width="360" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="9qIDr-fgyxvAKRDYX3Gz" name="06 - change">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="4mPv562j3INVUNCUR4uT-0"/>
+        <mxCell id="4mPv562j3INVUNCUR4uT-1" parent="4mPv562j3INVUNCUR4uT-0"/>
+        <mxCell id="4mPv562j3INVUNCUR4uT-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=20;" edge="1" parent="4mPv562j3INVUNCUR4uT-1" source="4mPv562j3INVUNCUR4uT-2" target="4mPv562j3INVUNCUR4uT-3">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="4mPv562j3INVUNCUR4uT-2" value="/inbox" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="4mPv562j3INVUNCUR4uT-1">
+          <mxGeometry x="410" y="210" width="150" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="4mPv562j3INVUNCUR4uT-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=20;" edge="1" parent="4mPv562j3INVUNCUR4uT-1" source="4mPv562j3INVUNCUR4uT-3" target="4mPv562j3INVUNCUR4uT-4">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="4mPv562j3INVUNCUR4uT-3" value="/inbox/lkj235" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="4mPv562j3INVUNCUR4uT-1">
+          <mxGeometry x="410" y="345" width="150" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="4mPv562j3INVUNCUR4uT-4" value="/inbox/iqu4155" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="4mPv562j3INVUNCUR4uT-1">
+          <mxGeometry x="410" y="480" width="150" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="4mPv562j3INVUNCUR4uT-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="4mPv562j3INVUNCUR4uT-1" source="4mPv562j3INVUNCUR4uT-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="295" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4mPv562j3INVUNCUR4uT-7" value="Instance of EmailShow created" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="4mPv562j3INVUNCUR4uT-1">
+          <mxGeometry x="570" y="280" width="290" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="4mPv562j3INVUNCUR4uT-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="4mPv562j3INVUNCUR4uT-1" source="4mPv562j3INVUNCUR4uT-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="435" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4mPv562j3INVUNCUR4uT-11" value="&lt;i&gt;Previous instance of EmailShow reused!&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="4mPv562j3INVUNCUR4uT-1">
+          <mxGeometry x="570" y="420" width="290" height="30" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
