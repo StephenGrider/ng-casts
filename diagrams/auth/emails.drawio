@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-01-29T18:30:30.089Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="CwT2N9rl16VilqpFpXsP" version="12.6.1" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2020-01-29T19:22:52.333Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="TKeBt6JsQXOk1-qPpJra" version="12.6.1" type="github" pages="4">
   <diagram id="pgKuPr49PQANVNS3kX-P" name="01 - int">
-    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="654" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -50,7 +50,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Qz2PdbT6o_QlZdDNKb5J" name="02 - docs">
-    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="654" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="bgyKG9x5nBEy4KhBRUnX-0"/>
         <mxCell id="bgyKG9x5nBEy4KhBRUnX-1" parent="bgyKG9x5nBEy4KhBRUnX-0"/>
@@ -109,7 +109,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="20p7M8jF925hye0slPhL" name="03 - home">
-    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="654" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="GGsBnmcrtlfArmTXnzJc-0"/>
         <mxCell id="GGsBnmcrtlfArmTXnzJc-1" parent="GGsBnmcrtlfArmTXnzJc-0"/>
@@ -125,7 +125,7 @@
         <mxCell id="GGsBnmcrtlfArmTXnzJc-5" value="&lt;b style=&quot;font-size: 16px&quot;&gt;Email Index Component&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="GGsBnmcrtlfArmTXnzJc-1">
           <mxGeometry x="477.5" y="350" width="105" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="GGsBnmcrtlfArmTXnzJc-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="GGsBnmcrtlfArmTXnzJc-1">
+        <mxCell id="GGsBnmcrtlfArmTXnzJc-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="GGsBnmcrtlfArmTXnzJc-1">
           <mxGeometry x="600" y="280" width="220" height="170" as="geometry"/>
         </mxCell>
         <mxCell id="GGsBnmcrtlfArmTXnzJc-9" value="At /inbox" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=2" vertex="1" parent="GGsBnmcrtlfArmTXnzJc-1">
@@ -154,6 +154,32 @@
         </mxCell>
         <mxCell id="GGsBnmcrtlfArmTXnzJc-17" value="&lt;b style=&quot;font-size: 16px&quot;&gt;Email Show Component&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="GGsBnmcrtlfArmTXnzJc-1">
           <mxGeometry x="1097.5" y="350" width="105" height="20" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="5Tf4bwj-mF92UYtwZ3c0" name="04 - route">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="gDJ8R5sBxE_KS3QzhIc8-0"/>
+        <mxCell id="gDJ8R5sBxE_KS3QzhIc8-1" parent="gDJ8R5sBxE_KS3QzhIc8-0"/>
+        <mxCell id="jm9dSqcxQ5UeuJCVwxy--0" value="EmailShow Component" style="rounded=0;whiteSpace=wrap;html=1;fontSize=23;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="gDJ8R5sBxE_KS3QzhIc8-1">
+          <mxGeometry x="310" y="245" width="210" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="jm9dSqcxQ5UeuJCVwxy--2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=23;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="gDJ8R5sBxE_KS3QzhIc8-1">
+          <mxGeometry x="600" y="260" width="210" height="140" as="geometry"/>
+        </mxCell>
+        <mxCell id="jm9dSqcxQ5UeuJCVwxy--3" value="&lt;span style=&quot;font-weight: 700&quot;&gt;Email Service&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;" vertex="1" parent="gDJ8R5sBxE_KS3QzhIc8-1">
+          <mxGeometry x="620" y="270" width="170" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="jm9dSqcxQ5UeuJCVwxy--4" value="getEmail(id: string)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="gDJ8R5sBxE_KS3QzhIc8-1">
+          <mxGeometry x="610" y="310" width="190" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="jm9dSqcxQ5UeuJCVwxy--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="gDJ8R5sBxE_KS3QzhIc8-1" source="jm9dSqcxQ5UeuJCVwxy--0" target="jm9dSqcxQ5UeuJCVwxy--4">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="jm9dSqcxQ5UeuJCVwxy--6" value="id" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="gDJ8R5sBxE_KS3QzhIc8-1">
+          <mxGeometry x="450" y="340" width="120" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
