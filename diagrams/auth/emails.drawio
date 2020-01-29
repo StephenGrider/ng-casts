@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-29T17:33:06.455Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="VTfJx6_ylGsbrN1qTUni" version="12.6.1" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2020-01-29T18:30:30.089Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="CwT2N9rl16VilqpFpXsP" version="12.6.1" type="github" pages="3">
   <diagram id="pgKuPr49PQANVNS3kX-P" name="01 - int">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -54,8 +54,8 @@
       <root>
         <mxCell id="bgyKG9x5nBEy4KhBRUnX-0"/>
         <mxCell id="bgyKG9x5nBEy4KhBRUnX-1" parent="bgyKG9x5nBEy4KhBRUnX-0"/>
-        <mxCell id="bgyKG9x5nBEy4KhBRUnX-2" value="Root URL:&lt;br style=&quot;font-size: 14px;&quot;&gt;https://api.angular-email.com" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="bgyKG9x5nBEy4KhBRUnX-1">
-          <mxGeometry x="470" y="210" width="480" height="40" as="geometry"/>
+        <mxCell id="bgyKG9x5nBEy4KhBRUnX-2" value="Root URL:&lt;br style=&quot;font-size: 14px&quot;&gt;https://api.angular-email.com&lt;br&gt;test10@angular-email.com" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="bgyKG9x5nBEy4KhBRUnX-1">
+          <mxGeometry x="470" y="180" width="480" height="70" as="geometry"/>
         </mxCell>
         <mxCell id="bgyKG9x5nBEy4KhBRUnX-3" value="/emails" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="bgyKG9x5nBEy4KhBRUnX-1">
           <mxGeometry x="400" y="280" width="140" height="60" as="geometry"/>
@@ -104,6 +104,56 @@
         </mxCell>
         <mxCell id="bgyKG9x5nBEy4KhBRUnX-18" value="Sends an email" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;" vertex="1" parent="bgyKG9x5nBEy4KhBRUnX-1">
           <mxGeometry x="820" y="400" width="200" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="20p7M8jF925hye0slPhL" name="03 - home">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="GGsBnmcrtlfArmTXnzJc-0"/>
+        <mxCell id="GGsBnmcrtlfArmTXnzJc-1" parent="GGsBnmcrtlfArmTXnzJc-0"/>
+        <mxCell id="GGsBnmcrtlfArmTXnzJc-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="GGsBnmcrtlfArmTXnzJc-1">
+          <mxGeometry x="460" y="240" width="380" height="240" as="geometry"/>
+        </mxCell>
+        <mxCell id="GGsBnmcrtlfArmTXnzJc-3" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;Home Component&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="GGsBnmcrtlfArmTXnzJc-1">
+          <mxGeometry x="575" y="243" width="150" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="GGsBnmcrtlfArmTXnzJc-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="GGsBnmcrtlfArmTXnzJc-1">
+          <mxGeometry x="480" y="280" width="100" height="170" as="geometry"/>
+        </mxCell>
+        <mxCell id="GGsBnmcrtlfArmTXnzJc-5" value="&lt;b style=&quot;font-size: 16px&quot;&gt;Email Index Component&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="GGsBnmcrtlfArmTXnzJc-1">
+          <mxGeometry x="477.5" y="350" width="105" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="GGsBnmcrtlfArmTXnzJc-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="GGsBnmcrtlfArmTXnzJc-1">
+          <mxGeometry x="600" y="280" width="220" height="170" as="geometry"/>
+        </mxCell>
+        <mxCell id="GGsBnmcrtlfArmTXnzJc-9" value="At /inbox" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=2" vertex="1" parent="GGsBnmcrtlfArmTXnzJc-1">
+          <mxGeometry x="575" y="210" width="140" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="GGsBnmcrtlfArmTXnzJc-10" value="&lt;b style=&quot;font-size: 16px&quot;&gt;Placeholder Content&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="GGsBnmcrtlfArmTXnzJc-1">
+          <mxGeometry x="657.5" y="350" width="105" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="GGsBnmcrtlfArmTXnzJc-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="GGsBnmcrtlfArmTXnzJc-1">
+          <mxGeometry x="900" y="240" width="380" height="240" as="geometry"/>
+        </mxCell>
+        <mxCell id="GGsBnmcrtlfArmTXnzJc-12" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;Home Component&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="GGsBnmcrtlfArmTXnzJc-1">
+          <mxGeometry x="1015" y="243" width="150" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="GGsBnmcrtlfArmTXnzJc-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="GGsBnmcrtlfArmTXnzJc-1">
+          <mxGeometry x="920" y="280" width="100" height="170" as="geometry"/>
+        </mxCell>
+        <mxCell id="GGsBnmcrtlfArmTXnzJc-14" value="&lt;b style=&quot;font-size: 16px&quot;&gt;Email Index Component&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="GGsBnmcrtlfArmTXnzJc-1">
+          <mxGeometry x="917.5" y="350" width="105" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="GGsBnmcrtlfArmTXnzJc-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="GGsBnmcrtlfArmTXnzJc-1">
+          <mxGeometry x="1040" y="280" width="220" height="170" as="geometry"/>
+        </mxCell>
+        <mxCell id="GGsBnmcrtlfArmTXnzJc-16" value="At /inbox/lkasjdfgag" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=2" vertex="1" parent="GGsBnmcrtlfArmTXnzJc-1">
+          <mxGeometry x="977.5" y="210" width="225" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="GGsBnmcrtlfArmTXnzJc-17" value="&lt;b style=&quot;font-size: 16px&quot;&gt;Email Show Component&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="GGsBnmcrtlfArmTXnzJc-1">
+          <mxGeometry x="1097.5" y="350" width="105" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
