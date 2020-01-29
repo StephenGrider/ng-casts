@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-29T19:22:52.333Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="TKeBt6JsQXOk1-qPpJra" version="12.6.1" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2020-01-29T19:31:57.114Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="biHyuUfFgZP3NkwWYc95" version="12.6.1" type="github" pages="5">
   <diagram id="pgKuPr49PQANVNS3kX-P" name="01 - int">
     <mxGraphModel dx="654" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -180,6 +180,40 @@
         </mxCell>
         <mxCell id="jm9dSqcxQ5UeuJCVwxy--6" value="id" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="gDJ8R5sBxE_KS3QzhIc8-1">
           <mxGeometry x="450" y="340" width="120" height="40" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="UtLTXN7AAodNc-BDedZl" name="05 - params">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="dtpgWnrUJDh1jD7ioERK-0"/>
+        <mxCell id="dtpgWnrUJDh1jD7ioERK-1" parent="dtpgWnrUJDh1jD7ioERK-0"/>
+        <mxCell id="dtpgWnrUJDh1jD7ioERK-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=20;" edge="1" parent="dtpgWnrUJDh1jD7ioERK-1" source="dtpgWnrUJDh1jD7ioERK-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="305" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dtpgWnrUJDh1jD7ioERK-2" value="Observable" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="dtpgWnrUJDh1jD7ioERK-1">
+          <mxGeometry x="440" y="270" width="140" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="dtpgWnrUJDh1jD7ioERK-3" value="Snapshot" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="dtpgWnrUJDh1jD7ioERK-1">
+          <mxGeometry x="440" y="370" width="140" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="dtpgWnrUJDh1jD7ioERK-4" value="Information From the Current Route" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="dtpgWnrUJDh1jD7ioERK-1">
+          <mxGeometry x="540" y="240" width="370" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="dtpgWnrUJDh1jD7ioERK-7" value="Emits values whenever some specific part of the URL changes" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="dtpgWnrUJDh1jD7ioERK-1">
+          <mxGeometry x="620" y="275" width="360" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="dtpgWnrUJDh1jD7ioERK-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=20;" edge="1" parent="dtpgWnrUJDh1jD7ioERK-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="405" as="targetPoint"/>
+            <mxPoint x="580" y="405" as="sourcePoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dtpgWnrUJDh1jD7ioERK-9" value="Simple description of what the URL is *right now*" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="dtpgWnrUJDh1jD7ioERK-1">
+          <mxGeometry x="620" y="375" width="360" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
