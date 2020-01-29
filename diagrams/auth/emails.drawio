@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-29T17:20:28.459Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="7FtIR-F3zRSHzQWG9GP8" version="12.6.1" type="github">
+<mxfile host="www.draw.io" modified="2020-01-29T17:33:06.455Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="VTfJx6_ylGsbrN1qTUni" version="12.6.1" type="github" pages="2">
   <diagram id="pgKuPr49PQANVNS3kX-P" name="01 - int">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -44,7 +44,66 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="Wf_zGahuGO8zbfN_6pu6-11" value="EmailService" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="635" y="310" width="140" height="40" as="geometry"/>
+          <mxGeometry x="635" y="320" width="140" height="40" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Qz2PdbT6o_QlZdDNKb5J" name="02 - docs">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="bgyKG9x5nBEy4KhBRUnX-0"/>
+        <mxCell id="bgyKG9x5nBEy4KhBRUnX-1" parent="bgyKG9x5nBEy4KhBRUnX-0"/>
+        <mxCell id="bgyKG9x5nBEy4KhBRUnX-2" value="Root URL:&lt;br style=&quot;font-size: 14px;&quot;&gt;https://api.angular-email.com" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="bgyKG9x5nBEy4KhBRUnX-1">
+          <mxGeometry x="470" y="210" width="480" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="bgyKG9x5nBEy4KhBRUnX-3" value="/emails" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="bgyKG9x5nBEy4KhBRUnX-1">
+          <mxGeometry x="400" y="280" width="140" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="bgyKG9x5nBEy4KhBRUnX-4" value="Path" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="bgyKG9x5nBEy4KhBRUnX-1">
+          <mxGeometry x="450" y="260" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="bgyKG9x5nBEy4KhBRUnX-5" value="Method" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="bgyKG9x5nBEy4KhBRUnX-1">
+          <mxGeometry x="560" y="260" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="bgyKG9x5nBEy4KhBRUnX-6" value="GET" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="bgyKG9x5nBEy4KhBRUnX-1">
+          <mxGeometry x="540" y="280" width="80" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="bgyKG9x5nBEy4KhBRUnX-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;align=left;" vertex="1" parent="bgyKG9x5nBEy4KhBRUnX-1">
+          <mxGeometry x="620" y="280" width="200" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="bgyKG9x5nBEy4KhBRUnX-8" value="Body" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="bgyKG9x5nBEy4KhBRUnX-1">
+          <mxGeometry x="700" y="260" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="bgyKG9x5nBEy4KhBRUnX-9" value="Gets a list of all emails received by the current user" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;" vertex="1" parent="bgyKG9x5nBEy4KhBRUnX-1">
+          <mxGeometry x="820" y="280" width="200" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="bgyKG9x5nBEy4KhBRUnX-10" value="Description" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="bgyKG9x5nBEy4KhBRUnX-1">
+          <mxGeometry x="900" y="260" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="bgyKG9x5nBEy4KhBRUnX-11" value="/emails/:id" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="bgyKG9x5nBEy4KhBRUnX-1">
+          <mxGeometry x="400" y="340" width="140" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="bgyKG9x5nBEy4KhBRUnX-12" value="GET" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="bgyKG9x5nBEy4KhBRUnX-1">
+          <mxGeometry x="540" y="340" width="80" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="bgyKG9x5nBEy4KhBRUnX-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;align=left;" vertex="1" parent="bgyKG9x5nBEy4KhBRUnX-1">
+          <mxGeometry x="620" y="340" width="200" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="bgyKG9x5nBEy4KhBRUnX-14" value="Gets a specific email with the given ID" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;" vertex="1" parent="bgyKG9x5nBEy4KhBRUnX-1">
+          <mxGeometry x="820" y="340" width="200" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="bgyKG9x5nBEy4KhBRUnX-15" value="/emails" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="bgyKG9x5nBEy4KhBRUnX-1">
+          <mxGeometry x="400" y="400" width="140" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="bgyKG9x5nBEy4KhBRUnX-16" value="POST" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="bgyKG9x5nBEy4KhBRUnX-1">
+          <mxGeometry x="540" y="400" width="80" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="bgyKG9x5nBEy4KhBRUnX-17" value="{&lt;br style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp; &amp;nbsp;subject: string; &lt;br style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp; &amp;nbsp;text: string;&lt;br style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp; &amp;nbsp;to: string; &lt;br style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp; &amp;nbsp;from: string;&lt;br style=&quot;font-size: 8px;&quot;&gt;}" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;align=left;" vertex="1" parent="bgyKG9x5nBEy4KhBRUnX-1">
+          <mxGeometry x="620" y="400" width="200" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="bgyKG9x5nBEy4KhBRUnX-18" value="Sends an email" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;" vertex="1" parent="bgyKG9x5nBEy4KhBRUnX-1">
+          <mxGeometry x="820" y="400" width="200" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
