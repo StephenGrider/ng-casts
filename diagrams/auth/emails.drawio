@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-29T21:21:01.438Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="-HrPOeFy-Dc59onmLRq7" version="12.6.1" type="github" pages="8">
+<mxfile host="www.draw.io" modified="2020-01-30T16:50:28.991Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="NYGIY5safBi1AWmc0Wl4" version="12.6.1" type="github" pages="8">
   <diagram id="pgKuPr49PQANVNS3kX-P" name="01 - int">
     <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -54,8 +54,8 @@
       <root>
         <mxCell id="bgyKG9x5nBEy4KhBRUnX-0"/>
         <mxCell id="bgyKG9x5nBEy4KhBRUnX-1" parent="bgyKG9x5nBEy4KhBRUnX-0"/>
-        <mxCell id="bgyKG9x5nBEy4KhBRUnX-2" value="Root URL:&lt;br style=&quot;font-size: 14px&quot;&gt;https://api.angular-email.com&lt;br&gt;test10@angular-email.com" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="bgyKG9x5nBEy4KhBRUnX-1">
-          <mxGeometry x="470" y="180" width="480" height="70" as="geometry"/>
+        <mxCell id="bgyKG9x5nBEy4KhBRUnX-2" value="Root URL:&lt;br style=&quot;font-size: 14px&quot;&gt;https://api.angular-email.com" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="bgyKG9x5nBEy4KhBRUnX-1">
+          <mxGeometry x="470" y="190" width="480" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="bgyKG9x5nBEy4KhBRUnX-3" value="/emails" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="bgyKG9x5nBEy4KhBRUnX-1">
           <mxGeometry x="400" y="280" width="140" height="60" as="geometry"/>
@@ -99,7 +99,7 @@
         <mxCell id="bgyKG9x5nBEy4KhBRUnX-16" value="POST" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="bgyKG9x5nBEy4KhBRUnX-1">
           <mxGeometry x="540" y="400" width="80" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="bgyKG9x5nBEy4KhBRUnX-17" value="{&lt;br style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp; &amp;nbsp;subject: string; &lt;br style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp; &amp;nbsp;text: string;&lt;br style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp; &amp;nbsp;to: string; &lt;br style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp; &amp;nbsp;from: string;&lt;br style=&quot;font-size: 8px;&quot;&gt;}" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;align=left;" vertex="1" parent="bgyKG9x5nBEy4KhBRUnX-1">
+        <mxCell id="bgyKG9x5nBEy4KhBRUnX-17" value="{&lt;br style=&quot;font-size: 8px&quot;&gt;&amp;nbsp; &amp;nbsp;subject: string; &lt;br style=&quot;font-size: 8px&quot;&gt;&amp;nbsp; &amp;nbsp;text: string;&lt;br style=&quot;font-size: 8px&quot;&gt;&amp;nbsp; &amp;nbsp;to: string; &lt;br style=&quot;font-size: 8px&quot;&gt;}" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;align=left;" vertex="1" parent="bgyKG9x5nBEy4KhBRUnX-1">
           <mxGeometry x="620" y="400" width="200" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="bgyKG9x5nBEy4KhBRUnX-18" value="Sends an email" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;" vertex="1" parent="bgyKG9x5nBEy4KhBRUnX-1">
