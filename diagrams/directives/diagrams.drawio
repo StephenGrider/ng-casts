@@ -1,0 +1,66 @@
+<mxfile host="www.draw.io" modified="2020-01-01T18:39:20.695Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="a9rMCSlnYi4CGDXwLaQN" version="12.4.8" type="github" pages="2">
+  <diagram id="UEoElqMM8nOZAR1GdDQu" name="02 - directives">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="0-04opLrGH_8ggYGATe3-0"/>
+        <mxCell id="0-04opLrGH_8ggYGATe3-1" parent="0-04opLrGH_8ggYGATe3-0"/>
+        <mxCell id="0-04opLrGH_8ggYGATe3-2" value="&lt;b style=&quot;font-size: 24px;&quot;&gt;Directives&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="0-04opLrGH_8ggYGATe3-1">
+          <mxGeometry x="640" y="80" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="0-04opLrGH_8ggYGATe3-3" value="Can be used to modify the structure or properties of HTML elements" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="0-04opLrGH_8ggYGATe3-1">
+          <mxGeometry x="435" y="110" width="450" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="0-04opLrGH_8ggYGATe3-4" value="Used only in a template" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="0-04opLrGH_8ggYGATe3-1">
+          <mxGeometry x="435" y="170" width="450" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="0-04opLrGH_8ggYGATe3-5" value="Some built into Angular (angular.io/api?type=directive)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="0-04opLrGH_8ggYGATe3-1">
+          <mxGeometry x="435" y="230" width="450" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="0-04opLrGH_8ggYGATe3-6" value="We can build them on our own too!" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="0-04opLrGH_8ggYGATe3-1">
+          <mxGeometry x="435" y="290" width="450" height="50" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Rs8MqEs8put_HeRDnSsW" name="01 - directives">
+    <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="z5f2V-EEiVEmC1NtAZHZ-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="110" width="550" height="400" as="geometry"/>
+        </mxCell>
+        <mxCell id="z5f2V-EEiVEmC1NtAZHZ-2" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="z5f2V-EEiVEmC1NtAZHZ-1">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="z5f2V-EEiVEmC1NtAZHZ-3" value="https://www.draw.io" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="z5f2V-EEiVEmC1NtAZHZ-1">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="z5f2V-EEiVEmC1NtAZHZ-4" value="Prev" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="z5f2V-EEiVEmC1NtAZHZ-1">
+          <mxGeometry x="155" y="130" width="40" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="z5f2V-EEiVEmC1NtAZHZ-5" value="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="z5f2V-EEiVEmC1NtAZHZ-1">
+          <mxGeometry x="195" y="130" width="40" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="z5f2V-EEiVEmC1NtAZHZ-6" value="2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="z5f2V-EEiVEmC1NtAZHZ-1">
+          <mxGeometry x="235" y="130" width="40" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="z5f2V-EEiVEmC1NtAZHZ-7" value="3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="z5f2V-EEiVEmC1NtAZHZ-1">
+          <mxGeometry x="275" y="130" width="40" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="z5f2V-EEiVEmC1NtAZHZ-8" value="4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="z5f2V-EEiVEmC1NtAZHZ-1">
+          <mxGeometry x="315" y="130" width="40" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="z5f2V-EEiVEmC1NtAZHZ-10" value="Next" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="z5f2V-EEiVEmC1NtAZHZ-1">
+          <mxGeometry x="355" y="130" width="40" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="z5f2V-EEiVEmC1NtAZHZ-13" value="&lt;b&gt;At the Beach&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="z5f2V-EEiVEmC1NtAZHZ-1">
+          <mxGeometry x="155" y="170" width="105" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="z5f2V-EEiVEmC1NtAZHZ-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/freecns-cumulus/16/519587-084_Photo-128.png;align=left;" vertex="1" parent="z5f2V-EEiVEmC1NtAZHZ-1">
+          <mxGeometry x="200" y="200" width="150" height="150" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

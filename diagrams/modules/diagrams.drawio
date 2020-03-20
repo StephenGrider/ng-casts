@@ -1,0 +1,72 @@
+<mxfile host="www.draw.io" modified="2020-01-07T17:57:41.593Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="C-xpUVi5KNIUrfpJ2eLy" version="12.4.8" type="github" pages="2">
+  <diagram id="x_4apJQEi52doF5WXHpw" name="01 - modules">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="gnKHMhFr_9-bj2nkDw1O-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="480" y="240" width="250" height="180" as="geometry"/>
+        </mxCell>
+        <mxCell id="gnKHMhFr_9-bj2nkDw1O-2" value="&lt;b style=&quot;font-size: 21px;&quot;&gt;App Module&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="536.25" y="247" width="137.5" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="gnKHMhFr_9-bj2nkDw1O-3" value="Components" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="490" y="290" width="100" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="gnKHMhFr_9-bj2nkDw1O-4" value="Pipes" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="620" y="290" width="100" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="gnKHMhFr_9-bj2nkDw1O-5" value="Services" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="490" y="350" width="100" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="gnKHMhFr_9-bj2nkDw1O-6" value="Directives" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="620" y="350" width="100" height="50" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="x8Avf9U7yInbSvDMZ1w7" name="02 - modules">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="N1mYPOvygXWK5WIkBOHE-0"/>
+        <mxCell id="N1mYPOvygXWK5WIkBOHE-1" parent="N1mYPOvygXWK5WIkBOHE-0"/>
+        <mxCell id="HSq8DptVvLy567zDAd33-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="N1mYPOvygXWK5WIkBOHE-1">
+          <mxGeometry x="480" y="240" width="250" height="180" as="geometry"/>
+        </mxCell>
+        <mxCell id="HSq8DptVvLy567zDAd33-1" value="&lt;b style=&quot;font-size: 21px;&quot;&gt;App Module&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="N1mYPOvygXWK5WIkBOHE-1">
+          <mxGeometry x="536.25" y="247" width="137.5" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="HSq8DptVvLy567zDAd33-2" value="Components" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="N1mYPOvygXWK5WIkBOHE-1">
+          <mxGeometry x="490" y="290" width="100" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="HSq8DptVvLy567zDAd33-3" value="Pipes" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="N1mYPOvygXWK5WIkBOHE-1">
+          <mxGeometry x="620" y="290" width="100" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="HSq8DptVvLy567zDAd33-4" value="Services" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="N1mYPOvygXWK5WIkBOHE-1">
+          <mxGeometry x="490" y="350" width="100" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="HSq8DptVvLy567zDAd33-5" value="Directives" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="N1mYPOvygXWK5WIkBOHE-1">
+          <mxGeometry x="620" y="350" width="100" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="HSq8DptVvLy567zDAd33-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="N1mYPOvygXWK5WIkBOHE-1">
+          <mxGeometry x="780" y="240" width="250" height="180" as="geometry"/>
+        </mxCell>
+        <mxCell id="HSq8DptVvLy567zDAd33-7" value="&lt;b style=&quot;font-size: 21px;&quot;&gt;App Module&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="N1mYPOvygXWK5WIkBOHE-1">
+          <mxGeometry x="836.25" y="247" width="137.5" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="HSq8DptVvLy567zDAd33-8" value="Components" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="N1mYPOvygXWK5WIkBOHE-1">
+          <mxGeometry x="790" y="290" width="100" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="HSq8DptVvLy567zDAd33-9" value="Pipes" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="N1mYPOvygXWK5WIkBOHE-1">
+          <mxGeometry x="920" y="290" width="100" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="HSq8DptVvLy567zDAd33-10" value="Services" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="N1mYPOvygXWK5WIkBOHE-1">
+          <mxGeometry x="790" y="350" width="100" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="HSq8DptVvLy567zDAd33-11" value="Directives" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="N1mYPOvygXWK5WIkBOHE-1">
+          <mxGeometry x="920" y="350" width="100" height="50" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,739 @@
+<mxfile host="www.draw.io" modified="2019-12-14T17:45:14.644Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="F4V9cUs68l1-FV8G4PSy" version="12.4.1" type="github" pages="16">
+  <diagram id="0a6zaEy4hQcd1dX3Yh7J" name="01 - mockup">
+    <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="v3K4-PcLQ-oCou8yEQnk-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="120" width="550" height="450" as="geometry"/>
+        </mxCell>
+        <mxCell id="v3K4-PcLQ-oCou8yEQnk-2" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="v3K4-PcLQ-oCou8yEQnk-1">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="v3K4-PcLQ-oCou8yEQnk-3" value="https://www.draw.io" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="v3K4-PcLQ-oCou8yEQnk-1">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="1EFhzTAxCd6CFpIuruMq-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="v3K4-PcLQ-oCou8yEQnk-1">
+          <mxGeometry x="175" y="180" width="200" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="1EFhzTAxCd6CFpIuruMq-2" value="Password Generator" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="v3K4-PcLQ-oCou8yEQnk-1">
+          <mxGeometry x="182.5" y="120" width="185" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="1EFhzTAxCd6CFpIuruMq-3" value="Length" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="v3K4-PcLQ-oCou8yEQnk-1">
+          <mxGeometry x="175" y="158" width="85" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="1EFhzTAxCd6CFpIuruMq-8" value="Use Letters" style="html=1;shadow=0;dashed=0;shape=mxgraph.atlassian.checkbox_2;fillColor=#0057D8;strokeColor=none;align=left;verticalAlign=middle;fontStyle=0;fontSize=12;labelPosition=right;verticalLabelPosition=middle;spacingLeft=10;rounded=0;" vertex="1" parent="v3K4-PcLQ-oCou8yEQnk-1">
+          <mxGeometry x="175" y="230" width="12" height="12" as="geometry"/>
+        </mxCell>
+        <mxCell id="1EFhzTAxCd6CFpIuruMq-9" value="Use Numbers" style="html=1;shadow=0;dashed=0;shape=mxgraph.atlassian.checkbox_2;fillColor=#0057D8;strokeColor=none;align=left;verticalAlign=middle;fontStyle=0;fontSize=12;labelPosition=right;verticalLabelPosition=middle;spacingLeft=10;rounded=0;" vertex="1" parent="v3K4-PcLQ-oCou8yEQnk-1">
+          <mxGeometry x="175" y="250" width="12" height="12" as="geometry"/>
+        </mxCell>
+        <mxCell id="1EFhzTAxCd6CFpIuruMq-10" value="Use Symbols" style="html=1;shadow=0;dashed=0;shape=mxgraph.atlassian.checkbox_2;fillColor=#0057D8;strokeColor=none;align=left;verticalAlign=middle;fontStyle=0;fontSize=12;labelPosition=right;verticalLabelPosition=middle;spacingLeft=10;rounded=0;" vertex="1" parent="v3K4-PcLQ-oCou8yEQnk-1">
+          <mxGeometry x="175" y="270" width="12" height="12" as="geometry"/>
+        </mxCell>
+        <mxCell id="1EFhzTAxCd6CFpIuruMq-11" value="Generate!" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="v3K4-PcLQ-oCou8yEQnk-1">
+          <mxGeometry x="175" y="300" width="200" height="30" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="02 - gen" id="df3168ATmbm6bagnnlh3">
+    <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="D12e6ncyG6JupUvv1sWg-0"/>
+        <mxCell id="D12e6ncyG6JupUvv1sWg-1" parent="D12e6ncyG6JupUvv1sWg-0"/>
+        <mxCell id="D12e6ncyG6JupUvv1sWg-2" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="D12e6ncyG6JupUvv1sWg-1">
+          <mxGeometry x="370" y="120" width="550" height="450" as="geometry"/>
+        </mxCell>
+        <mxCell id="D12e6ncyG6JupUvv1sWg-3" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="D12e6ncyG6JupUvv1sWg-2">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="D12e6ncyG6JupUvv1sWg-4" value="https://www.draw.io" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="D12e6ncyG6JupUvv1sWg-2">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="D12e6ncyG6JupUvv1sWg-5" value="10" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=left;" vertex="1" parent="D12e6ncyG6JupUvv1sWg-2">
+          <mxGeometry x="175" y="180" width="200" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="D12e6ncyG6JupUvv1sWg-6" value="Password Generator" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="D12e6ncyG6JupUvv1sWg-2">
+          <mxGeometry x="182.5" y="120" width="185" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="D12e6ncyG6JupUvv1sWg-7" value="Length" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="D12e6ncyG6JupUvv1sWg-2">
+          <mxGeometry x="175" y="158" width="85" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="D12e6ncyG6JupUvv1sWg-8" value="Use Letters" style="html=1;shadow=0;dashed=0;shape=mxgraph.atlassian.checkbox_2;fillColor=#0057D8;strokeColor=none;align=left;verticalAlign=middle;fontStyle=0;fontSize=12;labelPosition=right;verticalLabelPosition=middle;spacingLeft=10;rounded=0;" vertex="1" parent="D12e6ncyG6JupUvv1sWg-2">
+          <mxGeometry x="175" y="230" width="12" height="12" as="geometry"/>
+        </mxCell>
+        <mxCell id="D12e6ncyG6JupUvv1sWg-9" value="Use Numbers" style="html=1;shadow=0;dashed=0;shape=mxgraph.atlassian.checkbox_2;fillColor=#0057D8;strokeColor=none;align=left;verticalAlign=middle;fontStyle=0;fontSize=12;labelPosition=right;verticalLabelPosition=middle;spacingLeft=10;rounded=0;" vertex="1" parent="D12e6ncyG6JupUvv1sWg-2">
+          <mxGeometry x="175" y="250" width="12" height="12" as="geometry"/>
+        </mxCell>
+        <mxCell id="D12e6ncyG6JupUvv1sWg-10" value="Use Symbols" style="html=1;shadow=0;dashed=0;shape=mxgraph.atlassian.checkbox_2;fillColor=#0057D8;strokeColor=none;align=left;verticalAlign=middle;fontStyle=0;fontSize=12;labelPosition=right;verticalLabelPosition=middle;spacingLeft=10;rounded=0;" vertex="1" parent="D12e6ncyG6JupUvv1sWg-2">
+          <mxGeometry x="175" y="270" width="12" height="12" as="geometry"/>
+        </mxCell>
+        <mxCell id="D12e6ncyG6JupUvv1sWg-11" value="Generate!" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="D12e6ncyG6JupUvv1sWg-2">
+          <mxGeometry x="175" y="300" width="200" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="D12e6ncyG6JupUvv1sWg-12" value="&amp;nbsp;qc8!7(3@sr" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=left;" vertex="1" parent="D12e6ncyG6JupUvv1sWg-2">
+          <mxGeometry x="175" y="372" width="200" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="D12e6ncyG6JupUvv1sWg-13" value="Your Password" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="D12e6ncyG6JupUvv1sWg-2">
+          <mxGeometry x="175" y="350" width="125" height="20" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="-ZkwR2P9OjXh4PzewFXj" name="02 - generating">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="kEwo4QacPVAchkiQdHsH-0"/>
+        <mxCell id="kEwo4QacPVAchkiQdHsH-1" parent="kEwo4QacPVAchkiQdHsH-0"/>
+        <mxCell id="kEwo4QacPVAchkiQdHsH-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=30;" edge="1" parent="kEwo4QacPVAchkiQdHsH-1" source="kEwo4QacPVAchkiQdHsH-3" target="kEwo4QacPVAchkiQdHsH-5">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="kEwo4QacPVAchkiQdHsH-3" value="ng new &amp;lt;app name&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=30;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="kEwo4QacPVAchkiQdHsH-1">
+          <mxGeometry x="500" y="230" width="480" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="kEwo4QacPVAchkiQdHsH-4" value="Generating a New Project" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=15;fontStyle=1" vertex="1" parent="kEwo4QacPVAchkiQdHsH-1">
+          <mxGeometry x="640" y="200" width="200" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="kEwo4QacPVAchkiQdHsH-5" value="ng new cards" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=22;align=center;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=0;fontColor=#333333;" vertex="1" parent="kEwo4QacPVAchkiQdHsH-1">
+          <mxGeometry x="607.5" y="330" width="265" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="kEwo4QacPVAchkiQdHsH-6" value="ng new blog" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=22;align=center;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=0;fontColor=#333333;" vertex="1" parent="kEwo4QacPVAchkiQdHsH-1">
+          <mxGeometry x="607.5" y="370" width="265" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="kEwo4QacPVAchkiQdHsH-7" value="ng new twitter" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=22;align=center;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=0;fontColor=#333333;" vertex="1" parent="kEwo4QacPVAchkiQdHsH-1">
+          <mxGeometry x="607.5" y="410" width="265" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="kEwo4QacPVAchkiQdHsH-8" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;shadow=0;fontSize=22;align=center;rotation=-180;" vertex="1" parent="kEwo4QacPVAchkiQdHsH-1">
+          <mxGeometry x="880" y="330" width="20" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="kEwo4QacPVAchkiQdHsH-9" value="&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;Examples&lt;/i&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=15;fontStyle=1" vertex="1" parent="kEwo4QacPVAchkiQdHsH-1">
+          <mxGeometry x="900" y="380" width="80" height="20" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="tauKAf5GvG1MptK3HvOZ" name="03 - start">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="e8RzoAW1TilJMhRBiv7E-0"/>
+        <mxCell id="e8RzoAW1TilJMhRBiv7E-1" parent="e8RzoAW1TilJMhRBiv7E-0"/>
+        <mxCell id="e8RzoAW1TilJMhRBiv7E-2" value="npm start" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=30;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="e8RzoAW1TilJMhRBiv7E-1">
+          <mxGeometry x="500" y="230" width="480" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="e8RzoAW1TilJMhRBiv7E-3" value="Starting an Angular Project" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=15;fontStyle=1" vertex="1" parent="e8RzoAW1TilJMhRBiv7E-1">
+          <mxGeometry x="640" y="200" width="200" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="e8RzoAW1TilJMhRBiv7E-4" value="&lt;i&gt;or&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=15;fontStyle=1" vertex="1" parent="e8RzoAW1TilJMhRBiv7E-1">
+          <mxGeometry x="640" y="295" width="200" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="e8RzoAW1TilJMhRBiv7E-5" value="ng serve" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=30;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="e8RzoAW1TilJMhRBiv7E-1">
+          <mxGeometry x="500" y="320" width="480" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="VkiGQggyiZHFAnUU2PRt" name="04 -stop">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="bwjWbr0w10KBlKLQV_8o-0"/>
+        <mxCell id="bwjWbr0w10KBlKLQV_8o-1" parent="bwjWbr0w10KBlKLQV_8o-0"/>
+        <mxCell id="bwjWbr0w10KBlKLQV_8o-2" value="Stopping an Angular Project" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=15;fontStyle=1" vertex="1" parent="bwjWbr0w10KBlKLQV_8o-1">
+          <mxGeometry x="590" y="200" width="290" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="bwjWbr0w10KBlKLQV_8o-3" value="Control C" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=30;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="bwjWbr0w10KBlKLQV_8o-1">
+          <mxGeometry x="535" y="230" width="400" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="aJCwfeJ_XCzoR2EScJik" name="05 - comp">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="t1_MEHv6XdMi_s8i_Gs--0"/>
+        <mxCell id="t1_MEHv6XdMi_s8i_Gs--1" parent="t1_MEHv6XdMi_s8i_Gs--0"/>
+        <mxCell id="t1_MEHv6XdMi_s8i_Gs--10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="t1_MEHv6XdMi_s8i_Gs--1" source="t1_MEHv6XdMi_s8i_Gs--2" target="t1_MEHv6XdMi_s8i_Gs--5">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="t1_MEHv6XdMi_s8i_Gs--2" value="Component &lt;b&gt;Class&lt;br&gt;&lt;/b&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="t1_MEHv6XdMi_s8i_Gs--1">
+          <mxGeometry x="410" y="270" width="140" height="190" as="geometry"/>
+        </mxCell>
+        <mxCell id="t1_MEHv6XdMi_s8i_Gs--4" value="&lt;i&gt;app.component.ts&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="t1_MEHv6XdMi_s8i_Gs--1">
+          <mxGeometry x="460" y="410" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="t1_MEHv6XdMi_s8i_Gs--12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="t1_MEHv6XdMi_s8i_Gs--1" source="t1_MEHv6XdMi_s8i_Gs--5" target="t1_MEHv6XdMi_s8i_Gs--2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="t1_MEHv6XdMi_s8i_Gs--5" value="Component &lt;b&gt;Template&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="t1_MEHv6XdMi_s8i_Gs--1">
+          <mxGeometry x="850" y="270" width="140" height="190" as="geometry"/>
+        </mxCell>
+        <mxCell id="t1_MEHv6XdMi_s8i_Gs--8" value="&lt;i&gt;app.component.html&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="t1_MEHv6XdMi_s8i_Gs--1">
+          <mxGeometry x="900" y="410" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="t1_MEHv6XdMi_s8i_Gs--11" value="Puts data into the template using &lt;i style=&quot;font-size: 12px;&quot;&gt;template expressions&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="t1_MEHv6XdMi_s8i_Gs--1">
+          <mxGeometry x="620" y="267" width="160" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="t1_MEHv6XdMi_s8i_Gs--13" value="Template tells the component class about events using &lt;i&gt;template statements&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="t1_MEHv6XdMi_s8i_Gs--1">
+          <mxGeometry x="620" y="413" width="160" height="50" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="t_MxfReOixAy8ZWsB-s9" name="07 - event">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="y0Z6RxN4GfncM5O6bKpv-0"/>
+        <mxCell id="y0Z6RxN4GfncM5O6bKpv-1" parent="y0Z6RxN4GfncM5O6bKpv-0"/>
+        <mxCell id="y0Z6RxN4GfncM5O6bKpv-2" value="&amp;lt;button (&lt;b&gt;click&lt;/b&gt;)=&quot;&lt;b&gt;onButtonClick()&lt;/b&gt;&quot;&amp;gt;&amp;lt;/button&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=16;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="y0Z6RxN4GfncM5O6bKpv-1">
+          <mxGeometry x="430" y="300" width="520" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="y0Z6RxN4GfncM5O6bKpv-9" value="What to do when the button gets clicked.&amp;nbsp; Evaluated as CODE!" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=16;fontStyle=2" vertex="1" parent="y0Z6RxN4GfncM5O6bKpv-1">
+          <mxGeometry x="626" y="400" width="166" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="y0Z6RxN4GfncM5O6bKpv-13" value="Name of the event we want to watch for" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=16;fontStyle=2" vertex="1" parent="y0Z6RxN4GfncM5O6bKpv-1">
+          <mxGeometry x="533" y="249" width="155" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="y0Z6RxN4GfncM5O6bKpv-14" value="Event Binding Syntax" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=14;align=center;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" vertex="1" parent="y0Z6RxN4GfncM5O6bKpv-1">
+          <mxGeometry x="760" y="170" width="190" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="y0Z6RxN4GfncM5O6bKpv-8" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;fillColor=none;fontSize=16;align=center;rotation=-90;" vertex="1" parent="y0Z6RxN4GfncM5O6bKpv-1">
+          <mxGeometry x="684" y="307" width="50" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="y0Z6RxN4GfncM5O6bKpv-10" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;fillColor=none;fontSize=16;align=center;rotation=90;size=0.45;" vertex="1" parent="y0Z6RxN4GfncM5O6bKpv-1">
+          <mxGeometry x="588" y="278" width="45" height="40" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="z6DrbV9RpkdqnTAJ6hFH" name="08 - prop">
+    <mxGraphModel dx="670" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="vcee-xeQfYaakjyvFf9r-0"/>
+        <mxCell id="vcee-xeQfYaakjyvFf9r-1" parent="vcee-xeQfYaakjyvFf9r-0"/>
+        <mxCell id="tW5pk-a29z58LoEafp0n-0" value="&amp;lt;input [&lt;b&gt;value&lt;/b&gt;]=&quot;&lt;b&gt;password&lt;/b&gt;&quot;&amp;gt;&amp;lt;/button&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=16;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="vcee-xeQfYaakjyvFf9r-1">
+          <mxGeometry x="430" y="300" width="520" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="tW5pk-a29z58LoEafp0n-1" value="Name of the property in our class to put here.&amp;nbsp; Evaluated as code!!!" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=16;fontStyle=2" vertex="1" parent="vcee-xeQfYaakjyvFf9r-1">
+          <mxGeometry x="611" y="403" width="188" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="tW5pk-a29z58LoEafp0n-2" value="Name of the property we want to set on this element" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=16;fontStyle=2" vertex="1" parent="vcee-xeQfYaakjyvFf9r-1">
+          <mxGeometry x="548" y="240" width="155" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="tW5pk-a29z58LoEafp0n-3" value="Property Binding Syntax" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=14;align=center;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" vertex="1" parent="vcee-xeQfYaakjyvFf9r-1">
+          <mxGeometry x="760" y="170" width="190" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="tW5pk-a29z58LoEafp0n-4" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;fillColor=none;fontSize=16;align=center;rotation=-90;" vertex="1" parent="vcee-xeQfYaakjyvFf9r-1">
+          <mxGeometry x="681" y="332" width="50" height="71" as="geometry"/>
+        </mxCell>
+        <mxCell id="tW5pk-a29z58LoEafp0n-5" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;fillColor=none;fontSize=16;align=center;rotation=90;size=0.45;" vertex="1" parent="vcee-xeQfYaakjyvFf9r-1">
+          <mxGeometry x="605" y="278" width="45" height="40" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="nvQ3yyL4CqmvTGPk0FcQ" name="10 - traditional js">
+    <mxGraphModel dx="670" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="CZIfyaiNJy9VO-8NQMic-0"/>
+        <mxCell id="CZIfyaiNJy9VO-8NQMic-1" parent="CZIfyaiNJy9VO-8NQMic-0"/>
+        <mxCell id="CZIfyaiNJy9VO-8NQMic-2" value="User enters a password length" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;" vertex="1" parent="CZIfyaiNJy9VO-8NQMic-1">
+          <mxGeometry x="540" y="180" width="350" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="CZIfyaiNJy9VO-8NQMic-3" value="Traditional JS-Only Approach" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="CZIfyaiNJy9VO-8NQMic-1">
+          <mxGeometry x="592.5" y="150" width="245" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="CZIfyaiNJy9VO-8NQMic-4" value="User selects &#39;Include Letters&#39;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;" vertex="1" parent="CZIfyaiNJy9VO-8NQMic-1">
+          <mxGeometry x="540" y="220" width="350" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="CZIfyaiNJy9VO-8NQMic-5" value="User clicks &#39;Generate&#39; button" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;" vertex="1" parent="CZIfyaiNJy9VO-8NQMic-1">
+          <mxGeometry x="540" y="260" width="350" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="CZIfyaiNJy9VO-8NQMic-6" value="We read the value of &#39;password length&#39; input" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;" vertex="1" parent="CZIfyaiNJy9VO-8NQMic-1">
+          <mxGeometry x="540" y="300" width="350" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="CZIfyaiNJy9VO-8NQMic-7" value="We read the value of all three checkboxes" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;" vertex="1" parent="CZIfyaiNJy9VO-8NQMic-1">
+          <mxGeometry x="540" y="340" width="350" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="CZIfyaiNJy9VO-8NQMic-8" value="We generate a random password" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;" vertex="1" parent="CZIfyaiNJy9VO-8NQMic-1">
+          <mxGeometry x="540" y="380" width="350" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="CZIfyaiNJy9VO-8NQMic-9" value="We throw the password in the &#39;output&#39; input" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;" vertex="1" parent="CZIfyaiNJy9VO-8NQMic-1">
+          <mxGeometry x="540" y="420" width="350" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="CZIfyaiNJy9VO-8NQMic-10" value="" style="endArrow=classic;html=1;fontSize=13;" edge="1" parent="CZIfyaiNJy9VO-8NQMic-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="533" y="180" as="sourcePoint"/>
+            <mxPoint x="533" y="450" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="11 - ng" id="obPtB7KeN3oVRx_75dow">
+    <mxGraphModel dx="670" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="cEq8yHbpa6lBCi772YVR-0"/>
+        <mxCell id="cEq8yHbpa6lBCi772YVR-1" parent="cEq8yHbpa6lBCi772YVR-0"/>
+        <mxCell id="cEq8yHbpa6lBCi772YVR-2" value="User enters a password length" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="cEq8yHbpa6lBCi772YVR-1">
+          <mxGeometry x="540" y="180" width="350" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="cEq8yHbpa6lBCi772YVR-3" value="Angular Approach" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="cEq8yHbpa6lBCi772YVR-1">
+          <mxGeometry x="592.5" y="150" width="245" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="cEq8yHbpa6lBCi772YVR-4" value="Event handler triggered, we store the value as a &lt;i style=&quot;font-size: 12px;&quot;&gt;property&lt;/i&gt;&amp;nbsp;on our component class instance" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="cEq8yHbpa6lBCi772YVR-1">
+          <mxGeometry x="540" y="220" width="350" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="cEq8yHbpa6lBCi772YVR-5" value="User checks the &#39;Include Letters&#39; checkbox" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="cEq8yHbpa6lBCi772YVR-1">
+          <mxGeometry x="540" y="260" width="350" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="cEq8yHbpa6lBCi772YVR-6" value="Event handler triggered, we store the value as a &lt;i&gt;property&lt;/i&gt;&amp;nbsp;on our component class instance" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="cEq8yHbpa6lBCi772YVR-1">
+          <mxGeometry x="540" y="300" width="350" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="cEq8yHbpa6lBCi772YVR-7" value="User clicks the &#39;Generate&#39; button" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="cEq8yHbpa6lBCi772YVR-1">
+          <mxGeometry x="540" y="340" width="350" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="uxxkwgZD-lmoTrtV733m-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="cEq8yHbpa6lBCi772YVR-1" source="cEq8yHbpa6lBCi772YVR-8" target="cEq8yHbpa6lBCi772YVR-6">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="uxxkwgZD-lmoTrtV733m-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="cEq8yHbpa6lBCi772YVR-1" source="cEq8yHbpa6lBCi772YVR-8" target="cEq8yHbpa6lBCi772YVR-4">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="cEq8yHbpa6lBCi772YVR-8" value="Event handler triggered, we generate a password using the properties collected earlier" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="cEq8yHbpa6lBCi772YVR-1">
+          <mxGeometry x="540" y="380" width="350" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="cEq8yHbpa6lBCi772YVR-9" value="We update a &#39;password&#39; property on the component class instance, which causes an update of the &#39;output&#39; input" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="cEq8yHbpa6lBCi772YVR-1">
+          <mxGeometry x="540" y="420" width="350" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="cEq8yHbpa6lBCi772YVR-10" value="" style="endArrow=classic;html=1;fontSize=13;" edge="1" parent="cEq8yHbpa6lBCi772YVR-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="533" y="180" as="sourcePoint"/>
+            <mxPoint x="533" y="450" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="12 - compare" id="-WIzjg7KBaj8plKUYXef">
+    <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="iuw4gxSDOid2lr3R7tPK-0"/>
+        <mxCell id="iuw4gxSDOid2lr3R7tPK-1" parent="iuw4gxSDOid2lr3R7tPK-0"/>
+        <mxCell id="iuw4gxSDOid2lr3R7tPK-2" value="User enters a password length" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;" vertex="1" parent="iuw4gxSDOid2lr3R7tPK-1">
+          <mxGeometry x="540" y="180" width="350" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="iuw4gxSDOid2lr3R7tPK-3" value="Traditional JS-Only Approach" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="iuw4gxSDOid2lr3R7tPK-1">
+          <mxGeometry x="592.5" y="150" width="245" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="iuw4gxSDOid2lr3R7tPK-4" value="User selects &#39;Include Letters&#39;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;" vertex="1" parent="iuw4gxSDOid2lr3R7tPK-1">
+          <mxGeometry x="540" y="220" width="350" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="iuw4gxSDOid2lr3R7tPK-5" value="User clicks &#39;Generate&#39; button" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="iuw4gxSDOid2lr3R7tPK-1">
+          <mxGeometry x="540" y="260" width="350" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="iuw4gxSDOid2lr3R7tPK-6" value="We read the value of &#39;password length&#39; input" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="iuw4gxSDOid2lr3R7tPK-1">
+          <mxGeometry x="540" y="300" width="350" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="iuw4gxSDOid2lr3R7tPK-7" value="We read the value of all three checkboxes" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="iuw4gxSDOid2lr3R7tPK-1">
+          <mxGeometry x="540" y="340" width="350" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="iuw4gxSDOid2lr3R7tPK-8" value="We generate a random password" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;" vertex="1" parent="iuw4gxSDOid2lr3R7tPK-1">
+          <mxGeometry x="540" y="380" width="350" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="iuw4gxSDOid2lr3R7tPK-9" value="We throw the password in the &#39;output&#39; input" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;" vertex="1" parent="iuw4gxSDOid2lr3R7tPK-1">
+          <mxGeometry x="540" y="420" width="350" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="iuw4gxSDOid2lr3R7tPK-10" value="" style="endArrow=classic;html=1;fontSize=13;" edge="1" parent="iuw4gxSDOid2lr3R7tPK-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="533" y="180" as="sourcePoint"/>
+            <mxPoint x="533" y="450" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TlPnMGS7_lltnwMoi6Jn-0" value="User enters a password length" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="iuw4gxSDOid2lr3R7tPK-1">
+          <mxGeometry x="1107" y="180" width="350" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="TlPnMGS7_lltnwMoi6Jn-1" value="Angular Approach" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="iuw4gxSDOid2lr3R7tPK-1">
+          <mxGeometry x="1159.5" y="150" width="245" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="TlPnMGS7_lltnwMoi6Jn-2" value="Event handler triggered, we store the value as a &lt;i style=&quot;font-size: 12px;&quot;&gt;property&lt;/i&gt;&amp;nbsp;on our component class instance" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="iuw4gxSDOid2lr3R7tPK-1">
+          <mxGeometry x="1107" y="220" width="350" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="TlPnMGS7_lltnwMoi6Jn-3" value="User checks the &#39;Include Letters&#39; checkbox" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="iuw4gxSDOid2lr3R7tPK-1">
+          <mxGeometry x="1107" y="260" width="350" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="TlPnMGS7_lltnwMoi6Jn-4" value="Event handler triggered, we store the value as a &lt;i&gt;property&lt;/i&gt;&amp;nbsp;on our component class instance" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="iuw4gxSDOid2lr3R7tPK-1">
+          <mxGeometry x="1107" y="300" width="350" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="TlPnMGS7_lltnwMoi6Jn-5" value="User clicks the &#39;Generate&#39; button" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="iuw4gxSDOid2lr3R7tPK-1">
+          <mxGeometry x="1107" y="340" width="350" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="TlPnMGS7_lltnwMoi6Jn-6" value="Event handler triggered, we generate a password using the properties collected earlier" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="iuw4gxSDOid2lr3R7tPK-1">
+          <mxGeometry x="1107" y="380" width="350" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="TlPnMGS7_lltnwMoi6Jn-7" value="We update a &#39;password&#39; property on the component class instance, which causes an update of the &#39;output&#39; input" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="iuw4gxSDOid2lr3R7tPK-1">
+          <mxGeometry x="1107" y="420" width="350" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="TlPnMGS7_lltnwMoi6Jn-8" value="" style="endArrow=classic;html=1;fontSize=13;" edge="1" parent="iuw4gxSDOid2lr3R7tPK-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1100" y="180" as="sourcePoint"/>
+            <mxPoint x="1100" y="450" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TlPnMGS7_lltnwMoi6Jn-9" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontSize=12;align=center;rotation=-180;" vertex="1" parent="iuw4gxSDOid2lr3R7tPK-1">
+          <mxGeometry x="900" y="300" width="20" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="TlPnMGS7_lltnwMoi6Jn-10" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontSize=12;align=center;rotation=0;" vertex="1" parent="iuw4gxSDOid2lr3R7tPK-1">
+          <mxGeometry x="1070" y="220" width="20" height="110" as="geometry"/>
+        </mxCell>
+        <mxCell id="TlPnMGS7_lltnwMoi6Jn-11" value="Pull information out of the DOM" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="iuw4gxSDOid2lr3R7tPK-1">
+          <mxGeometry x="920" y="325" width="110" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="TlPnMGS7_lltnwMoi6Jn-12" value="Get information out of events" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="iuw4gxSDOid2lr3R7tPK-1">
+          <mxGeometry x="960" y="265" width="110" height="20" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="13 - todo" id="URatXhZ6cYIShlshccn1">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="SVlPzd1m87uEmh-MvZAj-0"/>
+        <mxCell id="SVlPzd1m87uEmh-MvZAj-1" parent="SVlPzd1m87uEmh-MvZAj-0"/>
+        <mxCell id="SVlPzd1m87uEmh-MvZAj-2" value="User enters a password length" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="SVlPzd1m87uEmh-MvZAj-1">
+          <mxGeometry x="540" y="180" width="350" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="SVlPzd1m87uEmh-MvZAj-3" value="Angular Approach" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="SVlPzd1m87uEmh-MvZAj-1">
+          <mxGeometry x="592.5" y="150" width="245" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="SVlPzd1m87uEmh-MvZAj-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=13;" edge="1" parent="SVlPzd1m87uEmh-MvZAj-1" source="SVlPzd1m87uEmh-MvZAj-4" target="SVlPzd1m87uEmh-MvZAj-11">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="SVlPzd1m87uEmh-MvZAj-4" value="Event handler triggered, we store the value as a &lt;i style=&quot;font-size: 12px;&quot;&gt;property&lt;/i&gt;&amp;nbsp;on our component class instance" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="SVlPzd1m87uEmh-MvZAj-1">
+          <mxGeometry x="540" y="220" width="350" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="SVlPzd1m87uEmh-MvZAj-5" value="User checks the &#39;Include Letters&#39; checkbox" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="SVlPzd1m87uEmh-MvZAj-1">
+          <mxGeometry x="540" y="260" width="350" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="SVlPzd1m87uEmh-MvZAj-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=13;" edge="1" parent="SVlPzd1m87uEmh-MvZAj-1" source="SVlPzd1m87uEmh-MvZAj-6" target="SVlPzd1m87uEmh-MvZAj-15">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="SVlPzd1m87uEmh-MvZAj-6" value="Event handler triggered, we store the value as a &lt;i&gt;property&lt;/i&gt;&amp;nbsp;on our component class instance" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="SVlPzd1m87uEmh-MvZAj-1">
+          <mxGeometry x="540" y="300" width="350" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="SVlPzd1m87uEmh-MvZAj-7" value="User clicks the &#39;Generate&#39; button" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="SVlPzd1m87uEmh-MvZAj-1">
+          <mxGeometry x="540" y="340" width="350" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="SVlPzd1m87uEmh-MvZAj-8" value="Event handler triggered, we generate a password using the properties collected earlier" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="SVlPzd1m87uEmh-MvZAj-1">
+          <mxGeometry x="540" y="380" width="350" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="SVlPzd1m87uEmh-MvZAj-9" value="We update a &#39;password&#39; property on the component class instance, which causes an update of the &#39;output&#39; input" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="SVlPzd1m87uEmh-MvZAj-1">
+          <mxGeometry x="540" y="420" width="350" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="SVlPzd1m87uEmh-MvZAj-10" value="" style="endArrow=classic;html=1;fontSize=13;" edge="1" parent="SVlPzd1m87uEmh-MvZAj-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="533" y="180" as="sourcePoint"/>
+            <mxPoint x="533" y="450" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SVlPzd1m87uEmh-MvZAj-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="SVlPzd1m87uEmh-MvZAj-1" source="SVlPzd1m87uEmh-MvZAj-11" target="SVlPzd1m87uEmh-MvZAj-7">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="SVlPzd1m87uEmh-MvZAj-11" value="Need event handler to detect change + property on component class so the value can be used later" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="SVlPzd1m87uEmh-MvZAj-1">
+          <mxGeometry x="1100" y="270" width="120" height="65" as="geometry"/>
+        </mxCell>
+        <mxCell id="SVlPzd1m87uEmh-MvZAj-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="SVlPzd1m87uEmh-MvZAj-1" source="SVlPzd1m87uEmh-MvZAj-15" target="SVlPzd1m87uEmh-MvZAj-7">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="SVlPzd1m87uEmh-MvZAj-15" value="Need event handler to detect change + property on component class so the value can be used later" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="SVlPzd1m87uEmh-MvZAj-1">
+          <mxGeometry x="960" y="270" width="120" height="65" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="d36woS2vtdL17sw3hvnt" name="10 - css">
+    <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="F8v1XrB0IAUxi136D_gM-0"/>
+        <mxCell id="F8v1XrB0IAUxi136D_gM-1" parent="F8v1XrB0IAUxi136D_gM-0"/>
+        <mxCell id="F8v1XrB0IAUxi136D_gM-2" value="Styling&lt;br style=&quot;font-size: 27px&quot;&gt;&lt;br style=&quot;font-size: 27px&quot;&gt;&lt;br style=&quot;font-size: 27px&quot;&gt;&lt;br style=&quot;font-size: 27px&quot;&gt;&lt;br style=&quot;font-size: 27px&quot;&gt;&lt;br style=&quot;font-size: 27px&quot;&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=27;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="F8v1XrB0IAUxi136D_gM-1">
+          <mxGeometry x="890" y="260" width="210" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="F8v1XrB0IAUxi136D_gM-3" value="app.component.css" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=17;align=center;fontStyle=1" vertex="1" parent="F8v1XrB0IAUxi136D_gM-1">
+          <mxGeometry x="905" y="380" width="180" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="F8v1XrB0IAUxi136D_gM-4" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;fontSize=17;" vertex="1" parent="F8v1XrB0IAUxi136D_gM-1">
+          <mxGeometry x="370" y="140" width="400" height="390" as="geometry"/>
+        </mxCell>
+        <mxCell id="F8v1XrB0IAUxi136D_gM-5" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="F8v1XrB0IAUxi136D_gM-4">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="F8v1XrB0IAUxi136D_gM-6" value="https://www.draw.io" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="F8v1XrB0IAUxi136D_gM-4">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="F8v1XrB0IAUxi136D_gM-7" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=27;align=center;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="F8v1XrB0IAUxi136D_gM-4">
+          <mxGeometry x="100" y="240" width="200" height="140" as="geometry"/>
+        </mxCell>
+        <mxCell id="F8v1XrB0IAUxi136D_gM-8" value="Content created by app.component.html" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=19;fontStyle=2" vertex="1" parent="F8v1XrB0IAUxi136D_gM-4">
+          <mxGeometry x="110" y="260" width="180" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="F8v1XrB0IAUxi136D_gM-9" value="&lt;i style=&quot;font-size: 14px;&quot;&gt;Content created by some other component&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=14;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="F8v1XrB0IAUxi136D_gM-4">
+          <mxGeometry x="15" y="120" width="115" height="110" as="geometry"/>
+        </mxCell>
+        <mxCell id="F8v1XrB0IAUxi136D_gM-10" value="&lt;i style=&quot;font-size: 14px;&quot;&gt;Content created by some other component&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=14;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="F8v1XrB0IAUxi136D_gM-4">
+          <mxGeometry x="140" y="120" width="115" height="110" as="geometry"/>
+        </mxCell>
+        <mxCell id="F8v1XrB0IAUxi136D_gM-11" value="&lt;i style=&quot;font-size: 14px;&quot;&gt;Content created by some other component&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=14;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="F8v1XrB0IAUxi136D_gM-4">
+          <mxGeometry x="265" y="120" width="115" height="110" as="geometry"/>
+        </mxCell>
+        <mxCell id="F8v1XrB0IAUxi136D_gM-12" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;shadow=0;fontSize=14;align=center;rotation=-180;" vertex="1" parent="F8v1XrB0IAUxi136D_gM-1">
+          <mxGeometry x="1090" y="310" width="30" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="F8v1XrB0IAUxi136D_gM-13" value="CSS in here applies to &lt;i&gt;everything&lt;/i&gt;&amp;nbsp;in our app" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;" vertex="1" parent="F8v1XrB0IAUxi136D_gM-1">
+          <mxGeometry x="1120" y="330" width="130" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="F8v1XrB0IAUxi136D_gM-14" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;shadow=0;fontSize=14;align=center;rotation=-180;" vertex="1" parent="F8v1XrB0IAUxi136D_gM-1">
+          <mxGeometry x="1090" y="380" width="30" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="F8v1XrB0IAUxi136D_gM-15" value="CSS in here applies to &lt;i&gt;only&lt;/i&gt;&amp;nbsp;HTML created by the app.component.html file" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;" vertex="1" parent="F8v1XrB0IAUxi136D_gM-1">
+          <mxGeometry x="1120" y="400" width="170" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="F8v1XrB0IAUxi136D_gM-16" value="styles.css" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=17;align=center;fontStyle=1" vertex="1" parent="F8v1XrB0IAUxi136D_gM-1">
+          <mxGeometry x="905" y="310" width="180" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="bi5p9v7QAUsQrXbsIU9E" name="11 - directives">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="meaZ_57DcJmJa705T9yJ-0"/>
+        <mxCell id="meaZ_57DcJmJa705T9yJ-1" parent="meaZ_57DcJmJa705T9yJ-0"/>
+        <mxCell id="Mp9KZ7-73YU41jTFZCEl-0" value="Structural Directives" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=19;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="meaZ_57DcJmJa705T9yJ-1">
+          <mxGeometry x="490" y="250" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="Mp9KZ7-73YU41jTFZCEl-1" value="Adds or removes HTML elements" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;" vertex="1" parent="meaZ_57DcJmJa705T9yJ-1">
+          <mxGeometry x="650" y="270" width="120" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="Mp9KZ7-73YU41jTFZCEl-2" value="&amp;lt;div *ngIf=&quot;length&quot;&amp;gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;lt;p&amp;gt;Hidden if length is false&amp;lt;/p&amp;gt;&lt;br&gt;&amp;lt;/div&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=13;" vertex="1" parent="meaZ_57DcJmJa705T9yJ-1">
+          <mxGeometry x="800" y="270" width="230" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="Mp9KZ7-73YU41jTFZCEl-4" value="" style="endArrow=none;html=1;strokeWidth=1;fontSize=11;" edge="1" parent="meaZ_57DcJmJa705T9yJ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="240" as="sourcePoint"/>
+            <mxPoint x="1030" y="240" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mp9KZ7-73YU41jTFZCEl-5" value="" style="endArrow=none;html=1;strokeWidth=1;fontSize=11;" edge="1" parent="meaZ_57DcJmJa705T9yJ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="420" as="sourcePoint"/>
+            <mxPoint x="640" y="220" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mp9KZ7-73YU41jTFZCEl-6" value="&lt;b&gt;Name&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;" vertex="1" parent="meaZ_57DcJmJa705T9yJ-1">
+          <mxGeometry x="490" y="210" width="120" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="Mp9KZ7-73YU41jTFZCEl-7" value="&lt;b&gt;Purpose&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;" vertex="1" parent="meaZ_57DcJmJa705T9yJ-1">
+          <mxGeometry x="650" y="210" width="120" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="Mp9KZ7-73YU41jTFZCEl-8" value="&lt;b&gt;Example&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;" vertex="1" parent="meaZ_57DcJmJa705T9yJ-1">
+          <mxGeometry x="830" y="210" width="120" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="Mp9KZ7-73YU41jTFZCEl-10" value="" style="endArrow=none;html=1;strokeWidth=1;fontSize=11;" edge="1" parent="meaZ_57DcJmJa705T9yJ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="790" y="420" as="sourcePoint"/>
+            <mxPoint x="790" y="220" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mp9KZ7-73YU41jTFZCEl-12" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=1;fontSize=11;" edge="1" parent="meaZ_57DcJmJa705T9yJ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="320" as="sourcePoint"/>
+            <mxPoint x="1030" y="320" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mp9KZ7-73YU41jTFZCEl-13" value="Attribute Directives" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=19;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="meaZ_57DcJmJa705T9yJ-1">
+          <mxGeometry x="490" y="330" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="Mp9KZ7-73YU41jTFZCEl-14" value="Changes the properties of the HTML element it gets applied to" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;" vertex="1" parent="meaZ_57DcJmJa705T9yJ-1">
+          <mxGeometry x="650" y="350" width="120" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="Mp9KZ7-73YU41jTFZCEl-15" value="&amp;lt;label appStrikethrough&amp;gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;lt;input type=&quot;checkbox&quot; /&amp;gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &lt;strike&gt;Use Letters&lt;/strike&gt;&lt;br&gt;&amp;lt;/label&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=13;" vertex="1" parent="meaZ_57DcJmJa705T9yJ-1">
+          <mxGeometry x="800" y="350" width="210" height="20" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="bg9kfjAuEdT_FdDten-t" name="16 - deployment">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="yCOaRzB-dmLssU72JVTl-0"/>
+        <mxCell id="yCOaRzB-dmLssU72JVTl-1" parent="yCOaRzB-dmLssU72JVTl-0"/>
+        <mxCell id="yCOaRzB-dmLssU72JVTl-2" value="now.sh" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="yCOaRzB-dmLssU72JVTl-1">
+          <mxGeometry x="420" y="270" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="yCOaRzB-dmLssU72JVTl-5" value="Basic Deployment of Angular Apps" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontStyle=1" vertex="1" parent="yCOaRzB-dmLssU72JVTl-1">
+          <mxGeometry x="500" y="200" width="210" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="yCOaRzB-dmLssU72JVTl-8" value="Free, CLI-based deployments.&amp;nbsp; Automatically figures out how to build your app" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="yCOaRzB-dmLssU72JVTl-1">
+          <mxGeometry x="550" y="275" width="230" height="50" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="XLT8cmaX4ywRduTUFB4f" name="17 - cheatsheet">
+    <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="1gL8lv3WNlHqgJSZKmGG-0"/>
+        <mxCell id="1gL8lv3WNlHqgJSZKmGG-1" parent="1gL8lv3WNlHqgJSZKmGG-0"/>
+        <mxCell id="1gL8lv3WNlHqgJSZKmGG-2" value="app.component.ts" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=16;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1gL8lv3WNlHqgJSZKmGG-1">
+          <mxGeometry x="1159.5" y="358" width="200" height="38" as="geometry"/>
+        </mxCell>
+        <mxCell id="1gL8lv3WNlHqgJSZKmGG-3" value="&lt;span style=&quot;font-style: normal&quot;&gt;Type&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontSize=21;fontStyle=3" vertex="1" parent="1gL8lv3WNlHqgJSZKmGG-1">
+          <mxGeometry x="540" y="230" width="140" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="1gL8lv3WNlHqgJSZKmGG-5" value="&lt;span style=&quot;font-style: normal&quot;&gt;Purpose&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontSize=21;fontStyle=3" vertex="1" parent="1gL8lv3WNlHqgJSZKmGG-1">
+          <mxGeometry x="850" y="230" width="140" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="1gL8lv3WNlHqgJSZKmGG-6" value="" style="endArrow=none;html=1;fontSize=21;" edge="1" parent="1gL8lv3WNlHqgJSZKmGG-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="485" y="260" as="sourcePoint"/>
+            <mxPoint x="1380" y="260" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1gL8lv3WNlHqgJSZKmGG-7" value="Component Class" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=16;align=center;" vertex="1" parent="1gL8lv3WNlHqgJSZKmGG-1">
+          <mxGeometry x="510" y="358" width="200" height="38" as="geometry"/>
+        </mxCell>
+        <mxCell id="1gL8lv3WNlHqgJSZKmGG-8" value="" style="endArrow=none;html=1;fontSize=21;" edge="1" parent="1gL8lv3WNlHqgJSZKmGG-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="340" as="sourcePoint"/>
+            <mxPoint x="1380" y="340" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1gL8lv3WNlHqgJSZKmGG-9" value="Contains code to run when important events occur (like when a user clicks a button)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontSize=15;fontStyle=0" vertex="1" parent="1gL8lv3WNlHqgJSZKmGG-1">
+          <mxGeometry x="750" y="362" width="355" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="1gL8lv3WNlHqgJSZKmGG-10" value="app.component.html" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=16;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1gL8lv3WNlHqgJSZKmGG-1">
+          <mxGeometry x="1160" y="280" width="200" height="38" as="geometry"/>
+        </mxCell>
+        <mxCell id="1gL8lv3WNlHqgJSZKmGG-11" value="Component Template" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=16;align=center;" vertex="1" parent="1gL8lv3WNlHqgJSZKmGG-1">
+          <mxGeometry x="510" y="280" width="200" height="38" as="geometry"/>
+        </mxCell>
+        <mxCell id="1gL8lv3WNlHqgJSZKmGG-12" value="" style="endArrow=none;html=1;fontSize=21;" edge="1" parent="1gL8lv3WNlHqgJSZKmGG-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="420" as="sourcePoint"/>
+            <mxPoint x="1380" y="420" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1gL8lv3WNlHqgJSZKmGG-13" value="Contains the HTML that gets displayed to a user" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontSize=15;fontStyle=0" vertex="1" parent="1gL8lv3WNlHqgJSZKmGG-1">
+          <mxGeometry x="735" y="284" width="380" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="1gL8lv3WNlHqgJSZKmGG-14" value="&lt;span style=&quot;font-style: normal; font-size: 28px;&quot;&gt;Angular Terminology Cheat Sheet&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontSize=28;fontStyle=3" vertex="1" parent="1gL8lv3WNlHqgJSZKmGG-1">
+          <mxGeometry x="665" y="180" width="510" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="1gL8lv3WNlHqgJSZKmGG-15" value="&lt;span style=&quot;font-style: normal&quot;&gt;Example&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontSize=21;fontStyle=3" vertex="1" parent="1gL8lv3WNlHqgJSZKmGG-1">
+          <mxGeometry x="1190" y="220" width="140" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="1gL8lv3WNlHqgJSZKmGG-17" value="&amp;lt;button [disabled]=&quot;length&quot;&amp;gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; Submit&lt;br style=&quot;font-size: 12px;&quot;&gt;&amp;lt;/button&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=12;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1gL8lv3WNlHqgJSZKmGG-1">
+          <mxGeometry x="1160" y="427" width="200" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="1gL8lv3WNlHqgJSZKmGG-18" value="Property Binding" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=16;align=center;" vertex="1" parent="1gL8lv3WNlHqgJSZKmGG-1">
+          <mxGeometry x="510" y="438" width="200" height="38" as="geometry"/>
+        </mxCell>
+        <mxCell id="1gL8lv3WNlHqgJSZKmGG-19" value="" style="endArrow=none;html=1;fontSize=21;" edge="1" parent="1gL8lv3WNlHqgJSZKmGG-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="420" as="sourcePoint"/>
+            <mxPoint x="1380" y="420" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1gL8lv3WNlHqgJSZKmGG-20" value="Sets a property on an HTML element.&amp;nbsp; Everything in the double quotes is code!&amp;nbsp; Can access any property/method from our component class instance" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontSize=15;fontStyle=0" vertex="1" parent="1gL8lv3WNlHqgJSZKmGG-1">
+          <mxGeometry x="750" y="442" width="355" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="1gL8lv3WNlHqgJSZKmGG-21" value="" style="endArrow=none;html=1;fontSize=21;" edge="1" parent="1gL8lv3WNlHqgJSZKmGG-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="500" as="sourcePoint"/>
+            <mxPoint x="1380" y="500" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1gL8lv3WNlHqgJSZKmGG-22" value="" style="endArrow=none;html=1;fontSize=21;" edge="1" parent="1gL8lv3WNlHqgJSZKmGG-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="500" as="sourcePoint"/>
+            <mxPoint x="1380" y="500" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1gL8lv3WNlHqgJSZKmGG-24" value="Event Binding" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=16;align=center;" vertex="1" parent="1gL8lv3WNlHqgJSZKmGG-1">
+          <mxGeometry x="510" y="518" width="200" height="38" as="geometry"/>
+        </mxCell>
+        <mxCell id="1gL8lv3WNlHqgJSZKmGG-25" value="" style="endArrow=none;html=1;fontSize=21;" edge="1" parent="1gL8lv3WNlHqgJSZKmGG-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="500" as="sourcePoint"/>
+            <mxPoint x="1380" y="500" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1gL8lv3WNlHqgJSZKmGG-26" value="Sets up an event handler on an HTML element.&amp;nbsp; Everything in the double quotes is code!&amp;nbsp; Can call any method on the component class instance." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontSize=15;fontStyle=0" vertex="1" parent="1gL8lv3WNlHqgJSZKmGG-1">
+          <mxGeometry x="750" y="522" width="355" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="1gL8lv3WNlHqgJSZKmGG-27" value="" style="endArrow=none;html=1;fontSize=21;" edge="1" parent="1gL8lv3WNlHqgJSZKmGG-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="580" as="sourcePoint"/>
+            <mxPoint x="1380" y="580" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1gL8lv3WNlHqgJSZKmGG-28" value="" style="endArrow=none;html=1;fontSize=21;" edge="1" parent="1gL8lv3WNlHqgJSZKmGG-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="580" as="sourcePoint"/>
+            <mxPoint x="1380" y="580" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1gL8lv3WNlHqgJSZKmGG-30" value="Interpolation" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=16;align=center;" vertex="1" parent="1gL8lv3WNlHqgJSZKmGG-1">
+          <mxGeometry x="510" y="598" width="200" height="38" as="geometry"/>
+        </mxCell>
+        <mxCell id="1gL8lv3WNlHqgJSZKmGG-31" value="" style="endArrow=none;html=1;fontSize=21;" edge="1" parent="1gL8lv3WNlHqgJSZKmGG-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="580" as="sourcePoint"/>
+            <mxPoint x="1380" y="580" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1gL8lv3WNlHqgJSZKmGG-32" value="Prints out information in a template.&amp;nbsp; Can access any property/method from our component class instance" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontSize=15;fontStyle=0" vertex="1" parent="1gL8lv3WNlHqgJSZKmGG-1">
+          <mxGeometry x="750" y="602" width="355" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="1gL8lv3WNlHqgJSZKmGG-33" value="" style="endArrow=none;html=1;fontSize=21;" edge="1" parent="1gL8lv3WNlHqgJSZKmGG-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="660" as="sourcePoint"/>
+            <mxPoint x="1380" y="660" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1gL8lv3WNlHqgJSZKmGG-34" value="" style="endArrow=none;html=1;fontSize=21;" edge="1" parent="1gL8lv3WNlHqgJSZKmGG-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="660" as="sourcePoint"/>
+            <mxPoint x="1380" y="660" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1gL8lv3WNlHqgJSZKmGG-36" value="Structural Directive" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=16;align=center;" vertex="1" parent="1gL8lv3WNlHqgJSZKmGG-1">
+          <mxGeometry x="510" y="678" width="200" height="38" as="geometry"/>
+        </mxCell>
+        <mxCell id="1gL8lv3WNlHqgJSZKmGG-37" value="" style="endArrow=none;html=1;fontSize=21;" edge="1" parent="1gL8lv3WNlHqgJSZKmGG-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="660" as="sourcePoint"/>
+            <mxPoint x="1380" y="660" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1gL8lv3WNlHqgJSZKmGG-38" value="Changes the structure of HTML in our template.&amp;nbsp; Some structural directives are given to us by Angular, but we can also create our own" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontSize=15;fontStyle=0" vertex="1" parent="1gL8lv3WNlHqgJSZKmGG-1">
+          <mxGeometry x="750" y="682" width="355" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="1gL8lv3WNlHqgJSZKmGG-39" value="" style="endArrow=none;html=1;fontSize=21;" edge="1" parent="1gL8lv3WNlHqgJSZKmGG-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="740" as="sourcePoint"/>
+            <mxPoint x="1380" y="740" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1gL8lv3WNlHqgJSZKmGG-40" value="&amp;lt;button (click)=&quot;onButtonClick()&quot;&amp;gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; Submit&lt;br style=&quot;font-size: 12px;&quot;&gt;&amp;lt;/button&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=12;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1gL8lv3WNlHqgJSZKmGG-1">
+          <mxGeometry x="1160" y="510" width="200" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="1gL8lv3WNlHqgJSZKmGG-41" value="&amp;lt;div&amp;gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; Your password length is {{ length }}&amp;nbsp;&lt;br style=&quot;font-size: 12px;&quot;&gt;&amp;lt;/div&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=12;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1gL8lv3WNlHqgJSZKmGG-1">
+          <mxGeometry x="1159.5" y="587" width="200" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="1gL8lv3WNlHqgJSZKmGG-42" value="&amp;lt;div *ngIf=&quot;shouldShowSubmit()&quot;&amp;gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;lt;button&amp;gt;Submit&amp;lt;/button&amp;gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&amp;lt;/div&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=12;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1gL8lv3WNlHqgJSZKmGG-1">
+          <mxGeometry x="1160" y="667" width="200" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

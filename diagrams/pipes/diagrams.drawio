@@ -1,0 +1,84 @@
+<mxfile host="www.draw.io" modified="2020-01-01T16:58:33.639Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="tQ49HmiLNd8ijGeDhrEc" version="12.4.7" type="github" pages="2">
+  <diagram id="kb77SCrll2ZyydQfQ6Kl" name="01 - pipes">
+    <mxGraphModel dx="747" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="ep9HpAeXDQoowD_cF9Go-2" value="&lt;b style=&quot;font-size: 28px;&quot;&gt;Pipes&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="580" y="70" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="ep9HpAeXDQoowD_cF9Go-3" value="Functions that format data for use in a template" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="380" y="100" width="440" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="ep9HpAeXDQoowD_cF9Go-4" value="Only used in a template" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="380" y="150" width="440" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="ep9HpAeXDQoowD_cF9Go-6" value="Some pipes are built into Angular (angular.io/api?type=pipe)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="380" y="200" width="440" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="ep9HpAeXDQoowD_cF9Go-7" value="We can build our own pipes very easily" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="380" y="250" width="440" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="ep9HpAeXDQoowD_cF9Go-8" value="Like many other angular features, you don&#39;t &lt;i&gt;have&lt;/i&gt;&amp;nbsp;to use pipes, but they are recommended!" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="380" y="300" width="440" height="40" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="KGi9T4Q8RNbEGn1q199n" name="02 - app">
+    <mxGraphModel dx="996" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="bti4k-A7TdOmIwrWRgu_-0"/>
+        <mxCell id="bti4k-A7TdOmIwrWRgu_-1" parent="bti4k-A7TdOmIwrWRgu_-0"/>
+        <mxCell id="bti4k-A7TdOmIwrWRgu_-2" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;fontSize=14;" vertex="1" parent="bti4k-A7TdOmIwrWRgu_-1">
+          <mxGeometry x="330" y="170" width="580" height="400" as="geometry"/>
+        </mxCell>
+        <mxCell id="bti4k-A7TdOmIwrWRgu_-3" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="bti4k-A7TdOmIwrWRgu_-2">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="bti4k-A7TdOmIwrWRgu_-4" value="https://www.draw.io" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="bti4k-A7TdOmIwrWRgu_-2">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="bti4k-A7TdOmIwrWRgu_-5" value="Payment Form" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontStyle=1" vertex="1" parent="bti4k-A7TdOmIwrWRgu_-2">
+          <mxGeometry x="80" y="120" width="180" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="bti4k-A7TdOmIwrWRgu_-6" value="Receiver Name" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="bti4k-A7TdOmIwrWRgu_-2">
+          <mxGeometry x="80" y="163" width="110" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="bti4k-A7TdOmIwrWRgu_-7" value="scarlet grider" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;align=left;" vertex="1" parent="bti4k-A7TdOmIwrWRgu_-2">
+          <mxGeometry x="80" y="190" width="200" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="bti4k-A7TdOmIwrWRgu_-8" value="Receiver Name" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="bti4k-A7TdOmIwrWRgu_-2">
+          <mxGeometry x="320" y="163" width="110" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="bti4k-A7TdOmIwrWRgu_-10" value="Scarlet Grider" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="bti4k-A7TdOmIwrWRgu_-2">
+          <mxGeometry x="320" y="190" width="110" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="bti4k-A7TdOmIwrWRgu_-11" value="Payment Date" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="bti4k-A7TdOmIwrWRgu_-2">
+          <mxGeometry x="80" y="240" width="110" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="bti4k-A7TdOmIwrWRgu_-12" value="12-12-1912" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;align=left;" vertex="1" parent="bti4k-A7TdOmIwrWRgu_-2">
+          <mxGeometry x="80" y="267" width="200" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="bti4k-A7TdOmIwrWRgu_-13" value="Receiver Name" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="bti4k-A7TdOmIwrWRgu_-2">
+          <mxGeometry x="320" y="240" width="110" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="bti4k-A7TdOmIwrWRgu_-14" value="December 12, 1912" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="bti4k-A7TdOmIwrWRgu_-2">
+          <mxGeometry x="320" y="267" width="180" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="bti4k-A7TdOmIwrWRgu_-15" value="Amount" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="bti4k-A7TdOmIwrWRgu_-2">
+          <mxGeometry x="80" y="320" width="110" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="bti4k-A7TdOmIwrWRgu_-16" value="20" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;align=left;" vertex="1" parent="bti4k-A7TdOmIwrWRgu_-2">
+          <mxGeometry x="80" y="347" width="200" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="bti4k-A7TdOmIwrWRgu_-17" value="Amount" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="bti4k-A7TdOmIwrWRgu_-2">
+          <mxGeometry x="320" y="320" width="110" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="bti4k-A7TdOmIwrWRgu_-18" value="$20.00" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="bti4k-A7TdOmIwrWRgu_-2">
+          <mxGeometry x="320" y="347" width="110" height="20" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
